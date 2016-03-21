@@ -12,7 +12,7 @@ base_production = 1
 trade_goods = cloth
 base_manpower = 1
 add_core = ROM
-#  # L'Université d'Avignon
+#  # L'UniversitÃ© d'Avignon
 discovered_by = eastern
 discovered_by = roman_group
 discovered_by = western
@@ -49,36 +49,8 @@ discovered_by = ottoman
 1271.8.25 = { owner = AVI controller = AVI add_core = AVI }
 1317.1.1 = { owner = PAP controller = PAP add_core = PAP }
 1334.12.4 = { owner = AVI controller = AVI remove_core = PAP }
-1349.1.1 = { owner = PAP controller = PAP add_core = PAP }
-1362.9.12 = { owner = AVI controller = AVI remove_core = PAP }
-1364.1.1 = { fort_15th = yes } # La Palais des Papes finished, Large exception: Le Palais des Papes is super strong, and built on and beneath a natural rock formation
-1366.1.1 = { owner = PAP controller = PAP add_core = PAP }
-1367.1.1 = { owner = AVI controller = AVI remove_core = PAP }
 
-1417.10.18 = { owner = PAP controller = PAP add_core = PAP }
-1670.1.1 = { add_core = FRA } # Louis XIV wants to annex the city-state (Chambres de Réunion)
-1758.1.1 = { base_manpower = 5 }
-1791.9.14 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	remove_core = PAP
-} # Avignon is incorporated into France
-
-1792.1.1 = { base_manpower = 6 }
-1824.1.1 = { base_production = 4 }
-1858.1.1 = { base_manpower = 7 }
-1870.9.4   = {  owner = FR2
-		controller = FR2
-		add_core = FR2
-		remove_core = FRA
-	     } # Republic proclaimed
-1891.1.1 = { base_tax = 4 }
-1924.1.1 = { base_tax = 5 }
-1940.6.14  = { owner = FRV controller = FRV add_core = FRV } # Vichy France
-1944.8.25  = { owner = FR2 controller = FR2 remove_core = FRV } # France liberated by allied forces
-1958.1.1 = { base_tax = 6 }
-2000.1.1 = { base_production = 6 }
-
-
-
+#Black Death
+1347.10.1 = {	owner = XXX
+ 		controller = XXX
+   		citysize = 0 }
