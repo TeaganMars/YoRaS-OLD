@@ -1,0 +1,12 @@
+bookmark =
+{
+	name = "yoras_plague_start_NAME"
+	desc = "yoras_plague_start_DESC"
+	date = 1347.10.1
+	
+	center = 102
+	default = yes
+	
+	country = ENG
+	country = FRA
+}
