@@ -1,0 +1,55 @@
+#598 - Pahang
+
+culture = malayan
+religion = hinduism
+capital = "Pahang"
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostileness = 5
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = early_indian
+discovered_by = indian
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+
+770.1.1 = { owner = SRI controller = SRI add_core = SRI is_city = yes trade_goods = tropical_wood }
+1150.1.1 = { religion = sunni }
+1288.1.1 = { owner = SIN controller = SIN add_core = SIN remove_core = SRI }
+1293.1.1 = { owner = MAJ controller = MAJ add_core = MAJ remove_core = SIN }
+1389.1.1 = { owner = MLC controller = MLC add_core = MLC remove_core = MAJ }
+
+1516.1.1 = { discovered_by = POR }
+1528.1.1 = {
+		owner = JOH
+		controller = JOH
+		add_core = JOH
+}
+1751.1.1 = { base_tax = 3 base_production = 3 }
+1775.1.1 = { base_production = 4 base_manpower = 2 }
+
+1801.1.1 = { base_production = 5 base_manpower = 3 }
+1825.1.1 = { base_tax = 4 base_manpower = 5 }
+1851.1.1   = { capital = "Kuantan" }
+1852.1.1 = { base_tax = 5 base_manpower = 6 }
+1875.1.1 = { base_tax = 6 base_manpower = 7 }
+1885.1.1   = { owner = GBR controller = GBR add_core = GBR }
+1901.1.1 = { base_tax = 8 }
+1925.1.1 = { base_tax = 9 base_production = 6 base_manpower = 8 }
+1942.1.1   = { controller = JAP }
+1945.8.1   = { controller = GBR }
+1946.4.1   = { add_core = MSA remove_core = MLC }
+1951.1.1 = { base_tax = 10 base_production = 7 }
+1957.8.31  = { owner = MSA controller = MSA remove_core = GBR }
+1963.9.16  = { owner = MLA controller = MLA add_core = MLA remove_core = MSA }
+1975.1.1 = { base_tax = 12 }
+2000.1.1 = { base_production = 11 base_manpower = 10 }
+
+
+

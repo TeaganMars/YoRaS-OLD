@@ -1,0 +1,20 @@
+
+oil = {
+	color = { 0 0 0 }
+	modifier = {
+		naval_maintenance_modifier = -0.20
+	}
+	chance = {
+		factor = 0
+	}
+}
+
+dummy_trade_good = {
+	color = { 0 0 0 }
+	modifier = {
+		stability_cost_modifier = -0.10
+	}
+	chance = {
+		factor = 0
+	}
+}

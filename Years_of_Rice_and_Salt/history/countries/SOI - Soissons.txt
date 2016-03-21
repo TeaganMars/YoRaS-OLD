@@ -1,0 +1,34 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -3
+#quality_quantity = -3
+#serfdom_freesubjects = -2
+primary_culture = roman
+religion = chalcedonism
+technology_group = roman_group
+capital = 183
+
+
+461.11.1 = {
+	monarch = {
+		name = "Aegidius"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+465.1.1 = {
+	monarch = {
+		name = "Syagrius"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+

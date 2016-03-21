@@ -1,0 +1,56 @@
+government = administrative_republic
+#aristocracy_plutocracy = 2
+#centralization_decentralization = -3
+#innovative_narrowminded = -2
+#mercantilism_freetrade = 3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -3
+#quality_quantity = 0
+#serfdom_freesubjects = 3
+primary_culture = czech
+religion = catholic
+capital = 266	# Praha
+technology_group = western
+
+1910.1.1 = { religion = secularism }
+1939.1.1  = { government = parliamentary_republic }
+
+1992.12.31 = {
+	monarch = {
+		name = "Václav Klaus"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1993.2.2 = {
+	government = presidental_republic
+	monarch = {
+		name = "Václav Havel"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+2003.2.2 = {
+	monarch = {
+		name = "Václav Klaus"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+2004.5.1 = { decision = join_european_union }
+
+2013.3.8 = {
+	monarch = {
+		name = "Milos Zeman"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}

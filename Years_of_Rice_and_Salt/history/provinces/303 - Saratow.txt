@@ -1,0 +1,52 @@
+#303 - Saratov
+    
+culture = bulgarian
+religion = tengri_pagan_reformed
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown    
+base_manpower = 1
+capital = "Saratow"
+discovered_by = SIB
+discovered_by = KAZ
+discovered_by = NOG
+discovered_by = GOL
+discovered_by = western_nomad_group
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+
+660.1.1 = { owner = VBU controller = VBU add_core = VBU is_city = yes trade_goods = grain }
+800.1.1 = { discovered_by = eastern }
+900.1.1 = { base_tax = 2 base_production = 2 }
+922.1.1 = { religion = sunni }
+1000.1.1 = { base_manpower = 2 }
+1100.1.1 = { base_tax = 3 base_production = 3 }
+1200.1.1 = { base_manpower = 3 discovered_by = western }
+1236.1.1 = { owner = MGE controller = MGE add_core = MGE }
+1250.1.1 = { culture = mishary }
+1260.1.1 = { owner = GOL controller = GOL add_core = GOL remove_core = MGE remove_core = VBU }
+
+1438.1.1  = { add_core = KAZ }
+1502.6.1  = { owner = KAZ controller = KAZ remove_core = GOL } # Golden Horde destroyed by Crimea, Kazan acquires area
+1552.10.2  = { owner = RUS controller = RUS add_core = RUS remove_core = KAZ } # Russian conquest of Kazan
+1590.7.12  = { capital = "Saratov" } # Construction of the Saratow fortress 
+1600.1.1  = { culture = russian religion = orthodox }
+1670.3.1   = { revolt = { type = anti_tax_rebels size = 2 name = "Stepan Razin" } controller = REB unrest = 6 } # Razin rebellion
+1671.4.14   = { revolt = { } controller = RUS unrest = 0 } # Razin captured
+1758.1.1 = { base_production = 4 }
+1773.9.13  = { revolt = { type = anti_tax_rebels size = 2 name = "Yemelyan Pugachev" } controller = REB unrest = 6 } # Pugachev rebellion
+1775.2.1 = { revolt = {} controller = RUS unrest = 0 } # Pugachev is captured
+1791.1.1 = { base_manpower = 4 }
+
+1824.1.1 = { base_manpower = 5 }
+1858.1.1 = { base_manpower = 6 }
+1891.1.1 = { base_production = 5 }
+1922.12.30 = { owner = SOV controller = SOV add_core = SOV }
+1924.1.1 = { base_tax = 4 }
+1958.1.1 = { base_production = 6 }
+1991.12.25 = { owner = RUS controller = RUS remove_core = SOV }
+2000.1.1 = { base_tax = 6 }
+
+
+

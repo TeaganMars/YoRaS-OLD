@@ -1,0 +1,9 @@
+#1551 - Manzazilla Bay
+
+discovered_by = MAY
+discovered_by = ZAP
+discovered_by = AZT
+1521.1.1 = { discovered_by = SPA }
+
+
+

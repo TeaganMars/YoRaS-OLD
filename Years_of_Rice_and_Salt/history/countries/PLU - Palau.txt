@@ -1,0 +1,52 @@
+government = constitutional_republic
+#aristocracy_plutocracy = 2
+#centralization_decentralization = -2
+#innovative_narrowminded = 0
+#mercantilism_freetrade = 2
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 3
+#quality_quantity = -2
+#serfdom_freesubjects = 1
+technology_group = western
+primary_culture = english
+religion = protestant
+capital = 1999
+
+1910.1.1 = { religion = secularism }
+
+1994.5.25 = {
+	monarch = {
+		name = "Kuniwo Nakamura"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+2001.1.1 = {
+	monarch = {
+		name = "Thomas Remengesau"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2009.1.15 = {
+	monarch = {
+		name = "Johnson Toribiong"
+		adm = 2
+		mil = 4
+		dip = 5
+	}
+}
+
+2013.1.17 = {
+	monarch = {
+		name = "Thomas Remengesau"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}

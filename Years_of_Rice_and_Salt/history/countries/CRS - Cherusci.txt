@@ -1,0 +1,68 @@
+government = barbarian_tribe
+mercantilism = 0.1
+primary_culture = hessian
+religion = germanic
+technology_group = barbarian
+capital = 265
+
+2.1.1 = {
+	monarch = {
+		name = "Sigimer"
+		dynasty = "Cherusci"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+9.1.1 = {
+	monarch = {
+		name = "Arminius"
+		dynasty = "Cherusci"
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+}
+
+21.1.1 = {
+	monarch = {
+		name = "(regency council)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+47.1.1 = {
+	monarch = {
+		name = "Italicus"
+		dynasty = "Cherusci"
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}
+
+80.1.1 = {
+	monarch = {
+		name = "Chariomerus"
+		dynasty = "Cherusci"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+160.1.1 = {
+	monarch = {
+		name = "(regency council)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+600.1.1 = { government = feudal_monarchy technology_group = western }

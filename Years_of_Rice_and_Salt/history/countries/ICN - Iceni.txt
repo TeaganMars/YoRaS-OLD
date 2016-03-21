@@ -1,0 +1,16 @@
+government = barbarian_tribe
+mercantilism = 0.1
+technology_group = barbarian
+primary_culture = briton
+religion = druidism
+capital = 1860
+
+2.1.1 = {
+	monarch = {
+		name = "Prasutagus"
+		dynasty = "Iceni"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

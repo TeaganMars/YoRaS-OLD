@@ -1,0 +1,262 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = bosniak
+religion = orthodox
+technology_group = eastern
+capital = 3117	# Sarajevo
+
+1900.1.1 = { technology_group = western }
+1910.1.1 = { religion = secularism }
+1945.1.1 = { government = parliamentary_republic }
+
+1992.3.1 = {
+	monarch = {
+		name = "Alija Izetbegovic"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1998.10.13 = {
+	monarch = {
+		name = "Zivko Radisic"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1999.6.15 = {
+	monarch = {
+		name = "Ante Jelavic"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+2000.2.14 = {
+	monarch = {
+		name = "Alija Izetbegovic"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+2000.10.14 = {
+	monarch = {
+		name = "Zivko Radisic"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+2001.6.14 = {
+	monarch = {
+		name = "Jozo Krizanovic"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+2002.2.14 = {
+	monarch = {
+		name = "Beriz Belkic"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+2002.10.28 = {
+	monarch = {
+		name = "Mirko Sarovic"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+2003.4.2 = {
+	monarch = {
+		name = "Dragan Covic"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+2003.4.10 = {
+	monarch = {
+		name = "Borislav Paravac"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+2003.6.27 = {
+	monarch = {
+		name = "Dragan Covic"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+2004.2.28 = {
+	monarch = {
+		name = "Sulejman Tihic"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+2004.10.28 = {
+	monarch = {
+		name = "Borislav Paravac"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+2005.6.28 = {
+	monarch = {
+		name = "Ivo Miro Jovic"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+2006.2.28 = {
+	monarch = {
+		name = "Sulejman Tihic"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+2006.11.6 = {
+	monarch = {
+		name = "Nebojsa Radmanovic"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+2007.7.6 = {
+	monarch = {
+		name = "Zeljko Komsic"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+2008.3.6 = {
+	monarch = {
+		name = "Haris Silajdzic"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+2008.11.6 = {
+	monarch = {
+		name = "Nebojsa Radmanovic"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+2009.7.6 = {
+	monarch = {
+		name = "Zeljko Komsic"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+2010.3.6 = {
+	monarch = {
+		name = "Haris Silajdzic"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+2010.11.10 = {
+	monarch = {
+		name = "Nebojsa Radmanovic"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+2011.7.10 = {
+	monarch = {
+		name = "Zeljko Komsic"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+2012.3.10 = {
+	monarch = {
+		name = "Bakir Izetbegovic"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+2012.11.12 = {
+	monarch = {
+		name = "Nebojsa Radmanovic"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+2013.7.10 = {
+	monarch = {
+		name = "Zeljko Komsic"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+2014.3.10 = {
+	monarch = {
+		name = "Bakir Izetbegovic"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+2014.11.17 = {
+	monarch = {
+		name = "Mladen Ivanic"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}

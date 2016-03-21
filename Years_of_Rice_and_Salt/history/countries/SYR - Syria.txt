@@ -1,0 +1,262 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = al_suryah_arabic
+religion = sunni
+technology_group = middle_eastern
+capital = 377	# Aleppo
+
+627.1.1 = { technology_group = muslim religion = shiite }
+
+945.1.1 = {
+	monarch = {
+		name = "Sayd al-Dawla"
+		dynasty = "Hamdanid"
+		birth_date = 916.6.22
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+952.1.1 = {
+	heir = {
+		name = "Sa'd al-Dawla"
+		monarch_name = "Sa'd al-Dawla"
+		dynasty = "Hamdanid"
+		birth_date = 952.1.1
+		death_date = 991.12.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+}
+
+967.2.6 = {
+	monarch = {
+		name = "Sa'd al-Dawla"
+		dynasty = "Hamdanid"
+		birth_date = 952.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+}
+
+967.2.6 = {
+	heir = {
+		name = "Sa'id al-Dawla"
+		monarch_name = "Sa'id al-Dawla"
+		dynasty = "Hamdanid"
+		birth_date = 961.1.1
+		death_date = 1002.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+991.12.1 = {
+	monarch = {
+		name = "Sa'id al-Dawla"
+		dynasty = "Hamdanid"
+		birth_date = 961.1.1
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+1002.1.1 = { capital = 382 }	# Damascus
+1004.1.1 = { religion = sunni }
+
+1920.3.8 = {
+	monarch = {
+		name = "Faisal I"
+		dynasty = "Hashemite"
+		birth_date = 1885.5.20
+		adm = 3
+		dip = 2
+		mil = 2
+		
+	}
+}
+
+1922.6.28 = { government = constitutional_republic }
+
+1946.4.17 = {
+	monarch = {
+		name = "Shukri al-Quwatli"
+		birth_date = 1891.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+1949.3.30 = {
+	monarch = {
+		name = "Husni al-Za'im"
+		birth_date = 1946.1.1
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}
+
+1949.8.15 = {
+	monarch = {
+		name = "Hashim al-Atassi"
+		birth_date = 1875.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+
+1951.12.3 = {
+	monarch = {
+		name = "Fawzi Selu"
+		birth_date = 1905.1.1
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+}
+
+1953.7.11 = {
+	monarch = {
+		name = "Adib Shishakli"
+		birth_date = 1909.1.1
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+}
+
+1954.2.28 = {
+	monarch = {
+		name = "Hashim al-Atassi"
+		birth_date = 1875.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+
+1955.9.6 = {
+	monarch = {
+		name = "Shukri al-Quwatli"
+		birth_date = 1891.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+1961.9.28 = { capital = 382 }
+
+1961.9.28 = {
+	monarch = {
+		name = "Maamun al-Kubzari"
+		birth_date = 1914.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1961.11.20 = {
+	monarch = {
+		name = "Izzat al-Nuss"
+		birth_date = 1900.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1961.12.14 = {
+	monarch = {
+		name = "Nazim al-Kudsi"
+		birth_date = 1906.2.14
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+
+1963.3.8 = {
+	government = socialist_republic
+	monarch = {
+		name = "Lu'ay al-Atassi"
+		birth_date = 1926.1.1
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1963.7.27 = {
+	monarch = {
+		name = "Amin al-Hafiz"
+		birth_date = 1921.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1966.2.25 = {
+	monarch = {
+		name = "Nureddin al-Atassi"
+		birth_date = 1929.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1970.11.18 = {
+	monarch = {
+		name = "Ahmad al-Khatib"
+		birth_date = 1933.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1971.2.22 = {
+	religion = shiite
+	monarch = {
+		name = "Hafez al-Assad"
+		birth_date = 1930.10.6
+		adm = 4
+		dip = 0
+		mil = 5
+	}
+}
+
+2000.6.10 = {
+	monarch = {
+		name = "Abdul Halim Khaddam"
+		birth_date = 1932.9.15
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+}
+
+2000.7.17 = {
+	monarch = {
+		name = "Bashar al-Assad"
+		birth_date = 1965.9.11
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+2012.1.1 = { religion = secularism }

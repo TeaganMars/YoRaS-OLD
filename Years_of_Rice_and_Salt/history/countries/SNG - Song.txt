@@ -1,0 +1,190 @@
+government = celestial_empire
+government_rank = 3
+mercantilism = 0.1
+technology_group = early_chinese
+religion = confucianism
+primary_culture = chihan
+capital = 688	# Kaifeng
+
+750.1.1 = { technology_group = chinese }
+
+971.1.1 = {
+	monarch = {
+		name = "Taizu"
+		dynasty = "Song"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+976.11.14 = {
+	monarch = {
+		name = "Taizong"
+		dynasty = "Song"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+997.5.8 = {
+	monarch = {
+		name = "Zhenzong"
+		dynasty = "Song"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1022.3.23 = {
+	monarch = {
+		name = "Renzong"
+		dynasty = "Song"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1063.4.30 = {
+	monarch = {
+		name = "Yingzong"
+		dynasty = "Song"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1067.1.25 = {
+	monarch = {
+		name = "Shenzong"
+		dynasty = "Song"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1085.4.1 = {
+	monarch = {
+		name = "Zhezong"
+		dynasty = "Song"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1100.2.23 = {
+	monarch = {
+		name = "Huizong"
+		dynasty = "Song"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1126.1.18 = {
+	monarch = {
+		name = "Qinzong"
+		dynasty = "Song"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1127.1.9 = {
+	monarch = {
+		name = "Gaozong"
+		dynasty = "Song"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+
+1162.7.24 = {
+	monarch = {
+		name = "Xiaozong"
+		dynasty = "Song"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1189.2.18 = {
+	monarch = {
+		name = "Guangzong"
+		dynasty = "Song"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1194.7.24 = {
+	monarch = {
+		name = "Ningzong"
+		dynasty = "Song"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1224.9.17 = {
+	monarch = {
+		name = "Lizong"
+		dynasty = "Song"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1264.11.16 = {
+	monarch = {
+		name = "Duzong"
+		dynasty = "Song"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1274.8.12 = {
+	monarch = {
+		name = "Gong"
+		dynasty = "Song"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1276.6.14 = {
+	monarch = {
+		name = "Duanzong"
+		dynasty = "Song"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1278.5.10 = {
+	monarch = {
+		name = "Bing"
+		dynasty = "Song"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}

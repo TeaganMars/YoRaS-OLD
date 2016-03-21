@@ -1,0 +1,255 @@
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+primary_culture = kanauji
+religion = hinduism
+technology_group = early_indian
+capital = 525	# Gwalior
+
+#Tomar Rajputs
+
+750.1.1 = { technology_group = indian }
+
+1438.1.1 = {
+	monarch = {
+		name = "Beersingh Deo"
+		dynasty = "Tomar"
+		dip = 1
+		mil = 3
+		adm = 2
+	}
+}
+
+1438.1.1 = {
+	heir = {
+		name = "Man Singh"
+		monarch_name = "Man Singh"
+		dynasty = "Tomar"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		claim = 95
+		dip = 2
+		mil = 3
+		adm = 1
+	}
+}
+
+1486.1.1 = {
+	monarch = {
+		name = "Man Singh"
+		dynasty = "Tomar"
+		dip = 2
+		mil = 3
+		adm = 1
+	}
+}
+
+#Sindhias
+
+1731.1.1 = {
+	monarch = {
+		name = "Ranojirao"
+		dynasty = "Sindhia"
+		dip = 4
+		mil = 5
+		adm = 2
+	}
+	primary_culture = marathi
+}
+
+1731.1.1 = {
+	heir = {
+		name = "Jayapparao"
+		monarch_name = "Jayapparao"
+		dynasty = "Sindhia"
+		birth_date = 1701.1.1
+		death_date = 1755.6.25
+		claim = 95
+		dip = 3
+		mil = 5
+		adm = 2
+	}
+}
+
+1745.6.19 = {
+	monarch = {
+		name = "Jayapparao"
+		dynasty = "Sindhia"
+		dip = 3
+		mil = 5
+		adm = 2
+	}
+}
+
+1745.6.19 = {
+	heir = {
+		name = "Jankijirao"
+		monarch_name = "Jankijirao I"
+		dynasty = "Sindhia"
+		birth_date = 1745.1.1
+		death_date = 1761.1.15
+		claim = 95
+		dip = 1
+		mil = 4
+		adm = 3
+	}
+}
+
+1755.6.25 = {
+	monarch = {
+		name = "Jankijirao I"
+		dynasty = "Sindhia"
+		dip = 1
+		mil = 4
+		adm = 3
+	}
+}
+
+1755.6.25 = {
+	heir = {
+		name = "Madhavrao"
+		monarch_name = "Madhavrao I"
+		dynasty = "Sindhia"
+		birth_date = 1727.1.1
+		death_date = 1794.2.12
+		claim = 95
+		dip = 3
+		mil = 5
+		adm = 3
+	}
+}
+
+1761.1.15 = {
+	monarch = {
+		name = "Madhavrao I"
+		dynasty = "Sindhia"
+		dip = 3
+		mil = 5
+		adm = 3
+	}
+}
+
+1761.1.15 = {
+	heir = {
+		name = "Daulatrao"
+		monarch_name = "Daulatrao I"
+		dynasty = "Sindhia"
+		birth_date = 1779.1.1
+		death_date = 1827.1.20
+		claim = 95
+		dip = 3
+		mil = 4
+		adm = 3
+	}
+}
+
+1794.2.12 = {
+	monarch = {
+		name = "Daulatrao I"
+		dynasty = "Sindhia"
+		birth_date = 1779.1.1
+		dip = 3
+		mil = 4
+		adm = 3
+	}
+}
+
+1805.1.1 = {
+	heir = {
+		name = "Jankojirao"
+		monarch_name = "Jankojirao II"
+		dynasty = "Sindhia"
+		birth_date = 1805.1.1
+		death_date = 1843.2.7
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+}
+
+1827.3.21 = {
+	monarch = {
+		name = "Jankojirao II"
+		dynasty = "Sindhia"
+		birth_date = 1805.1.1
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+}
+
+1835.1.1 = {
+	heir = {
+		name = "Jayajirao"
+		monarch_name = "Jayajirao"
+		dynasty = "Sindhia"
+		birth_date = 1835.1.1
+		death_date = 1886.6.20
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+1843.2.7 = {
+	monarch = {
+		name = "Jayajirao"
+		dynasty = "Sindhia"
+		birth_date = 1835.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+1876.1.1 = {
+	heir = {
+		name = "Madhavrao"
+		monarch_name = "Madhavrao II"
+		dynasty = "Sindhia"
+		birth_date = 1876.1.1
+		death_date = 1925.6.5
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+1886.6.20 = {
+	monarch = {
+		name = "Madhavrao II"
+		dynasty = "Sindhia"
+		birth_date = 1876.1.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+1916.1.1 = {
+	heir = {
+		name = "George Jivaji Rao"
+		monarch_name = "George Jivaji Rao"
+		dynasty = "Sindhia"
+		birth_date = 1916.1.1
+		death_date = 1961.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+1925.6.5 = {
+	monarch = {
+		name = "George Jivaji Rao"
+		dynasty = "Sindhia"
+		birth_date = 1916.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}

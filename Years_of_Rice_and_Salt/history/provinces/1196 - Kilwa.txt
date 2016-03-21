@@ -1,0 +1,61 @@
+#1196 - Kilwa
+
+culture = swahili
+religion = african
+capital = "Kilwa Kisiwani"
+base_manpower = 2
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+native_size = 40
+native_ferocity = 4.5
+native_hostileness = 9 
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = AJU
+discovered_by = MBA
+discovered_by = MDI
+discovered_by = MLI
+discovered_by = SFA
+discovered_by = ZIM
+
+900.1.1 = { 	discovered_by = early_indian
+discovered_by = indian
+		discovered_by = muslim
+		discovered_by = ottoman
+		religion = sunni 
+		owner = ZAN 
+		controller = ZAN 
+		add_core = ZAN 
+		is_city = yes 
+		trade_goods = gold 
+	   }
+
+1498.3.2  = { discovered_by = POR } # Vasco Da Gama
+1501.1.1  = { unrest = 3 } # Portuguese visit, brief skirmish with sultans
+#1505.7.15 = { owner = POR controller = POR citysize = 10000 unrest = 4 } # Portuguese seize control
+#1506.1.1  = { unrest = 8 } # Uprising against the Portuguese puppet-sultan of Kilwa
+#1513.1.1  = { owner = ZAN controller = ZAN citysize = 6000 trade_goods = ivory  } # Portuguese abandon Kilwa
+1513.1.1 = { trade_goods = ivory citysize = 6000 }
+# 1515.1.1 - Portuguese reestablish trade post, without direct control
+1587.1.1  = { unrest = 8 } # Cannibal Zimba invade Kilwa, sack town
+1588.1.1  = { unrest = 0 citysize = 3000 } # Zimba leave, Kilwa slowly recovers
+1600.1.1  = { discovered_by = TUR }
+1710.1.1  = { owner = OMA controller = OMA add_core = OMA } # Omanis impose direct rule in Kilwa
+1726.1.1  = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Omanis driven out of Kilwa
+1730.1.1  = { revolt = {} controller = OMA } # Omanis restore control
+1751.1.1  = { owner = MBA controller = MBA add_core = MBA remove_core = OMA } # Kilwa governors reject authority of Bu Sa'id Sultans
+1760.1.1  = { trade_goods = slaves } # Rise of slave trade with Mauritius and Reunion
+1785.1.1  = { owner = OMA controller = OMA add_core = OMA } # Oman takes over
+
+1856.10.19 = { owner = ZZB controller = ZZB add_core = ZZB remove_core = OMA remove_core = MBA }
+1885.2.27  = { owner = GER controller = GER add_core = GER remove_core = ZZB trade_goods = gold }
+1919.6.28  = { owner = GBR controller = GBR add_core = GBR remove_core = GER }
+1940.1.1   = { capital = "Kilwa Masoko" base_tax = 2 base_production = 2 }
+1961.12.9  = { owner = TNZ controller = TNZ add_core = TNZ remove_core = GBR remove_core = ZAN }
+
+
+

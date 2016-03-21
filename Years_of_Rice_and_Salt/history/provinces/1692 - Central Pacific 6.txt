@@ -1,0 +1,6 @@
+#1692 - Midway Island
+
+1555.1.1 = { discovered_by = SPA }
+
+
+

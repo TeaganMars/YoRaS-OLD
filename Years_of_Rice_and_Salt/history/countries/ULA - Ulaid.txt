@@ -1,0 +1,1152 @@
+government = barbarian_tribe
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = 1
+#quality_quantity = -1
+#serfdom_freesubjects = -2
+technology_group = barbarian
+primary_culture = irish
+religion = druidism
+capital = 372	# Ulster
+
+40.1.1 = {
+	monarch = {
+		name = "Eochaid"
+		dynasty = "Ulster"
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+}
+
+40.1.1 = {
+	heir = {
+		name = "Fergus"
+		monarch_name = "Fergus"
+		dynasty = "Ulster"
+		birth_date = 30.1.1
+		death_date = 80.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+}
+
+60.1.1 = {
+	monarch = {
+		name = "Fergus"
+		dynasty = "Ulster"
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+}
+
+60.1.1 = {
+	heir = {
+		name = "Conchobar"
+		monarch_name = "Conchobar"
+		dynasty = "Ulster"
+		birth_date = 50.1.1
+		death_date = 100.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+}
+
+80.1.1 = {
+	monarch = {
+		name = "Conchobar"
+		dynasty = "Ulster"
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+}
+
+80.1.1 = {
+	heir = {
+		name = "Cúscraid"
+		monarch_name = "Cúscraid"
+		dynasty = "Ulster"
+		birth_date = 70.1.1
+		death_date = 120.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+100.1.1 = {
+	monarch = {
+		name = "Cúscraid"
+		dynasty = "Ulster"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+100.1.1 = {
+	heir = {
+		name = "Fíatach"
+		monarch_name = "Fíatach"
+		dynasty = "Ulster"
+		birth_date = 90.1.1
+		death_date = 140.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+120.1.1 = {
+	monarch = {
+		name = "Fíatach"
+		dynasty = "Ulster"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+120.1.1 = {
+	heir = {
+		name = "Éllim"
+		monarch_name = "Éllim"
+		dynasty = "Ulster"
+		birth_date = 110.1.1
+		death_date = 160.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+140.1.1 = {
+	monarch = {
+		name = "Éllim"
+		dynasty = "Ulster"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+140.1.1 = {
+	heir = {
+		name = "Mal"
+		monarch_name = "Mal"
+		dynasty = "Ulster"
+		birth_date = 130.1.1
+		death_date = 180.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+160.1.1 = {
+	monarch = {
+		name = "Mal"
+		dynasty = "Ulster"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+160.1.1 = {
+	heir = {
+		name = "Tipraiti Tireach"
+		monarch_name = "Tipraiti Tireach"
+		dynasty = "Ulster"
+		birth_date = 150.1.1
+		death_date = 200.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+180.1.1 = {
+	monarch = {
+		name = "Tipraiti Tireach"
+		dynasty = "Ulster"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+180.1.1 = {
+	heir = {
+		name = "Áengus Goibnenn"
+		monarch_name = "Áengus Goibnenn"
+		dynasty = "Ulster"
+		birth_date = 170.1.1
+		death_date = 220.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+
+200.1.1 = {
+	monarch = {
+		name = "Áengus Goibnenn"
+		dynasty = "Ulster"
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+
+200.1.1 = {
+	heir = {
+		name = "Fergus Dubdétach"
+		monarch_name = "Fergus Dubdétach"
+		dynasty = "Ulster"
+		birth_date = 190.1.1
+		death_date = 240.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+220.1.1 = {
+	monarch = {
+		name = "Fergus Dubdétach"
+		dynasty = "Ulster"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+220.1.1 = {
+	heir = {
+		name = "Aengus Finn"
+		monarch_name = "Aengus Finn"
+		dynasty = "Ulster"
+		birth_date = 210.1.1
+		death_date = 260.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+240.1.1 = {
+	monarch = {
+		name = "Aengus Finn"
+		dynasty = "Ulster"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+240.1.1 = {
+	heir = {
+		name = "Lugaid Lorc"
+		monarch_name = "Lugaid Lorc"
+		dynasty = "Ulster"
+		birth_date = 230.1.1
+		death_date = 280.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+260.1.1 = {
+	monarch = {
+		name = "Lugaid Lorc"
+		dynasty = "Ulster"
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+260.1.1 = {
+	heir = {
+		name = "Dub"
+		monarch_name = "Dub"
+		dynasty = "Ulster"
+		birth_date = 250.1.1
+		death_date = 300.1.1
+		claim = 95
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+}
+
+280.1.1 = {
+	monarch = {
+		name = "Dub"
+		dynasty = "Ulster"
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+}
+
+280.1.1 = {
+	heir = {
+		name = "Fiachu Araide"
+		monarch_name = "Fiachu Araide"
+		dynasty = "Ulster"
+		birth_date = 270.1.1
+		death_date = 320.1.1
+		claim = 95
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+}
+
+300.1.1 = {
+	monarch = {
+		name = "Fiachu Araide"
+		dynasty = "Ulster"
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+}
+
+300.1.1 = {
+	heir = {
+		name = "Fedlimid"
+		monarch_name = "Fedlimid"
+		dynasty = "Ulster"
+		birth_date = 290.1.1
+		death_date = 340.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+}
+
+320.1.1 = {
+	monarch = {
+		name = "Fedlimid"
+		dynasty = "Ulster"
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+}
+
+320.1.1 = {
+	heir = {
+		name = "Imchad"
+		monarch_name = "Imchad"
+		dynasty = "Ulster"
+		birth_date = 310.1.1
+		death_date = 360.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+340.1.1 = {
+	monarch = {
+		name = "Imchad"
+		dynasty = "Ulster"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+340.1.1 = {
+	heir = {
+		name = "Ros"
+		monarch_name = "Ros"
+		dynasty = "Ulster"
+		birth_date = 330.1.1
+		death_date = 380.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+360.1.1 = {
+	monarch = {
+		name = "Ros"
+		dynasty = "Ulster"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+360.1.1 = {
+	heir = {
+		name = "Cronn Badrui"
+		monarch_name = "Cronn Badrui"
+		dynasty = "Ulster"
+		birth_date = 350.1.1
+		death_date = 400.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+380.1.1 = {
+	monarch = {
+		name = "Cronn Badrui"
+		dynasty = "Ulster"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+380.1.1 = {
+	heir = {
+		name = "Fergus Foga"
+		monarch_name = "Fergus Foga"
+		dynasty = "Ulster"
+		birth_date = 370.1.1
+		death_date = 420.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+400.1.1 = {
+	monarch = {
+		name = "Fergus Foga"
+		dynasty = "Ulster"
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+400.1.1 = {
+	heir = {
+		name = "Cáelbad"
+		monarch_name = "Cáelbad"
+		dynasty = "Ulster"
+		birth_date = 390.1.1
+		death_date = 440.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+420.1.1 = {
+	monarch = {
+		name = "Cáelbad"
+		dynasty = "Ulster"
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+420.1.1 = {
+	heir = {
+		name = "Saran"
+		monarch_name = "Saran"
+		dynasty = "Ulster"
+		birth_date = 410.1.1
+		death_date = 465.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+
+440.1.1 = {
+	monarch = {
+		name = "Saran"
+		dynasty = "Ulster"
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+
+450.1.1 = { government = feudal_monarchy government_rank = 1 }
+
+465.1.1 = {
+	monarch = {
+		name = "Muiredach Muinderg"
+		dynasty = "Ulaid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+489.1.1 = {
+	monarch = {
+		name = "Eochaid mac Muiredach Muinderg"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+509.1.1 = {
+	monarch = {
+		name = "Cairell mac Muiredach Muinderg"
+		dynasty = "Ulaid"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+532.1.1 = {
+	monarch = {
+		name = "Eochaid mac Condlai"
+		dynasty = "Ulaid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+536.1.1 = { technology_group = western }
+
+553.1.1 = {
+	monarch = {
+		name = "Fergnae mac Oenguso Ibdaig"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+557.1.1 = {
+	monarch = {
+		name = "Demmán mac Cairell"
+		dynasty = "Ulaid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+572.1.1 = {
+	monarch = {
+		name = "Báetán mac Cairill"
+		dynasty = "Ulaid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+581.1.1 = {
+	monarch = {
+		name = "Áed Dub mac Suibni"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+588.1.1 = {
+	monarch = {
+		name = "Fiachnae mac Sgánnail"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+626.1.1 = {
+	monarch = {
+		name = "Fiachnae mac Demmáin"
+		dynasty = "Ulaid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+627.1.1 = {
+	monarch = {
+		name = "Congal Cáech"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+637.1.1 = {
+	monarch = {
+		name = "Dúnchad mac Fiachnai"
+		dynasty = "Ulaid"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+644.1.1 = {
+	monarch = {
+		name = "Máel Cobo mac Fiachnai"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+647.1.1 = {
+	monarch = {
+		name = "Blathmac mac Máele Cobo"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+670.1.1 = {
+	monarch = {
+		name = "Congal Cennfota mac Dúnchada"
+		dynasty = "Ulaid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+674.1.1 = {
+	monarch = {
+		name = "Fergus mac Áedáin"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+692.1.1 = {
+	monarch = {
+		name = "Bécc Bairrche mac Blathmaic"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+700.1.1 = { religion = chalcedonism }
+
+707.1.1 = {
+	monarch = {
+		name = "Cú Chuarán mac Dúngal Eilni"
+		dynasty = "Ulaid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+708.1.1 = {
+	monarch = {
+		name = "Áed Róin mac Bécc Bairrche"
+		dynasty = "Ulaid"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+735.1.1 = {
+	monarch = {
+		name = "Cathussach mac Ailello"
+		dynasty = "Ulaid"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+749.1.1 = {
+	monarch = {
+		name = "Bressal mac Áedo Róin"
+		dynasty = "Ulaid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+750.1.1 = {
+	monarch = {
+		name = "Fiachnae mac Áedo Róin"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+789.1.1 = {
+	monarch = {
+		name = "Tommaltach mac Indrechtaig"
+		dynasty = "Ulaid"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+790.1.1 = {
+	monarch = {
+		name = "Eochaid mac Fiachnai"
+		dynasty = "Ulaid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+810.1.1 = {
+	monarch = {
+		name = "Cairell mac Fiachnai"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+819.1.1 = {
+	monarch = {
+		name = "Máel Bressail mac Ailillo"
+		dynasty = "Ulaid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+825.1.1 = {
+	monarch = {
+		name = "Muiredach mac Eochada"
+		dynasty = "Ulaid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+839.1.1 = {
+	monarch = {
+		name = "Matudán mac Muiredaig"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+857.1.1 = {
+	monarch = {
+		name = "Lethlobar mac Loingsig"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+867.1.1 = { religion = catholic }
+
+873.1.1 = {
+	monarch = {
+		name = "Ainbíth mac Áedo"
+		dynasty = "Ulaid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+882.1.1 = {
+	monarch = {
+		name = "Airemón mac Áedo"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+886.1.1 = {
+	monarch = {
+		name = "Bécc mac Airemóin"
+		dynasty = "Ulaid"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+893.1.1 = {
+	monarch = {
+		name = "Muiredach mac Eochocáin"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+896.1.1 = {
+	monarch = {
+		name = "Aitíth mac Laigni"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+898.1.1 = {
+	monarch = {
+		name = "Áed mac Eochocáin"
+		dynasty = "Ulaid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+919.1.1 = {
+	monarch = {
+		name = "Dubgall mac Áeda"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+925.1.1 = {
+	monarch = {
+		name = "Loingsech mac Cinn Etig"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+932.1.1 = {
+	monarch = {
+		name = "Eochaid mac Conaill"
+		dynasty = "Ulaid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+937.1.1 = {
+	monarch = {
+		name = "Matudán mac Áeda"
+		dynasty = "Ulaid"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+950.1.1 = {
+	monarch = {
+		name = "Ardgal mac Matudáin"
+		dynasty = "Ulaid"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+970.1.1 = {
+	monarch = {
+		name = "Niall mac Áeda"
+		dynasty = "Ulaid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+971.1.1 = {
+	monarch = {
+		name = "Áed mac Loingsig"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+972.1.1 = {
+	monarch = {
+		name = "Eochad mac Ardgail"
+		dynasty = "Ulaid"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+1004.1.1 = {
+	monarch = {
+		name = "Gilla Comgaill mac Ardgail"
+		dynasty = "Ulaid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1005.1.1 = {
+	monarch = {
+		name = "Máel Ruanaid mac Ardgail"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1007.1.1 = {
+	monarch = {
+		name = "Niall mac Duib Thuinne"
+		dynasty = "Ulaid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1016.1.1 = {
+	monarch = {
+		name = "Niall mac Eochada"
+		dynasty = "Ulaid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1063.1.1 = {
+	monarch = {
+		name = "Donnchad Ua Mathgamna"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1065.1.1 = {
+	monarch = {
+		name = "Cú Ulad Ua Flaithrí"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1071.1.1 = {
+	monarch = {
+		name = "Donn Sléibe mac Eochada"
+		dynasty = "Ulaid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1078.1.1 = {
+	monarch = {
+		name = "Áed Meranach Ua hEochada"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1080.1.1 = {
+	monarch = {
+		name = "Goll na Gorta Ua Mathgamna"
+		dynasty = "Ulaid"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1081.1.1 = {
+	monarch = {
+		name = "Donn Sléibe mac Eochada"
+		dynasty = "Ulaid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1091.1.1 = {
+	monarch = {
+		name = "Donnchad mac Duinn Sléibe"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1095.1.1 = {
+	monarch = {
+		name = "Eochaid mac Duinn Sléibe"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1108.1.1 = {
+	monarch = {
+		name = "Donnchad mac Duinn Sléibe"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1113.1.1 = {
+	monarch = {
+		name = "Áed mac Duinn Sléibe"
+		dynasty = "Ulaid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1127.1.1 = {
+	monarch = {
+		name = "Ragnall Ua hEochada"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1131.1.1 = {
+	monarch = {
+		name = "Cú Ulad mac Conchobair Chisenaig"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1157.1.1 = {
+	monarch = {
+		name = "Áed mac Con Ulad"
+		dynasty = "Ulaid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1158.1.1 = {
+	monarch = {
+		name = "Eochaid mac Con Ulad"
+		dynasty = "Ulaid"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1166.1.1 = {
+	monarch = {
+		name = "Magnus mac Con Ulad"
+		dynasty = "Ulaid"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1171.1.1 = {
+	monarch = {
+		name = "Donn Sléibe mac Con Ulad"
+		dynasty = "Ulaid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1172.1.1 = {
+	monarch = {
+		name = "Ruaidrí mac Con Ulad"
+		dynasty = "Ulaid"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}

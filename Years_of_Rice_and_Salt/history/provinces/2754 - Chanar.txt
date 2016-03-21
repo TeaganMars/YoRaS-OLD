@@ -1,0 +1,29 @@
+#2754 - Chanar
+
+culture = het
+religion = south_american
+capital = "Chanar"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 1
+discovered_by = south_american
+
+1561.3.2  = {	discovered_by = SPA }
+
+1884.1.1  = {	owner = LAP
+		controller = LAP
+		add_core = LAP 
+		is_city = yes
+		culture = castillian
+		religion = catholic
+		trade_goods = grain
+		capital = "Algarrobo del Águila"
+	    } # Conquista del desierto
+
+
+

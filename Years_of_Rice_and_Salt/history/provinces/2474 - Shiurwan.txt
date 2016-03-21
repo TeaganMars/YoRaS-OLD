@@ -1,0 +1,77 @@
+#2474 - Shaoguan
+
+owner = HND
+controller = HND
+culture = hakka
+religion = confucianism
+capital = "Shaoguan"
+trade_goods = iron
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core = HND
+add_core = WUU
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+
+220.1.1 = { owner = WUU controller = WUU add_core = WUU remove_core = HND }
+280.3.15 = { owner = JIN controller = JIN add_core = JIN remove_core = WUU }
+420.1.1 = { owner = LSO controller = LSO add_core = LSO remove_core = JIN }
+479.1.1 = { owner = QIC controller = QIC add_core = QIC remove_core = LSO }
+502.1.1 = { owner = LNG controller = LNG add_core = LNG remove_core = QIC }
+557.1.1 = { owner = CEN controller = CEN add_core = CEN remove_core = LNG }
+589.3.4 = { owner = SUI controller = SUI add_core = SUI remove_core = CEN }
+618.6.18 = { owner = TNG controller = TNG add_core = TNG remove_core = SUI }
+907.6.1 = { owner = HND controller = HND add_core = HND remove_core = TNG }
+971.1.1 = { owner = SNG controller = SNG add_core = SNG remove_core = HND }
+1279.3.19 = { owner = YUA controller = YUA add_core = YUA add_core = CZH remove_core = SNG }
+1368.1.1 = { owner = KHA controller = KHA add_core = KHA remove_core = YUA }
+1382.1.1 = { owner = MNG controller = MNG add_core = MNG remove_core = KHA }
+
+1595.1.1 = { discovered_by = SPA }
+1647.4.1 = {	owner = QNG
+		controller = QNG
+		add_core = QNG
+		}
+1648.4.15 = { 	controller = MNG 
+		owner = MNG
+		}
+1650.11.11 = {	owner = QNG
+		controller = QNG
+		}
+1659.1.1  = {	owner = QNG
+				controller = QNG
+				add_core = QNG
+			} # The Qing Conquest of China finishes
+1662.4.1 = {	owner = CZH
+		controller = CZH
+		} # Three Feudatories
+1681.10.1 = {	owner = QNG
+	controller = QNG
+	add_core = QNG
+}
+
+1750.1.1 = { base_tax = 6 base_manpower = 3 }
+1775.1.1 = { base_tax = 8 base_production = 5 base_manpower = 4 }
+1800.1.1 = { base_tax = 9 base_production = 7 }
+1825.1.1 = { base_tax = 12 base_manpower = 5 }
+1851.1.1 = { base_tax = 14 base_manpower = 6 }
+1875.1.1 = { base_manpower = 10 }
+1901.1.1 = { base_tax = 15 base_production = 9 base_manpower = 11 }
+1911.11.9  = { revolt = { type = revolutionary_rebels size = 1 } controller = REB }
+1912.2.12  = { revolt = {} owner = CHN controller = CHN add_core = CHN remove_core = QNG remove_core = CZH }
+1916.6.6   = { revolt = { type = revolutionary_rebels size = 0 } controller = REB }
+1927.4.18  = { revolt = {} controller = CHN }
+1929.1.1 = { base_tax = 16 base_production = 11 }
+1938.10.12 = { controller = JAP }
+1945.8.15  = { controller = CHN }
+1950.1.1 = { base_tax = 17 base_production = 13 base_manpower = 12 }
+1975.1.1 = { base_production = 15 base_manpower = 13 }
+2000.1.1 = { base_production = 17 base_manpower = 19 }
+
+
+

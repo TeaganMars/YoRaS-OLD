@@ -1,0 +1,107 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = burmese
+religion = buddhism
+technology_group = early_chinese
+capital = 586	# Rangoon
+
+750.1.1 = { technology_group = chinese }
+
+1900.1.1 = { government = constitutional_republic }
+1915.1.1 = { technology_group = asian }
+
+1948.1.4 = {
+	monarch = {
+		name = "Sao Shwe Thaik"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+1952.3.16 = {
+	monarch = {
+		name = "Ba U"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+
+1957.3.13 = {
+	monarch = {
+		name = "Win Maung"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1962.3.2 = { government = military_junta }
+
+1962.3.2 = {
+	monarch = {
+		name = "Ne Win"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1974.3.2 = { government = constitutional_republic }
+
+1981.11.9 = {
+	monarch = {
+		name = "San Yu"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1988.7.27 = {
+	monarch = {
+		name = "Sein Lwin"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1988.8.12 = {
+	monarch = {
+		name = "Aye Ko"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1988.8.19 = {
+	monarch = {
+		name = "Maung Maung"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1988.9.18 = { government = military_junta }
+
+1988.9.18 = {
+	monarch = {
+		name = "Saw Maung"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}

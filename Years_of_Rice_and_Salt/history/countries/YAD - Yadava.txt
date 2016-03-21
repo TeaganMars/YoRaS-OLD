@@ -1,0 +1,87 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+technology_group = early_indian
+religion = hinduism
+primary_culture = marathi
+capital = 545 # Devagiri
+
+750.1.1 = { technology_group = indian }
+
+1189.1.1 = {
+	monarch = {
+		name = "Bhillama V"
+		dynasty = "Yadava"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1192.1.1 = {
+	monarch = {
+		name = "Jaitugi I"
+		dynasty = "Yadava"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+
+1200.1.1 = {
+	monarch = {
+		name = "Singhana II"
+		dynasty = "Yadava"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1247.1.1 = {
+	monarch = {
+		name = "Kannara I"
+		dynasty = "Yadava"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1261.1.1 = {
+	monarch = {
+		name = "Mahadeva I"
+		dynasty = "Yadava"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1271.1.1 = {
+	monarch = {
+		name = "Ramachandra"
+		dynasty = "Yadava"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1311.1.1 = {
+	monarch = {
+		name = "Harapaladeva"
+		dynasty = "Yadava"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}

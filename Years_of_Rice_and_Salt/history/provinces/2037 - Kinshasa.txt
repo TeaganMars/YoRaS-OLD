@@ -1,0 +1,30 @@
+#2037 - Mpemba
+
+
+culture = kongolese
+religion = shamanism
+capital = "Boma"
+trade_goods = unknown
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+native_size = 70
+native_ferocity = 2
+native_hostileness = 7 
+discovered_by = KON
+discovered_by = NDO
+discovered_by = LOA
+
+1350.1.1 = { owner = KON controller = KON add_core = KON is_city = yes trade_goods = iron }
+
+1481.1.1 = { discovered_by = POR } # Bartolomeu Dias
+1560.1.1 = { capital = "São Salvador do Congo" } # ~1976, The name is changed to Mbanza Kongo again 
+
+1881.1.1   = { owner = BEL controller = BEL add_core = BEL }
+1900.1.1   = { citysize = 80000 religion = catholic }
+1926.1.1   = { capital = "Léopoldville" }
+1960.7.1   = { owner = DRC controller = DRC add_core = DRC remove_core = BEL remove_core = KON }
+1966.1.1   = { capital = "Kinshasa" }
+
+

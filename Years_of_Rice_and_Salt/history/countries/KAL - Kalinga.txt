@@ -1,0 +1,90 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = oriya
+religion = jainism
+technology_group = early_indian
+capital = 549
+
+2.1.1 = {
+	monarch = {
+		name = "Kudepasiri"
+		dynasty = "Mahameghavahana"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+40.1.1 = {
+	monarch = {
+		name = "Badukha"
+		dynasty = "Mahameghavahana"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+120.1.1 = {
+	monarch = {
+		name = "Mahasada"
+		dynasty = "Mahameghavahana"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+200.1.1 = {
+	monarch = {
+		name = "Sri Brahamaadittiya"
+		dynasty = "Kalinga"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+750.1.1 = { technology_group = indian }
+
+800.1.1 = { religion = hinduism }
+
+880.1.1 = {
+	monarch = {
+		name = "Indravarman"
+		dynasty = "Gangas"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+950.1.1 = {
+	monarch = {
+		name = "Devendravarman IV"
+		dynasty = "Gangas"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1038.1.1 = {
+	monarch = {
+		name = "Vajrahasta Anantavarman"
+		dynasty = "Gangas"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1050.1.1 = {
+	monarch = {
+		name = "Rajaraja I"
+		dynasty = "Gangas"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}

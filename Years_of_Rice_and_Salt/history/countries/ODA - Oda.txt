@@ -1,0 +1,137 @@
+government = daimyo
+government_rank = 1
+#aristocracy_plutocracy = -5
+#centralization_decentralization = 3
+#innovative_narrowminded = 3
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = -5
+#land_naval = -5
+#quality_quantity = -2
+#serfdom_freesubjects = -5
+primary_culture = japanese
+religion = shinto
+technology_group = early_chinese
+capital = 1030	# owari
+
+750.1.1 = { technology_group = chinese }
+
+1000.1.1 = {
+	set_country_flag = daimyo
+}
+
+1490.1.1 = {
+	monarch = {
+		name = "Tatsukatsu"
+		dynasty = "Oda"
+		adm = 2
+		dip = 1
+		mil = 2
+		}
+}
+
+1520.1.1 = {
+	monarch = {
+		name = "Nobusada"
+		dynasty = "Oda"
+#		birth_date = 1490.1.1
+#		death_date = 1538.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+		}
+}
+
+1520.1.1 = {
+	heir = {
+		name = "Nobuhide"
+		monarch_name = "Nobuhide"
+		dynasty = "Oda"
+		birth_date = 1510.1.1
+		death_date = 1551.4.8
+		claim = 80
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+#1527.1.1 = {
+##	innovative_narrowminded = 1
+#}
+	
+1527.1.1 = { 
+	monarch = {
+		name = "Nobuhide"
+		dynasty = "Oda"
+#		birth_date = 1510.1.1
+#		death_date = 1551.4.8
+		adm = 4
+		dip = 3
+		mil = 4
+		}
+	}
+
+#1532.1.1 = {
+##	centralization_decentralization = 2
+#}	
+	
+1534.6.23 = {
+	heir = {
+		name = "Nobunaga"
+		monarch_name = "Nobunaga"
+		dynasty = "Oda"
+		birth_date = 1534.6.23
+		death_date = 1582.6.21
+		claim = 90
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+}
+	
+1551.4.8 = { 
+	monarch = {
+		name = "Nobunaga"
+		dynasty = "Oda"
+#		birth_date = 1534.6.23
+#		death_date = 1582.6.21
+		adm = 5
+		dip = 5
+		mil = 6
+		}
+	}
+
+1557.1.1 = {
+	heir = {
+		name = "Nobutada"
+		monarch_name = "Nobutada"
+		dynasty = "Oda"
+		birth_date = 1557.1.1
+		death_date = 1582.6.21
+		claim = 90
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+#1568.9.1 = {
+#	set_country_flag = marionett_master
+#}
+
+#1573.7.18 = {
+#	clr_country_flag = marionett_master
+#}
+	
+1582.6.21 = { 
+	monarch = {
+		name = "Hidenobu"
+		dynasty = "Oda"
+#		birth_date = 1580.1.1
+#		death_date = 1605.6.24
+		adm = 3
+		dip = 3
+		mil = 2
+		}
+	}

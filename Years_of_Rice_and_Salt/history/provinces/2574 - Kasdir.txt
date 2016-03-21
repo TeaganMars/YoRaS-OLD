@@ -1,0 +1,72 @@
+#2574 - Kasdir
+
+owner = MZB
+controller = MZB
+add_core = MZB
+culture = berber
+religion = african
+capital = "Kasdir"
+trade_goods = wool
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = ROM
+discovered_by = ROW
+
+320.1.1 = { owner = ALT controller = ALT add_core = ALT remove_core = MZB }
+400.1.1 = { discovered_by = VAN }
+420.1.1 = { religion = chalcedonism }
+600.1.1 = { discovered_by = western }
+708.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = ALT }
+750.1.1 = { owner = ABB controller = ABB add_core = ABB remove_core = UMA }
+780.1.1 = { religion = ibadi }
+789.1.1 = { owner = MOR controller = MOR add_core = MOR remove_core = ABB }
+922.1.1 = { owner = FAT controller = FAT add_core = FAT remove_core = MOR }
+950.1.1 = { owner = TLC controller = TLC add_core = TLC remove_core = FAT }
+1066.10.1 = { owner = AMR controller = AMR add_core = AMR remove_core = TLC }
+1130.1.1 = { owner = AMH controller = AMH add_core = AMH remove_core = AMR }
+1200.1.1 = { religion = sunni culture = algerian }
+1235.1.1 = { owner = TLC controller = TLC add_core = TLC remove_core = AMH }
+1337.1.1 = { owner = MOR controller = MOR }
+1348.1.1 = { owner = TLC controller = TLC }
+1352.1.1 = { owner = MOR controller = MOR }
+1359.1.1 = { owner = TLC controller = TLC }
+
+1549.1.1 = {
+	owner = MOR
+	controller = MOR
+	add_core = MOR
+} #Conquered by the Saadians
+1554.1.1 = {
+	owner = ALG
+	controller = ALG
+	add_core = ALG
+}
+
+1785.1.1 = { base_tax = 2 }
+1830.7.5   = {  owner = FRA 
+		controller = FRA 
+		add_core = FRA 
+		add_core = AGR
+		remove_core = ALG
+		capital = "El Bayadh"
+	     } # Conquered by France
+1845.1.1 = { base_manpower = 2 }
+1870.9.4   = {  owner = FR2
+		controller = FR2
+		add_core = FR2
+		remove_core = FRA
+	     } # Republic proclaimed
+1905.1.1 = { base_production = 2 }
+1940.6.14  = { owner = FRV controller = FRV add_core = FRV } # Vichy France
+1942.11.16 = { owner = FR2 controller = FR2 remove_core = FRV } # Under Free French control after Operation Torch
+1962.7.3   = { owner = AGR controller = AGR remove_core = FR2 }
+2000.1.1 = { base_tax = 3 base_production = 3 }
+
+
+

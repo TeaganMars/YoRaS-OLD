@@ -1,0 +1,27 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = roman_group
+primary_culture = pontic_greek
+religion = hellenism
+capital = 1846	# Amaseia
+
+2.1.1 = {
+	monarch = {
+		name = "Pythodorida I"
+		dynasty = "Pythodoros"
+		adm = 3
+		dip = 4
+		mil = 2
+		female = yes
+	}
+}
+
+38.1.1 = {
+	monarch = {
+		name = "Polemon II"
+		dynasty = "Pythodoros"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}

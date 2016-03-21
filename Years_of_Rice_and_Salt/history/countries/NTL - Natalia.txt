@@ -1,0 +1,23 @@
+government = parliamentary_republic
+#aristocracy_plutocracy = -5
+#centralization_decentralization = 5
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -5
+#quality_quantity = 2
+#serfdom_freesubjects = -5
+primary_culture = dutch
+religion = reformed
+technology_group = western
+capital = 1178
+
+1839.10.12 = {
+	monarch = {
+		name = "Andries Pretorius"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}

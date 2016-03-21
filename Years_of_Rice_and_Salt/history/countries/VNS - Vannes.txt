@@ -1,0 +1,17 @@
+government = feudal_monarchy 
+government_rank = 1
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 2
+#innovative_narrowminded = -2
+#mercantilism_freetrade = 3
+mercantilism = 0.1
+#offensive_defensive = 2
+#land_naval = 2
+#quality_quantity = 2
+#serfdom_freesubjects = -2
+primary_culture = gallian
+religion = chalcedonism
+technology_group = barbarian
+capital = 171
+
+536.1.1 = { technology_group = western }

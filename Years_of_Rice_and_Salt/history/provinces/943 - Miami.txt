@@ -1,0 +1,53 @@
+#943 - Miami
+
+add_core = MMI
+owner = MMI
+controller = MMI
+culture = illini
+religion = totemism
+capital = "Miami"
+trade_goods = fur
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+native_size = 10
+native_ferocity = 1
+native_hostileness = 0
+discovered_by = north_american
+
+1659.1.1  = { discovered_by = FRA } # Médard Chouart Des Groseilliers
+1679.1.1  = { discovered_by = ENG }
+1680.1.1  = { 	owner = IRO
+		controller = IRO
+		citysize = 100
+		culture = iroquois } #Taken by Iroquois in Beaver Wars.
+1701.8.14 = {	owner = MMI
+		controller = MMI
+		citysize = 0
+		culture = illini } #Return of the Miami after the Beaver Wars
+1707.5.12 = { discovered_by = GBR }
+1750.1.1 = { base_manpower = 3 }
+1775.1.1 = { base_tax = 3 }
+1800.1.1  = { is_city = yes }
+1801.1.1 = { base_tax = 4 base_production = 3 }
+1813.10.5 = {	owner = USA
+		controller = USA
+		culture = american
+		religion = protestant } #The death of Tecumseh mark the end of organized native resistance 
+1818.1.1  = { add_core = USA } # Treaty of St Mary
+
+1825.1.1 = { base_tax = 5 base_manpower = 4 }
+1840.1.1   = { capital = "Fort Wayne" }
+1851.1.1 = { base_tax = 6 base_production = 4 base_manpower = 5 }
+1875.1.1 = { base_manpower = 7 }
+1901.1.1 = { base_manpower = 9 }
+1925.1.1 = { base_production = 6 base_manpower = 10 }
+1951.1.1 = { base_tax = 8 }
+1975.1.1 = { base_tax = 9 base_production = 8 }
+2000.1.1 = { base_tax = 11 base_production = 11 }
+
+
+
+

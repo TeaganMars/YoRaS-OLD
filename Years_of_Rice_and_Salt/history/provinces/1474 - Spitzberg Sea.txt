@@ -1,0 +1,4 @@
+#1474 - Spitzberg Sea
+
+870.1.1 = { discovered_by = NOR }
+

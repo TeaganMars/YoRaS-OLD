@@ -1,0 +1,27 @@
+government = feudal_monarchy
+government_rank = 1
+##aristocracy_plutocracy = -5
+##centralization_decentralization = 4
+##innovative_narrowminded = -1
+##mercantilism_freetrade = -3
+mercantilism = 0.1
+##offensive_defensive = -3
+##land_naval = -3
+##quality_quantity = 0
+##serfdom_freesubjects = -4
+primary_culture = polish
+religion = catholic
+technology_group = eastern
+capital = 259	# Sandomierz
+
+
+1146.1.1 = {
+	monarch = {
+		name = "Henryk"
+		dynasty = Piast
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+

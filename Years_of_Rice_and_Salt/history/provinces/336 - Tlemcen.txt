@@ -1,0 +1,87 @@
+#336 - Tlemcen
+
+owner = MRN
+controller = MRN
+culture = berber
+religion = african
+capital = "Pomaria"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core = MRN
+discovered_by = western
+discovered_by = barbarian
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = roman_group
+
+2.1.1 = {
+		add_permanent_province_modifier = {
+			name = center_of_trade_modifier
+			duration = -1
+		}
+}
+
+40.1.1 = { owner = ROM controller = ROM add_core = ROM }
+280.1.1 = { owner = ALT controller = ALT add_core = ALT remove_core = ROM capital = "Altava" }
+420.1.1 = { religion = chalcedonism }
+708.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = ALT capital = "Pomaria" }
+750.1.1 = { owner = ABB controller = ABB add_core = ABB remove_core = UMA }
+765.1.1 = { capital = "Tlemcen" }
+777.1.1 = { owner = MZB controller = MZB add_core = MZB remove_core = ABB religion = ibadi }
+800.1.1 = { base_manpower = 3 }
+909.1.1 = { owner = FAT controller = FAT add_core = FAT remove_core = MZB }
+950.1.1 = { owner = TLC controller = TLC add_core = TLC remove_core = FAT }
+960.1.1 = { religion = shiite }
+1000.1.1 = { base_tax = 5 base_production = 5 }
+1040.1.1 = { religion = sunni }
+1066.10.1 = { owner = AMR controller = AMR add_core = AMR remove_core = TLC }
+1070.1.1 = { owner = AMR controller = AMR add_core = AMR remove_core = KBA }
+1082.1.1 = { fort_15th = yes }
+1147.1.1 = { owner = AMH controller = AMH add_core = AMH remove_core = AMR }
+1235.1.1 = { owner = TLC controller = TLC add_core = TLC remove_core = AMH }
+1337.1.1 = { owner = MOR controller = MOR }
+1348.1.1 = { owner = TLC controller = TLC }
+1352.1.1 = { owner = MOR controller = MOR }
+1359.1.1 = { owner = TLC controller = TLC }
+
+1549.1.1 = {
+	owner = MOR
+	controller = MOR
+	add_core = MOR
+} #Conquered by the Saadians
+1554.1.1 = {
+	owner = ALG
+	controller = ALG
+	add_core = ALG
+}
+1659.1.1 = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # Janissary revolt
+1660.1.1 = { revolt = {} controller = ALG } # Estimated
+1775.1.1 = { base_production = 6 }
+
+1825.1.1 = { base_tax = 6 }
+1830.7.5   = {  owner = FRA 
+		controller = FRA 
+		add_core = FRA 
+		add_core = AGR
+		remove_core = ALG
+	     } # Conquered by France
+1870.9.4   = {  owner = FR2
+		controller = FR2
+		add_core = FR2
+		remove_core = FRA
+	     } # Republic proclaimed
+1875.1.1 = { base_production = 7 }
+1925.1.1 = { base_tax = 7 }
+1940.6.14  = { owner = FRV controller = FRV add_core = FRV } # Vichy France
+1942.11.16 = { owner = FR2 controller = FR2 remove_core = FRV } # Under Free French control after Operation Torch
+1962.7.3   = { owner = AGR controller = AGR remove_core = FR2 }
+2000.1.1 = { base_manpower = 5 }
+
+
+

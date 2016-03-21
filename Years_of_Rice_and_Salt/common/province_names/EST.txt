@@ -1,0 +1,7 @@
+33 = "Neeva"
+34 = "Ingeri"
+35 = "Saaremaa"
+36 = "Harjumaa"
+37 = "Liivimaa"
+1842 = "Virumaa"
+1834 = "Tartumaa"

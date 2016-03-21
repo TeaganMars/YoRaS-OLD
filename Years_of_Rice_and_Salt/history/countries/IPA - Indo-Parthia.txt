@@ -1,0 +1,48 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = panjabi
+religion = zoroastrian
+technology_group = middle_eastern
+capital = 578	# Taxila
+
+2.1.1 = {
+	monarch = {
+		name = "Gondophares II"
+		dynasty = "Gondopharid"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+20.1.1 = {
+	monarch = {
+		name = "Gondophares III"
+		dynasty = "Gondopharid"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+50.1.1 = {
+	monarch = {
+		name = "Gondophares IV"
+		dynasty = "Gondopharid"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+76.1.1 = { capital = 576 primary_culture = baluchi } # Taxila conquered by Kushans
+
+90.1.1 = {
+	monarch = {
+		name = "Pacores"
+		dynasty = "Gondopharid"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}

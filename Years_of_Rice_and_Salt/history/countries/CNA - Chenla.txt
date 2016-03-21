@@ -1,0 +1,107 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -1
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = khmer
+religion = mahayana
+technology_group = early_chinese
+capital = 609	# Isanapura
+
+550.1.1 = {
+	monarch = {
+		name = "Bhavavarman I"
+		dynasty = "Chenla"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+590.1.1 = {
+	monarch = {
+		name = "Mahendravarman"
+		dynasty = "Chenla"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+611.1.1 = {
+	monarch = {
+		name = "Isanavarman"
+		dynasty = "Chenla"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+630.1.1 = {
+	monarch = {
+		name = "Bhavavarman II"
+		dynasty = "Chenla"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+657.1.1 = {
+	monarch = {
+		name = "Jayavarman I"
+		dynasty = "Chenla"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+690.1.1 = {
+	monarch = {
+		name = "Jayadevi"
+		dynasty = "Chenla"
+		adm = 1
+		dip = 3
+		mil = 2
+		female = yes
+	}
+}
+
+730.1.1 = {
+	monarch = {
+		name = "Srutavarman"
+		dynasty = "Chenla"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+750.1.1 = { technology_group = chinese }
+
+750.1.1 = {
+	monarch = {
+		name = "Sresthavarman"
+		dynasty = "Chenla"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+770.1.1 = {
+	monarch = {
+		name = "Jayavarman II"
+		dynasty = "Khmer"
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+}

@@ -1,0 +1,66 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -3
+#quality_quantity = 3
+#serfdom_freesubjects = -4
+technology_group = early_chinese
+religion = confucianism
+primary_culture = chihan
+capital = 1821
+
+557.1.1 = {
+	monarch = {
+		name = "Wu"
+		dynasty = "Chen"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+559.1.1 = {
+	monarch = {
+		name = "Wen"
+		dynasty = "Chen"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+566.1.1 = {
+	monarch = {
+		name = "Fei"
+		dynasty = "Chen"
+		adm = 5
+		mil = 5
+		dip = 4
+	}
+}
+
+569.1.1 = {
+	monarch = {
+		name = "Xuan"
+		dynasty = "Chen"
+		adm = 3
+		mil = 4
+		dip = 2
+	}
+}
+
+583.1.1 = {
+	monarch = {
+		name = "Huozhu"
+		dynasty = "Chen"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+750.1.1 = { technology_group = chinese }

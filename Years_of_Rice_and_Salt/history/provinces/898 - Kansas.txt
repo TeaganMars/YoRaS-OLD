@@ -1,0 +1,49 @@
+#898 - Kansas
+
+culture = pawnee #Old plains people
+religion = totemism
+capital = "Kansas"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 30
+native_ferocity = 3
+native_hostileness = 9
+discovered_by = north_american
+
+1541.1.1 = { discovered_by = SPA } # Francisco Vásquez de Coronado
+1750.1.1 = { base_manpower = 2 }
+1760.1.1  = {	owner = OSA
+		controller = OSA
+		add_core = OSA
+		trade_goods = grain
+		is_city = yes } #Osage-Kansas alliance
+
+1775.1.1 = { base_production = 2 }
+1800.1.1 = { base_tax = 2 base_manpower = 3 }
+1825.1.1 = { base_tax = 3 }
+1827.1.1 = {	owner = USA
+		controller = USA
+		add_core = USA
+		remove_core = OSA
+		culture = american
+		religion = protestant
+		trade_goods = grain
+		capital = "Fort Leavenworth"
+	     }
+1850.1.1 = { base_tax = 4 base_manpower = 4 }
+1855.7.2   = { capital = "Pawnee" }
+1855.7.6   = { capital = "Lecompton" }
+1861.1.29  = { capital = "Topeka" }
+
+
+
+
+1875.1.1 = { base_manpower = 5 }
+1900.1.1 = { base_manpower = 6 }
+1925.1.1 = { base_tax = 5 base_production = 3 }
+1950.1.1 = { base_production = 4 }
+1975.1.1 = { base_tax = 7 }
+2000.1.1 = { base_production = 7 }

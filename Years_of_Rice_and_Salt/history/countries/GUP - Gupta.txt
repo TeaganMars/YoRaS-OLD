@@ -1,0 +1,166 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+technology_group = early_indian
+religion = hinduism
+primary_culture = bihari
+capital = 558	# Pataliputra
+
+240.1.1 = {
+	monarch = {
+		name = "Sri"
+		dynasty = "Gupta"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+280.1.1 = {
+	monarch = {
+		name = "Ghatotkacha"
+		dynasty = "Gupta"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+320.1.1 = {
+	monarch = {
+		name = "Chandragupta I"
+		dynasty = "Gupta"
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+}
+
+335.1.1 = {
+	monarch = {
+		name = "Samudragupta"
+		dynasty = "Gupta"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+375.1.1 = {
+	monarch = {
+		name = "Chandragupta II"
+		dynasty = "Gupta"
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+}
+
+415.1.1 = {
+	monarch = {
+		name = "Kamaragupta I"
+		dynasty = "Gupta"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+455.1.1 = {
+	monarch = {
+		name = "Skandagupta"
+		dynasty = "Gupta"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+467.1.1 = {
+	monarch = {
+		name = "Purugupta"
+		dynasty = "Gupta"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+473.1.1 = {
+	monarch = {
+		name = "Kumaragupta II"
+		dynasty = "Gupta"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+476.1.1 = {
+	monarch = {
+		name = "Budhagupta"
+		dynasty = "Gupta"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+495.1.1 = {
+	monarch = {
+		name = "Narasimhagupta"
+		dynasty = "Gupta"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+520.1.1 = {
+	monarch = {
+		name = "Kumaragupta III"
+		dynasty = "Gupta"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+540.1.1 = {
+	monarch = {
+		name = "Vishnugupta"
+		dynasty = "Gupta"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+560.1.1 = {
+	monarch = {
+		name = "Bhanugupta"
+		dynasty = "Gupta"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+580.1.1 = {
+	monarch = {
+		name = "Shashankgupta"
+		dynasty = "Gupta"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+750.1.1 = { technology_group = indian }

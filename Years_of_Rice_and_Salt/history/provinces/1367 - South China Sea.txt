@@ -1,0 +1,8 @@
+#1367 - South China Sea
+
+discovered_by = early_chinese
+discovered_by = chinese
+1535.1.1 = { discovered_by = POR }
+
+
+

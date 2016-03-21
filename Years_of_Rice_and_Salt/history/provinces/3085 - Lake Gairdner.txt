@@ -1,0 +1,3 @@
+#3085 - Lake Gairdner
+
+1839.1.1   = { discovered_by = GBR }

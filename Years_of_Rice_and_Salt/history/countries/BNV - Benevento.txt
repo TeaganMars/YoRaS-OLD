@@ -1,0 +1,367 @@
+government = feudal_monarchy
+government_rank = 1
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = 1
+#quality_quantity = -1
+#serfdom_freesubjects = -2
+technology_group = western
+religion = chalcedonism
+primary_culture = umbrian
+capital = 120	# Benevento
+
+571.1.1 = {
+	monarch = {
+		name = "Zotto"
+		dynasty = "di Benevento"
+		adm = 3
+		mil = 5
+		dip = 2
+	}
+}
+
+591.1.1 = {
+	monarch = {
+		name = "Arechi I"
+		dynasty = "di Benevento"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+641.1.1 = {
+	monarch = {
+		name = "Aiulf I"
+		dynasty = "di Benevento"
+		adm = 2
+		mil = 1
+		dip = 2
+	}
+}
+
+646.1.1 = {
+	monarch = {
+		name = "Radoald"
+		dynasty = "di Benevento"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+651.1.1 = {
+	monarch = {
+		name = "Grimoald I"
+		dynasty = "di Benevento"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+662.1.1 = {
+	monarch = {
+		name = "Romuald I"
+		dynasty = "di Benevento"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+677.1.1 = {
+	monarch = {
+		name = "Grimoald II"
+		dynasty = "di Benevento"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+680.1.1 = {
+	monarch = {
+		name = "Gisulf I"
+		dynasty = "di Benevento"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+706.1.1 = {
+	monarch = {
+		name = "Romuald II"
+		dynasty = "di Benevento"
+		adm = 3
+		mil = 3
+		dip = 5
+	}
+}
+
+732.1.1 = {
+	monarch = {
+		name = "Audelais"
+		dynasty = "di Benevento"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+733.1.1 = {
+	monarch = {
+		name = "Gregory"
+		dynasty = "di Benevento"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+740.1.1 = {
+	monarch = {
+		name = "Godescalc"
+		dynasty = "di Benevento"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+743.1.1 = {
+	monarch = {
+		name = "Gisulf II"
+		dynasty = "di Benevento"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+749.1.1 = {
+	monarch = {
+		name = "Liutprand"
+		dynasty = "di Benevento"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+758.1.1 = {
+	monarch = {
+		name = "Arechis II"
+		dynasty = "di Benevento"
+		adm = 5
+		mil = 5
+		dip = 4
+	}
+}
+
+787.8.26 = {
+	monarch = {
+		name = "Grimoald III"
+		dynasty = "di Benevento"
+		adm = 3
+		mil = 4
+		dip = 2
+	}
+}
+
+806.1.1 = {
+	monarch = {
+		name = "Grimoald IV"
+		dynasty = "di Benevento"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+817.1.1 = {
+	monarch = {
+		name = "Sico"
+		dynasty = "di Benevento"
+		adm = 2
+		mil = 1
+		dip = 2
+	}
+}
+
+832.1.1 = {
+	monarch = {
+		name = "Sicard"
+		dynasty = "di Benevento"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+839.1.1 = {
+	monarch = {
+		name = "Radelchis I"
+		dynasty = "di Benevento"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+851.1.1 = {
+	monarch = {
+		name = "Radelgar"
+		dynasty = "di Benevento"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+854.1.1 = {
+	monarch = {
+		name = "Adelchis"
+		dynasty = "di Benevento"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+867.1.1 = { religion = catholic }
+
+878.1.1 = {
+	monarch = {
+		name = "Guaifer"
+		dynasty = "di Benevento"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+881.1.1 = {
+	monarch = {
+		name = "Radelchis II"
+		dynasty = "di Benevento"
+		adm = 4
+		mil = 3
+		dip = 5
+	}
+}
+
+884.1.1 = {
+	monarch = {
+		name = "Aiulf II"
+		dynasty = "di Benevento"
+		adm = 3
+		mil = 3
+		dip = 5
+	}
+}
+
+890.1.1 = {
+	monarch = {
+		name = "Ursus"
+		dynasty = "di Benevento"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+895.1.1 = {
+	monarch = {
+		name = "Guy IV"
+		dynasty = "di Spoleto"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+897.1.1 = {
+	monarch = {
+		name = "Radelchis II"
+		dynasty = "di Benevento"
+		adm = 4
+		mil = 3
+		dip = 5
+	}
+}
+
+900.1.1 = {
+	monarch = {
+		name = "Atenulf I"
+		dynasty = "di Capua"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+910.1.1 = {
+	monarch = {
+		name = "Landulf I"
+		dynasty = "di Capua"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+943.4.10 = {
+	monarch = {
+		name = "Landulf II"
+		dynasty = "di Capua"
+		adm = 2
+		mil = 3
+		dip = 5
+	}
+}
+
+961.1.1 = {
+	monarch = {
+		name = "Pandulf I"
+		dynasty = "di Capua"
+		adm = 2
+		mil = 5
+		dip = 4
+	}
+}
+
+981.3.1 = {
+	monarch = {
+		name = "Pandulf II"
+		dynasty = "di Capua"
+		adm = 4
+		mil = 1
+		dip = 2
+	}
+}
+
+1014.1.1 = {
+	monarch = {
+		name = "Landulf V"
+		dynasty = "di Benevento"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1033.9.1 = {
+	monarch = {
+		name = "Pandulf III"
+		dynasty = "di Benevento"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}

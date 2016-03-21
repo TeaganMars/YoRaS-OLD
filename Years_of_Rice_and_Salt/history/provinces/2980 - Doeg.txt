@@ -1,0 +1,55 @@
+#2980 - Doeg
+
+culture = powhatan
+religion = totemism
+capital = "Doeg"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1584.1.1 = { discovered_by = ENG }
+1644.1.1 = {	owner = ENG 
+		controller = ENG 
+		culture = english 
+		trade_goods = tobacco
+		is_city = yes
+		religion = protestant } #Settlement of the Northern Neck after second Anglo-Powhatan war
+1669.1.1 = { add_core = ENG }
+1707.5.12 = {
+	discovered_by = GBR
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = ENG
+} 
+1749.5.2 = { capital = "Alexandria" } #settlements expand west
+1751.1.1 = { base_production = 3 }
+1760.1.1  = {   }
+1764.7.1  = { culture = american unrest = 6 } # Growing unrest
+1775.1.1 = { base_tax = 2 base_production = 4 }
+1776.7.4  = {	owner = USA
+		controller = USA
+		add_core = USA
+	    } # Declaration of independence
+1782.11.1 = { unrest = 0 remove_core = GBR } # Preliminary articles of peace, the British recognized American independence
+
+1801.1.1 = { base_tax = 3 base_manpower = 2 }
+1825.1.1 = { base_production = 5 base_manpower = 3 }
+1850.1.1 = { base_production = 6 base_manpower = 4 }
+1861.4.17  = { owner = CSA controller = CSA add_core = CSA }
+1865.5.5   = { owner = USA controller = USA remove_core = CSA }
+
+
+
+1875.1.1 = { base_manpower = 6 }
+1900.1.1 = { base_tax = 4 base_manpower = 7 }
+1925.1.1 = { base_tax = 6 }
+1950.1.1 = { base_manpower = 9 }
+1975.1.1 = { base_production = 9 }
+2000.1.1 = { base_tax = 10 base_production = 10 }

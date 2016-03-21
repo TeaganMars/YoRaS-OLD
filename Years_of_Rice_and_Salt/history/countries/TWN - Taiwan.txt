@@ -1,0 +1,74 @@
+government = constitutional_republic
+mercantilism = 0.1
+primary_culture = chihan
+religion = confucianism
+technology_group = early_chinese
+capital = 2858	# Taipei
+
+750.1.1 = { technology_group = chinese }
+
+1910.1.1 = { religion = secularism }
+1920.1.1 = { technology_group = asian }
+
+1949.1.21 = {
+	monarch = {
+		name = "Li Zongren"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1950.3.1 = {
+	monarch = {
+		name = "Chiang Kai-shek"
+		adm = 3
+		mil = 5
+		dip = 2
+	}
+}
+
+1975.4.6 = {
+	monarch = {
+		name = "Yen Chia-kan"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1978.5.20 = {
+	monarch = {
+		name = "Chiang Ching-kuo"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1988.1.13 = {
+	monarch = {
+		name = "Lee Teng-hui"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2000.5.20 = {
+	monarch = {
+		name = "Chen Shui-bian"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+2008.5.20 = {
+	monarch = {
+		name = "Ma Ying-jeou"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}

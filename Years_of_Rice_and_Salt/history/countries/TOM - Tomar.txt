@@ -1,0 +1,216 @@
+government = tribal_federation
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -2
+#quality_quantity = 2
+#serfdom_freesubjects = -2
+primary_culture = kanauji
+religion = hinduism
+technology_group = early_indian
+capital = 522
+
+580.1.1 = {
+	monarch = {
+		name = "Abhaypal"
+		dynasty = "Tomar"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+600.1.1 = {
+	monarch = {
+		name = "Manohardas"
+		dynasty = "Tomar"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+647.1.1 = {
+	monarch = {
+		name = "Sukhraj"
+		dynasty = "Tomar"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+670.1.1 = {
+	monarch = {
+		name = "Tungpal"
+		dynasty = "Tomar"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+700.1.1 = {
+	monarch = {
+		name = "Anangpal I"
+		dynasty = "Tomar"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+730.1.1 = {
+	monarch = {
+		name = "Anangpal I"
+		dynasty = "Tomar"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+750.1.1 = { technology_group = indian }
+
+754.1.1 = {
+	monarch = {
+		name = "Vasudev"
+		dynasty = "Tomar"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+880.1.1 = {
+	monarch = {
+		name = "Jaidas"
+		dynasty = "Tomar"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+897.1.1 = {
+	monarch = {
+		name = "Vachhal"
+		dynasty = "Tomar"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+919.4.22 = {
+	monarch = {
+		name = "Pavak"
+		dynasty = "Tomar"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+940.10.27 = {
+	monarch = {
+		name = "Vihangpal"
+		dynasty = "Tomar"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+961.3.1 = {
+	monarch = {
+		name = "Tolpal"
+		dynasty = "Tomar"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+979.6.16 = {
+	monarch = {
+		name = "Sulakshanpal"
+		dynasty = "Tomar"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1005.4.26 = {
+	monarch = {
+		name = "Jaipal Tuar"
+		dynasty = "Tomar"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1021.8.29 = {
+	monarch = {
+		name = "Kanvarpal"
+		dynasty = "Tomar"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1051.6.17 = {
+	monarch = {
+		name = "Anangpal II"
+		dynasty = "Tomar"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1081.1.5 = {
+	monarch = {
+		name = "Tejpal"
+		dynasty = "Tomar"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1105.2.11 = {
+	monarch = {
+		name = "Mahipal"
+		dynasty = "Tomar"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1130.5.4 = {
+	monarch = {
+		name = "Anangpal III"
+		dynasty = "Tomar"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1170.1.1 = {
+	monarch = {
+		name = "Rao Salivaahanji"
+		dynasty = "Tomar"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}

@@ -1,0 +1,160 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -1
+#land_naval = -3
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = afghani
+religion = mahayana
+technology_group = middle_eastern
+capital = 451	# Bagram
+
+
+30.1.1 = {
+	monarch = {
+		name = "Kujula Kadphises"
+		dynasty = "Kushan"
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+76.1.1 = { capital = 578 } # Peshawar
+
+80.1.1 = {
+	monarch = {
+		name = "Vima Taktu"
+		dynasty = "Kushan"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+95.1.1 = {
+	monarch = {
+		name = "Vima Kadphises"
+		dynasty = "Kushan"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+127.1.1 = {
+	monarch = {
+		name = "Kanishka I"
+		dynasty = "Kushan"
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+}
+
+140.1.1 = {
+	monarch = {
+		name = "Vasishka"
+		dynasty = "Kushan"
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+160.1.1 = {
+	monarch = {
+		name = "Huvishka"
+		dynasty = "Kushan"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+190.1.1 = {
+	monarch = {
+		name = "Vasudeva I"
+		dynasty = "Kushan"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+210.1.1 = { religion = hinduism }
+
+230.1.1 = {
+	monarch = {
+		name = "Kanishka II"
+		dynasty = "Kushan"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+240.1.1 = {
+	monarch = {
+		name = "Vashishka"
+		dynasty = "Kushan"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+250.1.1 = {
+	monarch = {
+		name = "Kanishka III"
+		dynasty = "Kushan"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+275.1.1 = {
+	monarch = {
+		name = "Vasudeva II"
+		dynasty = "Kushan"
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+}
+
+310.1.1 = {
+	monarch = {
+		name = "Chhu"
+		dynasty = "Kushan"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+325.1.1 = {
+	monarch = {
+		name = "Shaka I"
+		dynasty = "Kushan"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+345.1.1 = {
+	monarch = {
+		name = "Kipunada"
+		dynasty = "Kushan"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+

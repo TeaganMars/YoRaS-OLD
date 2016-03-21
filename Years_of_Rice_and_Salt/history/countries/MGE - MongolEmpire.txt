@@ -1,0 +1,113 @@
+government = steppe_horde
+government_rank = 3
+mercantilism = 0.1
+technology_group = eastern_nomad_group
+religion = tengri_pagan_reformed
+primary_culture = mongol
+capital = 2891	# Karakorum
+
+750.1.1 = { technology_group = nomad_group }
+1206.1.1 = { decision = dummy_nomad_conquest }
+
+1206.1.1 = {
+	monarch = {
+                name = "Genghis"
+		dynasty = "Genghisid"
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+1206.1.1 = {
+	heir = {
+		name = "Tolui"
+		monarch_name = "Tolui"
+		dynasty = "Genghisid"
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 6
+		birth_date = 1192.1.1
+		death_date = 1229.9.13
+	}
+}
+1227.8.25 = {
+	monarch = {
+		name = "Tolui"
+		dynasty = "Genghisid"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+}
+1227.8.25 = {
+	heir = {
+		name = "Ögedei"
+		monarch_name = "Ögedei"
+		dynasty = "Genghisid"
+		claim = 95
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1186.1.1
+		death_date = 1246.8.24
+	}
+}
+1229.9.13 = {
+	monarch = {
+		name = "Ögedei"
+		dynasty = "Genghisid"
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+}
+1229.9.13 = {
+	heir = {
+		name = "Güyük"
+		monarch_name = "Güyük"
+		dynasty = "Genghisid"
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 6
+		birth_date = 1206.1.1
+		death_date = 1248.4.24
+	}
+}
+1246.8.24 = {
+	monarch = {
+		name = "Güyük"
+		dynasty = "Genghisid"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+1248.4.24 = {
+	monarch = {
+		name = "(regency council)"
+		regent = yes
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1251.7.1 = {
+	monarch = {
+		name = "Möngke"
+		dynasty = "Toluid"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+1259.8.11 = {
+	monarch = {
+		name = "(regency council)"
+		regent = yes
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}

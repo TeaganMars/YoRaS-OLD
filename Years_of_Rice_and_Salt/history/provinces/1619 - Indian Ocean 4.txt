@@ -1,0 +1,10 @@
+#1619 - Equatorial Counter Current
+
+discovered_by = early_indian
+discovered_by = indian
+
+1413.1.1 = { discovered_by = MNG }
+1498.1.1 = { discovered_by = POR }
+
+
+

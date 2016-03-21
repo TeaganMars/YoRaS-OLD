@@ -1,0 +1,76 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = -2
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -3
+#quality_quantity = 0
+#serfdom_freesubjects = -4
+technology_group = early_chinese
+religion = confucianism
+primary_culture = chihan
+capital = 695
+
+319.1.1 = {
+	monarch = {
+		name = "Shi Le"
+		dynasty = "Zhao"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+333.1.1 = {
+	monarch = {
+		name = "Shi Hong"
+		dynasty = "Zhao"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+334.1.1 = {
+	monarch = {
+		name = "Shi Hu"
+		dynasty = "Zhao"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+349.1.1 = {
+	monarch = {
+		name = "Shi Jian"
+		dynasty = "Zhao"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+350.1.1 = {
+	monarch = {
+		name = "Shi Zi"
+		dynasty = "Zhao"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+750.1.1 = { technology_group = chinese }
+
+910.1.1 = {
+	monarch = {
+		name = "Wang Rong"
+		dynasty = "Zhao"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}

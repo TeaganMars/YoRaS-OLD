@@ -1,0 +1,45 @@
+government = feudal_monarchy
+government_rank = 1
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 2
+#land_naval = 2
+#quality_quantity = -1
+#serfdom_freesubjects = -3
+primary_culture = venetian
+religion = catholic
+technology_group = western
+capital = 1774	# Treviso
+
+1183.1.1 = {
+	monarch = {
+		name = "Ezzelino II"
+		dynasty = "da Romano"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1235.1.1 = {
+	monarch = {
+		name = "Ezzelino III"
+		dynasty = "da Romano"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+1259.1.1 = {
+	monarch = {
+		name = "Alberico"
+		dynasty = "da Romano"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}

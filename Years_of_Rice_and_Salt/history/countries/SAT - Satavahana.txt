@@ -1,0 +1,148 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = telegu
+religion = hinduism
+technology_group = early_indian
+capital = 2223	# Amaravati
+
+2.1.1 = {
+	monarch = {
+		name = "Riktavarna"
+		dynasty = "Satavahana"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+20.1.1 = {
+	monarch = {
+		name = "Hala"
+		dynasty = "Satavahana"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+24.1.1 = {
+	monarch = {
+		name = "Mandalaka"
+		dynasty = "Satavahana"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+30.1.1 = {
+	monarch = {
+		name = "Purindrasena"
+		dynasty = "Satavahana"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+40.1.1 = {
+	monarch = {
+		name = "Sundara Satakarni"
+		dynasty = "Satavahana"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+50.1.1 = {
+	monarch = {
+		name = "Sivasvati"
+		dynasty = "Satavahana"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+78.1.1 = {
+	monarch = {
+		name = "Gautamiputra Satakarni"
+		dynasty = "Satavahana"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+102.1.1 = {
+	monarch = {
+		name = "Vasisthiputra Sri Pulamavi"
+		dynasty = "Satavahana"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+120.1.1 = {
+	monarch = {
+		name = "Vashisthiputra Satakarni"
+		dynasty = "Satavahana"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+157.6.1 = {
+	monarch = {
+		name = "Shivaskanda Satakarni"
+		dynasty = "Satavahana"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+169.1.1 = {
+	monarch = {
+		name = "Yajna Sri Satakarni"
+		dynasty = "Satavahana"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+196.1.1 = {
+	monarch = {
+		name = "Vijaya"
+		dynasty = "Satavahana"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+202.1.1 = {
+	monarch = {
+		name = "Canda Sri Satakarni"
+		dynasty = "Satavahana"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+212.1.1 = {
+	monarch = {
+		name = "Pulomavi IV"
+		dynasty = "Satavahana"
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+}
+
+750.1.1 = { technology_group = indian }

@@ -1,0 +1,142 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = early_chinese
+religion = confucianism
+primary_culture = chihan
+capital = 698	# Yinchuan
+
+407.1.1 = {
+	monarch = {
+		name = "Helian Bobo"
+		dynasty = "Xia"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+425.1.1 = {
+	monarch = {
+		name = "Helian Chang"
+		dynasty = "Xia"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+
+428.1.1 = {
+	monarch = {
+		name = "Helian Ding"
+		dynasty = "Xia"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+750.1.1 = { technology_group = chinese }
+
+1038.1.1 = { religion = vajrayana }
+
+1038.1.1 = {
+	monarch = {
+		name = "Jingzong"
+		dynasty = "Xia"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1048.1.19 = {
+	monarch = {
+		name = "Yizong"
+		dynasty = "Xia"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1067.1.1 = {
+	monarch = {
+		name = "Huizong"
+		dynasty = "Xia"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1086.1.1 = {
+	monarch = {
+		name = "Chongzong"
+		dynasty = "Xia"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1139.1.1 = {
+	monarch = {
+		name = "Renzong"
+		dynasty = "Xia"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1193.1.1 = {
+	monarch = {
+		name = "Huanzong"
+		dynasty = "Xia"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1206.1.1 = {
+	monarch = {
+		name = "Xiangzong"
+		dynasty = "Xia"
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+1211.1.1 = {
+	monarch = {
+		name = "Shenzong"
+		dynasty = "Xia"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1223.1.1 = {
+	monarch = {
+		name = "Xianzong"
+		dynasty = "Xia"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+
+1226.1.1 = {
+	monarch = {
+		name = "Modi"
+		dynasty = "Xia"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}

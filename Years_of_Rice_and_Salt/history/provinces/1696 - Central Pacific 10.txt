@@ -1,0 +1,6 @@
+#1696 - Clarion Fracture Zone
+
+1528.1.1 = { discovered_by = SPA }
+
+
+

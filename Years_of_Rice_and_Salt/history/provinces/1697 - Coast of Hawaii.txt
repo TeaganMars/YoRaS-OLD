@@ -1,0 +1,6 @@
+#1697 - Coast of Hawaii
+
+1555.1.1 = { discovered_by = SPA }
+
+
+

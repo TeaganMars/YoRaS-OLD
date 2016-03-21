@@ -1,0 +1,228 @@
+government = constitutional_monarchy
+mercantilism = 0.1
+primary_culture = serbian
+religion = orthodox
+technology_group = western
+capital = 141	# Beograd
+
+1910.1.1 = { religion = secularism }
+
+1918.12.1 = {
+	monarch = {
+		name = "Peter I"
+		dynasty = "Karadodrevic"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1918.12.1 = {
+	heir = {
+		name = "Alexander"
+		monarch_name = "Alexander I"
+		dynasty = "Karadodrevic"
+		birth_date = 1888.12.16
+		death_date = 1934.10.9
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1921.8.16 = {
+	monarch = {
+		name = "Alexander I"
+		dynasty = "Karadodrevic"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1923.9.6 = {
+	heir = {
+		name = "Peter"
+		monarch_name = "Peter II"
+		dynasty = "Karadodrevic"
+		birth_date = 1923.9.6
+		death_date = 1970.11.3
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1934.10.9 = {
+	monarch = {
+		name = "Peter II"
+		dynasty = "Karadodrevic"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1945.7.17 = {
+	heir = {
+		name = "Alexander"
+		monarch_name = "Alexander II"
+		dynasty = "Karadodrevic"
+		birth_Date = 1945.7.17
+		death_Date = 3000.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1945.12.29 = {
+	government = socialist_republic
+	monarch = {
+		name = "Ivan Ribar"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1953.1.14 = {
+	monarch = {
+		name = "Josip Broz Tito"
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}
+
+1980.5.4 = {
+	monarch = {
+		name = "Lazar Kolisevski"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1980.5.15 = {
+	monarch = {
+		name = "Cvijetin Mijatovic"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1981.5.15 = {
+	monarch = {
+		name = "Sergej Kraigher"
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+
+1982.5.15 = {
+	monarch = {
+		name = "Petar Stambolic"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1983.5.15 = {
+	monarch = {
+		name = "Mika Spiljak"
+		dynasty = "Yuan"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1984.5.15 = {
+	monarch = {
+		name = "Veselin Duranovic"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1985.5.15 = {
+	monarch = {
+		name = "Radovan Vlajkovic"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1986.5.15 = {
+	monarch = {
+		name = "Sinan Hasani"
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}
+
+1987.5.15 = {
+	monarch = {
+		name = "Lazar Mojsov"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1988.5.15 = {
+	monarch = {
+		name = "Raif Dizdarevic"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1989.5.15 = {
+	monarch = {
+		name = "Janez Drnovsek"
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+
+1990.5.15 = {
+	monarch = {
+		name = "Borisav Jovic"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1991.5.16 = {
+	monarch = {
+		name = "Sejdo Bajramovic"
+		dynasty = "Yuan"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1991.6.30 = {
+	monarch = {
+		name = "Stjepan Mesic"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+

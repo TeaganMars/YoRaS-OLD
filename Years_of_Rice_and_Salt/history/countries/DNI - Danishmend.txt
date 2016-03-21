@@ -1,0 +1,104 @@
+government = tribal_despotism
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 1
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -1
+#quality_quantity = 0
+#serfdom_freesubjects = -1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 329	# Sivas
+
+1071.8.26 = {
+	monarch = {
+		name = "Danishmend Gazi"
+		dynasty = "Danishmend"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1104.1.1 = {
+	monarch = {
+		name = "Gazi Gümüshtigin"
+		dynasty = "Danishmend"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1134.1.1 = {
+	monarch = {
+		name = "Melik Mehmed Gazi"
+		dynasty = "Danishmend"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1142.1.1 = {
+	monarch = {
+		name = "Ayn el-Devle"
+		dynasty = "Danishmend"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1152.1.1 = {
+	monarch = {
+		name = "Zülkarneyn"
+		dynasty = "Danishmend"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1162.1.1 = {
+	monarch = {
+		name = "Nasreddin Muhammed"
+		dynasty = "Danishmend"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1170.1.1 = {
+	monarch = {
+		name = "Fahreddin"
+		dynasty = "Danishmend"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1172.1.1 = {
+	monarch = {
+		name = "Afridun"
+		dynasty = "Danishmend"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1175.1.1 = {
+	monarch = {
+		name = "Nasreddin Muhammed"
+		dynasty = "Danishmend"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}

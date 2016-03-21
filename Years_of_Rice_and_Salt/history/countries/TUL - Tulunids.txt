@@ -1,0 +1,54 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 2
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = -4
+primary_culture = al_misr_arabic
+religion = sunni
+technology_group = muslim
+capital = 361	# Cairo
+
+868.1.1 = {
+	monarch = {
+		name = "Ahmad bin Tulun"
+		dynasty = "Tulunid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+884.1.1 = {
+	monarch = {
+		name = "Khumarawayh ibn Ahmad"
+		dynasty = "Tulunid"
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+}
+
+896.1.1 = {
+	monarch = {
+		name = "Harun ibn Khumarawayh"
+		dynasty = "Tulunid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+904.1.1 = {
+	monarch = {
+		name = "Shayban ibn Ahmad"
+		dynasty = "Tulunid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

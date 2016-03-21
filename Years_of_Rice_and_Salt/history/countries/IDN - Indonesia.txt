@@ -1,0 +1,75 @@
+government = constitutional_republic
+mercantilism = 0.1
+primary_culture = javanese
+religion = sunni
+technology_group = early_chinese
+capital = 630	# Jakarta
+
+750.1.1 = { technology_group = chinese }
+
+1920.1.1 = { technology_group = asian }
+
+1945.8.18 = {
+	religion = secularism
+	monarch = {
+		name = "Sukarno"
+		adm = 3
+		mil = 3
+		dip = 4
+	}
+}
+
+1967.3.12 = {
+	monarch = {
+		name = "Suharto"
+		adm = 4
+		mil = 4
+		dip = 2
+	}
+}
+
+1998.5.21 = {
+	monarch = {
+		name = "Bavharuddin Jusuf Habibie"
+		adm = 3
+		mil = 4
+		dip = 3
+	}
+}
+
+1999.10.20 = {
+	monarch = {
+		name = "Abdurrahman Wahid"
+		adm = 3
+		mil = 4
+		dip = 2
+	}
+}
+
+2001.7.23 = {
+	monarch = {
+		name = "Megawati Sukarnoputri"
+		adm = 4
+		mil = 2
+		dip = 4
+		female = yes
+	}
+}
+
+2004.10.20 = {
+	monarch = {
+		name = "Susilo Bambang Yodhoyono"
+		adm = 3
+		mil = 4
+		dip = 4
+	}
+}
+
+2014.10.20 = {
+	monarch = {
+		name = "Joko Widodo"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}

@@ -1,0 +1,125 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 2
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -1
+#quality_quantity = 1
+#serfdom_freesubjects = -5
+technology_group = eastern
+primary_culture = serbian
+religion = orthodox
+capital = 138	# Ston
+
+1046.1.1 = {
+	monarch = {
+		name = "Mihailo I"
+		dynasty = "Duklja"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1081.1.1 = {
+	monarch = {
+		name = "Constantine Bodin"
+		dynasty = "Duklja"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1101.1.1 = {
+	monarch = {
+		name = "Dobroslav II"
+		dynasty = "Duklja"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1102.1.1 = {
+	monarch = {
+		name = "Kocopar"
+		dynasty = "Duklja"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1103.1.1 = {
+	monarch = {
+		name = "Vladimir"
+		dynasty = "Duklja"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1114.1.1 = {
+	monarch = {
+		name = "George"
+		dynasty = "Duklja"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1118.1.1 = {
+	monarch = {
+		name = "Grubesa"
+		dynasty = "Duklja"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1125.1.1 = {
+	monarch = {
+		name = "George"
+		dynasty = "Duklja"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1131.1.1 = {
+	monarch = {
+		name = "Gradinha"
+		dynasty = "Duklja"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1146.1.1 = {
+	government = principality
+	monarch = {
+		name = "Radoslav"
+		dynasty = "Duklja"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1162.1.1 = {
+	monarch = {
+		name = "Mihailo"
+		dynasty = "Duklja"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}

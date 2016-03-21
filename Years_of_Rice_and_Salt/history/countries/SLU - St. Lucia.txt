@@ -1,0 +1,106 @@
+government = parliamentary_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = 0
+technology_group = western
+primary_culture = english
+religion = protestant
+capital = 500
+
+1910.1.1 = { religion = secularism }
+
+1979.2.22 = {
+	monarch = {
+		name = "John Compton"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1979.7.2 = {
+	monarch = {
+		name = "Allan Louisy"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1981.5.4 = {
+	monarch = {
+		name = "Winston Cenac"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1982.1.17 = {
+	monarch = {
+		name = "Michael Pilgrim"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1982.5.3 = {
+	monarch = {
+		name = "John Compton"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1996.4.2 = {
+	monarch = {
+		name = "Vaughan Lewis"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1997.5.24 = {
+	monarch = {
+		name = "Kenny Anthony"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+2006.12.11 = {
+	monarch = {
+		name = "John Compton"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+2007.9.7 = {
+	monarch = {
+		name = "Stephenson King"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+2011.11.30 = {
+	monarch = {
+		name = "Kenny Anthony"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}

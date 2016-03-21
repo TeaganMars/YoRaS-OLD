@@ -1,0 +1,35 @@
+#1783 - Northeastern Siberia
+
+culture = yakut
+religion = shamanism
+capital = "Eastern Siberia"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+
+1820.1.1   = { discovered_by = RUS discovered_by = SOV }
+1880.1.1   = { discovered_by = western base_tax = 1 }
+1934.1.1   = { 	owner = SOV
+		controller = SOV
+		add_core = SOV
+		add_core = RUS 
+		citysize = 500 
+		capital = "Deputatsky" 
+		trade_goods = fur 
+		religion = orthodox 
+	     }
+1940.1.1   = {  discovered_by = eastern
+		discovered_by = muslim
+		discovered_by = ottoman
+		discovered_by = asian
+	     }
+1950.1.1   = { is_city = yes }
+1991.12.25 = { owner = RUS controller = RUS remove_core = SOV }
+
+
+

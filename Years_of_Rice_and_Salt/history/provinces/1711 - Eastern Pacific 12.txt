@@ -1,0 +1,5 @@
+#1711 - Equatorial Pacific Counter Current
+
+1528.1.1 = { discovered_by = SPA }
+
+

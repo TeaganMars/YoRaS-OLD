@@ -1,0 +1,42 @@
+#1030 - Owari
+
+owner = YAM
+controller = YAM
+culture = japanese
+religion = animism
+capital = "Kiyosu"
+trade_goods = grain
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = yes
+add_core = YAM
+discovered_by = early_chinese
+discovered_by = chinese
+
+607.1.1 = { religion = mahayana }
+712.1.1 = { religion = shinto }
+794.1.1 = { owner = JAP controller = JAP add_core = JAP remove_core = YAM }
+1338.2.23 = { owner = YAM controller = YAM add_core = YAM } #Southern Court
+1392.8.11 = { owner = SBA controller = SBA add_core = SBA remove_core = YAM remove_core = JAP } #Emperor Go-Kameyama surrenders
+
+1479.1.1 = { add_core = ODA }
+1532.1.1 = { capital = "Nagoya" }
+1532.1.1 = { fort_15th = yes } # Kiyosu Castle, the capital of the Oda clan
+1532.1.1 = { owner = ODA controller = ODA }
+1542.1.1 = { discovered_by = POR }
+1561.1.1 = { remove_core = SBA }
+1573.7.3 = { add_core = JAP owner = JAP controller = JAP remove_core = ODA }
+1750.1.1 = { base_tax = 6 base_production = 7 base_manpower = 7 }
+1775.1.1 = { base_production = 12 base_manpower = 11 }
+1800.1.1 = { base_tax = 7 base_production = 17 base_manpower = 14 }
+
+1825.1.1 = { base_tax = 11 base_manpower = 18 }
+1850.1.1 = { base_tax = 12 base_production = 19 base_manpower = 24 }
+1875.1.1 = { base_tax = 14 base_production = 24 base_manpower = 26 }
+1900.1.1 = { base_tax = 15 base_production = 26 base_manpower = 31 }
+1925.1.1 = { base_tax = 20 base_production = 28 base_manpower = 33 }
+1950.1.1 = { base_tax = 22 base_production = 31 base_manpower = 37 }
+1975.1.1 = { base_tax = 25 base_production = 34 base_manpower = 39 }
+2000.1.1 = { base_tax = 39 base_production = 39 }

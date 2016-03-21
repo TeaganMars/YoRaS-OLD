@@ -1,0 +1,6 @@
+#1640 - West Australian Current
+
+1521.1.1 = { discovered_by = SPA }
+
+
+

@@ -1,0 +1,515 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = mazandarani
+religion = zoroastrian
+technology_group = muslim
+capital = 426	# Mazandaran
+
+642.1.1 = {
+	monarch = {
+		name = "Gil Gavbara"
+		dynasty = "Dabuyid"
+		birth_date = 612.1.1
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+}
+
+642.1.1 = {
+	heir = {
+		name = "Dabuya"
+		monarch_name = "Dabuya"
+		dynasty = "Dabuyid"
+		birth_date = 630.1.1
+		death_date = 712.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+}
+
+660.1.1 = {
+	monarch = {
+		name = "Dabuya"
+		dynasty = "Dabuyid"
+		birth_date = 630.1.1
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+}
+
+682.1.1 = {
+	heir = {
+		name = "Farrukhan"
+		monarch_name = "Farrukhan"
+		dynasty = "Dabuyid"
+		birth_date = 682.1.1
+		death_date = 728.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+712.1.1 = {
+	monarch = {
+		name = "Farrukhan"
+		dynasty = "Dabuyid"
+		birth_date = 682.1.1
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+712.1.1 = {
+	heir = {
+		name = "Dadhburzmihr"
+		monarch_name = "Dadhburzmihr"
+		dynasty = "Dabuyid"
+		birth_date = 698.1.1
+		death_date = 741.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+728.1.1 = {
+	monarch = {
+		name = "Dadhburzmihr"
+		dynasty = "Dabuyid"
+		birth_date = 698.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+734.1.1 = {
+	heir = {
+		name = "Khusrid"
+		monarch_name = "Khusrid"
+		dynasty = "Dabuyid"
+		birth_date = 734.1.1
+		death_date = 761.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+741.1.1 = {
+	monarch = {
+		name = "Khusrid"
+		dynasty = "Dabuyid"
+		birth_date = 734.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+760.1.1 = {
+	monarch = {
+		name = "Surkhab II"
+		dynasty = "Bavandid"
+		birth_date = 730.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+760.1.1 = {
+	heir = {
+		name = "Sharwin"
+		monarch_name = "Sharwin I"
+		dynasty = "Bavandid"
+		birth_date = 742.1.1
+		death_date = 817.1.1
+		claim = 95
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+}
+
+772.1.1 = {
+	monarch = {
+		name = "Sharwin I"
+		dynasty = "Bavandid"
+		birth_date = 742.1.1
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+}
+
+787.1.1 = {
+	heir = {
+		name = "Shahriyar"
+		monarch_name = "Shahriyar I"
+		dynasty = "Bavandid"
+		birth_date = 787.1.1
+		death_date = 825.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+}
+
+817.1.1 = {
+	monarch = {
+		name = "Shahriyar I"
+		dynasty = "Bavandid"
+		birth_date = 787.1.1
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+}
+
+825.1.1 = {
+	monarch = {
+		name = "Mazyar"
+		dynasty = "Qarinvand"
+		birth_date = 800.1.1
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+839.1.1 = {
+	monarch = {
+		name = "Qarin I"
+		dynasty = "Bavandid"
+		birth_date = 790.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+842.1.1 = { religion = sunni }
+
+864.1.1 = { religion = shiite }
+
+864.1.1 = {
+	monarch = {
+		name = "Hasan I"
+		dynasty = "Alid"
+		birth_date = 834.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+}
+
+864.1.1 = {
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Muhammad"
+		dynasty = "Alid"
+		birth_date = 854.1.1
+		death_date = 913.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+884.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Alid"
+		birth_date = 854.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+914.1.1 = {
+	monarch = {
+		name = "Hasan II"
+		dynasty = "Alid"
+		birth_date = 884.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+914.1.1 = {
+	heir = {
+		name = "Abu Muhammad"
+		monarch_name = "Abu Muhammad"
+		dynasty = "Alid"
+		birth_date = 887.1.1
+		death_date = 928.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+917.1.1 = {
+	monarch = {
+		name = "Abu Muhammad"
+		dynasty = "Alid"
+		birth_date = 887.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+917.1.1 = {
+	heir = {
+		name = "Abu Ja'far"
+		monarch_name = "Abu Ja'far"
+		dynasty = "Alid"
+		birth_date = 893.1.1
+		death_date = 925.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+
+923.1.1 = {
+	monarch = {
+		name = "Abu Ja'far"
+		dynasty = "Alid"
+		birth_date = 893.1.1
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+
+923.1.1 = {
+	heir = {
+		name = "Abu Ali Muhammad"
+		monarch_name = "Abu Ali Muhammad"
+		dynasty = "Alid"
+		birth_date = 895.1.1
+		death_date = 3000.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+925.1.1 = {
+	monarch = {
+		name = "Abu Ali Muhammad"
+		dynasty = "Alid"
+		birth_date = 895.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+927.1.1 = {
+	monarch = {
+		name = "Abu Muhammad"
+		dynasty = "Alid"
+		birth_date = 887.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+930.1.1 = { religion = zoroastrian }
+
+930.1.1 = {
+	monarch = {
+		name = "Mardavij"
+		dynasty = "Ziyarid"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+934.1.1 = {
+	monarch = {
+		name = "Voshmgeer Ziyar"
+		dynasty = "Ziyarid"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+935.1.1 = { religion = sunni }
+
+967.1.1 = {
+	monarch = {
+		name = "Zahirodoleh Behsotoon"
+		dynasty = "Ziyarid"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+
+
+976.1.1 = {
+	monarch = {
+		name = "Shamsol-Mo'ali Abolhassan Ghaboos Wushmgir"
+		dynasty = "Ziyarid"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1012.1.1 = {
+	monarch = {
+		name = "Falakol-Mo'ali Manuchehr Ghabus"
+		dynasty = "Ziyarid"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1031.1.1 = {
+	monarch = {
+		name = "Anushiravan Manouchehr"
+		dynasty = "Ziyarid"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1379.5.1 = {
+	monarch = {
+		name = "'Adud ud-Dawlah Qubad"
+		dynasty = "Paduspanid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_piety = 0.05
+}
+1399.1.1 = {
+	monarch = {
+		name = "Sa'ad ud-Dawlah Tus"
+		dynasty = "Paduspanid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1404.1.1 = {
+	monarch = {
+		name = "Kayumarth"
+		dynasty = "Paduspanid"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1448.1.1 = {
+	monarch = {
+		name = "Bakir Almaluf"
+		dynasty = "Paduspanid"
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+}
+
+1453.3.1 = {
+	monarch = {
+		name = "Kai-Ka'us II"
+		dynasty = "Paduspanid"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1467.1.1 = {
+	monarch = {
+		name = "Jahangir"
+		dynasty = "Paduspanid"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+
+1499.1.1 = {
+	monarch = {
+		name = "Bisutun II"
+		dynasty = "Paduspanid"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+
+1507.5.1 = {
+	monarch = {
+		name = "Bahman"
+		dynasty = "Paduspanid"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1550.5.1 = {
+	monarch = {
+		name = "Kayumarth II"
+		dynasty = "Paduspanid"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1570.5.1 = {
+	monarch = {
+		name = "Sultan Aziz"
+		dynasty = "Paduspanid"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1580.5.1 = {
+	monarch = {
+		name = "Jahangir II"
+		dynasty = "Paduspanid"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+} # Conquered in 1598 by the Safavids

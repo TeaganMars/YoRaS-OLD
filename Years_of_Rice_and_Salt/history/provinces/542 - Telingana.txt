@@ -1,0 +1,69 @@
+#542 - Warangal
+
+owner = SAT
+controller = SAT
+culture = telegu
+religion = mahayana
+capital = "Warangal"
+trade_goods = dyes
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = SAT
+discovered_by = early_indian
+discovered_by = indian
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = early_chinese
+discovered_by = chinese
+
+220.1.1 = { owner = VAK controller = VAK add_core = VAK remove_core = SAT }
+260.1.1 = { religion = hinduism }
+543.1.1 = { owner = CLY controller = CLY add_core = CLY remove_core = VAK }
+753.1.1 = { owner = RSH controller = RSH add_core = RSH remove_core = CLY }
+800.1.1 = { discovered_by = nomad_group }
+973.1.1 = { owner = CLY controller = CLY add_core = CLY remove_core = RSH }
+1162.1.1 = { owner = KAK controller = KAK add_core = KAK remove_core = CLY }
+1300.1.1 = { fort_15th = yes } #Warangal Fort
+1370.1.1 = { owner = BAH controller = BAH }
+
+1405.1.1 = { add_core = BAH }
+1458.1.1 = { controller = ORI }
+1459.1.1 = {
+		owner = ORI
+	   } # Conquered by Gajapatis
+1467.1.1 = { controller = BAH } #Conquered by Bahmanis
+1468.1.1 = { owner = BAH add_core = BAH } # Conquered by Bahmanis
+1490.1.1 = {
+	remove_core = BAH 
+	owner = GOC
+	controller = GOC
+} # The Breakup of the Bahmani sultanate # Qutb Shahi dynasty
+1498.1.1 = { discovered_by = POR }
+1686.1.1 = { controller = MUG }
+1687.1.1 = { owner = MUG }
+1712.1.1 = { add_core = DEC }	#Viceroyalty of the Deccan
+1724.1.1 = {
+	owner = DEC
+	controller = DEC
+} # Asif Jah declared himself Nizam-al-Mulk
+1751.1.1 = { base_tax = 4 base_production = 4 }
+1775.1.1 = { base_production = 5 base_manpower = 3 }
+
+1801.1.1 = { base_tax = 5 base_manpower = 4 }
+1825.1.1 = { base_tax = 6 base_production = 6 }
+1851.1.1 = { base_production = 7 base_manpower = 5 }
+1875.1.1 = { base_tax = 7 base_production = 8 }
+1901.1.1 = { base_production = 9 base_manpower = 6 }
+1925.1.1 = { base_manpower = 8 }
+1930.1.1  = { add_core = IND }
+1948.9.1  = { owner = IND controller = IND remove_core = DEC }
+1951.1.1 = { base_tax = 8 base_production = 10 }
+1975.1.1 = { base_tax = 10 }
+2000.1.1 = { base_tax = 11 base_production = 11 base_manpower = 10 }
+
+
+

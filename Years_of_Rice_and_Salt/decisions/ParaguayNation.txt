@@ -1,0 +1,71 @@
+country_decisions = {
+
+	paraguay_nation = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			is_nomad = no
+			is_random_new_world = no			
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_la_plata = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			NOT = { exists = PRG }
+			owns_core_province = 2777	# Xeres
+			owns_core_province = 776	# Itenines
+			owns_core_province = 2778	# Melodia
+			owns_core_province = 799	# Chaco Boreal
+		}
+		effect = {
+			change_tag = PRG
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = {
+						is_part_of_hre = yes
+					}
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			colonial_la_plata = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = PRG
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}

@@ -1,0 +1,58 @@
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 329	# Sivas
+
+1336.1.1 = {
+	monarch = {
+		name = "Eretna b Jafar"
+		dynasty = "Eretnid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1352.1.1 = {
+	monarch = {
+		name = "Muhammad I"
+		dynasty = "Eretnid"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+
+1366.1.1 = {
+	monarch = {
+		name = "'Ali"
+		dynasty = "Eretnid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1380.1.1 = {
+	monarch = {
+		name = "Muhammad II Chelebi"
+		dynasty = "Eretnid"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1380.12.1 = {
+	monarch = {
+		name = "Kadi Burhan al-Din"
+		dynasty = "Eretnid"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}

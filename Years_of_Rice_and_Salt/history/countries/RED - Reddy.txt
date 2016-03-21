@@ -1,0 +1,181 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = telegu
+religion = hinduism
+technology_group = early_indian
+capital = 2223 # Addanki
+
+750.1.1 = { technology_group = indian }
+
+1325.1.1 = {
+	monarch = {
+		name = "Prolaya Varma"
+		dynasty = "Reddi"
+		birth_date = 1295.1.1
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+1325.1.1 = {
+	heir = {
+		name = "Anavota"
+		monarch_name = "Anavota"
+		dynasty = "Reddi"
+		birth_date = 1305.1.1
+		death_date = 1364.1.1
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+}
+
+1335.1.1 = {
+	monarch = {
+		name = "Anavota"
+		dynasty = "Reddi"
+		birth_date = 1305.1.1
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+}
+
+1335.1.1 = {
+	heir = {
+		name = "Anavema"
+		monarch_name = "Anavema"
+		dynasty = "Reddi"
+		birth_date = 1334.1.1
+		death_date = 1386.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+}
+
+1364.1.1 = {
+	monarch = {
+		name = "Anavema"
+		dynasty = "Reddi"
+		birth_date = 1334.1.1
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+}
+
+1364.1.1 = {
+	heir = {
+		name = "Kumaragiri"
+		monarch_name = "Kumaragiri"
+		dynasty = "Reddi"
+		birth_date = 1356.1.1
+		death_date = 1395.1.1
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+}
+
+1386.1.1 = {
+	monarch = {
+		name = "Kumaragiri"
+		dynasty = "Reddi"
+		birth_date = 1356.1.1
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+}
+
+1386.1.1 = {
+	heir = {
+		name = "Katya Varma"
+		monarch_name = "Katya Varma"
+		dynasty = "Reddi"
+		birth_date = 1365.1.1
+		death_date = 1403.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1395.1.1 = {
+	monarch = {
+		name = "Katya Varma"
+		dynasty = "Reddi"
+		birth_date = 1365.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1395.1.1 = {
+	heir = {
+		name = "Pedakomati Vema"
+		monarch_name = "Pedakomati Vema"
+		dynasty = "Reddi"
+		birth_date = 1373.1.1
+		death_date = 1420.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1403.1.1 = {
+	monarch = {
+		name = "Pedakomati Vema"
+		dynasty = "Reddi"
+		birth_date = 1373.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1403.1.1 = {
+	heir = {
+		name = "Racha Vema"
+		monarch_name = "Racha Vema"
+		dynasty = "Reddi"
+		birth_date = 1390.1.1
+		death_date = 1434.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+}
+
+1420.1.1 = {
+	monarch = {
+		name = "Racha Vema"
+		dynasty = "Reddi"
+		birth_date = 1390.1.1
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+}
+
+1434.1.1 = {
+	capital = 2228
+	monarch = {
+		name = "Veerabhadra"
+		dynasty = "Reddi"
+		birth_date = 1404.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}

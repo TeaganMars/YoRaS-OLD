@@ -1,0 +1,17 @@
+#1352 - Christmas Island
+
+discovered_by = ATJ
+discovered_by = MLC
+discovered_by = AYU
+discovered_by = MAJ
+discovered_by = BLI
+discovered_by = MKS
+discovered_by = BEI
+discovered_by = early_indian
+discovered_by = indian
+
+1405.1.1 = { discovered_by = MNG }
+1509.1.1 = { discovered_by = POR }
+
+
+

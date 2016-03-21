@@ -1,0 +1,170 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 2
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -2
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -4
+#quality_quantity = -2
+#serfdom_freesubjects = 0
+primary_culture = al_iraqiya_arabic
+religion = shiite
+technology_group = middle_eastern
+capital = 410	# Bagdad
+
+627.1.1 = { technology_group = muslim }
+
+1932.10.3 = {
+	religion = secularism
+	monarch = {
+		name = "Faisal I"
+		dynasty = "Hashemite"
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+
+1932.10.3 = {
+	heir = {
+		name = "Ghazi"
+		monarch_name = "Ghazi I"
+		dynasty = "Hashemite"
+		birth_date = 1910.3.12
+		death_date = 1939.4.4
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}
+
+1933.9.8 = {
+	monarch = {
+		name = "Ghazi I"
+		dynasty = "Hashemite"
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}
+
+1935.5.2 = {
+	heir = {
+		name = "Faisal"
+		monarch_name = "Faisal II"
+		dynasty = "Hashemite"
+		birth_date = 1935.5.2
+		death_date = 1958.7.14
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1939.4.4 = {
+	monarch = {
+		name = "Faisal II"
+		dynasty = "Hashemite"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1958.7.14 = { government = constitutional_republic }
+
+1958.7.14 = {
+	monarch = {
+		name = "Muhammad Najib ar-Ruba'i"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1963.2.8 = {
+	monarch = {
+		name = "Abdul Salam Arif"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1966.4.13 = {
+	monarch = {
+		name = "Abd ar-Rahman al-Bazzaz"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1966.4.16 = {
+	monarch = {
+		name = "Abdul Rahman Arif"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1968.7.17 = {
+	religion = sunni
+	monarch = {
+		name = "Ahmed Hassan al-Bakr"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1979.7.16 = {
+	monarch = {
+		name = "Saddam Hussein"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+2003.4.21 = {
+	religion = shiite
+	monarch = {
+		name = "(coalition provisional authority)"
+		regent = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+2004.6.28 = {
+	monarch = {
+		name = "Ghazi Mashal Ajil al-Yawer"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+2005.4.7 = {
+	monarch = {
+		name = "Jalal Talabani"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+2014.7.24 = {
+	monarch = {
+		name = "Fuad Masum"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}

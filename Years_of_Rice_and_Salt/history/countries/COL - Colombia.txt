@@ -1,0 +1,958 @@
+government = revolutionary_republic
+mercantilism = 0.1
+technology_group = western
+religion = catholic
+primary_culture = castillian
+capital = 825	# Bogota
+
+
+1810.7.20 = {
+	monarch = {
+		name = "José Miguel Pey de Andrade"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1811.4.1 = {
+	monarch = {
+		name = "Jorge Tadeo Lozano"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+# Triumvirate of the United Provinces of New Granada
+1814.10.5 = {
+	monarch = {
+		name = "José Fernández Madrid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1814.11.23 = {
+	monarch = {
+		name = "Custodio García Rovira"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1815.7.28 = {
+	monarch = {
+		name = "Antonio Villavicencio"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1819.2.15 = {
+	monarch = {
+		name = "Simón Bolívar"
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+}
+
+1821.12.13 = {
+	monarch = {
+		name = "Francisco de Paula Santander"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1826.11.14 = {
+	monarch = {
+		name = "Simón Bolívar"
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+}
+
+1829.11.10 = {
+	monarch = {
+		name = "Estanislao Vergara"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1829.12.10 = {
+	monarch = {
+		name = "Simón Bolívar"
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+}
+
+1830.5.4 = {
+	government = constitutional_republic
+	government_rank = 2
+	monarch = {
+		name = "Domingo de Caycedo"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1830.6.13 = {
+	monarch = {
+		name = "Joaquín Mosquera"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1830.9.4 = {
+	monarch = {
+		name = "Rafael Urdaneta"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1831.4.30 = {
+	monarch = {
+		name = "José Miguel Pey"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+1831.5.2 = {
+	monarch = {
+		name = "Domingo de Caycedo"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1831.11.23 = {
+	monarch = {
+		name = "José María Obando"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1832.3.10 = {
+	monarch = {
+		name = "José Ignacio"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1832.10.7 = {
+	monarch = {
+		name = "Francisco de Paula Santander"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1837.4.1 = {
+	monarch = {
+		name = "José Ignacio"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1841.4.1 = {
+	monarch = {
+		name = "Pedro Alcántara"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1841.7.5 = {
+	monarch = {
+		name = "Juan de Dios"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1842.5.19 = {
+	monarch = {
+		name = "Pedro Alcántara"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1845.4.1 = {
+	monarch = {
+		name = "Tomás Cipriano"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1847.8.14 = {
+	monarch = {
+		name = "Rufino Cuervo"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1847.12.14 = {
+	monarch = {
+		name = "Tomás Cipriano"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1849.4.1 = {
+	monarch = {
+		name = "José Hilario"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1853.4.1 = {
+	monarch = {
+		name = "José María Obando"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1854.4.17 = {
+	monarch = {
+		name = "José María Melo"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1854.12.4 = {
+	monarch = {
+		name = "José de Obaldia"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1855.4.1 = {
+	monarch = {
+		name = "Manuel María Mallarino"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1857.4.1 = {
+	monarch = {
+		name = "Mariano Ospina Rodríguez"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1861.4.1 = {
+	monarch = {
+		name = "Bartolomé Calvo Díaz"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1861.7.10 = {
+	monarch = {
+		name = "Julio Arboleda Pombo"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1861.7.18 = {
+	monarch = {
+		name = "Ignacio Gutiérrez"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1862.1.18 = {
+	monarch = {
+		name = "Leonardo Canal González"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1862.11.6 = {
+	monarch = {
+		name = "Tomás Cipriano"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1863.2.4 = {
+	monarch = {
+		name = "Francisco Javier Zaldúa"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1863.2.10 = {
+	monarch = {
+		name = "José Hilario"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1863.5.14 = {
+	monarch = {
+		name = "Tomás Cipriano"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1864.1.29 = {
+	monarch = {
+		name = "Juan Agustín"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1864.2.28 = {
+	monarch = {
+		name = "Tomás Cipriano"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1864.4.8 = {
+	monarch = {
+		name = "Manuel Murillo Toro"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1866.4.1 = {
+	monarch = {
+		name = "José María Rojas Garrido"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1866.5.22 = {
+	monarch = {
+		name = "Tomás Cipriano"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1867.5.23 = {
+	monarch = {
+		name = "Joaquín Riascos García"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1867.6.28 = {
+	monarch = {
+		name = "Santos Acosta Castillo"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1868.4.1 = {
+	monarch = {
+		name = "Santos Gutiérrez Prieto"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1868.12.21 = {
+	monarch = {
+		name = "Salvador Camacho Roldán"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1869.1.2 = {
+	monarch = {
+		name = "Santos Gutiérrez Prieto"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1870.4.1 = {
+	monarch = {
+		name = "Eustorgio Salgar Moreno"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1872.4.1 = {
+	monarch = {
+		name = "Manuel Murillo Toro"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1874.4.1 = {
+	monarch = {
+		name = "Santiago Pérez"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1876.4.1 = {
+	monarch = {
+		name = "Aquileo Parra Gómez"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1877.5.19 = {
+	monarch = {
+		name = "José Sergio Camargo Pinzón"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1877.8.14 = {
+	monarch = {
+		name = "Aquileo Parra Gómez"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1877.12.22 = {
+	monarch = {
+		name = "Manuel María Ramírez Fortoul"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1877.12.24 = {
+	monarch = {
+		name = "Aquileo Parra Gómez"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1878.4.1 = {
+	monarch = {
+		name = "Julián Trujillo Largacha"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1880.4.8 = {
+	monarch = {
+		name = "Rafael Núñez Moledo"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1882.4.1 = {
+	monarch = {
+		name = "Francisco Javier Zaldúa"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1882.12.21 = {
+	monarch = {
+		name = "Clímaco Calderón Reyes"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1882.12.22 = {
+	monarch = {
+		name = "José Eusebio Otálora Martínez"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1884.4.1 = {
+	monarch = {
+		name = "Ezequiel Hurtado"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1884.8.11 = {
+	monarch = {
+		name = "Rafael Núñez Moledo"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1886.4.1 = {
+	monarch = {
+		name = "José María Campo Serrano"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1887.1.5 = {
+	monarch = {
+		name = "Eliseo Payán Hurtado"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1887.6.4 = {
+	monarch = {
+		name = "Rafael Núñez Moledo"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1887.12.12 = {
+	monarch = {
+		name = "Eliseo Payán Hurtado"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1888.2.8 = {
+	monarch = {
+		name = "Rafael Núñez Moledo"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1888.8.7 = {
+	monarch = {
+		name = "Carlos Holguín Mallarino"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1892.8.7 = {
+	monarch = {
+		name = "Miguel Antonio Caro Tobar"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1898.8.7 = {
+	monarch = {
+		name = "Manuel Antonio Sanclemente"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1900.7.31 = {
+	monarch = {
+		name = "José Manuel Marroquín Ricaurte"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1904.8.7 = {
+	monarch = {
+		name = "Rafael Reyes Prieto"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1909.7.27 = {
+	monarch = {
+		name = "Jorge Holguín Mallarino"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1909.8.4 = {
+	monarch = {
+		name = "Ramón González Valencia"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1910.1.1 = { religion = secularism }
+
+1910.8.7 = {
+	monarch = {
+		name = "Carlos Eugenio Restrepo"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1914.8.7 = {
+	monarch = {
+		name = "José Vicente Concha Ferreira"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1918.8.10 = {
+	monarch = {
+		name = "Marco Fidel Suárez"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1921.11.11 = {
+	monarch = {
+		name = "Jorge Holguín Mallarino"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1922.8.7 = {
+	monarch = {
+		name = "Pedro Nel Ospina Vázquez"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1926.8.7 = {
+	monarch = {
+		name = "Miguel Abadía Méndez"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1930.8.7 = {
+	monarch = {
+		name = "Enrique Olaya Herrera"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1934.8.7 = {
+	monarch = {
+		name = "Alfonso López Pumarejo"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1938.8.7 = {
+	monarch = {
+		name = "Eduardo Santos Montejo"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1942.8.7 = {
+	monarch = {
+		name = "Alfonso López Pumarejo"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1945.8.7 = {
+	monarch = {
+		name = "Alberto Lleras Camargo"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1946.8.7 = {
+	monarch = {
+		name = "Mariano Ospina Pérez"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1950.8.7 = {
+	monarch = {
+		name = "Laureano Gómez Castro"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1951.11.5 = {
+	monarch = {
+		name = "Roberto Urdaneta Arbeláez"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1953.6.13 = {
+	monarch = {
+		name = "Gustavo Rojas Pinilla"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1957.5.10 = {
+	monarch = {
+		name = "(Military Junta)"
+		regent = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1958.8.7 = {
+	monarch = {
+		name = "Alberto Lleras Camargo"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1962.8.7 = {
+	monarch = {
+		name = "Guillermo León Velancia Muñóz"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1966.8.7 = {
+	monarch = {
+		name = "Carlos Lleras Restrepo"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1970.8.7 = {
+	monarch = {
+		name = "Misael Pastrana Borrero"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1974.8.7 = {
+	monarch = {
+		name = "Alfonso López Michelsen"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1978.8.7 = {
+	monarch = {
+		name = "Julio César Turbay Ayala"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1982.8.7 = {
+	monarch = {
+		name = "Belisario Betancue Cuartas"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1986.8.7 = {
+	monarch = {
+		name = "Virgillo Barco Vargas"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1990.8.7 = {
+	monarch = {
+		name = "César Gaviria Trujillo"
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+}
+
+1994.8.7 = {
+	monarch = {
+		name = "Ernesto Samper Pizano"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1998.8.7 = {
+	monarch = {
+		name = "Andrés Pastrana Arango"
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+
+2002.8.7 = {
+	monarch = {
+		name = "Álvaro Uribe Vélez"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+2010.8.7 = {
+	monarch = {
+		name = "Juan Manuel Santos Calderón"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}

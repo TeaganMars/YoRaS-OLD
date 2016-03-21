@@ -1,0 +1,24 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -4
+#centralization_decentralization = -2
+#innovative_narrowminded = -3
+#mercantilism_freetrade = -1
+mercantilism = 0.1
+#offensive_defensive = -3
+#land_naval = -2
+#quality_quantity = -1
+#serfdom_freesubjects = 3
+primary_culture = cosmopolitan_french
+religion = catholic
+technology_group = western
+capital = 190	# Vichy
+
+1940.6.14 = {
+	monarch = {
+		name = "Philippe Pétain"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+

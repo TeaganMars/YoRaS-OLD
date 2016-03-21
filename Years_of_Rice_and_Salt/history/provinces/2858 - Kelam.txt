@@ -1,0 +1,54 @@
+#2858 - Kelam
+
+culture = polynesian
+religion = animism
+capital = "Kelang"
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+native_size = 60
+native_ferocity = 1
+native_hostileness = 5
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+
+1521.1.1 = { discovered_by = SPA }
+
+1709.1.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+	remove_core = MNG
+	capital = "Taipei"
+	culture = chimin
+	trade_goods = chinaware
+	is_city = yes
+	religion = confucianism
+} # Submitted to Manchu control
+1751.1.1 = { base_tax = 6 base_production = 7 base_manpower = 10 }
+1775.1.1 = { base_tax = 12 base_production = 11 base_manpower = 19 }
+1786.1.1 = { unrest = 5 } # Rebellion
+1788.1.1 = { unrest = 0 }
+
+1801.1.1 = { base_tax = 18 base_production = 19 base_manpower = 24 }
+1825.1.1 = { base_tax = 27 base_production = 23 base_manpower = 29 }
+1851.1.1 = { base_tax = 32 base_production = 33 base_manpower = 33 }
+1875.1.1 = { base_tax = 39 base_production = 37 base_manpower = 41 }
+1895.4.17  = { owner = JAP controller = JAP add_core = JAP }
+1901.1.1 = { base_tax = 42 base_production = 43 base_manpower = 50 }
+1912.2.12  = { remove_core = QNG add_core = CHN }
+1925.1.1 = { base_tax = 49 base_production = 49 base_manpower = 56 }
+1945.8.15  = { owner = CHN controller = CHN remove_core = JAP }
+1949.10.1  = { owner = TWN controller = TWN add_core = TWN }
+1951.1.1 = { base_tax = 52 base_production = 59 base_manpower = 62 }
+1975.1.1 = { base_tax = 58 base_production = 66 base_manpower = 67 }
+2000.1.1 = { base_tax = 77 base_production = 76 base_manpower = 76 }
+
+
+

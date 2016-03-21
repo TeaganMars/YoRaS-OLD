@@ -1,0 +1,26 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -3
+#land_naval = -4
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = roman
+religion = arianism
+technology_group = western
+capital = 114	# Ravenna
+
+
+476.9.4 = {
+	monarch = {
+		name = "Odoacer"
+		dynasty = "of Italy"
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+

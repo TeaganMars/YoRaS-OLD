@@ -1,0 +1,180 @@
+
+large_empire = {
+	potential = {
+		NOT = { adm_tech = 32 }
+	}
+
+	trigger = {
+		OR = {
+			AND = {
+				NOT = { adm_tech = 19 }
+				num_of_cities = 80
+				NOT = { num_of_cities = 160 }
+			}
+			AND = {
+				adm_tech = 19
+				NOT = { adm_tech = 32 }
+				num_of_cities = 160
+			}
+		}
+	}
+
+	land_forcelimit_modifier = -0.2
+	global_manpower_modifier = -0.2
+	global_tax_modifier = -0.1
+	global_unrest = 1
+	stability_cost_modifier = 0.20
+}
+
+huge_empire = {
+	potential = {
+		NOT = { adm_tech = 19 }
+	}
+
+	trigger = {
+		NOT = { adm_tech = 19 }
+		num_of_cities = 160
+	}
+
+	land_forcelimit_modifier = -0.4
+	global_manpower_modifier = -0.4
+	global_tax_modifier = -0.2
+	global_unrest = 2
+	stability_cost_modifier = 0.40
+}
+
+primitive_government = {
+	potential = {
+		government = barbarian_tribe
+	}
+
+	trigger = {
+		government = barbarian_tribe
+		adm_tech = 21
+	}
+
+	land_forcelimit_modifier = -0.5
+	global_manpower_modifier = -0.5
+	global_regiment_cost = 0.4
+	technology_cost = 0.5
+	global_unrest = 1
+}
+
+large_tribe = {
+	potential = {
+		government = native_council
+	}
+
+	trigger = {
+		government = native_council
+		num_of_cities = 8
+	}
+
+	colonist_placement_chance = -10
+}
+
+classical_era = {
+	potential = {
+		NOT = { adm_tech = 18 }
+	}
+
+	trigger = {
+		NOT = { adm_tech = 18 }
+	}
+
+	discipline = -0.1
+	naval_forcelimit_modifier = -0.5
+	envoy_travel_time = 0.2
+	diplomatic_upkeep = -2
+	development_cost = 2
+	culture_conversion_cost = 1
+}
+
+medieval_era = {
+	potential = {
+		NOT = { adm_tech = 47 }
+	}
+
+	trigger = {
+		adm_tech = 18
+		NOT = { adm_tech = 47 }
+	}
+
+	discipline = -0.05
+	naval_forcelimit_modifier = -0.25
+	envoy_travel_time = 0.1
+	diplomatic_upkeep = -1
+	development_cost = 1
+	culture_conversion_cost = 0.75
+}
+
+industrial_era = {
+	potential = {
+		NOT = { adm_tech = 84 }
+	}
+
+	trigger = {
+		adm_tech = 77
+		NOT = { adm_tech = 84 }
+	}
+
+	envoy_travel_time = -0.4
+	diplomatic_upkeep = 3
+	free_leader_pool = 1
+	siege_ability = 0.50
+	technology_cost = 0.15
+	development_cost = -0.15
+	culture_conversion_cost = -0.15
+	land_maintenance_modifier = 0.3
+}
+
+modern_times = {
+	potential = {
+		always = yes
+	}
+
+	trigger = {
+		adm_tech = 84
+	}
+
+	envoy_travel_time = -0.8
+	diplomatic_upkeep = 6
+	free_leader_pool = 2
+	siege_ability = 1
+	technology_cost = 0.3
+	development_cost = -0.3
+	culture_conversion_cost = -0.3
+	land_maintenance_modifier = 0.6
+}
+
+the_polar_bear_emperor = {
+	potential = {
+		tag = JMN
+	}
+
+	trigger = {
+		tag = JMN
+		emperor = yes
+	}
+
+	heir_chance = -100
+	global_tax_modifier = -1
+	papal_influence = -10
+	imperial_authority = -10
+	diplomatic_reputation = -100
+}
+
+ai_rome = {
+	potential = {
+		ai = yes
+		tag = ROM
+	}
+
+	trigger = {
+		ai = yes
+		tag = ROM
+		NOT = { is_year = 400 }
+	}
+
+	global_unrest = -2
+}

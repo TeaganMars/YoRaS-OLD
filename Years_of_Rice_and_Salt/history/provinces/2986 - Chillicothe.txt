@@ -1,0 +1,57 @@
+#2986 - Chillicothe
+
+owner = SHA
+controller = SHA
+add_core = SHA
+is_city = yes
+culture = shawnee
+religion = totemism
+capital = "Chillicothe"
+trade_goods = fur
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1656.1.1  = { 	owner = IRO
+		controller = IRO
+		citysize = 100
+		culture = iroquois } #Taken by Iroquois in Beaver Wars.
+1659.1.1  = { discovered_by = FRA } # Médard Chouart Des Groseilliers
+1671.1.1  = { discovered_by = ENG } # Abraham Wood
+1701.8.14 = {	owner = XXX
+		controller = XXX
+		citysize = 0
+		remove_core = SHA
+		culture = shawnee } #Vast areas left deserted after the Beaver Wars and the Iroquois withdrawal
+1707.5.12 = { discovered_by = GBR }
+1730.1.1  = {	owner = SHA
+		controller = SHA
+		add_core = SHA
+		is_city = yes } #Shawnee begins drifting northward again, back toward Ohio
+1750.1.1 = { base_tax = 3 base_production = 4 base_manpower = 2 }
+1775.1.1 = { base_tax = 6 base_production = 5 base_manpower = 5 }
+1795.8.3  = { 	owner = USA
+		controller = USA
+		add_core = USA
+		culture = american
+		religion = protestant
+	    } # Treaty of Greenville, much of Ohio ceded by Natives.
+1800.1.1 = { base_tax = 9 base_production = 6 base_manpower = 8 }
+1802.1.1  = { capital = "Cincinnati" }
+
+
+
+
+1825.1.1 = { base_tax = 11 base_production = 9 base_manpower = 9 }
+1850.1.1 = { base_tax = 12 base_production = 13 base_manpower = 11 }
+1875.1.1 = { base_tax = 15 base_production = 15 base_manpower = 13 }
+1900.1.1 = { base_tax = 16 base_production = 17 base_manpower = 16 }
+1925.1.1 = { base_tax = 18 base_production = 18 base_manpower = 20 }
+1950.1.1 = { base_tax = 20 base_production = 22 base_manpower = 21 }
+1975.1.1 = { base_tax = 22 base_production = 24 base_manpower = 23 }
+2000.1.1 = { base_tax = 28 base_production = 28 base_manpower = 27 }

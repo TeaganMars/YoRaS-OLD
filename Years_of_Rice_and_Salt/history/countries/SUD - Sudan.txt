@@ -1,0 +1,101 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = nubian
+religion = sunni
+technology_group = muslim
+capital = 2667 #Khartoum
+
+1956.1.1 = {
+	monarch = {
+		name = "Sovereignty Council"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1958.11.18 = {
+	monarch = {
+		name = "Ibrahim Abboud"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1964.11.16 = {
+	monarch = {
+		name = "Sirr Al-Khatim Al-Khalifa"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1964.12.3 = {
+	monarch = {
+		name = "Committee of Sovereignty"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1966.7.8 = {
+	monarch = {
+		name = "Ismail al-Azhari"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1969.5.25 = {
+	monarch = {
+		name = "Gaafar Nimeiry"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1985.4.6 = {
+	government = revolutionary_republic
+	government_rank = 3
+	monarch = {
+		name = "Abdel Rahman Swar al-Dahab"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1986.5.6 = {
+	monarch = {
+		name = "Ahmed al-Mirghani"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1989.6.30 = {
+	monarch = {
+		name = "Omar al-Bashir"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1993.10.16 = { government = constitutional_republic government_rank = 2 }

@@ -1,0 +1,81 @@
+#1938 - Wizna
+
+owner = GCR
+controller = GCR
+add_core = GCR
+is_city = yes
+capital = "Wizna"
+culture = gothic
+religion = germanic
+trade_goods = cloth
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = GCR
+discovered_by = PRS
+
+190.1.1 = { owner = PRS controller = PRS add_core = PRS remove_core = GCR culture = old_prussian religion = romuva }
+500.1.1 = { discovered_by = western discovered_by = eastern }
+750.1.1 = { owner = POL controller = POL add_core = POL remove_core = PRS culture = polish religion = slavic }
+1000.1.1 = { religion = catholic discovered_by = muslim discovered_by = ottoman }
+1100.1.1 = { base_tax = 2 base_production = 2 }
+1138.1.1 = { owner = MAZ controller = MAZ add_core = MAZ }
+1146.1.1 = { owner = POL controller = POL }
+1173.4.3 = { owner = MAZ controller = MAZ }
+1186.1.1 = { owner = POL controller = POL }
+1194.5.5 = { owner = MAZ controller = MAZ }
+1229.1.1 = { owner = POL controller = POL }
+1232.1.1 = { owner = MAZ controller = MAZ }
+1241.4.9 = { owner = POL controller = POL }
+1243.1.1 = { owner = MAZ controller = MAZ remove_core = POL }
+
+1526.3.9   = {	owner = POL
+		controller = POL
+		add_core = POL
+		remove_core = MAZ
+	     }
+1569.7.1   = {	owner = PLC
+		controller = PLC
+		remove_core = POL
+		add_core = PLC
+		} # Union of Lublin
+1588.1.1   = { revolt = { type = revolutionary_rebels size = 3 } controller = REB } # Civil war, Polish succession
+1589.1.1   = { revolt = {} controller = PLC } # Coronation of Sigismund III
+1656.7.28  = { controller = SWE } # Battle of Warsaw, against Sweden & Brandenburg
+1660.1.1   = { controller = PLC } # End of Northern war
+1702.5.1   = { controller = SWE } # Occupied again
+1706.9.24  = { controller = PLC } # Treaty of Altranstadt
+1733.1.1   = { revolt = { type = revolutionary_rebels size = 3 } controller = REB } # The war of Polish succession
+1735.1.1   = { revolt = {} controller = PLC }
+1750.1.1   = { citysize = 2200 } # Several waves of rural & Dutch settlers
+1768.2.29  = { unrest = 8 } # Uprisings against the Polish king & Russia
+1772.8.18  = { unrest = 0 } # Uprisings suppressed by Russian troops
+1785.1.1 = { base_tax = 3 }
+1794.3.24  = { unrest = 5 } # Kosciuszko uprising
+1794.11.5  = { unrest = 0 } # Kosciuszko is captured
+1795.10.24 = { owner = PRU controller = PRU add_core = PRU } # Third partition of Poland
+1806.11.3  = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Polish uprising instigated by Napoleon
+1807.7.9   = {	revolt = {}
+		owner = POL
+		controller = POL
+		add_core = POL
+		remove_core = PLC
+	     	remove_core = PRU
+	     } # The Duchy of Warsaw is established after the treaty of Tilsit, ruled by Frederick Augustus I of Saxony
+1812.12.12 = { controller = RUS }
+1814.4.11  = {	owner = RUS
+		add_core = RUS
+	     } # Congress Poland, under Russian control after the Congress of Vienna
+
+1830.1.1   = { citysize = 139700 capital = "Lomza" }
+1845.1.1 = { base_tax = 4 }
+1905.1.1 = { base_manpower = 2 }
+1915.8.1   = { controller = GER }
+1918.3.3   = { owner = POL controller = POL remove_core = RUS }
+1939.10.6  = { owner = GER controller = GER }
+1945.1.17  = { controller = SOV }
+1945.5.8   = { owner = POL controller = POL }
+
+
+2000.1.1 = { base_production = 4 }

@@ -1,0 +1,123 @@
+government = oligarchic_republic
+#aristocracy_plutocracy = 1
+#centralization_decentralization = 4
+#innovative_narrowminded = -1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = 1
+#quality_quantity = -1
+#serfdom_freesubjects = -2
+primary_culture = tuscan
+religion = catholic
+technology_group = western
+capital = 115	# Pisa
+
+1005.1.1 = {
+	monarch = {
+		name = "Guido"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1039.1.1 = {
+	monarch = {
+		name = "Oppizo"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1077.1.1 = {
+	monarch = {
+		name = "Gerardo"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1105.1.1 = {
+	monarch = {
+		name = "Pietro Moriconi"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1135.1.1 = {
+	monarch = {
+		name = "Bernard de Clairvaux"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1170.1.1 = {
+	monarch = {
+		name = "Alberto Visconti"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1184.1.1 = {
+	monarch = {
+		name = "Eldizio Visconti"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1208.1.1 = {
+	monarch = {
+		name = "Lotario Rosario"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1250.1.1 = {
+	monarch = {
+		name = "Federico Visconti"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1320.1.1 = {
+	monarch = {
+		name = "Bonifazio di Donotatico"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1380.1.1 = {
+	monarch = {
+		name = "Gabriele Maria Visconti"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1494.1.1 = {
+	monarch = {
+		name = "Simone Orlandi"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+

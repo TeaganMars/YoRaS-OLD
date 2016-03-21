@@ -1,0 +1,59 @@
+#2481 - Shanyin
+
+owner = HND
+controller = HND
+culture = wu
+religion = confucianism
+capital = "Shaoxin"
+trade_goods = tea
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 2
+is_city = yes
+add_core = HND
+add_core = WUU
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+
+220.1.1 = { owner = WUU controller = WUU add_core = WUU remove_core = HND }
+280.3.15 = { owner = JIN controller = JIN add_core = JIN remove_core = WUU }
+420.1.1 = { owner = LSO controller = LSO add_core = LSO remove_core = JIN }
+479.1.1 = { owner = QIC controller = QIC add_core = QIC remove_core = LSO }
+502.1.1 = { owner = LNG controller = LNG add_core = LNG remove_core = QIC }
+557.1.1 = { owner = CEN controller = CEN add_core = CEN remove_core = LNG }
+589.3.4 = { owner = SUI controller = SUI add_core = SUI remove_core = CEN }
+618.6.18 = { owner = TNG controller = TNG add_core = TNG remove_core = SUI }
+907.6.1 = { owner = WUY controller = WUY add_core = WUY remove_core = TNG }
+978.1.1 = { owner = SNG controller = SNG add_core = SNG remove_core = WUY }
+1279.3.19 = { owner = YUA controller = YUA add_core = YUA add_core = CZH remove_core = SNG }
+1368.1.1 = { owner = KHA controller = KHA add_core = KHA remove_core = YUA }
+1382.1.1 = { owner = MNG controller = MNG add_core = MNG remove_core = KHA }
+
+1519.1.1 = { discovered_by = POR } # Tome Pires
+1646.2.1 = {	owner = QNG
+		controller = QNG
+		add_core = QNG
+		}
+
+1750.1.1 = { base_tax = 7 base_manpower = 4 }
+1775.1.1 = { base_manpower = 7 }
+1800.1.1 = { base_tax = 8 base_production = 8 base_manpower = 8 }
+1825.1.1 = { base_production = 10 base_manpower = 9 }
+1850.1.1 = { base_tax = 10 base_production = 11 base_manpower = 10 }
+1875.1.1 = { base_tax = 12 base_manpower = 11 }
+1900.1.1 = { base_production = 13 base_manpower = 12 }
+1911.11.4  = { revolt = { type = revolutionary_rebels size = 1 } controller = REB }
+1912.2.12  = { revolt = {} owner = CHN controller = CHN add_core = CHN remove_core = QNG remove_core = CZH }
+1924.11.3  = { revolt = { type = zhili_clique size = 0 } controller = REB }
+1927.4.18  = { revolt = {} controller = CHN }
+1929.1.1 = { base_tax = 13 base_production = 14 base_manpower = 14 }
+1937.11.26 = { controller = JAP }
+1945.8.15  = { controller = CHN }
+1949.1.10  = { revolt = { type = communist_rebels size = 0 } controller = REB }
+1949.10.1  = { revolt = {} controller = CHN }
+1950.1.1 = { base_tax = 15 base_production = 15 }
+1975.1.1 = { base_tax = 16 base_production = 16 base_manpower = 16 }
+2000.1.1 = { base_tax = 18 base_production = 18 base_manpower = 19 }

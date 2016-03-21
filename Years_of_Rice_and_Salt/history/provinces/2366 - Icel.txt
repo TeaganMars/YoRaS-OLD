@@ -1,0 +1,65 @@
+#2366 - Icel
+
+owner = CAP
+controller = CAP
+culture = cappadocian
+religion = hellenism
+capital = "Zephyrium"
+trade_goods = naval_supplies
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = CAP
+discovered_by = western
+discovered_by = barbarian
+discovered_by = eastern
+discovered_by = roman_group
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = western_nomad_group
+discovered_by = nomad_group
+discovered_by = ottoman
+
+18.1.1 = { owner = ROM controller = ROM add_core = ROM }
+350.1.1 = { religion = chalcedonism }
+395.1.17 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROM } # Final division of the empire
+867.1.1 = { religion = orthodox }
+950.1.1 = { culture = greek }
+1000.1.1 = { base_manpower = 3 }
+1120.1.1 = { owner = RUM controller = RUM add_core = RUM culture = turkish fort_15th = yes }
+1198.1.1 = { owner = ARM controller = ARM add_core = ARM remove_core = RUM }
+1256.1.1 = { owner = RUM controller = RUM add_core = RUM remove_core = ARM capital = "Ermenek" }
+1270.1.1 = { religion = sunni remove_core = BYZ }
+1275.1.1 = { owner = KAR controller = KAR add_core = KAR remove_core = RUM }
+1350.1.1 = { add_core = TUR }
+
+1444.1.1 = { add_core = TUR }
+1483.1.1 = {
+	owner = TUR
+	controller = TUR
+	add_core = TUR
+}
+1509.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Civil war
+1513.1.1 = { revolt = {} controller = TUR }
+1658.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Revolt of Abaza Hasan Pasha, centered on Aleppo, extending into Anatolia
+1659.1.1 = { revolt = {} controller = TUR }
+1740.1.1 = { base_tax = 1 base_production = 1 } # The decentralizing effect of the provincial system
+
+1750.1.1 = { base_production = 2 }
+1775.1.1 = { base_manpower = 4 }
+1800.1.1 = { base_manpower = 5 }
+1825.1.1 = { base_tax = 2 }
+1850.1.1   = { citysize = 30000 remove_core = KAR capital = "Icel" }
+1851.1.1 = { base_production = 3 }
+1875.1.1 = { base_manpower = 6 }
+1901.1.1 = { base_tax = 3 }
+1922.11.1  = { owner = TKY controller = TKY add_core = TKY remove_core = TUR }
+1925.1.1 = { base_production = 4 }
+1951.1.1 = { base_tax = 4 }
+1975.1.1 = { base_tax = 5 }
+2000.1.1 = { base_tax = 6 base_production = 6 }
+
+
+

@@ -1,0 +1,133 @@
+government = barbarian_tribe
+government_rank = 1
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 5
+#innovative_narrowminded = 2
+#mercantilism_freetrade = 0
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -1
+#quality_quantity = 1
+#serfdom_freesubjects = -2
+technology_group = barbarian
+primary_culture = welsh
+religion = druidism
+capital = 241	# Glamorgan
+
+410.1.1 = { government = feudal_monarchy }
+
+410.1.1 = {
+	monarch = {
+		name = "Triffyn Farfog"
+		dynasty = "ap Allmuir"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+437.1.1 = {
+	monarch = {
+		name = "Aergon Lawhir"
+		dynasty = "ap Allmuir"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+
+475.1.1 = {
+	monarch = {
+		name = "Gwrthefyr"
+		dynasty = "ap Dyfed"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+536.1.1 = { technology_group = western }
+
+540.1.1 = {
+	monarch = {
+		name = "Arthwyr"
+		dynasty = "ap Dyfed"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+600.1.1 = {
+	monarch = {
+		name = "Cloten"
+		dynasty = "ap Dyfed"
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+660.1.1 = {
+	religion = chalcedonism
+	monarch = {
+		name = "Rhein"
+		dynasty = "ap Dyfed"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+710.1.1 = {
+	monarch = {
+		name = "Tewdos"
+		dynasty = "ap Dyfed"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+771.1.1 = {
+	monarch = {
+		name = "Owain"
+		dynasty = "ap Dyfed"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+815.1.1 = {
+	monarch = {
+		name = "Hyfaidd"
+		dynasty = "ap Hyfaidd"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+867.1.1 = { religion = catholic }
+
+893.1.1 = {
+	monarch = {
+		name = "Llywarch"
+		dynasty = "ap Hyfaidd"
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+}
+
+905.1.1 = {
+	monarch = {
+		name = "Hywel Dda"
+		dynasty = "ap Dywed"
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}

@@ -1,0 +1,59 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = tamil
+religion = hinduism
+technology_group = early_indian
+capital = 535
+
+2.1.1 = {
+	monarch = {
+		name = "Ay Antiran"
+		dynasty = "Ay"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+60.1.1 = {
+	monarch = {
+		name = "Titiyan"
+		dynasty = "Ay"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+120.1.1 = {
+	monarch = {
+		name = "Atiyan"
+		dynasty = "Ay"
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+
+750.1.1 = { technology_group = indian }
+
+857.1.1 = {
+	monarch = {
+		name = "Karunandadakkan"
+		dynasty = "Ay"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+885.6.1 = {
+	monarch = {
+		name = "Vikramaditya Varaguna"
+		dynasty = "Ay"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+

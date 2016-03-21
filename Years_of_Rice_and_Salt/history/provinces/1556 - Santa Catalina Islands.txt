@@ -1,0 +1,6 @@
+#1556 - Santa Catalina Islands
+
+1542.1.1 = { discovered_by = SPA }
+
+
+

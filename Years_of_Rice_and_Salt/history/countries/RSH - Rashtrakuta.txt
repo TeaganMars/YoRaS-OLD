@@ -1,0 +1,157 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 2
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = kannada
+religion = jainism
+technology_group = early_indian
+capital = 2225	# Manyakheta
+
+750.1.1 = { technology_group = indian }
+
+753.1.1 = {
+	monarch = {
+		name = "Dantidurga I"
+		dynasty = "Rashtrakuta"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+756.1.1 = {
+	monarch = {
+		name = "Krishna I"
+		dynasty = "Rashtrakuta"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+774.1.1 = {
+	monarch = {
+		name = "Govinda II"
+		dynasty = "Rashtrakuta"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+780.1.1 = {
+	monarch = {
+		name = "Dhruva Dharavarsha I"
+		dynasty = "Rashtrakuta"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+793.1.1 = {
+	monarch = {
+		name = "Govinda III"
+		dynasty = "Rashtrakuta"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+814.1.1 = {
+	monarch = {
+		name = "Amoghavarsha I"
+		dynasty = "Rashtrakuta"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+878.1.1 = {
+	monarch = {
+		name = "Krishna II"
+		dynasty = "Rashtrakuta"
+		adm = 2
+		mil = 2
+		dip = 4
+	}
+}
+
+914.1.1 = {
+	monarch = {
+		name = "Indra III"
+		dynasty = "Rashtrakuta"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+929.1.1 = {
+	monarch = {
+		name = "Amoghavarsha II"
+		dynasty = "Rashtrakuta"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+930.1.1 = {
+	monarch = {
+		name = "Govinda IV"
+		dynasty = "Rashtrakuta"
+		adm = 2
+		mil = 3
+		dip = 3
+	}
+}
+
+936.1.1 = {
+	monarch = {
+		name = "Amoghavarsha III"
+		dynasty = "Rashtrakuta"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+939.1.1 = {
+	monarch = {
+		name = "Krishna III"
+		dynasty = "Rashtrakuta"
+		adm = 2
+		mil = 3
+		dip = 3
+	}
+}
+
+967.1.1 = {
+	monarch = {
+		name = "Khottiga Amoghavarsha I"
+		dynasty = "Rashtrakuta"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+
+972.1.1 = {
+	monarch = {
+		name = "Karka II"
+		dynasty = "Rashtrakuta"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}

@@ -1,0 +1,85 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = lao
+religion = buddhism
+technology_group = early_chinese
+capital = 614	# Vientiane
+
+750.1.1 = { technology_group = chinese }
+
+1900.1.1 = { government = constitutional_monarchy }
+1910.1.1 = { religion = secularism }
+1915.1.1 = { technology_group = asian }
+
+1953.10.22 = {
+	monarch = {
+		name = "Sisavang Vong"
+		dynasty = "Luang Phrabang"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1959.10.20 = {
+	monarch = {
+		name = "Sisavang Vatthana"
+		dynasty = "Luang Phrabang"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+1975.12.2 = { government = socialist_republic
+	monarch = {
+		name = "Souphanouvong"
+		adm = 2
+		mil = 4
+		dip = 2
+	}
+}
+
+1991.8.15 = {
+	monarch = {
+		name = "Kaysone Phomvilane"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1992.11.25 = {
+	monarch = {
+		name = "Nouhak Phoumsavanh"
+		adm = 4
+		mil = 3
+		dip = 2
+	}
+}
+
+1998.2.24 = {
+	monarch = {
+		name = "Khamtai Siphandon"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+2006.6.8 = {
+	monarch = {
+		name = "Choummaly Sayasone"
+		adm = 2
+		mil = 4
+		dip = 4
+	}
+}

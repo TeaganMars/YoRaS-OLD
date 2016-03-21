@@ -1,0 +1,72 @@
+#1821 - Nanjing
+
+owner = HND
+controller = HND
+culture = chihan
+religion = confucianism
+capital = "Jianye"
+trade_goods = silk
+hre = no
+base_tax = 8
+base_production = 8
+base_manpower = 3
+is_city = yes
+add_core = HND
+add_core = WUU
+fort_15th = yes
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+
+220.1.1 = { owner = WUU controller = WUU add_core = WUU remove_core = HND }
+280.3.15 = { owner = JIN controller = JIN add_core = JIN remove_core = WUU capital = "Jiankang" }
+420.1.1 = { owner = LSO controller = LSO add_core = LSO remove_core = JIN }
+479.1.1 = { owner = QIC controller = QIC add_core = QIC remove_core = LSO }
+502.1.1 = { owner = LNG controller = LNG add_core = LNG remove_core = QIC }
+557.1.1 = { owner = CEN controller = CEN add_core = CEN remove_core = LNG }
+589.3.4 = { owner = SUI controller = SUI add_core = SUI remove_core = CEN capital = "Jinling" }
+618.6.18 = { owner = TNG controller = TNG add_core = TNG remove_core = SUI }
+700.1.1 = { base_tax = 9 base_production = 9 }
+800.1.1 = { base_tax = 10 base_production = 10 }
+900.1.1 = { base_tax = 11 base_production = 11 }
+907.6.1 = { owner = WUU controller = WUU add_core = WUU remove_core = TNG }
+937.1.1 = { owner = TNG controller = TNG add_core = TNG remove_core = MNN }
+975.1.1 = { owner = SNG controller = SNG add_core = SNG remove_core = TNG }
+1000.1.1 = { base_tax = 12 base_production = 12 }
+1100.1.1 = { base_tax = 13 base_production = 13 }
+1200.1.1 = { base_tax = 14 base_production = 14 }
+1279.3.19 = { owner = YUA controller = YUA add_core = YUA add_core = CSH remove_core = SNG }
+1300.1.1 = { base_tax = 15 base_production = 15 }
+1368.1.1 = { owner = KHA controller = KHA add_core = KHA remove_core = YUA }
+1382.1.1 = { owner = MNG controller = MNG add_core = MNG remove_core = KHA capital = "Nanjing" }
+
+1595.1.1 = { discovered_by = SPA }
+1645.6.16 = { controller = QNG }
+1661.6.1 = {
+	owner = QNG
+	add_core = QNG
+} # The Qing Dynasty
+1683.1.1 = { remove_core = MNG } # The government in Taiwan surrendered
+
+1750.1.1 = { base_tax = 18 base_production = 21 base_manpower = 8 }
+1775.1.1 = { base_tax = 22 base_production = 28 base_manpower = 11 }
+1800.1.1 = { base_tax = 28 base_production = 29 base_manpower = 18 }
+1825.1.1 = { base_tax = 36 base_production = 32 base_manpower = 21 }
+1850.1.1 = { base_tax = 41 base_production = 35 base_manpower = 27 }
+1859.1.1   = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Taiping rebellion
+1864.7.1   = { revolt = {} controller = QNG }
+1875.1.1 = { base_tax = 46 base_production = 39 base_manpower = 32 }
+1900.1.1 = { base_tax = 51 base_production = 44 base_manpower = 36 }
+1911.12.2  = { revolt = { type = revolutionary_rebels size = 1 } controller = REB }
+1912.2.12  = { revolt = {} owner = CHN controller = CHN add_core = CHN remove_core = QNG remove_core = CSH }
+1924.11.3  = { revolt = { type = zhili_clique size = 1 leader = "Wang Zhanyuan" } controller = REB }
+1927.4.18  = { revolt = {} controller = CHN }
+1929.1.1 = { base_tax = 54 base_production = 48 base_manpower = 43 }
+1937.11.26 = { controller = JAP }
+1945.8.15  = { controller = CHN }
+1949.1.10  = { revolt = { type = communist_rebels size = 0 } controller = REB }
+1949.10.1  = { revolt = {} controller = CHN }
+1950.1.1 = { base_tax = 56 base_production = 54 base_manpower = 49 }
+1975.1.1 = { base_tax = 59 base_production = 62 base_manpower = 52 }
+2000.1.1 = { base_tax = 67 base_production = 67 base_manpower = 68 }

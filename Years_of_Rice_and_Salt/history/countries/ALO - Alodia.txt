@@ -1,0 +1,29 @@
+government = tribal_despotism
+mercantilism = 0.1
+primary_culture = nubian
+religion = african
+technology_group = sub_saharan
+capital = 2667 #Soba
+
+550.1.1 = { religion = coptic }
+
+1440.1.1 = {
+	monarch = {
+		name = "Joel"
+		dynasty = "Dotawo"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1480.1.1 = {
+	monarch = {
+		name = "Abdallah Jamma"
+		dynasty = "Abdallabi"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	religion = sunni
+}

@@ -1,0 +1,151 @@
+government = parliamentary_republic
+#aristocracy_plutocracy = 2
+#centralization_decentralization = -2
+#innovative_narrowminded = 0
+#mercantilism_freetrade = 2
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 3
+#quality_quantity = -2
+#serfdom_freesubjects = 1
+technology_group = western
+primary_culture = english
+religion = protestant
+capital = 1996
+
+1910.1.1 = { religion = secularism }
+
+1978.10.1 = {
+	monarch = {
+		name = "Toaripi Lauti"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1981.9.8 = {
+	monarch = {
+		name = "Tomasi Puapua"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1989.10.16 = {
+	monarch = {
+		name = "Bikenibeu Paeniu"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1993.12.10 = {
+	monarch = {
+		name = "Kamuta Latasi"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1996.12.24 = {
+	monarch = {
+		name = "Bikenibeu Paeniu"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1999.4.27 = {
+	monarch = {
+		name = "Ionatana Ionatana"
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+2000.12.8 = {
+	monarch = {
+		name = "Lagitupu Tuilimu"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+2001.2.24 = {
+	monarch = {
+		name = "Faimalaga Luka"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+2001.12.14 = {
+	monarch = {
+		name = "Koloa Talake"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+2002.8.2 = {
+	monarch = {
+		name = "Suafatu Sopoanga"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2004.8.27 = {
+	monarch = {
+		name = "Maatia Toafa"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+2006.8.14 = {
+	monarch = {
+		name = "Apisai Ielemia"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+2010.9.29 = {
+	monarch = {
+		name = "Maatia Toafa"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+2010.12.24 = {
+	monarch = {
+		name = "Willy Telavi"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+2013.8.1 = {
+	monarch = {
+		name = "Enele Sopoaga"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}

@@ -1,0 +1,27 @@
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 2365	# Teke
+
+1321.1.1 = {
+	monarch = {
+		name = "Yunus Bey"
+		dynasty = "Tekeogullari"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1380.1.1 = {
+	monarch = {
+		name = "Osman Celebi"
+		dynasty = "Tekeogullari"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}

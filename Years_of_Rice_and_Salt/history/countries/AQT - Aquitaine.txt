@@ -1,0 +1,304 @@
+government = barbarian_tribe
+mercantilism = 0.1
+primary_culture = aquitanian
+religion = chalcedonism
+technology_group = barbarian
+capital = 196	# Toulouse
+
+260.1.1 = { primary_culture = aquitaine capital = 196 } # Toulouse
+500.1.1 = { government = feudal_monarchy government_rank = 1 }
+536.1.1 = { technology_group = western }
+
+555.1.1 = {
+	monarch = {
+		name = "Chram"
+		dynasty = "Merovingian"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+583.1.1 = {
+	monarch = {
+		name = "Desiderius"
+		dynasty = "Aquitainian"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+
+587.1.1 = {
+	monarch = {
+		name = "Austrovald"
+		dynasty = "Aquitainian"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+589.1.1 = {
+	monarch = {
+		name = "Sereus"
+		dynasty = "Aquitainian"
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+}
+
+629.10.18 = {
+	government_rank = 2
+	monarch = {
+		name = "Charibert II"
+		dynasty = "Merovingian"
+		birth_date = 607.1.1
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+}
+
+630.1.1 = {
+	heir = {
+		name = "Chilperic"
+		monarch_name = "Chilperic"
+		dynasty = "Merovingian"
+		birth_date = 630.1.1
+		death_date = 632.6.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+632.4.8 = {
+	monarch = {
+		name = "Chilperic"
+		dynasty = "Merovingian"
+		birth_date = 630.1.1
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+632.6.1 = {
+	government_rank = 1
+	monarch = {
+		name = "Bodegisel"
+		dynasty = "Austrasian"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+660.1.1 = {
+	monarch = {
+		name = "Felix"
+		dynasty = "Aquitainian"
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+
+670.1.1 = {
+	monarch = {
+		name = "Lupus I"
+		dynasty = "Aquitainian"
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+
+679.1.1 = {
+	monarch = {
+		name = "Odo I"
+		dynasty = "de Gascogne"
+		birth_date = 650.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+705.1.1 = {
+	heir = {
+		name = "Hunald"
+		monarch_name = "Hunald I"
+		dynasty = "de Gascogne"
+		birth_date = 705.1.1
+		death_date = 748.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}
+
+735.1.1 = {
+	monarch = {
+		name = "Hunald I"
+		dynasty = "de Gascogne"
+		birth_date = 705.1.1
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}
+
+735.1.1 = {
+	heir = {
+		name = "Waifer"
+		monarch_name = "Waifer I"
+		dynasty = "de Gascogne"
+		birth_date = 718.1.1
+		death_date = 767.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+}
+
+748.1.1 = {
+	monarch = {
+		name = "Waifer I"
+		dynasty = "de Gascogne"
+		birth_date = 718.1.1
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+}
+
+748.1.1 = {
+	heir = {
+		name = "Hunald"
+		monarch_name = "Hunald II"
+		dynasty = "de Gascogne"
+		birth_date = 737.1.1
+		death_date = 3000.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+767.1.1 = {
+	monarch = {
+		name = "Hunald II"
+		dynasty = "de Gascogne"
+		birth_date = 737.1.1
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+781.1.1 = {
+	government_rank = 2
+	monarch = {
+		name = "Louis I the Pious"
+		dynasty = "Carolingian"
+		birth_date = 778.4.16
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+814.1.29 = {
+	monarch = {
+		name = "Pepin I"
+		dynasty = "Carolingian"
+		birth_date = 797.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+823.1.1 = {
+	heir = {
+		name = "Pepin"
+		monarch_name = "Pepin II"
+		dynasty = "Carolingian"
+		birth_date = 823.1.1
+		death_date = 864.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+838.12.13 = {
+	monarch = {
+		name = "Pepin II"
+		dynasty = "Carolingian"
+		birth_date = 823.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+847.1.1 = {
+	heir = {
+		name = "Charles"
+		monarch_name = "Charles I"
+		dynasty = "Carolingian"
+		birth_date = 847.1.1
+		death_date = 866.9.29
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+}
+
+855.1.1 = {
+	monarch = {
+		name = "Charles I"
+		dynasty = "Carolingian"
+		birth_date = 847.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+}
+
+855.1.1 = {
+	heir = {
+		name = "Louis"
+		monarch_name = "Louis I"
+		dynasty = "Carolingian"
+		birth_date = 846.11.1
+		death_date = 879.4.10
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+866.9.29 = {
+	monarch = {
+		name = "Louis I"
+		dynasty = "Carolingian"
+		birth_date = 846.11.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+867.1.1 = { religion = catholic }

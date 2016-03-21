@@ -1,0 +1,26 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 1
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = -1
+#serfdom_freesubjects = -3
+primary_culture = prussian
+religion = catholic
+technology_group = western
+capital = 40	# Klaipeda
+
+1910.1.1 = { religion = secularism }
+
+1919.6.28 = {
+	monarch = {
+                name = "(Council of Ambassadors)"
+		dip = 3
+		adm = 3
+		mil = 3
+		regent = yes
+	}
+}  

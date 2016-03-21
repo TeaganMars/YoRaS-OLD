@@ -1,0 +1,9 @@
+#1509 - Tampico Bay
+
+discovered_by = ZAP
+discovered_by = AZT
+discovered_by = MAY
+1519.3.13 = { discovered_by = SPA }
+
+
+

@@ -1,0 +1,31 @@
+#2639 - Champutun
+
+culture = yucatec
+owner = CAL
+controller = CAL
+add_core = CAL
+is_city = yes
+religion = mesoamerican_religion
+capital = "Calakmul"
+trade_goods = cocoa
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+discovered_by = mesoamerican
+
+987.1.1 = { owner = MAY controller = MAY add_core = MAY remove_core = CAL }
+1441.1.1 = { owner = XIU controller = XIU add_core = XIU capital = "Champutun" }
+
+1536.1.1 = { 	discovered_by = SPA
+		owner = SPA
+		controller = SPA 
+		capital = "Chapotón" } #local Mayans submit to Spain.
+1561.1.1 = { add_core = SPA religion = catholic culture = castillian }
+1810.9.16  = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+
+1821.9.27  = { controller = MEX remove_core = SPA }
+1981.1.1   = { trade_goods = oil } #Cantarell oil field
+
+
+

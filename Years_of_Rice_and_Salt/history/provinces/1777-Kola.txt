@@ -1,0 +1,55 @@
+#1777 - Kola
+
+capital = "Kola"
+culture = sapmi
+religion = suomenusko
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+native_hostileness = 1
+native_size = 2
+native_ferocity = 2
+
+750.1.1 = { discovered_by = SMI owner = SMI controller = SMI add_core = SMI is_city = yes trade_goods = fur }
+
+1100.1.1 = {
+discovered_by = SWE
+discovered_by = NOR
+discovered_by = DAN
+discovered_by = FIN
+discovered_by = GOT
+discovered_by = SHL
+discovered_by = SCA
+discovered_by = NOV
+discovered_by = MOS
+discovered_by = PSK
+discovered_by = RUS
+discovered_by = RYA
+discovered_by = TVE
+discovered_by = YAR
+discovered_by = PLT
+discovered_by = SMO
+discovered_by = MUR
+discovered_by = NZH
+}
+
+1390.1.1 = { owner = NOV controller = NOV add_core = NOV }
+1420.1.1 = { add_core = SMI }
+1450.1.1 = { religion = orthodox remove_core = SMI }
+
+1478.1.15 = {	owner = MOS controller = MOS add_core = MOS remove_core = NOV }
+1503.4.1 = {	owner = RUS controller = RUS add_core = RUS remove_core = MOS }
+
+1775.1.1 = { base_production = 2 }
+1825.1.1 = { base_production = 3 }
+1875.1.1 = { base_manpower = 2 }
+1916.7.16  = { capital = "Romanov-na-Murmane" }
+1922.12.30 = { owner = SOV controller = SOV add_core = SOV capital = "Murmansk" culture = russian }
+1925.1.1 = { base_manpower = 3 }
+1991.12.25 = { owner = RUS controller = RUS remove_core = SOV }
+2000.1.1 = { base_tax = 3 }
+
+
+

@@ -1,0 +1,6 @@
+#1668 - Attu and Kiska Islands
+
+1647.1.1 = { discovered_by = RUS }
+
+
+

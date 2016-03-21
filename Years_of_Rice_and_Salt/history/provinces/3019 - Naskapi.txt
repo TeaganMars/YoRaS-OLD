@@ -1,0 +1,36 @@
+#3019 - Naskapi
+
+culture = cree
+religion = shamanism
+capital = "Naskapi"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1763.1.1 = {
+	discovered_by = FRA
+	owner = FRA
+	controller = FRA
+	culture = cosmopolitan_french
+	religion = catholic
+	trade_goods = fur
+	citysize = 100
+} # Rigolet Post
+1763.2.10 = {
+	owner = GBR
+	controller = GBR
+} # Treaty of Paris
+1788.2.10 = { add_core = GBR }
+1800.1.1 = { is_city = yes }
+
+1880.1.1   = { culture = english }
+1942.1.1   = { capital = "Happy Valley" }
+1949.3.31  = { owner = CAN controller = CAN add_core = CAN remove_core = GBR }
+1973.1.1   = { capital = "Happy Valley-Goose Bay" }
+

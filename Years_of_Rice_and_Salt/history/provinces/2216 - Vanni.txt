@@ -1,0 +1,73 @@
+#2216 - Vanni
+
+owner = CEY
+controller = CEY
+culture = tamil
+religion = buddhism
+capital = "Yapapatuna"
+trade_goods = tropical_wood
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 1
+is_city = yes
+add_core = CEY
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = early_indian
+discovered_by = indian
+discovered_by = early_chinese
+discovered_by = chinese
+
+436.1.1 = { owner = PAN controller = PAN add_core = PAN }
+463.1.1 = { owner = CEY controller = CEY remove_core = PAN }
+910.1.1 = { owner = CLS controller = CLS add_core = CLS }
+1070.1.1 = { owner = CEY controller = CEY remove_core = CLS }
+1215.1.1 = { owner = JFN controller = JFN add_core = JFN remove_core = CEY religion = hinduism }
+1258.1.1 = { owner = PAN controller = PAN add_core = PAN }
+1323.1.1 = { owner = JFN controller = JFN remove_core = PAN }
+
+1411.1.1 = {
+	owner = CEY
+	controller = CEY
+}	#Sangamas expelled by Zheng He
+1432.1.1 = {
+	owner = JFN
+	controller = JFN
+}	#Reconquest by Vijayanagar
+1505.1.1 = { discovered_by = POR } # Francisco de Almeida
+1619.1.1 = {
+	owner = POR
+	controller = POR
+	add_core = POR
+}
+1660.1.1 = {
+	owner = NED
+	controller = NED
+	add_core = NED
+	remove_core = POR
+} # Dutch control
+1750.1.1 = { base_manpower = 2 }
+1775.1.1 = { base_manpower = 3 }
+1799.8.1  = { controller = GBR } # Occupied by England
+1800.1.1 = { base_production = 4 }
+1802.3.25 = {
+	owner = GBR
+	add_core = GBR
+	remove_core = NED
+} # Treaty of Amiens
+
+1825.1.1 = { base_tax = 3 }
+1851.1.1 = { base_manpower = 4 }
+1875.1.1 = { base_manpower = 5 }
+1901.1.1 = { base_production = 5 }
+1925.1.1 = { base_tax = 4 }
+1948.2.4  = { owner = CEY controller = CEY remove_core = GBR }
+1951.1.1 = { base_tax = 5 }
+1972.5.22 = { owner = SRL controller = SRL add_core = SRL remove_core = CEY }
+1975.1.1 = { base_tax = 6 }
+2000.1.1 = { base_tax = 7 base_production = 6 base_manpower = 6 }
+
+
+

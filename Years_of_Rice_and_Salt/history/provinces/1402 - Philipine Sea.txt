@@ -1,0 +1,8 @@
+#1402 - Maguindanao Coast
+
+discovered_by = early_chinese
+discovered_by = chinese
+1527.1.1 = { discovered_by = SPA }
+
+
+

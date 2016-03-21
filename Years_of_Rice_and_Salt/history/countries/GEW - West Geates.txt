@@ -1,0 +1,128 @@
+government = barbarian_tribe
+mercantilism = 0.1
+primary_culture = swedish
+religion = norse_pagan_reformed
+technology_group = barbarian
+capital = 7
+
+350.1.1 = {
+	monarch = {
+		name = "Sigar"
+		dynasty = "Sikling"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+400.1.1 = {
+	monarch = {
+		name = "Siggeir"
+		dynasty = "Sikling"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+440.1.1 = {
+	monarch = {
+		name = "Swerting"
+		dynasty = "Hretheling"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+470.1.1 = {
+	monarch = {
+		name = "Hrethel"
+		dynasty = "Hretheling"
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+500.1.1 = {
+	monarch = {
+		name = "Haefcyn"
+		dynasty = "Hretheling"
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+514.1.1 = {
+	monarch = {
+		name = "Hygelac"
+		dynasty = "Hretheling"
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+516.1.1 = {
+	monarch = {
+		name = "Hearded"
+		dynasty = "Hretheling"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+540.1.1 = {
+	monarch = {
+		name = "Beowulf"
+		dynasty = "Hretheling"
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+550.1.1 = { government = feudal_monarchy technology_group = western }
+
+580.1.1 = {
+	monarch = {
+		name = "Yngwin"
+		dynasty = "Geat"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+640.1.1 = {
+	monarch = {
+		name = "Siward"
+		dynasty = "Geat"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+680.1.1 = {
+	monarch = {
+		name = "Algaut"
+		dynasty = "Geat"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+750.1.1 = {
+	monarch = {
+		name = "Gestiblindus"
+		dynasty = "Geat"
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+}

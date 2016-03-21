@@ -1,0 +1,64 @@
+#582 - Mong Yang
+
+owner = PYU
+controller = PYU
+culture = shan
+religion = mahayana
+capital = "Mong Yang"
+trade_goods = copper
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = PYU
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = early_indian
+discovered_by = indian
+
+700.1.1 = { base_tax = 2 base_production = 2 }
+800.1.1 = { base_manpower = 2 }
+849.1.1 = { owner = PAG controller = PAG add_core = PAG remove_core = PYU }
+900.1.1 = { base_tax = 3 base_production = 3 }
+1000.1.1 = { base_manpower = 3 }
+1080.1.1 = { religion = buddhism }
+1100.1.1 = { base_tax = 4 base_production = 4 }
+1215.1.1 = { owner = MYA controller = MYA add_core = MYA remove_core = PAG }
+1300.1.1 = { fort_15th = yes }
+
+1502.1.1 = {
+	controller = SST
+	owner = SST
+	add_core = SST
+	remove_core = MYA
+}
+1557.3.6 = { controller = TAU }
+1563.4.1 = { owner = TAU }
+1599.1.1 = {
+	owner = SST
+	controller = SST
+}
+1605.1.1 = {
+	owner = TAU
+	controller = TAU
+}
+1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
+1752.1.1 = {
+	owner = SST
+	controller = SST
+}
+1754.1.1 = {
+	owner = TAU
+	controller = TAU
+}
+
+1885.11.29 = { owner = GBR controller = GBR add_core = GBR add_core = BRM remove_core = TAU remove_core = SST }
+1935.1.1   = { capital = "Bhamo" }
+1942.5.1   = { controller = JAP }
+1945.3.1   = { controller = GBR }
+1948.1.4   = { owner = BRM controller = BRM remove_core = GBR }
+1989.1.1   = { owner = MNM controller = MNM add_core = MNM remove_core = BRM }
+
+
+

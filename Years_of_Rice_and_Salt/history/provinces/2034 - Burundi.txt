@@ -1,0 +1,23 @@
+#2034 - Burundi
+
+culture = eastern_bantu
+religion = african
+capital = "Gitega"
+native_size = 90
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 2
+base_manpower = 2
+native_ferocity = 4.5
+native_hostileness = 9 
+
+1080.1.1   = { discovered_by = RWA discovered_by = BUG discovered_by = BRD }
+1680.1.1   = { owner = BRD controller = BRD add_core = BRD is_city = yes trade_goods = coffee }
+1858.1.1   = { discovered_by = GBR }
+1885.2.27  = { discovered_by = GER }
+1890.1.1   = { owner = GER controller = GER add_core = GER religion = catholic capital = "Bujumbura" }
+1919.6.28  = { owner = BEL controller = BEL add_core = BEL remove_core = GER }
+1962.7.1   = { owner = BRD controller = BRD add_core = BRD remove_core = BEL }
+
+

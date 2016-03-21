@@ -1,0 +1,59 @@
+#2466 - Dehong
+
+culture = shan
+religion = animism
+capital = "Dehong"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = early_indian
+discovered_by = indian
+native_size = 20
+native_ferocity = 1
+native_hostileness = 5
+
+660.1.1 = { religion = vajrayana }
+700.1.1 = { owner = TIB controller = TIB add_core = TIB is_city = yes trade_goods = tropical_wood }
+737.1.1 = { owner = NAN controller = NAN add_core = NAN remove_core = TIB }
+900.1.1 = { discovered_by = nomad_group }
+937.1.1 = { owner = CDL controller = CDL add_core = CDL remove_core = NAN }
+1000.1.1 = { base_manpower = 2 }
+1253.1.1 = { owner = MGE controller = MGE add_core = MGE add_core = CZH }
+1260.1.1 = { owner = KHA controller = KHA add_core = KHA remove_core = MGE }
+1271.1.1 = { owner = YUA controller = YUA add_core = YUA remove_core = KHA }
+1368.1.1 = { owner = KHA controller = KHA add_core = KHA remove_core = YUA }
+1382.1.1 = { owner = MNG controller = MNG add_core = MNG remove_core = KHA }
+
+1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
+1662.4.1 = {	owner = CZH
+		controller = CZH
+		} # Three Feudatories - Wu Sangui titled as Prince of Pingxi in Yunnan
+1681.10.1 = {	owner = QNG
+	controller = QNG
+	add_core = QNG
+}
+
+1750.1.1 = { base_manpower = 3 }
+1775.1.1 = { base_manpower = 4 }
+1800.1.1 = { base_manpower = 5 }
+1825.1.1 = { base_manpower = 6 }
+1851.1.1 = { base_production = 2 }
+1875.1.1 = { base_tax = 2 }
+1901.1.1 = { base_tax = 3 }
+1911.10.30 = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # Double Ninth uprising
+1912.2.12  = { revolt = {} owner = CHN controller = CHN add_core = CHN remove_core = QNG remove_core = CZH }
+1916.6.6   = { revolt = { type = particularist_rebels size = 0 } controller = REB }
+1927.4.18  = { revolt = {} controller = CHN }
+1929.1.1 = { base_tax = 4 }
+1951.1.1 = { base_tax = 5 }
+1975.1.1 = { base_production = 3 }
+1996.1.1   = { capital = "Luxi" }
+2000.1.1 = { base_production = 5 }
+2008.1.1   = { capital = "Mang" }
+
+
+

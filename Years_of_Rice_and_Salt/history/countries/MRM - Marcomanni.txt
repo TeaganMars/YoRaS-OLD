@@ -1,0 +1,69 @@
+government = barbarian_tribe
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -3
+#land_naval = -4
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = bavarian
+religion = germanic
+technology_group = barbarian
+capital = 67	# Franken
+
+2.1.1 = {
+	monarch = {
+		name = "Maroboduus"
+		dynasty = "Marcomanni"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+18.1.1 = {
+	monarch = {
+		name = "Catualda"
+		dynasty = "Marcomanni"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+140.1.1 = {
+	monarch = {
+		name = "Ballomar"
+		dynasty = "Marcomanni"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+230.1.1 = {
+	monarch = {
+		name = "Attalus"
+		dynasty = "Marcomanni"
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+320.1.1 = {
+	monarch = {
+		name = "Fritigil"
+		dynasty = "Marcomanni"
+		adm = 2
+		dip = 4
+		mil = 3
+		female = yes
+	}
+}
+
+350.1.1 = { religion = chalcedonism }
+
+600.1.1 = { government = feudal_monarchy technology_group = western }

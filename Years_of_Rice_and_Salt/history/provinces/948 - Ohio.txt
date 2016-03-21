@@ -1,0 +1,62 @@
+#948 - Ohio
+
+culture = shawnee
+religion = totemism
+capital = "Ohio"
+trade_goods = fur
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 5
+native_hostileness = 2
+discovered_by = north_american
+
+1650.1.1  = { owner = SHA
+		controller = SHA
+		add_core = SHA
+		is_city = yes
+		trade_goods = fur } #Extent of the Shawnee at start of the Beaver Wars
+1656.1.1  = { 	owner = IRO
+		controller = IRO
+		citysize = 100
+		culture = iroquois
+}#Driven off by Iroquois raids
+1671.1.1  = { discovered_by = ENG } # Abraham Wood
+1679.1.1  = { discovered_by = FRA } # René-Robert Cavelier
+1701.8.14 = {	owner = XXX
+		controller = XXX
+		citysize = 0
+		culture = shawnee } #Vast areas left deserted after the Beaver Wars and the Iroquois withdrawal
+1707.5.12 = { discovered_by = GBR }
+1750.1.1  = {	owner = LEN
+		controller = LEN
+		add_core = LEN
+		is_city = yes
+		culture = delaware } #Lenape arrives
+1751.1.1 = { base_tax = 3 base_production = 3 base_manpower = 4 }
+1775.1.1 = { base_tax = 8 base_production = 6 }
+1795.8.3  = { 	owner = USA
+		controller = USA
+		add_core = USA
+		culture = american
+		religion = protestant
+	    } # Treaty of Greenville, much of Ohio ceded by Natives.
+1800.1.1 = { base_tax = 10 base_production = 9 base_manpower = 6 }
+1803.3.1  = { capital = "Chillicothe" }
+1810.1.1  = { capital = "Zanesville" }
+1812.1.1  = { capital = "Chillicothe" }
+1816.1.1  = { capital = "Columbus" }
+
+
+
+
+1825.1.1 = { base_tax = 13 base_production = 11 base_manpower = 9 }
+1850.1.1 = { base_tax = 16 base_production = 14 base_manpower = 10 }
+1875.1.1 = { base_tax = 17 base_production = 20 base_manpower = 11 }
+1900.1.1 = { base_tax = 21 base_production = 22 base_manpower = 12 }
+1925.1.1 = { base_tax = 24 base_production = 25 base_manpower = 14 }
+1950.1.1 = { base_tax = 29 base_production = 27 }
+1975.1.1 = { base_production = 29 base_manpower = 20 }
+2000.1.1 = { base_tax = 32 base_production = 31 base_manpower = 30 }

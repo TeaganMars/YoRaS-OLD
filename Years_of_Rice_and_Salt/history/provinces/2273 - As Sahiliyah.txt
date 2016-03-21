@@ -1,0 +1,80 @@
+#2273 - As Sahiliyah
+
+owner = PRT
+controller = PRT
+add_core = PRT
+culture = assyrian
+religion = ashurism
+capital = "Sahiliyah"
+trade_goods = wool
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = TUR
+discovered_by = early_indian
+discovered_by = indian
+discovered_by = western_nomad_group
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+
+116.1.1 = { owner = ROM controller = ROM add_core = ROM }
+118.1.1 = { owner = PRT controller = PRT remove_core = ROM }
+164.1.1 = { controller = ROM }
+166.1.1 = { controller = PRT }
+224.4.24 = { owner = SAS controller = SAS add_core = SAS remove_core = PRT }
+230.1.1 = { religion = chalcedonism }
+431.7.1 = { religion = nestorian }
+634.1.1 = { owner = RAS controller = RAS add_core = RAS remove_core = SAS }
+661.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = RAS }
+750.1.1 = { owner = ABB controller = ABB add_core = ABB remove_core = UMA }
+780.1.1 = { religion = sunni }
+1055.1.1 = { owner = SEL controller = SEL add_core = SEL remove_core = ABB }
+1124.1.1 = { owner = ZNG controller = ZNG add_core = ZNG remove_core = SEL }
+1153.1.1 = { owner = ABB controller = ABB add_core = ABB remove_core = ZNG }
+1258.2.10 = { owner = MGE controller = MGE add_core = MGE remove_core = ABB }
+1260.1.1 = { owner = ILK controller = ILK add_core = ILK remove_core = MGE }
+1300.1.1 = { culture = al_iraqiya_arabic }
+1335.1.1 = { owner = JAI controller = JAI add_core = JAI remove_core = ILK }
+
+1411.1.1  = {	owner = QAR
+		controller = QAR
+		add_core = QAR
+		remove_core = JAI
+	    } # The Qara Koyunlu
+1469.2.4  = {	owner = AKK
+		controller = AKK
+		add_core = AKK
+		remove_core = QAR
+	    }
+1507.1.1  = {	owner = PER
+		controller = PER
+		add_core = PER		
+		remove_core = AKK
+	    } # The Safavids took over
+1515.1.1 = { discovered_by = POR }
+1536.1.1 = {	owner = TUR
+		controller = TUR
+		add_core = TUR
+                remove_core = PER
+	   } # Part of the Ottoman Empire
+1762.1.1 = { base_production = 3 }
+
+1801.1.1 = { base_production = 4 }
+1837.1.1 = { base_manpower = 3 }
+1869.1.1  = { capital = "Ar Ramadi" }
+1875.1.1 = { base_manpower = 4 }
+1912.1.1 = { base_tax = 3 }
+1920.7.24 = { owner = GBR controller = GBR add_core = GBR add_core = IRQ remove_core = TUR remove_core = SYR }
+1932.10.3 = { owner = IRQ controller = IRQ remove_core = GBR }
+1951.1.1 = { base_production = 5 }
+2000.1.1 = { base_tax = 5 }
+2013.4.8  = { add_core = ISL }
+2014.6.10 = { revolt = { type = nationalist_rebels size = 1 } controller = REB }
+
+
+

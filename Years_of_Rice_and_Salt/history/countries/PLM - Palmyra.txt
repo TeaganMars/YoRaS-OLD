@@ -1,0 +1,6 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = aramaic
+religion = hellenism
+technology_group = roman_group
+capital = 2547

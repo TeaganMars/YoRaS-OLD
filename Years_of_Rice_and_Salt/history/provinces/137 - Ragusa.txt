@@ -1,0 +1,65 @@
+#137 - Ragusa
+
+owner = ROM
+controller = ROM
+culture = illyrian
+religion = hellenism
+trade_goods = fish
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_core = ROM
+capital = "Epidaurum"
+discovered_by = western
+discovered_by = barbarian
+discovered_by = eastern
+discovered_by = roman_group
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+
+2.1.1 = {
+	add_permanent_province_modifier = {
+		name = center_of_trade_modifier
+		duration = -1
+	}
+}
+
+300.1.1 = { religion = chalcedonism }
+395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+480.1.1 = { owner = ODO controller = ODO add_core = ODO remove_core = ROW }
+489.1.1 = { owner = GOS controller = GOS add_core = GOS remove_core = ODO }
+535.1.1 = { owner = BYZ controller = BYZ add_core = BYZ remove_core = GOS capital = "Iadera" }
+650.1.1 = { capital = "Ragusa" culture = croatian }
+700.1.1 = { base_manpower = 2 }
+867.1.1 = { religion = orthodox }
+900.1.1 = { base_tax = 3 base_production = 3 }
+1000.1.1 = { base_tax = 4 base_production = 4 }
+1050.1.1 = { owner = DOC controller = DOC add_core = DOC }
+1100.1.1 = { base_manpower = 3 }
+1165.1.1 = { owner = BYZ controller = BYZ remove_core = DOC }
+1200.1.1 = { base_production = 5 }
+1205.1.1 = { owner = VEN controller = VEN add_core = VEN religion = catholic }
+1300.1.1 = { base_tax = 5 base_production = 6 }
+1358.2.18 = { owner = RAG controller = RAG add_core = RAG remove_core = VEN remove_core = BYZ }
+
+1806.5.26 = { controller = FRA } # Occupied by French troops
+1806.6.17 = { controller = RAG } # The French are defeated
+1806.7.12 = { controller = FRA }
+1807.7.9  = { owner = FRA add_core = FRA } # Treaty of Tilsit
+1813.9.20 = { controller = HAB } # Occupied by Austrian forces
+1814.4.6  = {	owner = HAB
+		add_core = HAB
+		remove_core = FRA
+	    } # Napoleon abdicates
+
+1918.12.1  = { owner = YUG controller = YUG add_core = YUG add_core = CRO remove_core = HAB remove_core = RAG capital = "Dubrovnik" }
+1941.4.6   = { owner = ITA controller = ITA }
+1941.4.10  = { owner = CRO controller = CRO }
+1945.5.8   = { owner = YUG controller = YUG }
+1991.6.25  = { owner = CRO controller = CRO remove_core = YUG }
+
+
+

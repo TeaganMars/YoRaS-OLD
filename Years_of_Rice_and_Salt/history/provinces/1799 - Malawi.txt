@@ -1,0 +1,29 @@
+#1799 - Malawi
+
+culture = tonga
+religion = african
+capital = "Malawi"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 90
+native_ferocity = 2
+native_hostileness = 9
+
+1825.1.1 = { base_tax = 2 }
+1859.1.1   = { discovered_by = GBR } # David Livingstone
+1893.1.1   = { 	owner = GBR 
+		controller = GBR 
+		add_core = GBR 
+		is_city = yes 
+		trade_goods = grain
+		religion = catholic 
+		capital = "Lilongwe"
+	     }
+1964.7.6   = { owner = MWI controller = MWI add_core = MWI remove_core = GBR }
+2000.1.1 = { base_production = 2 base_manpower = 2 }
+
+
+

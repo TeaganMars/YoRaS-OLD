@@ -1,0 +1,17 @@
+government = constitutional_republic
+mercantilism = 0.1
+primary_culture = dinka
+religion = sunni
+technology_group = muslim
+capital = 2064
+
+1910.1.1 = { religion = secularism }
+
+2011.7.9 = {
+	monarch = {
+		name = "Salva Kiir Mayardit"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}

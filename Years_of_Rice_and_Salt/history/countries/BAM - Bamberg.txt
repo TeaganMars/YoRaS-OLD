@@ -1,0 +1,459 @@
+government = theocratic_government
+government_rank = 1
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 0
+#serfdom_freesubjects = -4
+technology_group = western
+primary_culture = bavarian
+religion = catholic
+capital = 66	# Bamberg
+
+
+1242.6.1 = {
+	monarch = {
+		name = "Heinrich I von Bilversheim"
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+1257.4.1 = {
+	monarch = {
+		name = "Wladeslaw of Silesia"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1257.8.1 = {
+	monarch = {
+		name = "Berthold of Leiningen"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+1285.6.1 = {
+	monarch = {
+		name = "Mangold von Neuenburg"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1286.1.1 = {
+	monarch = {
+		name = "Arnold von Solms"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1296.6.1 = {
+	monarch = {
+		name = "Leopold I von Grundlach"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+1304.1.1 = {
+	monarch = {
+		name = "Wulfing von Stubenberg"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1319.1.1 = {
+	monarch = {
+		name = "Ulrich von Schlusselberg"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1319.6.1 = {
+	monarch = {
+		name = "Konrad von Giech"
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+}
+
+1322.6.1 = {
+	monarch = {
+		name = "Johannes von Schlackenwerth"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1324.6.1 = {
+	monarch = {
+		name = "Heinrich II von Sternberg"
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+}
+
+1328.6.1 = {
+	monarch = {
+		name = "Werntho Schenk von Reicheneck"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1335.6.1 = {
+	monarch = {
+		name = "Leopold II von Egloffstein"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1344.1.1 = {
+	monarch = {
+		name = "Friedrich I von Hohenlohe"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+1353.1.1 = {
+	monarch = {
+		name = "Leopold III von Bebenburg"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1363.6.1 = {
+	monarch = {
+		name = "Friedrich II von Thurendingen"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1366.6.1 = {
+	monarch = {
+		name = "Ludvig von Meissen"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1374.6.1 = {
+	monarch = {
+		name = "Lamprecht von Brunn"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1399.6.1 = {
+	monarch = {
+		name = "Albrecht von Wertheim"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1421.6.1 = {
+	monarch = {
+		name = "Friedrich III von Aufsess"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1431.6.1 = {
+	monarch = {
+		name = "Anton von Rotenhan"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+1459.6.1 = {
+	monarch = {
+		name = "Georg I von Schaumberg"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1475.6.1 = {
+	monarch = {
+		name = "Philipp von Henneberg"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1487.2.1 = {
+	monarch = {
+		name = "Heinrich Gross von Trockau"
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+}
+
+1501.4.3 = {
+	monarch = {
+		name = "Veit Truchess von Pommersfelden"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1503.9.19 = {
+	monarch = {
+		name = "Georg Marschalk von Ebnet"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1505.2.13 = {
+	monarch = {
+		name = "Georg Schenk von Limpurg"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1522.6.18 = {
+	monarch = {
+		name = "Weigand von Redwitz"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1556.5.22 = {
+	monarch = {
+		name = "Georg Fuchs von Rügheim"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1561.4.22 = {
+	monarch = {
+		name = "Veit von Würzburg"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1577.8.20 = {
+	monarch = {
+		name = "Johann Georg Zobel von Giebelstadt"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1580.10.11 = {
+	monarch = {
+		name = "Martin von Eyb"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1583.9.2 = {
+	monarch = {
+		name = "Ernst von Mengersdorf"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+
+1591.12.14 = {
+	monarch = {
+		name = "Neytard von Thüngen"
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+1599.2.4 = {
+	monarch = {
+		name = "Johann Philipp von Gebsattel"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1609.7.21 = {
+	monarch = {
+		name = "Johann Gottfried von Aschhausen"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+1623.2.13 = {
+	monarch = {
+		name = "Johann Georg Fuchs von Dornheim"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1633.8.4 = {
+	monarch = {
+		name = "Franz von Hatzfeld"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1642.8.25 = {
+	monarch = {
+		name = "Melchior Otto von Voit von Salzburg"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+1653.2.13 = {
+	monarch = {
+		name = "Philipp Valentin Albrecht Voit von Rieneck"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1672.3.22 = {
+	monarch = {
+		name = "Peter Philipp von Dernbach"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1683.6.10 = {
+	monarch = {
+		name = "Marquard Sebastian von Schenk von Stauffenberg"
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+}
+
+1693.10.10 = {
+	monarch = {
+		name = "Lothar Franz von Schönborn"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1729.1.21 = {
+	monarch = {
+		name = "Friedrich Karl von Schönborn"
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+}
+
+1746.9.26 = {
+	monarch = {
+		name = "Johann Philipp Anton von Franckenstein"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1753.7.23 = {
+	monarch = {
+		name = "Franz Konrad von Stadion und Thannhausen"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1757.4.21 = {
+	monarch = {
+		name = "Adam Friedrich von Seinsheim"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+1779.2.19 = {
+	monarch = {
+		name = "Franz Ludvig von Erthal"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1794.4.7 = {
+	monarch = {
+		name = "Christoph Franz von Buseck"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+

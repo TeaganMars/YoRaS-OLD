@@ -1,0 +1,148 @@
+country_decisions = { 
+
+	#Form Rus'
+	russ_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { exists = KRU }
+			NOT = { exists = RUS }
+			NOT = { tag = SOV }
+			NOT = { tag = UKR }
+			OR = {
+				primary_culture = russian
+				primary_culture = ruthenian
+				primary_culture = byelorussian
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 10
+				}
+			}
+		}
+		allow = {
+			adm_tech = 28
+			is_subject = no
+			is_at_war = no
+			owns = 310			# Novgorod
+			owns = 280			# Kiev
+			owns = 276			# Minsk
+			is_core = 310			# Novgorod
+			is_core = 280			# Kiev
+			is_core = 276			# Minsk
+			OR = {
+				AND = {
+					owns = 294		# Tver
+					is_core = 294
+				}
+				AND = {
+					owns = 308		# Yaroslavl	
+					is_core = 308
+				}
+			}
+			OR = {
+				AND = {
+					owns = 301		# Ryazan
+					is_core = 301
+				}
+				AND = {
+					owns = 293		# Smolensk
+					is_core = 293
+				}
+			}
+		}
+		effect = {
+			add_prestige = 25
+			change_tag = KRU
+			culture_group_union = east_slavic
+			swap_free_idea_group = yes
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+	
+	#Novgorod banishes prince (historical)
+	banish_prince_novgorod = { 
+		major = yes
+		potential = {
+			tag = NOV
+			NOT = { government = republic }
+		}
+		allow = {
+			OR = {
+				NOT = { stability = 0 }
+				NOT = { legitimacy = 60 }
+			}
+			has_regency = no
+			OR = { 
+				NOT = { adm = 3 }
+				NOT = { mil = 2 }
+			}
+		}
+		effect = {
+			kill_ruler = yes
+			change_government = noble_republic
+			add_republican_tradition = 0.1
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+	
+	#Novgorodian Knyaz converted to slavic faith
+	convert_knyaz_to_slavic = {
+		potential = {
+			tag = NOV
+			religion = norse_pagan_reformed
+		}
+		allow = {
+			#stability = 1
+			legitimacy = 90
+			has_regency = no
+			NOT  = { religious_unity = 0.5 }
+		}
+		
+		effect = {
+			change_religion = slavic
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	#Uppsala controller - Uppsala does not tolerate Christianity
+	uppsala_does_not_tolerate_christians = {
+		potential = {
+			owns = 1
+			religion = norse_pagan_reformed
+			NOT = { has_country_modifier = uppsala_resists_christianization }
+		}
+		allow = {
+			owns_core_province = 1
+			religion = norse_pagan_reformed
+			stability = 1
+			NOT  = { religious_unity = 0.65 }
+		}
+		
+		effect = {
+			add_country_modifier = {
+				name = "uppsala_resists_christianization"
+				duration = -1
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

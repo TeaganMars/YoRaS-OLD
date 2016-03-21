@@ -1,0 +1,6 @@
+#1481 - Eastern Coast of Greenland
+
+1453.1.1 = { discovered_by = western }
+
+
+

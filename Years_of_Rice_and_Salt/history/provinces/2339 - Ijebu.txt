@@ -1,0 +1,37 @@
+#2339 - Ijebu
+
+culture = yorumba
+religion = african
+capital = "Ijebu"
+base_manpower = 1
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 2
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9 
+discovered_by = sub_saharan
+
+1180.1.1 = { owner = BEN controller = BEN add_core = BEN is_city = yes trade_goods = slaves }
+
+1472.1.1 = { discovered_by = POR } 
+
+1750.1.1 = { base_production = 3 base_manpower = 4 }
+1775.1.1 = { base_tax = 3 base_production = 5 base_manpower = 5 }
+1800.1.1 = { base_tax = 7 base_production = 6 }
+1825.1.1 = { base_tax = 8 base_production = 7 base_manpower = 7 }
+1851.1.1 = { base_tax = 11 base_manpower = 9 }
+1861.1.1   = { capital = "Lagos" owner = GBR controller = GBR add_core = GBR trade_goods = ivory }
+1875.1.1 = { base_tax = 12 base_production = 8 base_manpower = 11 }
+1900.1.1   = { citysize = 100000 religion = protestant }
+1901.1.1 = { base_tax = 13 base_production = 9 base_manpower = 13 }
+1925.1.1 = { base_tax = 14 base_production = 10 base_manpower = 16 }
+1951.1.1 = { base_tax = 16 base_production = 11 base_manpower = 17 }
+1960.10.1  = { owner = NIG controller = NIG add_core = NIG remove_core = GBR remove_core = BEN }
+1975.1.1 = { base_production = 16 }
+2000.1.1 = { base_tax = 18 }
+2008.1.1   = { trade_goods = oil base_production = 24 } #Agbami oil field
+
+
+

@@ -1,0 +1,84 @@
+#202 - Avignon
+
+owner = ROM
+controller = ROM
+capital = "Avenio"
+is_city = yes
+culture = gallian
+religion = druidism
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = cloth
+base_manpower = 1
+add_core = ROM
+#  # L'Université d'Avignon
+discovered_by = eastern
+discovered_by = roman_group
+discovered_by = western
+discovered_by = barbarian
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+
+340.1.1 = { religion = chalcedonism }
+395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+475.1.1 = { owner = GVI controller = GVI add_core = GVI remove_core = ROW }
+507.1.1 = { owner = BUR controller = BUR add_core = BUR remove_core = GVI culture = occitain }
+534.1.1 = { owner = FRK controller = FRK add_core = FRK capital = "Avignon" }
+600.1.1 = { base_manpower = 2 }
+800.1.1 = { base_tax = 2 base_production = 2 }
+840.6.21 = { owner = FRM controller = FRM add_core = FRM remove_core = FRK }
+855.9.30 = { owner = PRO controller = PRO add_core = PRO remove_core = FRM }
+863.1.24 = { owner = ITA controller = ITA add_core = ITA }
+867.1.1 = { religion = catholic }
+879.1.1  = { owner = PRO controller = PRO remove_core = ITA }
+887.12.19 = { owner = ITA controller = ITA add_core = ITA }
+887.12.26 = { owner = PRO controller = PRO remove_core = ITA }
+890.1.1  = { remove_core = BUR }
+933.1.1  = { owner = BUR controller = BUR add_core = BUR }
+961.1.1  = { owner = PRO controller = PRO remove_core = BUR }
+1000.1.1 = { base_manpower = 3 }
+1033.1.1 = { hre = yes }
+1100.1.1 = { base_tax = 3 base_production = 3 }
+1190.1.1 = { owner = AVI controller = AVI add_core = AVI }
+1200.1.1 = { base_manpower = 4 }
+1226.9.13 = { owner = FRA controller = FRA add_core = FRA }
+1246.1.1 = { hre = no }
+1251.5.7 = { owner = PRO controller = PRO remove_core = FRA }
+1271.8.25 = { owner = AVI controller = AVI add_core = AVI }
+1317.1.1 = { owner = PAP controller = PAP add_core = PAP }
+1334.12.4 = { owner = AVI controller = AVI remove_core = PAP }
+1349.1.1 = { owner = PAP controller = PAP add_core = PAP }
+1362.9.12 = { owner = AVI controller = AVI remove_core = PAP }
+1364.1.1 = { fort_15th = yes } # La Palais des Papes finished, Large exception: Le Palais des Papes is super strong, and built on and beneath a natural rock formation
+1366.1.1 = { owner = PAP controller = PAP add_core = PAP }
+1367.1.1 = { owner = AVI controller = AVI remove_core = PAP }
+
+1417.10.18 = { owner = PAP controller = PAP add_core = PAP }
+1670.1.1 = { add_core = FRA } # Louis XIV wants to annex the city-state (Chambres de Réunion)
+1758.1.1 = { base_manpower = 5 }
+1791.9.14 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+	remove_core = PAP
+} # Avignon is incorporated into France
+
+1792.1.1 = { base_manpower = 6 }
+1824.1.1 = { base_production = 4 }
+1858.1.1 = { base_manpower = 7 }
+1870.9.4   = {  owner = FR2
+		controller = FR2
+		add_core = FR2
+		remove_core = FRA
+	     } # Republic proclaimed
+1891.1.1 = { base_tax = 4 }
+1924.1.1 = { base_tax = 5 }
+1940.6.14  = { owner = FRV controller = FRV add_core = FRV } # Vichy France
+1944.8.25  = { owner = FR2 controller = FR2 remove_core = FRV } # France liberated by allied forces
+1958.1.1 = { base_tax = 6 }
+2000.1.1 = { base_production = 6 }
+
+
+

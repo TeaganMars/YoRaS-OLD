@@ -1,0 +1,104 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = 3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = senegambian
+religion = sunni
+technology_group = muslim
+capital = 1112
+
+1960.11.28 = {
+	monarch = {
+		name = "Moktar Ould Daddah"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1978.7.10 = {
+	monarch = {
+		name = "Mustafa Ould Salek"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1979.6.3 = {
+	monarch = {
+		name = "Mohamed Mahmoud Ould Louly"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1980.1.4 = {
+	monarch = {
+		name = "Mohamed Khouna Ould Haidalla"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1984.12.12 = {
+	monarch = {
+		name = "Maaoya Ould Sid'Ahmed Taya"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2005.8.3 = {
+	monarch = {
+		name = "Ely Ould Mohamed Vall"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+2007.4.19 = {
+	monarch = {
+		name = "Sidi Ould Cheikh Abdallahi"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+2008.8.6 = {
+	monarch = {
+		name = "Mohamed Ould Abdel Aziz"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+2009.4.15 = {
+	monarch = {
+		name = "Ba Mamadou Mbaré"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+2009.8.5 = {
+	monarch = {
+		name = "Mohamed Ould Abdel Aziz"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}

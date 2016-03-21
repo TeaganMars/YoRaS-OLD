@@ -1,0 +1,19 @@
+government = steppe_horde
+mercantilism = 0.1
+technology_group = eastern_nomad_group
+religion = tengri_pagan_reformed
+secondary_religion = nestorian
+primary_culture = mongol
+capital = 717
+
+750.1.1 = { technology_group = nomad_group }
+
+1150.1.1 = {
+	monarch = {
+		name = "Tayan Khan"
+		dynasty = "Naiman"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}

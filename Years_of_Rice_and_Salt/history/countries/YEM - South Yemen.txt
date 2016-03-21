@@ -1,0 +1,62 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = yemeni_culture
+religion = sunni
+technology_group = muslim
+capital = 388	# Aden
+
+1940.1.1 = { government = communist_dictatorship }
+
+1967.11.30 = {
+	monarch = {
+		name = "Qahtan Muhammad al-Shaabi"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1969.6.23 = {
+	monarch = {
+		name = "Salim Rubai Ali"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1978.6.26 = {
+	monarch = {
+		name = "Ali Nasir Muhammad"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1978.12.27 = {
+	monarch = {
+		name = "Abdul Fattah Ismail"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1980.4.26 = {
+	monarch = {
+		name = "Ali Nasir Muhammad"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1986.1.24 = {
+	monarch = {
+		name = "Haidar Abu Bakr al-Attas"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}

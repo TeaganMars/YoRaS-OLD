@@ -1,0 +1,42 @@
+#2922 - Tachi
+
+culture = chinook
+religion = totemism
+capital = "Tachi"
+trade_goods = unknown 
+hre = no 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1750.1.1 = { base_tax = 3 base_manpower = 2 }
+1775.1.1 = { base_tax = 4 base_production = 3 }
+1776.1.1   = {	discovered_by = SPA } #Francisco Garcés
+
+1800.1.1 = { base_tax = 6 base_manpower = 3 }
+1825.1.1 = { base_tax = 8 base_production = 4 base_manpower = 4 }
+1848.2.2   = { 	owner = USA 
+		controller = USA
+		add_core = USA 
+		culture = american 
+		religion = catholic
+		trade_goods = gold
+		is_city = yes
+	     } # California Gold rush
+1851.1.1 = { base_tax = 9 base_manpower = 6 }
+1869.1.1   = { capital = "Bakersfield" }
+1875.1.1 = { base_tax = 10 base_production = 5 base_manpower = 7 }
+1890.1.1   = { trade_goods = oil } #Coalinga oil field
+1901.1.1 = { base_production = 6 base_manpower = 9 }
+1925.1.1 = { base_production = 8 base_manpower = 11 }
+1951.1.1 = { base_tax = 12 base_production = 9 }
+1975.1.1 = { base_production = 11 base_manpower = 12 }
+2000.1.1 = { base_tax = 13 base_production = 16 base_manpower = 13 }
+
+
+
+

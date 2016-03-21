@@ -1,0 +1,294 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = 3
+#innovative_narrowminded = 3
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = -1
+#land_naval = -1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+technology_group = muslim
+religion = sunni
+primary_culture = afghani
+capital = 451	# Kabul
+
+1747.6.1 = { capital = 451 }
+
+1823.1.1 = {
+	monarch = {
+		name = "Dost Mohammd Khan"
+		dynasty = "Barakzai"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1839.8.7 = {
+	monarch = {
+		name = "Shuja Shah"
+		dynasty = "Durrani"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1842.4.5 = {
+	monarch = {
+		name = "Akbar Khan"
+		dynasty = "Barakzai"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1845.1.1 = {
+	monarch = {
+		name = "Dost Mohammd Khan"
+		dynasty = "Barakzai"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1863.6.9 = {
+	monarch = {
+		name = "Sher Ali Khan"
+		dynasty = "Barakzai"
+		adm = 5
+		mil = 2
+		dip = 4
+	}
+}
+
+1865.1.1 = {
+	monarch = {
+		name = "Mohammad Afzal Khan"
+		dynasty = "Barakzai"
+		adm = 2
+		mil = 1
+		dip = 2
+	}
+}
+
+1867.10.7 = {
+	monarch = {
+		name = "Sher Ali Khan"
+		dynasty = "Barakzai"
+		adm = 5
+		mil = 2
+		dip = 4
+	}
+}
+
+1879.2.21 = {
+	monarch = {
+		name = "Mohammad Yaqub Khan"
+		dynasty = "Barakzai"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1879.10.12 = {
+	monarch = {
+		name = "Mohammad Ayub Khan"
+		dynasty = "Barakzai"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1880.5.31 = {
+	monarch = {
+		name = "Abdur Rahman Khan"
+		dynasty = "Barakzai"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+1901.10.1 = {
+	monarch = {
+		name = "Habibullah Khan"
+		dynasty = "Barakzai"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+1919.2.20 = {
+	monarch = {
+		name = "Nasrullah Khan"
+		dynasty = "Barakzai"
+		adm = 1
+		mil = 3
+		dip = 1
+	}
+}
+
+1919.2.28 = {
+	monarch = {
+		name = "Amanullah Khan"
+		dynasty = "Barakzai"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+1926.7.9 = { government = despotic_monarchy }
+
+1929.1.14 = {
+	monarch = {
+		name = "Inayatullah Khan"
+		dynasty = "Barakzai"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+1929.1.17 = {
+	monarch = {
+		name = "Habibullah"
+		dynasty = "Kalakani"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1929.10.16 = {
+	monarch = {
+		name = "Mohammad Nadir Shah"
+		dynasty = "Barakzai"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1933.11.8 = {
+	monarch = {
+		name = "Mohammad Zahir Shah"
+		dynasty = "Barakzai"
+		adm = 2
+		mil = 4
+		dip = 5
+	}
+}
+
+1973.7.17 = {
+	monarch = {
+		name = "Mohammed Daoud Khan"
+		adm = 5
+		mil = 1
+		dip = 2
+	}
+#	innovative_narrowminded = 1
+#	centralization_decentralization = 2
+#	serfdom_freesubjects = 0
+	government = constitutional_republic
+}
+
+1978.4.30 = {
+	monarch = {
+		name = "Nur Muhammad Taraki"
+		adm = 2
+		mil = 3
+		dip = 3
+	}
+	government = socialist_republic
+}
+
+1979.9.14 = {
+	monarch = {
+		name = "Hafizullah Amin"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1979.12.27 = {
+	monarch = {
+		name = "Babrak Karmal"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1986.11.24 = {
+	monarch = {
+		name = "Haji Mohammad Chamkani"
+		adm = 2
+		mil = 4
+		dip = 5
+	}
+}
+
+1987.9.30 = {
+	monarch = {
+		name = "Mohammad Najibullah"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1987.11.30 = { government = constitutional_republic }
+
+1992.4.16 = {
+	monarch = {
+		name = "Abdul Rahim Hatef"
+		adm = 2
+		mil = 4
+		dip = 3
+	}
+}
+
+1992.4.28 = {
+	monarch = {
+		name = "Sibghatullah Mojaddedi"
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+1992.6.28 = {
+	monarch = {
+		name = "Burhanuddin Rabbani"
+		adm = 2
+		mil = 4
+		dip = 5
+	}
+}
+
+2001.12.22 = {
+	monarch = {
+		name = "Hamid Karzai"
+		adm = 4
+		mil = 4
+		dip = 2
+	}
+}
+
+2014.9.29 = {
+	monarch = {
+		name = "Ashraf Ghani"
+		adm = 3
+		mil = 4
+		dip = 2
+	}
+}

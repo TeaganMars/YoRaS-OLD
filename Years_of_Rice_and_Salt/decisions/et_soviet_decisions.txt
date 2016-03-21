@@ -1,0 +1,54 @@
+country_decisions = {
+
+	form_soviet_union = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			tag = RUS
+			NOT = { exists = SOV }
+			OR = {
+				government = communist_dictatorship
+				government = socialist_republic
+			}
+		}
+		allow = {
+			is_subject = no
+			is_at_war = no
+			OR = {
+				government = communist_dictatorship
+				government = socialist_republic
+			}
+		}
+		effect = {
+			add_prestige = 20
+			change_tag = SOV
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	end_of_soviet_union = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			tag = SOV
+			NOT = { exists = RUS }
+			NOT = {	government = communist_dictatorship }
+			NOT = {	government = socialist_republic }
+		}
+		allow = {
+			is_subject = no
+			is_at_war = no
+			NOT = {	government = communist_dictatorship }
+			NOT = {	government = socialist_republic }
+		}
+		effect = {
+			add_prestige = 20
+			change_tag = RUS
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

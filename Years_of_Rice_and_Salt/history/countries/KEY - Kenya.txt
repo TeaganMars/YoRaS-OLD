@@ -1,0 +1,61 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -5
+#centralization_decentralization = 5
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -5
+#quality_quantity = 2
+#serfdom_freesubjects = -5
+primary_culture = masai
+religion = protestant
+technology_group = muslim
+capital = 1798
+
+1910.1.1 = { religion = secularism }
+
+1963.12.12 = {
+	monarch = {
+		name = "Malcolm MacDonald"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1964.12.12 = {
+	monarch = {
+		name = "Jomo Kenyatta"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1978.8.22 = {
+	monarch = {
+		name = "Daniel arap Moi"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+2002.12.30 = {
+	monarch = {
+		name = "Mwai Kibaki"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+2013.4.4 = {
+	monarch = {
+		name = "Uhuru Kenyatta"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}

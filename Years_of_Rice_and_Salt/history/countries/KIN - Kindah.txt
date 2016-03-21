@@ -1,0 +1,46 @@
+government = tribal_despotism
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 4
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -3
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+technology_group = middle_eastern
+primary_culture = bedouin_arabic
+religion = south_arabian
+capital = 405 # Dumat Al-Jandal
+
+425.1.1 = {
+	monarch = {
+		name = "Hujr 'Akil al-Murar"
+		dynasty = "Kindah"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+458.1.1 = {
+	monarch = {
+		name = "'Amr al-Mansur"
+		dynasty = "Kindah"
+		adm = 5
+		mil = 2
+		dip = 4
+	}
+}
+
+489.1.1 = {
+	monarch = {
+		name = "Al-Harith Talaban"
+		dynasty = "Kindah"
+		adm = 2
+		mil = 1
+		dip = 2
+	}
+}
+
+490.1.1 = { religion = jewish }

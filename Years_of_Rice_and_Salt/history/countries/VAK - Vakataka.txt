@@ -1,0 +1,116 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 2
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = -2
+primary_culture = marathi
+religion = hinduism
+technology_group = early_indian
+capital = 545	# Vatsagulma
+
+220.1.1 = {
+	monarch = {
+		name = "Vindyasakti I"
+		dynasty = "Vakataka"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+270.1.1 = {
+	monarch = {
+		name = "Pravarasena I"
+		dynasty = "Vakataka"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+330.1.1 = {
+	monarch = {
+		name = "Rudrasena I"
+		dynasty = "Vakataka"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+355.1.1 = {
+	monarch = {
+		name = "Prithvisena I"
+		dynasty = "Vakataka"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+380.1.1 = {
+	monarch = {
+		name = "Rudrasena II"
+		dynasty = "Vakataka"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+385.1.1 = {
+	monarch = {
+		name = "Divakarasena I"
+		dynasty = "Vakataka"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+400.1.1 = {
+	monarch = {
+		name = "Damodarasena I"
+		dynasty = "Vakataka"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+440.1.1 = {
+	monarch = {
+		name = "Narendrasena I"
+		dynasty = "Vakataka"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+460.1.1 = {
+	monarch = {
+		name = "Prithvisena II"
+		dynasty = "Vakataka"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+480.1.1 = {
+	monarch = {
+		name = "Harishena"
+		dynasty = "Vakataka"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+750.1.1 = { technology_group = indian }

@@ -1,0 +1,6 @@
+#1666 - Kamtchatka Basin
+
+1647.1.1 = { discovered_by = RUS }
+
+
+

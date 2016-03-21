@@ -1,0 +1,86 @@
+#916 - Kaskaskia
+
+culture = illini
+religion = totemism
+capital = "Kaskaskia"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostileness = 0
+discovered_by = north_american
+
+1000.1.1 = { 	owner = MIS
+		controller = MIS
+		add_core = MIS
+		is_city = yes
+		trade_goods = fur
+}
+1380.1.1 = {	owner = XXX
+		controller = XXX
+		remove_core = MIS
+		citysize = 0
+		native_size = 10
+		native_ferocity = 1
+		native_hostileness = 0
+		trade_goods = unknown
+}
+
+1650.1.1  = {	owner = ILL
+		controller = ILL
+		add_core = ILL
+		is_city = yes 
+		trade_goods = fur }
+1670.1.1 = { discovered_by = FRA } # Robert Cavelier de La Salle
+1679.1.1  = { discovered_by = ENG }
+1680.1.1  = { 	owner = IRO
+		controller = IRO
+		citysize = 100
+		culture = iroquois } #Taken by Iroquois in Beaver Wars.
+1701.8.14 = {	owner = XXX
+		controller = XXX
+		citysize = 0
+		culture = illini 
+		trade_goods = unknown } #Vast areas left deserted after the Beaver Wars and the Iroquois withdrawal
+1703.1.1 = {
+	owner = FRA
+	controller = FRA
+	citysize = 500
+	culture = cosmopolitan_french
+	religion = catholic
+	trade_goods = fur
+} #Kaskaskia
+1707.5.12 = { discovered_by = GBR }
+1724.1.1 = { add_core = FRA }
+1750.1.1 = { is_city = yes }
+1751.1.1 = { base_tax = 2 base_production = 2 base_manpower = 2 }
+1763.2.10 = {
+	discovered_by = GBR
+	owner = GBR
+	controller = GBR
+	remove_core = FRA
+} # Treaty of Paris, France gave up its claim to New France
+1763.3.1 = { unrest = 6 } # Native discontent with the British rule
+#1763.10.9 Royal proclamation, but Illinois country colonies in a gray zone
+1763.5.1 = { unrest = 0 revolt = { type = nationalist_rebels size = 0 } controller = REB } # Pontiac's war
+1764.6.1 = { revolt = {} controller = GBR } # Peace negotiations
+1775.1.1 = { base_tax = 5 }
+1778.7.4  = {	owner = USA
+		controller = USA
+		culture = american
+	    } # Americans capture Kaskaskia; Illinois country french join the revolt.
+1801.1.1 = { base_tax = 6 base_manpower = 4 }
+1803.7.4 = { add_core = USA } #The death of Tecumseh mark the end of organized native resistance 
+
+1821.4.10 = { capital = "Springfield" }
+1825.1.1 = { base_production = 3 base_manpower = 6 }
+1850.1.1 = { base_tax = 7 base_production = 4 base_manpower = 7 }
+1875.1.1 = { base_production = 5 base_manpower = 10 }
+1900.1.1 = { base_production = 7 base_manpower = 11 }
+1925.1.1 = { base_production = 8 base_manpower = 13 }
+1950.1.1 = { base_tax = 9 base_production = 9 }
+1975.1.1 = { base_tax = 11 base_production = 10 }
+2000.1.1 = { base_tax = 14 base_production = 14 }

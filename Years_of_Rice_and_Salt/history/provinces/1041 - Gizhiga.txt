@@ -1,0 +1,34 @@
+#1041 - Gizhiga
+
+culture = kamchatkan
+religion = shamanism
+capital = "Gizhiga"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = HOD
+discovered_by = CHU
+discovered_by = CHV
+discovered_by = KMC
+
+1300.1.1 = { owner = CHV controller = CHV add_core = CHV is_city = yes trade_goods = fur }
+
+1647.1.1 = { discovered_by = RUS } # V. Atlasov
+1732.1.1 = {	owner = RUS
+		controller = RUS
+		religion = orthodox
+	   	culture = russian
+	   } # Conquered by Russia
+1757.1.1 = { add_core = RUS citysize = 1450 }
+
+1922.12.30 = { owner = SOV controller = SOV add_core = SOV }
+1930.1.1   = { capital = "Omsukchan" }
+1991.12.25 = { owner = RUS controller = RUS remove_core = SOV }
+
+
+

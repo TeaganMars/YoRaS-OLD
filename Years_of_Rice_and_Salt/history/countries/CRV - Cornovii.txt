@@ -1,0 +1,16 @@
+government = barbarian_tribe
+mercantilism = 0.1
+technology_group = barbarian
+primary_culture = briton
+religion = druidism
+capital = 240
+
+2.1.1 = {
+	monarch = {
+		name = "Virico"
+		dynasty = "Cornovii"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}

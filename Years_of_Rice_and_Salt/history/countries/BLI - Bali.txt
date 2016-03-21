@@ -1,0 +1,489 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 2
+#quality_quantity = 2
+#serfdom_freesubjects = -1
+primary_culture = sulawesi
+technology_group = early_chinese
+religion = hinduism
+capital = 631	# Singaraja
+
+750.1.1 = { technology_group = chinese }
+
+914.1.1 = {
+	monarch = {
+		name = "Sri Kesari"
+		dynasty = "Warmadewa"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+915.1.1 = {
+	monarch = {
+		name = "Ugrasena"
+		dynasty = "Warmadewa"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+955.1.1 = {
+	monarch = {
+		name = "Tabanendrawarmadewa"
+		dynasty = "Warmadewa"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+967.1.1 = {
+	monarch = {
+		name = "Janasadhu"
+		dynasty = "Warmadewa"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+980.1.1 = {
+	monarch = {
+		name = "Sri Wijaya Mahadewi"
+		dynasty = "Warmadewa"
+		adm = 4
+		dip = 3
+		mil = 2
+		female = yes
+	}
+}
+
+989.1.1 = {
+	monarch = {
+		name = "Dharma Udayana"
+		dynasty = "Warmadewa"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1011.1.1 = {
+	monarch = {
+		name = "Sri Ajñadewi"
+		dynasty = "Warmadewa"
+		adm = 3
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}
+
+1022.1.1 = {
+	monarch = {
+		name = "Dharmawangsa Wardhana"
+		dynasty = "Warmadewa"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1025.1.1 = {
+	monarch = {
+		name = "Airlangga"
+		dynasty = "Warmadewa"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1049.1.1 = {
+	monarch = {
+		name = "Anak Wungsu"
+		dynasty = "Warmadewa"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1079.1.1 = {
+	monarch = {
+		name = "Sri Maharaja Walaprabhu"
+		dynasty = "Warmadewa"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1088.1.1 = {
+	monarch = {
+		name = "Sakalendukirana Wijayottunggadewi"
+		dynasty = "Warmadewa"
+		adm = 3
+		dip = 3
+		mil = 2
+		female = yes
+	}
+}
+
+1115.1.1 = {
+	monarch = {
+		name = "Sri Suradhipa"
+		dynasty = "Warmadewa"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1133.1.1 = {
+	monarch = {
+		name = "Sri Jayasakti"
+		dynasty = "Jaya"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1155.1.1 = {
+	monarch = {
+		name = "Ragajaya"
+		dynasty = "Jaya"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1178.1.1 = {
+	monarch = {
+		name = "Jayapangus"
+		dynasty = "Jaya"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1181.1.1 = {
+	monarch = {
+		name = "Arjayadengjayaketana"
+		dynasty = "Jaya"
+		adm = 4
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}
+
+1200.1.1 = {
+	monarch = {
+		name = "Haji Ekajayalancana"
+		dynasty = "Jaya"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1210.1.1 = {
+	monarch = {
+		name = "Bhatara Guru"
+		dynasty = "Jaya"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1240.1.1 = {
+	monarch = {
+		name = "Adidewalancana"
+		dynasty = "Jaya"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1293.1.1 = {
+	monarch = {
+		name = "Rajapatih Makakasar"
+		dynasty = "Jaya"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1310.1.1 = {
+	monarch = {
+		name = "Mahaguru Warmadewa"
+		dynasty = "Jaya"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1328.1.1 = {
+	monarch = {
+		name = "Walajayakertaningrat"
+		dynasty = "Jaya"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1332.1.1 = {
+	monarch = {
+		name = "Sri Astasura Ratna"
+		dynasty = "Jaya"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+# Bali
+1450.1.1 = {
+	monarch = {
+		name = "Ketut Ngulesir"
+		dynasty = "Samprangan"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1450.1.1 = {
+	heir = {
+		name = "Watu Renggong"
+		monarch_name = "Watu Renggong"
+		dynasty = "Samprangan"
+		birth_Date = 1450.1.1
+		death_Date = 1550.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+1460.1.1 = {
+	monarch = {
+		name = "Watu Renggong"
+		dynasty = "Samprangan"
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+1540.1.1 = {
+	heir = {
+		name = "Dalem Bekung"
+		monarch_name = "Dalem Bekung"
+		dynasty = "Samprangan"
+		birth_Date = 1540.1.1
+		death_Date = 1605.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1550.1.1 = {
+	monarch = {
+		name = "Dalem Bekung"
+		dynasty = "Samprangan"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1600.1.1 = {
+	heir = {
+		name = "Dalem Di Made"
+		monarch_name = "Dalem Di Made"
+		dynasty = "Samprangan"
+		birth_date = 1600.1.1
+		death_Date = 1686.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+
+1605.1.1 = {
+	monarch = {
+		name = "Dalem Di Made"
+		dynasty = "Samprangan"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1645.1.1 = {
+	heir = {
+		name = "Dalem Di Made"
+		monarch_name = "Dalem Di Made II"
+		dynasty = "Samprangan"
+		birth_Date = 1645.1.1
+		death_Date = 1710.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1686.1.1 = {
+	monarch = {
+		name = "Dalem Di Made II"
+		dynasty = "Samprangan"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1686.1.1 = {
+	heir = {
+		name = "Dewa Agung Jambe"
+		monarch_name = "Dewa Agung Jambe"
+		dynasty = "Samprangan"
+		birth_Date = 1686.1.1
+		death_Date = 1736.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1710.1.1 = {
+	monarch = {
+		name = "Dewa Agung Jambe"
+		dynasty = "Samprangan"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1710.1.1 = {
+	heir = {
+		name = "Dewa Agung Di Made"
+		monarch_name = "Dewa Agung Di Made"
+		dynasty = "Samprangan"
+		birth_Date = 1690.1.1
+		death_Date = 1760.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1736.1.1 = {
+	monarch = {
+		name = "Dewa Agung Di Made"
+		dynasty = "Samprangan"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1736.1.1 = {
+	heir = {
+		name = "Dewa Agung Sakti"
+		monarch_name = "Dewa Agung Sakti"
+		dynasty = "Samprangan"
+		birth_Date = 1730.1.1
+		death_Date = 1790.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1760.1.1 = {
+	monarch = {
+		name = "Dewa Agung Sakti"
+		dynasty = "Samprangan"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1760.1.1 = {
+	heir = {
+		name = "Dewa Agung Putra"
+		monarch_name = "Dewa Agung Putra"
+		dynasty = "Samprangan"
+		birth_date = 1760.1.1
+		death_Date = 1815.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1790.1.1 = {
+	monarch = {
+		name = "Dewa Agung Putra"
+		dynasty = "Samprangan"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1790.1.1 = {
+	heir = {
+		name = "Dewa Agung Putra"
+		monarch_name = "Dewa Agung Putra II"
+		dynasty = "Samprangan"
+		birth_date = 1780.1.1
+		death_Date = 1836.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1815.1.1 = {
+	monarch = {
+		name = "Dewa Agung Putra II"
+		dynasty = "Samprangan"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+

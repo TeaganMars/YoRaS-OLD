@@ -1,0 +1,40 @@
+#3026 - Timiskaming
+
+culture = cree
+religion = totemism
+capital = "Timiskaming"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1609.1.1  = { discovered_by = FRA } # Samuel de Champlain
+1615.1.1  = { discovered_by = ENG } # Settlement hindered by the Iroquois
+1668.1.1  = {	owner = FRA
+		controller = FRA
+		citysize = 400
+		culture = cosmopolitan_french
+		religion = catholic
+		trade_goods = fur
+	    } #Fort Témiscamingue founded
+1693.1.1  = { add_core = FRA }
+1700.1.1  = { citysize = 950 }
+1707.5.12 = { discovered_by = GBR } 
+1750.1.1  = { is_city = yes }
+1760.1.1  = { controller = GBR } # The government of New France capitulate at Montreal
+1763.2.10 = {	owner = GBR
+		remove_core = FRA
+	    } # Treaty of Paris - ceded to Britain
+1788.2.10 = { add_core = GBR }
+
+1867.7.1   = { owner = CAN add_core = CAN controller = CAN remove_core = GBR }
+1980.5.20  = { add_core = QUE } # Quebec referendum
+
+
+
+

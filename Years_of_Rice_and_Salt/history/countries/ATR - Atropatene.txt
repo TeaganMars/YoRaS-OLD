@@ -1,0 +1,36 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = persian
+religion = zoroastrian
+technology_group = middle_eastern
+capital = 2281 #Ganzak
+
+6.1.1 = {
+	monarch = {
+		name = "Artabanus II"
+		dynasty = "Arsacid"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+10.1.1 = {
+	monarch = {
+		name = "Vonones II"
+		dynasty = "Arsacid"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+51.1.1 = {
+	monarch = {
+		name = "Pacorus II"
+		dynasty = "Arsacid"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}

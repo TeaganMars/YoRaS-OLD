@@ -1,0 +1,64 @@
+government = parliamentary_republic
+##aristocracy_plutocracy = -5
+##centralization_decentralization = 5
+##innovative_narrowminded = 1
+##mercantilism_freetrade = -5
+mercantilism = 0.1
+##offensive_defensive = 0
+##land_naval = -5
+##quality_quantity = 2
+##serfdom_freesubjects = -5
+primary_culture = chewa
+religion = catholic
+technology_group = muslim
+capital = 1799
+
+1910.1.1 = { religion = secularism }
+
+1964.7.6 = {
+	monarch = {
+		name = "Hastings Banda"
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+1966.7.6 = { government = constitutional_republic }
+
+1994.5.21 = {
+	monarch = {
+		name = "Bakili Muluzi"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+2004.5.24 = {
+	monarch = {
+		name = "Bingu wa Mutharika"
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+
+2012.4.7 = {
+	monarch = {
+		name = "Joyce Banda"
+		adm = 2
+		dip = 1
+		mil = 1
+		female = yes
+	}
+}
+
+2014.5.31 = {
+	monarch = {
+		name = "Peter Mutharika"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}

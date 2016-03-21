@@ -1,0 +1,59 @@
+#66 - Bamberg
+
+owner = EAL
+controller = EAL
+add_core = EAL
+is_city = yes
+culture = franconian
+religion = germanic
+base_tax = 1
+base_production = 1
+trade_goods = wine
+base_manpower = 2
+capital = "Bamberg"
+hre = no
+discovered_by = eastern
+discovered_by = roman_group
+discovered_by = western
+discovered_by = barbarian
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+
+260.1.1 = { owner = BUR controller = BUR add_core = BUR remove_core = EAL culture = burgundione }
+350.1.1 = { owner = VAN controller = VAN add_core = VAN remove_core = BUR culture = vandal }
+409.1.1 = { owner = BUR controller = BUR add_core = BUR remove_core = VAN culture = burgundione }
+411.1.1 = { owner = HRM controller = HRM add_core = HRM remove_core = BUR culture = hessian }
+451.1.1 = { owner = THU controller = THU add_core = THU remove_core = MRM culture = franconian }
+531.1.1 = { owner = FRK controller = FRK add_core = FRK }
+800.1.1 = { religion = chalcedonism }
+840.6.21 = { owner = FRE controller = FRE add_core = FRE remove_core = FRK }
+867.1.1 = { religion = catholic }
+900.1.1 = { base_tax = 2 base_production = 2 }
+911.11.10 = { owner = FRC controller = FRC add_core = FRC remove_core = FRE }
+939.10.23 = { owner = BAM controller = BAM add_core = BAM remove_core = FRC }
+962.2.2 = { hre = yes }
+1007.1.1 = { remove_core = THU }
+1245.1.1 = { owner = WBG controller = WBG add_core = WBG remove_core = FRC }
+
+1762.1.1 = { base_tax = 3 }
+1800.1.1 = { base_tax = 4 }
+1803.1.1  = {	owner = BAV
+		controller = BAV
+		add_core = BAV
+		remove_core = BAM
+	    } # Annexed by Bavaria
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+
+1837.1.1 = { base_manpower = 3 }
+1871.1.18  = { owner = GER controller = GER add_core = GER } # German unification
+1875.1.1 = { base_tax = 5 }
+1900.1.1   = { remove_core = BAV }
+1912.1.1 = { base_production = 3 }
+1945.5.8   = { owner = WGE controller = WGE add_core = WGE }
+1951.1.1 = { base_manpower = 4 }
+1990.10.3  = { owner = GER controller = GER remove_core = WGE }
+2000.1.1 = { base_production = 5 }
+
+
+

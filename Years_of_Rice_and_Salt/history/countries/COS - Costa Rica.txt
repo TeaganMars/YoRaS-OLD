@@ -1,0 +1,503 @@
+government = revolutionary_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = 0
+technology_group = western
+primary_culture = castillian
+religion = catholic
+capital = 836
+
+1838.5.31 = {
+	monarch = {
+		name = "Braulio Carrillo Colina"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1842.4.1 = {
+	monarch = {
+		name = "Francisco Morazán"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1842.9.1 = {
+	monarch = {
+		name = "José Maria Alfaro Zamora"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1844.11.1 = {
+	monarch = {
+		name = "Francisco Maria Oreamuno Bonilla"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1845.1.1 = {
+	monarch = {
+		name = "José Rafael Gallegos"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1846.1.1 = {
+	monarch = {
+		name = "José Maria Alfaro Zamora"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1847.5.8 = {
+	government = constitutional_republic
+	monarch = {
+		name = "José Castro Madriz"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1849.11.26 = {
+	monarch = {
+		name = "Juan Mora Porras"
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+
+1859.8.14 = {
+	monarch = {
+		name = "José María Montealegre Fernández"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1863.5.8 = {
+	monarch = {
+		name = "Jesús Jiménez Zamora"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1866.5.8 = {
+	monarch = {
+		name = "José Castro Madriz"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1868.11.1 = {
+	monarch = {
+		name = "Jesús Jiménez Zamora"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1870.4.27 = {
+	monarch = {
+		name = "Bruno Carranza Ramírez"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1870.8.10 = {
+	monarch = {
+		name = "Tomás Guardia Gutiérrez"
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+1876.5.8 = {
+	monarch = {
+		name = "Ancieto Esquivel Sáenz"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1876.7.30 = {
+	monarch = {
+		name = "Vicente Herrera Zeledón"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1877.9.11 = {
+	monarch = {
+		name = "Tomás Guardia Gutiérrez"
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+1882.7.6 = {
+	monarch = {
+		name = "Saturnino Lizano Gutiérrez"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1882.7.20 = {
+	monarch = {
+		name = "Próspero Fernández Oreamuno"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1885.3.12 = {
+	monarch = {
+		name = "Bernardo Soto Alfaro"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1890.5.8 = {
+	monarch = {
+		name = "José Rodríguez Zeledón"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1894.5.8 = {
+	monarch = {
+		name = "Rafael Yglesias Castro"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1902.5.8 = {
+	monarch = {
+		name = "Ascensión Esquivel Ibarra"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1906.5.8 = {
+	monarch = {
+		name = "Cleto González Víquez"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1910.5.8 = {
+	monarch = {
+		name = "Ricardo Jiménez Oreamundo"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+
+1914.5.8 = {
+	monarch = {
+		name = "Alfredo González Flores"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1917.1.27 = {
+	monarch = {
+		name = "Federico Tinoco Granados"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1919.8.13 = {
+	monarch = {
+		name = "Juan Quirós Segura"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1919.9.2 = {
+	monarch = {
+		name = "Francisco Aguilar Barquero"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1920.5.8 = {
+	monarch = {
+		name = "Julio Acosta García"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1924.5.8 = {
+	monarch = {
+		name = "Ricardo Jiménez Oreamundo"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1928.5.8 = {
+	monarch = {
+		name = "Cleto González Víquez"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1932.5.8 = {
+	monarch = {
+		name = "Ricardo Jiménez Oreamundo"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1936.5.8 = {
+	monarch = {
+		name = "León Cortés Castro"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1940.5.8 = {
+	monarch = {
+		name = "Rafael Calderón Guardia"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1944.5.8 = {
+	monarch = {
+		name = "Teodoro Picado Michalski"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1948.5.8 = {
+	monarch = {
+		name = "José Figueres Ferrer"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1949.11.7 = {
+	monarch = {
+		name = "Otolio Ulate Blanco"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1953.5.8 = {
+	monarch = {
+		name = "José Figueres Ferrer"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1958.5.8 = {
+	monarch = {
+		name = "Mario Echandi Jiménez"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1962.5.8 = {
+	monarch = {
+		name = "Francisco Orlich Bolmarcich"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1966.5.8 = {
+	monarch = {
+		name = "José Trejos Fernández"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1970.5.8 = {
+	monarch = {
+		name = "José Figueres Ferrer"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1974.5.8 = {
+	monarch = {
+		name = "Daniel Oduber Quirós"
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+
+1978.5.8 = {
+	monarch = {
+		name = "Rodrigo Carazo Odio"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1982.5.8 = {
+	monarch = {
+		name = "Luis Monge Álvarez"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1986.5.8 = {
+	monarch = {
+		name = "Óscar Arías"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1990.5.8 = {
+	monarch = {
+		name = "Rafael Calderón Fournier"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1994.5.8 = {
+	monarch = {
+		name = "José Figueres Olsen"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1998.5.8 = {
+	monarch = {
+		name = "Miguel Rodríguez Echeverría"
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+2002.5.8 = {
+	monarch = {
+		name = "Abel Pacheco de la Espriella"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+2006.5.8 = {
+	monarch = {
+		name = "Óscar Arías"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+2010.5.8 = {
+	monarch = {
+		name = "Laura Chinchilla"
+		adm = 3
+		dip = 4
+		mil = 2
+		female = yes
+	}
+}
+
+2014.5.8 = {
+	monarch = {
+		name = "Luis Guillermo Solís"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}

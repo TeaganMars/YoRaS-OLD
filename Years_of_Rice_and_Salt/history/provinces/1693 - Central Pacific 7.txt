@@ -1,0 +1,5 @@
+#1693 - Molokai Fracture Zone
+
+1555.1.1 = { discovered_by = SPA }
+
+

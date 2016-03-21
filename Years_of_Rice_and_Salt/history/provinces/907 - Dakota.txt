@@ -1,0 +1,49 @@
+#907 - Yankton
+
+culture = dakota
+religion = totemism
+capital = "Dakota"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 25
+native_ferocity = 2
+native_hostileness = 9
+discovered_by = north_american
+
+1710.1.1  = {	owner = SIO
+		controller = SIO
+		add_core = SIO
+		is_city = yes
+		trade_goods = fur
+		culture = dakota } #Horses cause waves of migration on the Great Plains
+1743.1.1 = { discovered_by = FRA }# Pierre Gaultier de Varennes, no real settlements until the 1800's
+
+1750.1.1 = { base_production = 2 }
+1775.1.1 = { base_production = 3 }
+1800.1.1 = { base_tax = 2 }
+1825.1.1 = { base_production = 4 }
+1850.1.1 = { base_manpower = 2 }
+1858.1.1 = {	discovered_by = USA
+		owner = USA
+		controller = USA
+		add_core = USA
+		remove_core = SIO
+		culture = american
+		religion = protestant
+		capital = "Yankton"
+	    }
+1875.1.1 = { base_production = 5 }
+1889.11.2 = { capital = "Sioux Falls" }
+1900.1.1 = { base_tax = 3 }
+1925.1.1 = { base_tax = 4 }
+1940.1.1   = {  discovered_by = eastern
+		discovered_by = muslim
+		discovered_by = ottoman
+		discovered_by = asian
+	     }
+1950.1.1 = { base_tax = 5 }
+1975.1.1 = { base_manpower = 3 }
+2000.1.1 = { base_tax = 6 base_manpower = 4 }

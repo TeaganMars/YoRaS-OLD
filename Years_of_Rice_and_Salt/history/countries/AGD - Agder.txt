@@ -1,0 +1,106 @@
+government = feudal_monarchy
+government_rank = 1
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 4
+#quality_quantity = 2
+#serfdom_freesubjects = 2
+primary_culture = norwegian
+religion = norse_pagan_reformed
+technology_group = western
+capital = 24
+
+500.1.1 = {
+	monarch = {
+		name = "Bjearling"
+		dynasty = "Agder"
+		birth_date = 480.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+550.1.1 = {
+	monarch = {
+		name = "Kissa"
+		dynasty = "Agder"
+		birth_date = 530.1.1
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+600.1.1 = {
+	monarch = {
+		name = "Herjorf"
+		dynasty = "Agder"
+		birth_date = 580.1.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+650.1.1 = {
+	monarch = {
+		name = "Vikar"
+		dynasty = "Agder"
+		birth_date = 630.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+700.1.1 = {
+	monarch = {
+		name = "Neri"
+		dynasty = "Agder"
+		birth_date = 680.1.1
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+750.1.1 = {
+	monarch = {
+		name = "Harald"
+		dynasty = "Agder"
+		birth_date = 730.1.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+790.1.1 = {
+	monarch = {
+		name = "Harald Granraude"
+		dynasty = "Yngling"
+		birth_date = 770.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+815.1.1 = {
+	monarch = {
+		name = "Åsa"
+		dynasty = "Yngling"
+		birth_date = 795.1.1
+		adm = 4
+		dip = 2
+		mil = 3
+		female = yes
+	}
+}
+
+

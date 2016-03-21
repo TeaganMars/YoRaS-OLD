@@ -1,0 +1,17 @@
+name = "Greco-Turkish War"
+
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 2369
+}
+
+1920.8.10 = {
+	add_attacker = GRE
+	add_defender = TUR
+}
+
+1922.10.15  = {
+	rem_attacker = GRE
+	rem_defender = TUR
+}

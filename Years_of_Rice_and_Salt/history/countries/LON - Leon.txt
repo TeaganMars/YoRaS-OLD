@@ -1,0 +1,197 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = leonese
+religion = catholic
+technology_group = western
+capital = 208 #Leon
+
+910.12.10 = {
+	monarch = {
+		name = "Garcia I"
+		dynasty = "de Beni Alfons"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+914.1.1 = {
+	monarch = {
+		name = "Ordoño II"
+		dynasty = "de Beni Alfons"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+924.1.1 = {
+	monarch = {
+		name = "Alfonso IV"
+		dynasty = "de Beni Alfons"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+931.6.1 = {
+	monarch = {
+		name = "Ramiro II"
+		dynasty = "de Beni Alfons"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+951.6.1 = {
+	monarch = {
+		name = "Ordoño III"
+		dynasty = "de Beni Alfons"
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+}
+
+956.6.1 = {
+	monarch = {
+		name = "Sancho I"
+		dynasty = "de Beni Alfons"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+958.6.1 = {
+	monarch = {
+		name = "Ordoño IV"
+		dynasty = "de Beni Alfons"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+960.6.1 = {
+	monarch = {
+		name = "Sancho I"
+		dynasty = "de Beni Alfons"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+966.6.1 = {
+	monarch = {
+		name = "Ramiro III"
+		dynasty = "de Beni Alfons"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+982.6.1 = {
+	monarch = {
+		name = "Bermudo II"
+		dynasty = "de Beni Alfons"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+999.6.1 = {
+	monarch = {
+		name = "Alfonso V"
+		dynasty = "de Beni Alfons"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1010.1.1 = {
+	monarch = {
+		name = "Bermudo III"
+		dynasty = "de Beni Alfons"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1065.12.24 = {
+	monarch = {
+		name = "Alfonso VI"
+		dynasty = "Jiménez"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1072.10.7 = {
+	monarch = {
+		name = "Alfonso VI"
+		dynasty = "Jiménez"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1109.6.29 = {
+	monarch = {
+		name = "Urraca"
+		dynasty = "Jiménez"
+		adm = 3
+		dip = 4
+		mil = 2
+		female = yes
+	}
+}
+
+1126.3.8 = {
+	monarch = {
+		name = "(regency council)"
+		adm = 3
+		dip = 4
+		mil = 2
+		regent = yes
+	}
+}
+
+1135.1.1 = {
+	monarch = {
+		name = "Alfonso VII"
+		dynasty = "d'Ivrea"
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+}
+
+1157.8.21 = {
+	monarch = {
+		name = "Ferdinand II"
+		dynasty = "d'Ivrea"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1188.6.1 = {
+	monarch = {
+		name = "Alfonso IX"
+		dynasty = "d'Ivrea"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}

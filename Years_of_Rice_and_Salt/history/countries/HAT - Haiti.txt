@@ -1,0 +1,594 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = -3
+#innovative_narrowminded = 3
+#mercantilism_freetrade = 0
+mercantilism = 0.1
+#offensive_defensive = 3
+#land_naval = 0
+#quality_quantity = 2
+#serfdom_freesubjects = 3
+technology_group = western
+religion = catholic
+primary_culture = cosmopolitan_french
+capital = 488	# Port-Au-Prince
+
+
+1804.1.1 = {
+	monarch = {
+		name = "Jean-Jacques"
+		dynasty = "Dessalines"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+1806.10.17 = {
+	monarch = {
+		name = "Henri"
+		dynasty = "Christophe"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1820.10.8 = { government = constitutional_republic }
+
+1820.10.8 = {
+	monarch = {
+		name = "Jean Pierre Boyer"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1843.4.4 = {
+	monarch = {
+		name = "Charles Rivière-Hérard"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1843.5.3 = {
+	monarch = {
+		name = "Philippe Guerrier"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1845.4.16 = {
+	monarch = {
+		name = "Jean-Louis Pierrot"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1846.3.24 = {
+	monarch = {
+		name = "Jean-Baptiste Riché"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1847.3.2 = { government = despotic_monarchy }
+
+1847.3.2 = {
+	monarch = {
+		name = "Faustin"
+		dynasty = "Soulouque"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1859.1.22 = { government = constitutional_republic }
+
+1859.1.22 = {
+	monarch = {
+		name = "Fabre Geffrard"
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+}
+
+1867.3.20 = {
+	monarch = {
+		name = "Nissage Saget"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1867.5.4 = {
+	monarch = {
+		name = "Sylvain Salnave"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+1869.12.27 = {
+	monarch = {
+		name = "Nissage Saget"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1874.5.13 = {
+	monarch = {
+		name = "(council of secretaries of state)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1874.6.14 = {
+	monarch = {
+		name = "Michel Domingue"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1876.4.23 = {
+	monarch = {
+		name = "Pierre Théoma Boisrond-Canal"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+1879.6.26 = {
+	monarch = {
+		name = "Joseph Lamothe"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1879.10.2 = {
+	monarch = {
+		name = "Lysius Salomon"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+1888.8.10 = {
+	monarch = {
+		name = "Pierre Théoma Boisrond-Canal"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+1888.10.16 = {
+	monarch = {
+		name = "François Denys Légitime"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1889.8.23 = {
+	monarch = {
+		name = "Monpoint Jeune"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+1889.10.17 = {
+	monarch = {
+		name = "Florvil Hyppolite"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1896.3.31 = {
+	monarch = {
+		name = "Tirésias Simon Sam"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1902.5.26 = {
+	monarch = {
+		name = "Pierre Théoma Boisrond-Canal"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+1902.12.17 = {
+	monarch = {
+		name = "Pierre Nord Alexis"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1908.10.16 = {
+	monarch = {
+		name = "François Antoine Simon"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1910.1.1 = { religion = secularism }
+
+1911.8.15 = {
+	monarch = {
+		name = "Cincinnatus Leconte"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1912.8.8 = {
+	monarch = {
+		name = "Tancrède Auguste"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1913.5.12 = {
+	monarch = {
+		name = "Michel Oreste"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1914.2.8 = {
+	monarch = {
+		name = "Oreste Zamor"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1914.11.7 = {
+	monarch = {
+		name = "Joseph Davilmar Théodore"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1915.2.25 = {
+	monarch = {
+		name = "Vilbrun Guillaume Sam"
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+1915.8.12 = {
+	monarch = {
+		name = "Philippe Sudré Dartiguenave"
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+}
+
+1922.5.15 = {
+	monarch = {
+		name = "Louis Borno"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+1930.5.15 = {
+	monarch = {
+		name = "Louis Eugène Roy"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1930.11.18 = {
+	monarch = {
+		name = "Sténio Vincent"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1941.5.15 = {
+	monarch = {
+		name = "Élie Lescot"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1946.1.11 = {
+	monarch = {
+		name = "Franck Lavaud"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1946.8.16 = {
+	monarch = {
+		name = "Dumarsais Estimé"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1950.5.10 = {
+	monarch = {
+		name = "Franck Lavaud"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1950.12.6 = {
+	monarch = {
+		name = "Paul Magloire"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1956.12.12 = {
+	monarch = {
+		name = "Joseph Nemours Pierre-Louis"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1957.2.7 = {
+	monarch = {
+		name = "Franck Sylvain"
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+1957.5.25 = {
+	monarch = {
+		name = "Daniel Fignolé"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1957.6.14 = {
+	monarch = {
+		name = "Antonio Thrasybule Kebreau"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1957.10.22 = {
+	monarch = {
+		name = "François Duvalier"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+1971.4.21 = {
+	monarch = {
+		name = "Jean-Claude Duvalier"
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+}
+
+1986.2.7 = {
+	monarch = {
+		name = "Henri Namphy"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1988.2.7 = {
+	monarch = {
+		name = "Leslie Manigat"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1988.6.20 = {
+	monarch = {
+		name = "Henri Namphy"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1988.9.17 = {
+	monarch = {
+		name = "Prosper Avril"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1990.3.10 = {
+	monarch = {
+		name = "Hérard Abraham"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1990.3.13 = {
+	monarch = {
+		name = "Ertha Parcal-Trouillot"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1991.2.7 = {
+	monarch = {
+		name = "Jean-Bertrand Aristide"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1991.9.30 = {
+	monarch = {
+		name = "Raoul Cédras"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1991.10.8 = {
+	monarch = {
+		name = "Joseph Nérette"
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+1992.6.19 = {
+	monarch = {
+		name = "Marc Louis Bazin"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1994.5.12 = {
+	monarch = {
+		name = "Émile Jonassaint"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1994.10.12 = {
+	monarch = {
+		name = "Jean-Bertrand Aristide"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1996.2.7 = {
+	monarch = {
+		name = "René Préval"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+2001.2.7 = {
+	monarch = {
+		name = "Jean-Bertrand Aristide"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+2004.2.29 = {
+	monarch = {
+		name = "Boniface Alexandre"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+2006.5.14 = {
+	monarch = {
+		name = "René Préval"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+2011.5.14 = {
+	monarch = {
+		name = "Michel Martelly"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}

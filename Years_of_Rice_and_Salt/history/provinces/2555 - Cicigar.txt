@@ -1,0 +1,66 @@
+#2555 - Cicigar
+
+owner = XIO
+controller = XIO
+culture = chahar
+religion = tengri_pagan_reformed
+capital = "Cicigar"
+trade_goods = naval_supplies
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core = XIO
+add_core = XIB
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+
+46.1.1 = { owner = XIB controller = XIB remove_core = XIO }
+330.1.1 = { owner = ROU controller = ROU add_core = ROU remove_core = XIB }
+547.1.1 = { owner = GOK controller = GOK add_core = GOK remove_core = ROU }
+744.1.1 = { owner = UIG controller = UIG add_core = UIG remove_core = GOK }
+848.1.1 = { owner = KHT controller = KHT add_core = KHT remove_core = UIG }
+907.1.1 = { owner = LIO controller = LIO add_core = LIO remove_core = KHT }
+1115.1.1 = { owner = JIN controller = JIN add_core = JIN remove_core = LIO }
+1214.1.1 = { owner = MGE controller = MGE add_core = MGE remove_core = JIN }
+1260.1.1 = { owner = KHA controller = KHA add_core = KHA remove_core = MGE }
+1271.1.1 = { owner = YUA controller = YUA add_core = YUA remove_core = KHA }
+1368.1.1 = { owner = KHA controller = KHA add_core = KHA remove_core = YUA }
+1389.1.1 = { owner = KRC controller = KRC add_core = KRC remove_core = KHA }
+
+1520.1.1 = { religion = vajrayana }
+1624.1.1 = {	owner = MCH
+		controller = MCH
+		add_core = MCH
+		remove_core = MJZ
+	    } # The Later Jin Khanate
+1636.5.15 = {	owner = QNG
+		controller = QNG
+		add_core = QNG
+		remove_core = KHA
+	    } # The Qing Dynasty
+1709.1.1 = { discovered_by = SPA }
+1751.1.1 = { base_tax = 5 base_production = 5 base_manpower = 3 }
+1775.1.1 = { base_tax = 6 base_production = 6 base_manpower = 5 }
+
+1801.1.1 = { base_tax = 9 base_production = 7 }
+1825.1.1 = { base_tax = 10 base_production = 9 base_manpower = 6 }
+1851.1.1 = { base_tax = 11 base_production = 11 }
+1875.1.1 = { base_tax = 12 base_production = 14 }
+1901.1.1 = { base_tax = 13 base_production = 16 base_manpower = 7 }
+1912.2.12  = { owner = CHN controller = CHN add_core = CHN remove_core = QNG capital = "Qiqihar" }
+1916.6.6   = { revolt = { type = fengtian_clique size = 1 leader = "Guo Songling" } controller = REB }
+1924.11.3  = { revolt = {} controller = CHN }
+1925.1.1 = { base_tax = 15 base_production = 18 }
+1932.2.4   = { controller = JAP }
+1932.2.18  = { owner = MCK controller = MCK add_core = MCK }
+1945.8.15  = { owner = CHN controller = CHN remove_core = MCK }
+1951.1.1 = { base_tax = 17 base_manpower = 8 }
+1975.1.1 = { base_tax = 19 base_manpower = 10 }
+2000.1.1 = { base_manpower = 19 }
+
+
+

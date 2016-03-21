@@ -1,0 +1,57 @@
+#980 - Beothuk
+
+culture = cree
+religion = shamanism
+capital = "Beothuk"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 4
+discovered_by = north_american
+
+1497.6.24 = { discovered_by = ENG } # John Cabot
+1502.1.1  = { discovered_by = POR } # Gaspar, Miguel Corte-Real	
+1534.1.1  = { discovered_by = FRA } # Jacques Cartier
+1623.1.1  = {	owner = ENG
+		controller = ENG
+		capital = "St. John"
+		religion = protestant
+		culture = english
+		citysize = 400
+		trade_goods = fish
+	    } # A new colony is established by George Calvert
+1629.1.1  = { is_city = yes } # New settlements are established
+1648.1.1  = { add_core = ENG }
+1663.1.1  = { unrest = 4 } # Conflicts between the French rulers
+1664.6.1  = {	owner = NED
+		controller = NED
+		culture = dutch
+		religion = reformed
+	    } # Seized by Michiel de Ruyter
+1673.1.1  = {	owner = ENG
+		controller = ENG
+		culture = english
+		religion = protestant
+	    } # The Dutch are chased away 
+1696.1.1  = { controller = FRA } # Seized by the French during King William's war
+1697.9.20 = { controller = ENG }
+1705.1.1  = { unrest = 5 } # St John is attacked by the French
+1706.1.1  = { unrest = 0 }
+1707.5.12  = {
+	discovered_by = GBR
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = ENG
+}
+
+1949.3.31  = { owner = CAN controller = CAN add_core = CAN remove_core = GBR }
+1977.11.17 = { trade_goods = oil } #Hibernia oil field
+
+
+
+

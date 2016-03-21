@@ -1,0 +1,90 @@
+country_decisions = {
+
+	croatian_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { tag = HLR }
+			NOT = { tag = CRO }
+			NOT = { tag = PAP }
+			NOT = { tag = EUR }
+			NOT = { tag = YUG }
+			OR = {
+				NOT = { exists = CRO }
+				ai = no
+			}
+			primary_culture = croatian
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 5
+				}
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		allow = {
+			NOT = { exists = CRO}
+			is_subject = no
+			is_nomad = no
+			is_at_war = no			
+			owns_core_province = 131			# Zagreb
+			owns_core_province = 136			# Dalmatia
+			owns_core_province = 137			# Ragusa
+			owns_core_province = 152			# Varasd
+			owns_core_province = 1767			# Slavonia
+			owns_core_province = 1826			# Lika
+		}
+		effect = {
+			add_prestige = 25
+			change_tag = CRO
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			croatia_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = CRO
+			}
+			east_adriatic_coast_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = CRO
+			}
+			CRO = {
+				set_capital = 131 # Zagreb
+			}
+			if = {
+				limit = {
+					government = republic
+				}
+				change_government = feudal_monarchy
+			}
+			country_event = { id = ideagroups.1 } #Swap Ideas
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+}

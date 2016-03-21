@@ -1,0 +1,256 @@
+government = celestial_empire
+government_rank = 3
+mercantilism = 0.1
+technology_group = early_chinese
+religion = vajrayana
+primary_culture = mongol
+capital = 1816	# Dadu
+
+#Mongol Khans of the Yuan Dynasty
+750.1.1 = { technology_group = chinese }
+
+1271.1.1 = {
+	monarch = {
+		name = "Kublai"
+		dynasty = "Yuan"
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+}
+
+1271.1.1 = {
+	heir = {
+		name = "Temür"
+		monarch_name = "Temür"
+		dynasty = "Yuan"
+		birth_date = 1265.10.15
+		death_date = 1307.2.10
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1294.5.10 = {
+	monarch = {
+		name = "Temür"
+		dynasty = "Yuan"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1294.5.10 = {
+	heir = {
+		name = "Külüg"
+		monarch_name = "Külüg"
+		dynasty = "Yuan"
+		birth_date = 1281.8.4
+		death_date = 1311.1.27
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1307.2.10 = {
+	monarch = {
+		name = "Külüg"
+		dynasty = "Yuan"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1307.6.21 = {
+	heir = {
+		name = "Ayurbarwada Buyantu"
+		monarch_name = "Buyantu"
+		dynasty = "Yuan"
+		birth_Date = 1285.4.9
+		death_Date = 1320.3.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1311.1.27 = {
+	monarch = {
+		name = "Ayurbarwada Buyantu"
+		dynasty = "Yuan"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1311.1.27 = {
+	heir = {
+		name = "Gegeen"
+		monarch_name = "Gegeen"
+		dynasty = "Yuan"
+		birth_date = 1303.2.22
+		death_date = 1323.9.4
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}
+
+1320.3.1 = {
+	monarch = {
+		name = "Gegeen"
+		dynasty = "Yuan"
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}
+
+1320.3.1 = {
+	heir = {
+		name = "Yesün Temür"
+		monarch_name = "Yesün Temür"
+		dynasty = "Yuan"
+		birth_date = 1293.11.28
+		death_date = 1328.8.15
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1323.9.4 = {
+	monarch = {
+		name = "Yesün Temür"
+		dynasty = "Yuan"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1323.9.4 = {
+	heir = {
+		name = "Ragibagh"
+		monarch_name = "Ragibagh"
+		dynasty = "Yuan"
+		birth_date = 1320.1.1
+		death_date = 1328.11.14
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1328.8.15 = {
+	monarch = {
+		name = "Ragibagh"
+		dynasty = "Yuan"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1328.11.14 = {
+	monarch = {
+		name = "Jayaatu"
+		dynasty = "Yuan"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+1328.11.14 = {
+	heir = {
+		name = "Khutughtu"
+		monarch_name = "Khutughtu"
+		dynasty = "Yuan"
+		birth_date = 1300.12.22
+		death_date = 1329.8.30
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1329.2.27 = {
+	monarch = {
+		name = "Khutughtu"
+		dynasty = "Yuan"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1329.8.30 = {
+	monarch = {
+		name = "Jayaatu"
+		dynasty = "Yuan"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+1329.8.30 = {
+	heir = {
+		name = "Rinchinbal"
+		monarch_name = "Rinchinbal"
+		dynasty = "Yuan"
+		birth_Date = 1326.5.1
+		death_Date = 1332.12.14
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1332.9.2 = {
+	monarch = {
+		name = "Rinchinbal"
+		dynasty = "Yuan"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1332.12.14 = {
+	monarch = {
+		name = "Ukhaantu"
+		dynasty = "Yuan"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1340.1.23 = {	
+	heir = {
+		name = "Biligtü"
+		monarch_name = "Biligtü"
+		dynasty = "Yuan"
+		birth_date = 1340.1.23
+		death_date = 1378.4.28
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}

@@ -1,0 +1,121 @@
+government = feudal_monarchy
+government_rank = 1
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -2
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = 1
+#quality_quantity = -1
+#serfdom_freesubjects = -3
+primary_culture = cosmopolitan_french
+religion = catholic
+technology_group = eastern
+capital = 378	# Tripoli
+
+1102.1.1={
+	monarch={
+		name="Raymond IV"
+		dynasty="de Rouergue"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1105.1.5={
+	monarch={
+		name="Alphonse Jourdain"
+		dynasty="de Rouergue"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1112.1.1={
+	monarch={
+		name="Pons"
+		dynasty="de Rouergue"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1137.1.2={
+	monarch={
+		name="Raymond II"
+		dynasty="de Rouergue"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1152.1.2={
+	monarch={
+		name="Raymond III"
+		dynasty="de Rouergue"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1187.6.1={
+	monarch={
+		name="Raymond IV"
+		dynasty="d'Hauteville"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1189.6.1 = {
+	monarch = {
+		name = "Bohemond IV"
+		dynasty = "d'Hauteville"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+# PU with Antioch
+
+1268.1.1 = {
+	monarch = {
+		name = "Bohemond VI"
+		dynasty = "d'Hauteville"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1275.6.1 = {
+	monarch = {
+		name = "Bohemond VII"
+		dynasty = "d'Hauteville"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1287.10.19 = {
+	monarch = {
+		name = "Lucia"
+		dynasty = "d'Hauteville"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+
+

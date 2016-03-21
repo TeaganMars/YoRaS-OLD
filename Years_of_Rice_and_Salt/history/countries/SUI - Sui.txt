@@ -1,0 +1,39 @@
+government = celestial_empire
+government_rank = 3
+mercantilism = 0.1
+technology_group = early_chinese
+religion = confucianism
+primary_culture = chihan
+capital = 1821
+
+589.3.4 = {
+	monarch = {
+		name = "Wen"
+		dynasty = "Sui"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+604.8.13 = {
+	monarch = {
+		name = "Yang"
+		dynasty = "Sui"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+618.4.11 = {
+	monarch = {
+		name = "Gong"
+		dynasty = "Sui"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+750.1.1 = { technology_group = chinese }

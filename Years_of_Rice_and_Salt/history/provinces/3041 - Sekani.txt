@@ -1,0 +1,30 @@
+#3041 - Sekani
+
+culture = athabascan
+religion = totemism
+capital = "Sekani"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1793.1.1 = { 	discovered_by = GBR
+		owner = GBR
+		controller = GBR
+		citysize = 500
+		culture = english
+		religion = protestant 
+		trade_goods = fur 
+		capital = "Fort St. John"
+	   } #Fort St John, first western settlement in modern British Columbia
+1818.1.1 = { add_core = GBR }
+
+1850.1.1   = { is_city = yes }
+1870.7.15  = { owner = CAN add_core = CAN controller = CAN remove_core = GBR }
+
+

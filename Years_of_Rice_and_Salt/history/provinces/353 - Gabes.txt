@@ -1,0 +1,76 @@
+#353 - Tataouine
+
+owner = ROM
+controller = ROM 
+culture = tunisian
+religion = hellenism
+capital = "Tacape"
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = roman_group
+
+300.1.1 = { religion = chalcedonism }
+395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+439.1.1 = { owner = VAN controller = VAN add_core = VAN remove_core = ROW }
+534.3.1 = { owner = BYZ controller = BYZ add_core = BYZ remove_core = VAN }
+694.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = MOO remove_core = BYZ capital = "Gabes" }
+750.1.1 = { religion = sunni owner = ABB controller = ABB add_core = ABB remove_core = UMA }
+800.1.1 = { owner = TUN controller = TUN add_core = TUN remove_core = ABB }
+909.1.1 = { owner = FAT controller = FAT add_core = FAT }
+1048.1.1 = { owner = TUN controller = TUN add_core = TUN remove_core = FAT }
+1152.1.1 = { owner = AMH controller = AMH add_core = AMH }
+1229.1.1 = { owner = TUN add_core = TUN controller = TUN remove_core = AMH }
+
+1489.1.1  = { unrest = 4 } # Abu Zikriya Yahya overthrown by Abul Mumin
+1490.1.1  = { unrest = 0 } # Abu Yahya recaptures the power
+1503.1.1 = {
+	owner = TRP
+	controller = TRP
+} #Oruc Reis captures Djerba and uses it as his base
+1521.1.1 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+} #Occupied by Spain
+1524.1.1 = {
+	owner = TRP
+	controller = TRP
+} #Captured by Khayr ad-Din Barbarossa
+1551.1.1  = {	owner = SPA
+		controller = SPA
+		add_core = SPA
+} #Captured by Spain
+1560.5.14 = {	owner = TRP
+		controller = TRP
+		remove_core = SPA
+} #Battle of Djerba
+1591.1.1  = { unrest = 6 } # Janissary revolt
+1592.1.1  = { unrest = 0 }
+1593.1.1 = {
+	owner = TUN
+	controller = TUN
+	add_core = TUN
+}#Tunisian Pashalik created
+1702.1.1  = { unrest = 4 } # Military coup in Tunisia
+1703.1.1  = { unrest = 0 }
+1735.1.1  = { unrest = 6 } # Coup with Algerian support
+1756.1.1  = { unrest = 0 } # The Husaynid Dynasty is restored 
+
+1881.5.12 = { owner = FR2 controller = FR2 add_core = FR2 remove_core = ALG remove_core = TUR }
+1940.6.14  = { owner = FRV controller = FRV add_core = FRV } # Vichy France
+1942.11.16 = { owner = FR2 controller = FR2 remove_core = FRV } # Under Free French control after Operation Torch
+1956.3.20 = { owner = TUN controller = TUN remove_core = FR2 }
+
+
+

@@ -1,0 +1,8 @@
+#Battleship
+type = heavy_ship
+
+hull_size = 120
+base_cannons = 260
+sail_speed = 22
+
+sprite_level = 6

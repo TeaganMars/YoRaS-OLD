@@ -1,0 +1,55 @@
+#584 - Ava
+
+owner = PYU
+controller = PYU
+culture = burmese
+religion = mahayana
+capital = "Kyuakse"
+trade_goods = ivory
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = PYU
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = early_indian
+discovered_by = indian
+
+750.1.1 = { religion = vajrayana }
+800.1.1 = { base_tax = 4 base_production = 4 }
+849.1.1 = { owner = PAG controller = PAG add_core = PAG remove_core = PYU }
+900.1.1 = { base_manpower = 3 }
+1000.1.1 = { base_tax = 5 base_production = 5 }
+1050.1.1 = { religion = buddhism }
+1100.1.1 = { base_manpower = 4 }
+1200.1.1 = { base_tax = 6 base_production = 6 }
+1297.12.17 = { owner = MYI controller = MYI add_core = MYI add_core = SAG remove_core = PAG capital = "Myinsang" }
+1310.4.13 = { capital = "Pinya" }
+1364.4.1 = { owner = AVA controller = AVA add_core = AVA remove_core = MYI capital = "Ava" }
+1365.2.26 = { fort_15th = yes }
+
+1527.1.1 = {
+	owner = SST
+	controller = SST
+	add_core = SST
+	remove_core = AVA
+}
+1535.1.1 = { discovered_by = POR }
+1554.1.1 = { add_core = TAU }
+1555.1.22 = { controller = TAU }
+1563.4.1 = {	
+	owner = TAU
+	remove_core = SST
+}
+
+1857.2.18  = { capital = "Mandalay" }
+1885.11.29 = { owner = GBR controller = GBR add_core = GBR add_core = BRM remove_core = TAU }
+1942.5.1   = { controller = JAP }
+1945.3.1   = { controller = GBR }
+1948.1.4   = { owner = BRM controller = BRM remove_core = GBR }
+1989.1.1   = { owner = MNM controller = MNM add_core = MNM remove_core = BRM }
+
+
+

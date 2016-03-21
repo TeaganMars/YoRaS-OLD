@@ -1,0 +1,52 @@
+#2431 - Gurganj
+
+owner = KHW
+controller = KHW
+add_core = KHW
+is_city = yes
+culture = uzbehk
+religion = zoroastrian
+capital = "Gurganj"
+trade_goods = wool
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = western_nomad_group
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+discovered_by = early_indian
+discovered_by = indian
+
+80.1.1 = { owner = KUS controller = KUS add_core = KUS }
+260.1.1 = { owner = KHW controller = KHW remove_core = KUS }
+800.1.1 = { religion = sunni }
+1000.1.1 = { base_tax = 4 base_production = 4 }
+1017.1.1 = { owner = GHZ controller = GHZ add_core = GHZ }
+1040.1.1 = { owner = SEL controller = SEL add_core = SEL remove_core = GHZ }
+1100.1.1 = { base_tax = 5 base_production = 5 }
+1153.1.1 = { owner = KHW controller = KHW add_core = KHW remove_core = SEL }
+1221.1.1 = { owner = MGE controller = MGE add_core = MGE remove_core = KHW }
+1222.1.1 = { base_tax = 2 base_production = 2 } #Gurganj destroyed by Genghis Khan
+1260.1.1 = { owner = CHG controller = CHG add_core = CHG remove_core = MGE }
+1370.1.1 = { owner = TIM controller = TIM add_core = TIM remove_core = CHG }
+1371.1.1 = { base_tax = 1 base_production = 1 } #Destroyed again by Timur, city abandoned
+1380.1.1 = { culture = turkmeni }
+
+1447.3.12 = { unrest = 8 } # Death of Shahrukh, chaotic conditions
+1502.1.1 = { owner = KHO controller = KHO add_core = KHO remove_core = TIM } # The end of the Timurids in Samarkand
+1505.1.1 = { controller = BUK }
+1506.1.1 = {	owner = BUK add_core = BUK remove_core = KHO unrest = 0 } # Conquered by Muhammad Shaybani
+1511.1.1 = {	owner = KHI controller = KHI remove_core = BUK } # Khiva separates from Uzbeks
+1717.1.1 = { discovered_by = RUS }
+
+1873.8.12  = { owner = RUS controller = RUS add_core = RUS capital = "Konye-Urgench" }
+1922.12.30 = { owner = SOV controller = SOV add_core = SOV }
+1924.10.27 = { add_core = TRK remove_core = KHI remove_core = SHY culture = turkmeni }
+1991.10.27 = { owner = TRK controller = TRK remove_core = SOV remove_core = RUS capital = "Köneürgench" }
+
+
+

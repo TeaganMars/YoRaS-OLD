@@ -1,0 +1,436 @@
+# For specific government types
+# Will pick the first valid one it finds in list
+
+gov_barbarian_tribe = {
+	rank = {
+		1 = BARBARIAN_TRIBE
+		2 = BARBARIAN_KINGDOM
+		3 = BARBARIAN_EMPIRE
+	}
+	
+	ruler_male = {
+		1 = CHIEF
+		2 = KING
+		3 = HIGH_KING
+	}
+	
+	ruler_female = {
+		1 = CHIEF
+		2 = QUEEN
+		3 = HIGH_QUEEN
+	}
+	
+	trigger = {
+		government = barbarian_tribe
+	}
+}
+
+gov_principality = {
+	rank = {
+		1 = PRINCIPALITY
+		2 = GRAND_PRINCIPALITY
+		3 = GREAT_PRINCIPALITY
+	}
+	
+	ruler_male = {
+		1 = PRINCE
+		2 = GRAND_PRINCE
+		3 = GREAT_PRINCE
+	}
+	
+	ruler_female = {
+		1 = PRINCESS
+		2 = GRAND_PRINCESS
+		3 = GREAT_PRINCESS
+	}
+	
+	trigger = {
+		government = principality
+	}
+}
+
+gov_parliamentary_republic = {
+	rank = {
+		1 = REPUBLIC
+		2 = REPUBLIC
+		3 = REPUBLIC
+	}
+	
+	ruler_male = {
+		1 = PRIME_MINISTER
+		2 = PRIME_MINISTER
+		3 = PRIME_MINISTER
+	}
+	
+	ruler_female = {
+		1 = PRIME_MINISTER_fem
+		2 = PRIME_MINISTER_fem
+		3 = PRIME_MINISTER_fem
+	}
+	
+	trigger = {
+		government = parliamentary_republic
+	}
+}
+
+gov_presidental_republic = {
+	rank = {
+		1 = REPUBLIC
+		2 = REPUBLIC
+		3 = REPUBLIC
+	}
+	
+	ruler_male = {
+		1 = PRESIDENT
+		2 = PRESIDENT
+		3 = PRESIDENT
+	}
+	
+	ruler_female = {
+		1 = PRESIDENT_fem
+		2 = PRESIDENT_fem
+		3 = PRESIDENT_fem
+	}
+	
+	trigger = {
+		government = presidental_republic
+	}
+}
+
+gov_parliamentary_monarchy = {
+	rank = {
+		1 = DUCHY
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+	
+	ruler_male = {
+		1 = DUKE
+		2 = KING
+		3 = EMPEROR
+	}
+	
+	ruler_female = {
+		1 = DUCHESS
+		2 = QUEEN
+		3 = EMPRESS
+	}
+	
+	trigger = {
+		government = parliamentary_monarchy
+	}
+}
+
+gov_communist_dictatorship = {
+	rank = {
+		1 = SOCIALIST_STATE
+		2 = SOCIALIST_STATE
+		3 = SOCIALIST_STATE
+	}
+	
+	ruler_male = {
+		1 = CHAIRMAN
+		2 = CHAIRMAN
+		3 = CHAIRMAN
+	}
+	
+	ruler_female = {
+		1 = CHAIRWOMAN
+		2 = CHAIRWOMAN
+		3 = CHAIRWOMAN
+	}
+	
+	trigger = {
+		government = communist_dictatorship
+		NOT = { tag = NKO }
+	}
+}
+
+gov_socialist_republic = {
+	rank = {
+		1 = SOCIALIST_REPUBLIC
+		2 = SOCIALIST_REPUBLIC
+		3 = SOCIALIST_REPUBLIC
+	}
+	
+	ruler_male = {
+		1 = PRESIDENT
+		2 = PRESIDENT
+		3 = PRESIDENT
+	}
+	
+	ruler_female = {
+		1 = PRESIDENT_fem
+		2 = PRESIDENT_fem
+		3 = PRESIDENT_fem
+	}
+	
+	trigger = {
+		government = socialist_republic
+	}
+}
+
+gov_fascist_dictatorship = {
+	rank = {
+		3 = FASCIST_DICTATORSHIP
+	}
+	
+	ruler_male = {
+		3 = LEADER
+	}
+	
+	ruler_female = {
+		3 = LEADER
+	}
+	
+	trigger = {
+		government = fascist_dictatorship
+		NOT = { culture_group = germanic }
+		NOT = { culture_group = latin }
+	}
+}
+
+gov_military_junta = {
+	rank = {
+		1 = MILITARY_DICTATORSHIP
+		2 = MILITARY_DICTATORSHIP
+		3 = MILITARY_DICTATORSHIP
+	}
+	
+	ruler_male = {
+		1 = CHAIRMAN
+		2 = CHAIRMAN
+		3 = CHAIRMAN
+	}
+	
+	ruler_female = {
+		1 = CHAIRWOMAN
+		2 = CHAIRWOMAN
+		3 = CHAIRWOMAN
+	}
+	
+	trigger = {
+		government = military_junta
+	}
+}
+
+gov_caliphate = {
+	rank = {
+		3 = CALIPHATE
+	}
+	
+	ruler_male = {
+		3 = CALIPH
+	}
+	
+	ruler_female = {
+		3 = CALIPHA
+	}
+	
+	trigger = {
+		government = caliphate
+	}
+}
+
+gov_imperial_roman_republic = {
+	rank = {
+		3 = EMPIRE
+	}
+	
+	ruler_male = {
+		3 = EMPEROR
+	}
+	
+	ruler_female = {
+		3 = EMPRESS
+	}
+	
+	trigger = {
+		government = imperial_roman_republic
+	}
+}
+
+gov_margraviate = {
+	rank = {
+		1 = MARCH
+		2 = MARCH
+	}
+	
+	ruler_male = {
+		1 = MARGRAVE
+		2 = MARGRAVE
+	}
+	
+	ruler_female = {
+		1 = MARGRAVINE
+		2 = MARGRAVINE
+	}
+	
+	trigger = {
+		government = margraviate
+	}
+}
+
+iran_theocracy = {
+	rank = {
+		1 = ISLAMIC_REPUBLIC
+		2 = ISLAMIC_REPUBLIC
+		3 = GRAND_ISLAMIC_REPUBLIC
+	}
+
+	ruler_male = {
+		1 = AYATOLLAH
+		2 = SUPREME_LEADER
+		3 = MOST_SUPREME_LEADER
+	}
+
+	ruler_female = {
+		1 = AYATOLLAH
+		2 = SUPREME_LEADER
+		3 = MOST_SUPREME_LEADER
+	}
+
+	trigger = {
+		religion = shiite
+		tag = IRA
+		government = theocracy
+	}
+}
+
+nko_dictatorship = {
+	rank = {
+		1 = SOCIALIST_REPUBLIC
+		2 = SOCIALIST_REPUBLIC
+		3 = SOCIALIST_REPUBLIC
+	}
+
+	ruler_male = {
+		1 = LEADER
+		2 = SUPREME_LEADER
+		3 = MOST_SUPREME_LEADER
+	}
+
+	ruler_female = {
+		1 = LEADER
+		2 = SUPREME_LEADER
+		3 = MOST_SUPREME_LEADER
+	}
+
+	trigger = {
+		tag = NKO
+		government = communist_dictatorship
+	}
+}
+
+german_fascism = {
+	rank = {
+		3 = FASCIST_DICTATORSHIP
+	}
+	
+	ruler_male = {
+		3 = FUHRER
+	}
+	
+	ruler_female = {
+		3 = FUHRER
+	}
+	
+	trigger = {
+		government = fascist_dictatorship
+		culture_group = germanic
+	}
+}
+
+italian_fascism = {
+	rank = {
+		3 = FASCIST_DICTATORSHIP
+	}
+	
+	ruler_male = {
+		3 = DUCE
+	}
+	
+	ruler_female = {
+		3 = DUCE
+	}
+	
+	trigger = {
+		government = fascist_dictatorship
+		culture_group = latin
+	}
+}
+
+egyptian_theocracy = {
+	rank = {
+		1 = PRINCIPALITY
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = PRIEST
+		2 = PHARAOH
+		3 = GREAT_PHARAOH
+	}
+
+	ruler_female = {
+		1 = PRIESTESS
+		2 = PHARAOH_fem
+		3 = GREAT_PHARAOH_fem
+	}
+
+	trigger = {
+		religion = egyptian
+		government = theocracy
+	}
+}
+
+zoroastrian_theocracy = {
+	rank = {
+		1 = PRINCIPALITY
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = MAGI
+		2 = GRAND_MAGI
+		3 = GREAT_MAGI
+	}
+
+	ruler_female = {
+		1 = MAGI
+		2 = GRAND_MAGI
+		3 = GREAT_MAGI
+	}
+
+	trigger = {
+		religion = zoroastrianism
+		government = theocracy
+	}
+}
+
+druidism_theocracy = {
+	rank = {
+		1 = HOLY_PRINCIPALITY
+		2 = HOLY_STATE
+		3 = HOLY_EMPIRE
+	}
+
+	ruler_male = {
+		1 = DRUID
+		2 = GRAND_DRUID
+		3 = GREAT_DRUID
+	}
+
+	ruler_female = {
+		1 = DRUID
+		2 = HIGH_DRUID
+		3 = GREAT_DRUID
+	}
+
+	trigger = {
+		religion = druidism
+		government = theocracy
+	}
+}

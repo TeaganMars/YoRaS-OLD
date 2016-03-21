@@ -1,0 +1,36 @@
+#803 - Moxos
+
+culture = guarani
+religion = south_american
+capital = "Moxos"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 25
+native_ferocity = 2
+native_hostileness = 8
+discovered_by = andean
+discovered_by = south_american
+
+1571.8.2  = { discovered_by = SPA }
+1686.1.1  = {	owner = SPA
+		controller = SPA
+		add_core = SPA
+		capital = "Trinidad"
+	     	is_city = yes
+	     	culture = castillian
+	     	religion = catholic
+		trade_goods = grain
+	    } # Founded by Padre Cipriano Barace
+1711.1.1  = { add_core = SPA }
+1809.7.16 = { revolt = { type = nationalist_rebels size = 0 } controller = REB } # Bolivian War of Independence
+
+1825.8.6   = { revolt = {} owner = BOL controller = BOL add_core = BOL }
+1836.10.28 = { owner = PEU controller = PEU add_core = PEU }
+1839.8.25  = { owner = BOL controller = BOL remove_core = PEU }
+1847.7.21  = { remove_core = SPA }
+
+
+

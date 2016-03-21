@@ -1,0 +1,98 @@
+#110 - Trent
+	
+owner = ROM
+controller = ROM
+add_core = ROM
+culture = venetian
+religion = hellenism
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = iron 
+base_manpower = 1
+capital = "Tridentum"
+is_city = yes
+discovered_by = western
+discovered_by = barbarian
+discovered_by = eastern
+discovered_by = roman_group
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+
+395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+420.1.1 = { religion = chalcedonism }
+476.9.4 = { owner = ODO controller = ODO add_core = ODO }
+480.1.1 = { remove_core = ROW }
+489.1.1 = { owner = GOS controller = GOS add_core = GOS remove_core = ODO culture = austrian }
+552.1.1 = { owner = BYZ controller = BYZ add_core = BYZ }
+569.6.1 = { owner = LOM controller = LOM add_core = LOM capital = "Meran" remove_core = GOS remove_core = BYZ }
+773.1.1 = { owner = FRK controller = FRK add_core = FRK }
+800.1.1 = { base_tax = 3 base_production = 3 }
+840.6.21 = { owner = FRM controller = FRM add_core = FRM remove_core = FRK }
+855.9.30 = { owner = ITA controller = ITA add_core = ITA remove_core = FRM remove_core = LOM }
+867.1.1 = { religion = catholic }
+951.1.1 = { owner = BAV controller = BAV add_core = BAV remove_core = ITA add_core = CAR }
+962.2.2 = { hre = yes }
+976.1.1 = { owner = CAR controller = CAR remove_core = BAV }
+1000.1.1 = { base_tax = 4 base_production = 4 }
+1027.1.1 = { owner = TNT controller = TNT add_core = TNT remove_core = CAR }
+1271.1.1 = { owner = TIR controller = TIR add_core = TIR remove_core = TNT }
+1363.1.1 = { owner = HAB controller = HAB add_core = HAB }
+
+1452.1.1 = {
+	owner = STY
+	controller = STY
+}
+1457.11.24 = {	
+	owner = HAB
+	controller = HAB
+	remove_core = STY
+}
+1511.6.23 = { base_manpower = 1 } # Landslibell - Tyrolean's only military duty is the defence of their homeland. 
+1525.3.1 = { unrest = 8 }
+1525.9.1 = { unrest = 0 }
+1564.7.25 = { base_manpower = 1 } #Ferdinand I dies, Habsburgs split in 3 lines
+1577.1.1 = { base_tax = 3 
+base_production = 3 } #Minting moves from Meran to Hall
+
+1602.1.1 = { base_tax = 4 
+base_production = 4 } #Maximilian's economic reforms
+1665.6.25 = { 
+	owner = HAB
+	controller = HAB
+	base_manpower = 1 
+}# base_manpower decreased as Landslibell is still in effect under foreign governance
+1755.1.1 = { base_production = 5 }
+1785.1.1 = { base_production = 6 }
+1805.12.26 = {	
+	owner = BAV
+	controller = BAV
+	add_core = BAV
+	remove_core = HAB
+} # The Treaty of Pressburg
+1806.7.12  = { hre = no } # The Holy Roman Empire is dissolved
+1809.10.14 = {	owner = ITA
+	controller = ITA
+	add_core = ITA
+	remove_core = BAV
+} # Incorporated into the Kingdom of Italy after the treaty of Schönbrunn
+1814.4.11  = {	owner = HAB
+	controller = HAB
+	add_core = HAB
+	remove_core = ITA
+} # Treaty of Fontainebleau, Napoleon abdicates unconditionally
+
+1815.1.1 = { base_manpower = 2 }
+1845.1.1 = { base_production = 7 }
+1875.1.1 = { base_manpower = 3 }
+1900.1.1   = { citysize = 80000 remove_core = TNT remove_core = TIR }
+1905.1.1 = { base_tax = 5 }
+1919.9.10  = { owner = ITA controller = ITA add_core = ITA remove_core = HAB } # Treaty of Saint-Germain
+1935.1.1 = { base_manpower = 4 }
+1960.1.1   = { culture = venetian }
+1965.1.1 = { base_manpower = 5 }
+2000.1.1 = { base_tax = 7 }
+
+
+

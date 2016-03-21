@@ -1,0 +1,89 @@
+#2206 - Mahakoshal
+
+owner = DAS
+controller = DAS
+culture = gondi
+religion = hinduism
+capital = "Garha"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 2
+base_manpower = 3
+is_city = yes
+add_core = DAS
+discovered_by = early_indian
+discovered_by = indian
+discovered_by = muslim
+discovered_by = middle_eastern 
+discovered_by = ottoman
+discovered_by = early_chinese
+discovered_by = chinese
+
+320.1.1 = { owner = GUP controller = GUP add_core = GUP remove_core = DAS }
+543.1.1 = { owner = CLY controller = CLY add_core = CLY remove_core = GUP }
+753.1.1 = { owner = RSH controller = RSH add_core = RSH remove_core = CLY }
+800.1.1 = { discovered_by = nomad_group }
+836.1.1 = { owner = GUR controller = GUR add_core = GUR }
+910.1.1 = { owner = RSH controller = RSH remove_core = GUR }
+973.1.1 = { owner = CLY controller = CLY add_core = CLY remove_core = RSH }
+982.1.1 = { owner = BND controller = BND add_core = BND remove_core = CLY }
+1210.1.1 = { owner = DLH controller = DLH add_core = DLH add_core = BRR remove_core = BND }
+1347.1.1 = { owner = BAH controller = BAH add_core = BAH remove_core = DLH }
+1398.1.1 = { owner = GDW controller = GDW add_core = GDW remove_core = BAH }
+
+1439.1.1  = { controller = MLW }
+1441.1.1  = { controller = GDW }
+1467.1.1 = {
+	owner = BAH
+	controller = BAH
+	add_core = BAH
+} # Invaded by Bahmanis
+1468.1.1 = {
+	owner = MLW
+	controller = MLW
+	add_core = MLW
+	remove_core = BAH
+} # Invaded by Malwa
+1498.1.1 = { discovered_by = POR }
+1532.1.1 = {
+	owner = GDW
+	controller = GDW
+} # Malwa conquered by Ahmad Shahis
+1564.2.1 = { controller = MUG } #Conquered by Mughals
+1564.7.1 = {
+	owner = MUG
+	add_core = MUG
+	capital = "Jabalpur"
+} #Annexed by Mughals
+1690.1.1  = { discovered_by = ENG }
+1707.5.12 = { discovered_by = GBR }
+1724.1.1 = {
+	owner = NAG
+	controller = NAG
+	add_core = NAG
+	remove_core = MUG
+}	#Forms kingdom of Nagpur
+1751.1.1 = { base_manpower = 4 }
+1775.1.1 = { base_tax = 4 }
+1801.1.1 = { base_production = 3 }
+1818.6.3 = {
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = NAG
+}
+
+1825.1.1 = { base_tax = 5 base_manpower = 5 }
+1851.1.1 = { base_production = 4 }
+1875.1.1 = { base_production = 5 }
+1901.1.1 = { base_tax = 6 }
+1925.1.1 = { base_manpower = 7 }
+1930.1.1  = { add_core = IND remove_core = BRR }
+1947.8.15 = { owner = IND controller = IND remove_core = GBR }
+1951.1.1 = { base_production = 6 }
+1975.1.1 = { base_production = 7 }
+2000.1.1 = { base_tax = 8 base_production = 8 }
+
+
+

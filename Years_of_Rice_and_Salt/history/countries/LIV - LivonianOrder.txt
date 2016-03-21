@@ -1,0 +1,199 @@
+government = monastic_order_government
+government_rank = 1
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 0
+#serfdom_freesubjects = -4
+technology_group = western
+primary_culture = prussian
+religion = catholic
+historical_friend = TEU
+historical_friend = HSA
+capital = 37	# Latvia
+
+1202.1.1 = {
+	monarch = {
+		name = "Wenno"
+		dip = 2
+		adm = 2
+		mil = 4
+	}
+}
+
+1209.1.1 = {
+	monarch = {
+		name = "Volkwin"
+		dip = 3
+		adm = 2
+		mil = 3
+	}
+}
+
+
+1389.1.1 = {
+	monarch = {
+		name = "Wennemar Hasenkamp"
+		dip = 4
+		adm = 2
+		mil = 4
+	}
+}
+
+1401.1.1 = {
+	monarch = {
+		name = "Konrad von Vietinghof"
+		dip = 4
+		adm = 2
+		mil = 3
+	}
+}
+
+1413.1.1 = {
+	monarch = {
+		name = "Diderick Tork"
+		dip = 2
+		adm = 3
+		mil = 3
+	}
+}
+
+1415.1.1 = {
+	monarch = {
+		name = "Siegfried Lander"
+		dip = 3
+		adm = 3
+		mil = 4
+	}
+}
+
+1424.1.1 = {
+	monarch = {
+		name = "Zisse von Rutenberg"
+		dip = 4
+		adm = 1
+		mil = 2
+	}
+}
+
+1433.1.1 = {
+	monarch = {
+		name = "Franco Kerskorff"
+		dip = 3
+		adm = 1
+		mil = 3
+	}
+}
+
+1435.1.1 = {
+	monarch = {
+		name = "Heinrich"
+		dip = 4
+		adm = 2
+		mil = 1
+	}
+}
+
+1438.1.1 = {
+	monarch = {
+		name = "H. Vinke"
+		dip = 3
+		adm = 3
+		mil = 2
+	}
+}
+
+1450.1.1 = {
+	monarch = {
+		name = "Johann Osthoff"
+		dip = 2
+		adm = 4
+		mil = 3
+	}
+}
+
+1470.1.1 = {
+	monarch = {
+		name = "Johann Wolthuss"
+		dip = 4
+		adm = 3
+		mil = 3
+	}
+}
+
+1471.1.1 = {
+	monarch = {
+		name = "Bernd von der Borch"
+		dip = 3
+		adm = 2
+		mil = 4
+	}
+}
+
+1483.1.1 = {
+	monarch = {
+		name = "Johann Fridach"
+		dip = 3
+		adm = 3
+		mil = 2
+	}
+}
+
+1494.1.1 = {
+	monarch = {
+		name = "Wolter von Plettenberg"
+		dip = 4
+		adm = 5
+		mil = 5
+	}
+}
+
+1535.1.1 = {
+	monarch = {
+		name = "Hermann Hasenkamp"
+		dip = 3
+		adm = 2
+		mil = 3
+	}
+}
+
+1549.1.1 = {
+	monarch = {
+		name = "Johann von der Recke"
+		dip = 3
+		adm = 3
+		mil = 4
+	}
+}
+
+1551.1.1 = {
+	monarch = {
+		name = "Heinrich von Galen"
+		dip = 2
+		adm = 2
+		mil = 1
+	}
+}
+
+1557.1.1 = {
+	monarch = {
+		name = "Johann Wilhelm"
+		dip = 3
+		adm = 2
+		mil = 3
+	}
+}
+
+1559.1.1 = {
+	monarch = {
+		name = "Gotthard Kettler"
+		dip = 4
+		adm = 2
+		mil = 3
+	}
+}
+

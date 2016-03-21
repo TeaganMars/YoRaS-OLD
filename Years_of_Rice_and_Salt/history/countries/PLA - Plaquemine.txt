@@ -1,0 +1,6 @@
+government = native_council
+mercantilism = 0.1
+primary_culture = chickasaw
+religion = totemism
+technology_group = north_american
+capital = 2958

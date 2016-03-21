@@ -1,0 +1,268 @@
+government = steppe_horde
+mercantilism = 0.1
+primary_culture = khazar
+religion = tengri_pagan_reformed
+technology_group = western_nomad_group
+capital = 2263	# Balanjar
+
+448.1.1 = {
+	monarch = {
+		name = "Khozarig"
+		dynasty = "Khazar"
+		birth_date = 418.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+450.1.1 = {
+	heir = {
+		name = "Karadach"
+		monarch_name = "Karadach"
+		dynasty = "Khazar"
+		birth_date = 450.1.1
+		death_date = 540.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+480.1.1 = {
+	monarch = {
+		name = "Karadach"
+		dynasty = "Khazar"
+		birth_date = 450.1.1
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+510.1.1 = {
+	heir = {
+		name = "Qara Churin"
+		monarch_name = "Qara Churin"
+		dynasty = "Khazar"
+		birth_date = 510.1.1
+		death_date = 580.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+}
+
+540.1.1 = {
+	monarch = {
+		name = "Qara Churin"
+		dynasty = "Khazar"
+		birth_date = 510.1.1
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+}
+
+550.1.1 = {
+	heir = {
+		name = "Turk Hanthos"
+		monarch_name = "Turk Hanthos"
+		dynasty = "Khazar"
+		birth_date = 550.1.1
+		death_date = 590.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+580.1.1 = {
+	monarch = {
+		name = "Turk Hanthos"
+		dynasty = "Khazar"
+		birth_date = 550.1.1
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+580.1.1 = {
+	heir = {
+		name = "Buri Khan"
+		monarch_name = "Buri Khan"
+		dynasty = "Khazar"
+		birth_date = 560.1.1
+		death_date = 618.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+590.1.1 = {
+	monarch = {
+		name = "Buri Khan"
+		dynasty = "Khazar"
+		birth_date = 560.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+590.1.1 = {
+	heir = {
+		name = "Ziebel"
+		monarch_name = "Ziebel"
+		dynasty = "Khazar"
+		birth_date = 590.1.1
+		death_date = 630.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+618.1.1 = {
+	monarch = {
+		name = "Ziebel"
+		dynasty = "Khazar"
+		birth_date = 590.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+630.1.1 = {
+	monarch = {
+		name = "Chopan Tarkhan"
+		dynasty = "Ashina"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+650.1.1 = {
+	monarch = {
+		name = "Irbis"
+		dynasty = "Ashina"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+680.1.1 = {
+	monarch = {
+		name = "Busir"
+		dynasty = "Khazar"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+720.1.1 = {
+	monarch = {
+		name = "Bihar"
+		dynasty = "Khazar"
+		adm = 1
+		mil = 3
+		dip = 4
+	}
+}
+
+740.1.1 = {
+	monarch = {
+		name = "Parsbit"
+		dynasty = "Khazar"
+		adm = 2
+		mil = 3
+		dip = 4
+		female = yes
+	}
+}
+
+750.1.1 = { technology_group = nomad_group }
+750.1.1 = { capital = 464 } #Atil
+
+810.1.1 = {
+	monarch = {
+		name = "Zachariah"
+		dynasty = "Khazar"
+		adm = 2
+		mil = 4
+		dip = 1
+	}
+}
+
+840.1.1 = { religion = jewish }
+
+870.1.1 = {
+	monarch = {
+		name = "Bulan"
+		dynasty = "Khazar"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+910.1.1 = {
+	monarch = {
+		name = "Obadiah"
+		dynasty = "Khazar"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+930.1.1 = {
+	monarch = {
+		name = "Aaron II"
+		dynasty = "Khazar"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+950.1.1 = {
+	monarch = {
+		name = "Joseph"
+		dynasty = "Khazar"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+980.1.1 = {
+	monarch = {
+		name = "David"
+		dynasty = "Khazar"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+1000.1.1 = {
+	monarch = {
+		name = "Georgius"
+		dynasty = "Khazar"
+		adm = 3
+		mil = 2
+		dip = 5
+	}
+}

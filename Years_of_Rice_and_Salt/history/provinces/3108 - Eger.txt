@@ -1,0 +1,72 @@
+#3108 - Eger
+
+owner = HRM
+controller = HRM
+add_core = HRM
+is_city = yes
+capital = "Eger"
+culture = hessian
+religion = germanic
+trade_goods = gold #Joachimstal mines
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+discovered_by = western
+discovered_by = barbarian
+discovered_by = eastern
+discovered_by = roman_group
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+
+320.1.1 = { owner = VAN controller = VAN add_core = VAN remove_core = HRM culture = vandal }
+350.1.1 = { religion = chalcedonism }
+395.1.1 = { owner = RUG controller = RUG add_core = RUG remove_core = MRM culture = bavarian }
+450.1.1 = { religion = germanic }
+454.1.1 = { owner = LOM controller = LOM add_core = LOM remove_core = RUG culture = langobardi }
+550.1.1 = { owner = FRK controller = FRK add_core = FRK remove_core = LOM }
+670.1.1 = { owner = MRV controller = MRV add_core = MRV remove_core = BAV culture = czech religion = slavic }
+700.1.1 = { base_tax = 2 base_production = 2 }
+894.1.1 = { owner = BOH controller = BOH add_core = BOH remove_core = MRV }
+900.1.1 = { base_tax = 3 base_production = 3 religion = catholic }
+962.2.2 = { hre = yes }
+1100.1.1 = { base_tax = 4 base_production = 4 }
+1200.1.1 = { base_production = 5 }
+
+1419.12.1 = { unrest = 5 } # Hussite Wars, Battle of Nekmir
+1436.7.5 = { unrest = 0 } # Peace is signed in Jihlava
+1457.1.1 = { unrest = 5 } # George of Podiebrand had to secure recognition from the German and Catholic towns
+1471.1.1 = { unrest = 0 }
+1526.8.30 = {
+	owner = HAB
+	controller = HAB
+	add_core = HAB
+	remove_core = BOH
+} # Battle of Mohac where Lajos II dies -> Habsburg succession
+1576.1.1 = { religion = protestant }
+1618.5.23 = { # Defenstration of Prague
+	owner = BOH
+	controller = BOH
+	add_core = BOH
+}
+1620.11.8 = {
+	owner = HAB
+	controller = HAB
+	remove_core = BOH
+} # Tilly beats the Winterking. Deus Vult!
+1627.1.1 = { religion = catholic } # Order from Ferdinand II to reconvert to Catholicism, many Protestant leave the country
+1785.1.1 = { base_manpower = 3 }
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+
+1845.1.1 = { base_tax = 5 }
+1905.1.1 = { base_production = 6 }
+1918.10.28 = { owner = CZS controller = CZS add_core = CZS remove_core = HAB capital = "Cheb" }
+1938.9.21  = { owner = GER controller = GER add_core = GER }
+1945.5.6   = { controller = USA }
+1945.5.8   = { owner = CZS controller = CZS remove_core = GER }
+1992.12.31 = { owner = CZE controller = CZE add_core = CZE remove_core = CZS }
+2000.1.1 = { base_tax = 6 base_manpower = 4 }
+
+
+

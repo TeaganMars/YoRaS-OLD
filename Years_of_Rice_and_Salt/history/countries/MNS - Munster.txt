@@ -1,0 +1,2120 @@
+government = barbarian_tribe
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 5
+#innovative_narrowminded = 2
+#mercantilism_freetrade = 0
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -1
+#quality_quantity = 1
+#serfdom_freesubjects = -2
+technology_group = barbarian
+religion = druidism
+primary_culture = irish
+capital = 375	# Cork
+
+40.1.1 = {
+	monarch = {
+		name = "Bodb Derg"
+		dynasty = "Munster"
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+50.1.1 = {
+	heir = {
+		name = "Dedu"
+		monarch_name = "Dedu"
+		dynasty = "Munster"
+		birth_date = 50.1.1
+		death_date = 120.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+80.1.1 = {
+	monarch = {
+		name = "Dedu"
+		dynasty = "Munster"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+90.1.1 = {
+	heir = {
+		name = "Íar"
+		monarch_name = "Íar"
+		dynasty = "Munster"
+		birth_date = 90.1.1
+		death_date = 140.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+120.1.1 = {
+	monarch = {
+		name = "Íar"
+		dynasty = "Munster"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+120.1.1 = {
+	heir = {
+		name = "Dáire"
+		monarch_name = "Dáire"
+		dynasty = "Munster"
+		birth_date = 110.1.1
+		death_date = 160.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+140.1.1 = {
+	monarch = {
+		name = "Dáire"
+		dynasty = "Munster"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+140.1.1 = {
+	heir = {
+		name = "Cu Roi"
+		monarch_name = "Cu Roi"
+		dynasty = "Munster"
+		birth_date = 130.1.1
+		death_date = 180.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+160.1.1 = {
+	monarch = {
+		name = "Cu Roi"
+		dynasty = "Munster"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+160.1.1 = {
+	heir = {
+		name = "Mug Nuadat"
+		monarch_name = "Mug Nuadat"
+		dynasty = "Munster"
+		birth_date = 150.1.1
+		death_date = 200.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+}
+
+180.1.1 = {
+	monarch = {
+		name = "Mug Nuadat"
+		dynasty = "Munster"
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+}
+
+180.1.1 = {
+	heir = {
+		name = "Ailill Aulom"
+		monarch_name = "Ailill Aulom"
+		dynasty = "Munster"
+		birth_date = 170.1.1
+		death_date = 220.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+200.1.1 = {
+	monarch = {
+		name = "Ailill Aulom"
+		dynasty = "Munster"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+200.1.1 = {
+	heir = {
+		name = "Lugaid"
+		monarch_name = "Lugaid"
+		dynasty = "Munster"
+		birth_date = 190.1.1
+		death_date = 240.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+220.1.1 = {
+	monarch = {
+		name = "Lugaid"
+		dynasty = "Munster"
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+220.1.1 = {
+	heir = {
+		name = "Éogan Mór"
+		monarch_name = "Éogan Mór"
+		dynasty = "Munster"
+		birth_date = 210.1.1
+		death_date = 260.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+240.1.1 = {
+	monarch = {
+		name = "Éogan Mór"
+		dynasty = "Munster"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+240.1.1 = {
+	heir = {
+		name = "Fiachu Muillethan"
+		monarch_name = "Fiachu Muillethan"
+		dynasty = "Munster"
+		birth_date = 230.1.1
+		death_date = 280.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+260.1.1 = {
+	monarch = {
+		name = "Fiachu Muillethan"
+		dynasty = "Munster"
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+260.1.1 = {
+	heir = {
+		name = "Ailill Flann Bec"
+		monarch_name = "Ailill Flann Bec"
+		dynasty = "Munster"
+		birth_date = 250.1.1
+		death_date = 300.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+280.1.1 = {
+	monarch = {
+		name = "Ailill Flann Bec"
+		dynasty = "Munster"
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+280.1.1 = {
+	heir = {
+		name = "Crimthann"
+		monarch_name = "Crimthann"
+		dynasty = "Munster"
+		birth_date = 270.1.1
+		death_date = 320.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+300.1.1 = {
+	monarch = {
+		name = "Crimthann"
+		dynasty = "Munster"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+300.1.1 = {
+	heir = {
+		name = "Óengus Bolg"
+		monarch_name = "Óengus Bolg"
+		dynasty = "Munster"
+		birth_date = 290.1.1
+		death_date = 340.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+320.1.1 = {
+	monarch = {
+		name = "Óengus Bolg"
+		dynasty = "Munster"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+320.1.1 = {
+	heir = {
+		name = "Bressal"
+		monarch_name = "Bressal"
+		dynasty = "Munster"
+		birth_date = 310.1.1
+		death_date = 360.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+340.1.1 = {
+	monarch = {
+		name = "Bressal"
+		dynasty = "Munster"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+360.1.1 = {
+	monarch = {
+		name = "Conall Corc"
+		dynasty = "Eóganachta"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+380.1.1 = {
+	heir = {
+		name = "Nad Froich"
+		monarch_name = "Nad Froich"
+		dynasty = "Eóganachta"
+		birth_date = 380.1.1
+		death_date = 453.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+400.1.1 = {
+	monarch = {
+		name = "Nad Froich"
+		dynasty = "Eóganachta"
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+420.1.1 = {
+	heir = {
+		name = "Óengus"
+		monarch_name = "Óengus"
+		dynasty = "Eóganachta"
+		birth_date = 420.1.1
+		death_date = 489.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+450.1.1 = { government = feudal_monarchy government_rank = 1 }
+
+453.1.1 = {
+	monarch = {
+		name = "Óengus"
+		dynasty = "Eóganachta"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+459.1.1 = {
+	heir = {
+		name = "Dauí Íarlaithe"
+		monarch_name = "Dauí Íarlaithe"
+		dynasty = "Eóganachta"
+		birth_date = 459.1.1
+		death_date = 500.1.1
+		claim = 95
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+}
+
+489.1.1 = {
+	monarch = {
+		name = "Dauí Íarlaithe"
+		dynasty = "Eóganachta"
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+}
+
+489.1.1 = {
+	heir = {
+		name = "Feidlimid"
+		monarch_name = "Feidlimid"
+		dynasty = "Eóganachta"
+		birth_date = 455.1.1
+		death_date = 510.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+500.1.1 = {
+	monarch = {
+		name = "Feidlimid"
+		dynasty = "Eóganachta"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+500.1.1 = {
+	heir = {
+		name = "Eochaid"
+		monarch_name = "Eochaid"
+		dynasty = "Eóganachta"
+		birth_date = 480.1.1
+		death_date = 522.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+510.1.1 = {
+	monarch = {
+		name = "Eochaid"
+		dynasty = "Eóganachta"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+510.1.1 = {
+	heir = {
+		name = "Crimthann"
+		monarch_name = "Crimthann"
+		dynasty = "Eóganachta"
+		birth_date = 495.1.1
+		death_date = 542.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+522.1.1 = {
+	monarch = {
+		name = "Crimthann"
+		dynasty = "Eóganachta"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+522.1.1 = {
+	heir = {
+		name = "Coirpre Cromm"
+		monarch_name = "Coirpre Cromm"
+		dynasty = "Eóganachta"
+		birth_date = 512.1.1
+		death_date = 577.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+536.1.1 = { technology_group = western }
+
+542.1.1 = {
+	monarch = {
+		name = "Coirpre Cromm"
+		dynasty = "Eóganachta"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+547.1.1 = {
+	heir = {
+		name = "Fergus Scandal"
+		monarch_name = "Fergus Scandal"
+		dynasty = "Eóganachta"
+		birth_date = 547.1.1
+		death_date = 582.1.1
+		claim = 95
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+}
+
+577.1.1 = {
+	monarch = {
+		name = "Fergus Scandal"
+		dynasty = "Eóganachta"
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+}
+
+577.1.1 = {
+	heir = {
+		name = "Feidlimid"
+		monarch_name = "Feidlimid"
+		dynasty = "Eóganachta"
+		birth_date = 552.1.1
+		death_date = 588.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+582.1.1 = {
+	monarch = {
+		name = "Feidlimid"
+		dynasty = "Eóganachta"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+582.1.1 = {
+	heir = {
+		name = "Fíngen"
+		monarch_name = "Fíngen"
+		dynasty = "Eóganachta"
+		birth_date = 558.1.1
+		death_date = 618.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+588.1.1 = {
+	monarch = {
+		name = "Fíngen"
+		dynasty = "Eóganachta"
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+588.1.1 = {
+	heir = {
+		name = "Cathal"
+		monarch_name = "Cathal"
+		dynasty = "Eóganachta"
+		birth_date = 588.1.1
+		death_date = 627.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+618.1.1 = {
+	monarch = {
+		name = "Cathal"
+		dynasty = "Eóganachta"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+618.1.1 = {
+	heir = {
+		name = "Faílbe"
+		monarch_name = "Faílbe"
+		dynasty = "Eóganachta"
+		birth_date = 597.1.1
+		death_date = 639.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+627.1.1 = {
+	monarch = {
+		name = "Faílbe"
+		dynasty = "Eóganachta"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+627.1.1 = {
+	heir = {
+		name = "Cúán"
+		monarch_name = "Cúán"
+		dynasty = "Eóganachta"
+		birth_date = 609.1.1
+		death_date = 641.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+639.1.1 = {
+	monarch = {
+		name = "Cúán"
+		dynasty = "Eóganachta"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+639.1.1 = {
+	heir = {
+		name = "Máenach"
+		monarch_name = "Máenach"
+		dynasty = "Eóganachta"
+		birth_date = 611.1.1
+		death_date = 661.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}
+
+641.1.1 = {
+	monarch = {
+		name = "Máenach"
+		dynasty = "Eóganachta"
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}
+
+641.1.1 = {
+	heir = {
+		name = "Cathal"
+		monarch_name = "Cathal"
+		dynasty = "Eóganachta"
+		birth_date = 631.1.1
+		death_date = 665.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+661.1.1 = {
+	monarch = {
+		name = "Cathal"
+		dynasty = "Eóganachta"
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+661.1.1 = {
+	heir = {
+		name = "Colgú"
+		monarch_name = "Colgú"
+		dynasty = "Eóganachta"
+		birth_date = 635.1.1
+		death_date = 678.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+
+665.1.1 = {
+	monarch = {
+		name = "Colgú"
+		dynasty = "Eóganachta"
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+
+665.1.1 = {
+	heir = {
+		name = "Finguine"
+		monarch_name = "Finguine"
+		dynasty = "Eóganachta"
+		birth_date = 648.1.1
+		death_date = 696.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+678.1.1 = {
+	monarch = {
+		name = "Finguine"
+		dynasty = "Eóganachta"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+678.1.1 = {
+	heir = {
+		name = "Ailill"
+		monarch_name = "Ailill"
+		dynasty = "Eóganachta"
+		birth_date = 666.1.1
+		death_date = 701.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+696.1.1 = {
+	monarch = {
+		name = "Ailill"
+		dynasty = "Eóganachta"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+696.1.1 = {
+	heir = {
+		name = "Cormac"
+		monarch_name = "Cormac"
+		dynasty = "Eóganachta"
+		birth_date = 671.1.1
+		death_date = 712.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+700.1.1 = { religion = chalcedonism }
+
+701.1.1 = {
+	monarch = {
+		name = "Cormac"
+		dynasty = "Eóganachta"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+701.1.1 = {
+	heir = {
+		name = "Eterscél"
+		monarch_name = "Eterscél"
+		dynasty = "Eóganachta"
+		birth_date = 682.1.1
+		death_date = 721.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+712.1.1 = {
+	monarch = {
+		name = "Eterscél"
+		dynasty = "Eóganachta"
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+712.1.1 = {
+	heir = {
+		name = "Cathal"
+		monarch_name = "Cathal"
+		dynasty = "Eóganachta"
+		birth_date = 691.1.1
+		death_date = 742.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+721.1.1 = {
+	monarch = {
+		name = "Cathal"
+		dynasty = "Eóganachta"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+721.1.1 = {
+	heir = {
+		name = "Cathussach"
+		monarch_name = "Cathussach"
+		dynasty = "Eóganachta"
+		birth_date = 712.1.1
+		death_date = 760.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+742.1.1 = {
+	monarch = {
+		name = "Cathussach"
+		dynasty = "Eóganachta"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+742.1.1 = {
+	heir = {
+		name = "Máel Dúin"
+		monarch_name = "Máel Dúin"
+		dynasty = "Eóganachta"
+		birth_date = 730.1.1
+		death_date = 786.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+760.1.1 = {
+	monarch = {
+		name = "Máel Dúin"
+		dynasty = "Eóganachta"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+760.1.1 = {
+	heir = {
+		name = "Ólchobar"
+		monarch_name = "Ólchobar"
+		dynasty = "Eóganachta"
+		birth_date = 756.1.1
+		death_date = 805.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+}
+
+786.1.1 = {
+	monarch = {
+		name = "Ólchobar"
+		dynasty = "Eóganachta"
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+}
+
+786.1.1 = {
+	heir = {
+		name = "Artrí"
+		monarch_name = "Artrí"
+		dynasty = "Eóganachta"
+		birth_date = 775.1.1
+		death_date = 821.1.1
+		claim = 95
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+}
+
+805.1.1 = {
+	monarch = {
+		name = "Artrí"
+		dynasty = "Eóganachta"
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+}
+
+805.1.1 = {
+	heir = {
+		name = "Feidlimid"
+		monarch_name = "Feidlimid"
+		dynasty = "Eóganachta"
+		birth_date = 791.1.1
+		death_date = 847.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+821.1.1 = {
+	monarch = {
+		name = "Feidlimid"
+		dynasty = "Eóganachta"
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+821.1.1 = {
+	heir = {
+		name = "Ólchobar"
+		monarch_name = "Ólchobar"
+		dynasty = "Eóganachta"
+		birth_date = 817.1.1
+		death_date = 851.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+847.1.1 = {
+	monarch = {
+		name = "Ólchobar"
+		dynasty = "Eóganachta"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+847.1.1 = {
+	heir = {
+		name = "Áilgenán"
+		monarch_name = "Áilgenán"
+		dynasty = "Eóganachta"
+		birth_date = 821.1.1
+		death_date = 853.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+851.1.1 = {
+	monarch = {
+		name = "Áilgenán"
+		dynasty = "Eóganachta"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+851.1.1 = {
+	heir = {
+		name = "Máel Gualae"
+		monarch_name = "Máel Gualae"
+		dynasty = "Eóganachta"
+		birth_date = 823.1.1
+		death_date = 859.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+853.1.1 = {
+	monarch = {
+		name = "Máel Gualae"
+		dynasty = "Eóganachta"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+853.1.1 = {
+	heir = {
+		name = "Cenn Fáelad"
+		monarch_name = "Cenn Fáelad"
+		dynasty = "Eóganachta"
+		birth_date = 829.1.1
+		death_date = 872.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+859.1.1 = {
+	monarch = {
+		name = "Cenn Fáelad"
+		dynasty = "Eóganachta"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+859.1.1 = {
+	heir = {
+		name = "Dunchad"
+		monarch_name = "Dunchad"
+		dynasty = "Eóganachta"
+		birth_date = 842.1.1
+		death_date = 888.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+}
+
+867.1.1 = { religion = catholic }
+
+872.1.1 = {
+	monarch = {
+		name = "Dunchad"
+		dynasty = "Eóganachta"
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+}
+
+872.1.1 = {
+	heir = {
+		name = "Dub Lachtna"
+		monarch_name = "Dub Lachtna"
+		dynasty = "Eóganachta"
+		birth_date = 858.1.1
+		death_date = 895.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+}
+
+888.1.1 = {
+	monarch = {
+		name = "Dub Lachtna"
+		dynasty = "Eóganachta"
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+}
+
+888.1.1 = {
+	heir = {
+		name = "Finguine Cenn"
+		monarch_name = "Finguine Cenn"
+		dynasty = "Eóganachta"
+		birth_date = 865.1.1
+		death_date = 902.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+895.1.1 = {
+	monarch = {
+		name = "Finguine Cenn"
+		dynasty = "Eóganachta"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+895.1.1 = {
+	heir = {
+		name = "Cormac"
+		monarch_name = "Cormac"
+		dynasty = "Eóganachta"
+		birth_date = 872.1.1
+		death_date = 908.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+
+902.1.1 = {
+	monarch = {
+		name = "Cormac"
+		dynasty = "Eóganachta"
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+
+902.1.1 = {
+	heir = {
+		name = "Flaithbertach"
+		monarch_name = "Flaithbertach"
+		dynasty = "Eóganachta"
+		birth_date = 878.1.1
+		death_date = 944.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+908.1.1 = {
+	monarch = {
+		name = "Flaithbertach"
+		dynasty = "Eóganachta"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+914.1.1 = {
+	heir = {
+		name = "Cellachán Caisil"
+		monarch_name = "Cellachán Caisil"
+		dynasty = "Eóganachta"
+		birth_date = 914.1.1
+		death_date = 954.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+944.1.1 = {
+	monarch = {
+		name = "Cellachán Caisil"
+		dynasty = "Eóganachta"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+944.1.1 = {
+	heir = {
+		name = "Máel Fathardaig"
+		monarch_name = "Máel Fathardaig"
+		dynasty = "Eóganachta"
+		birth_date = 924.1.1
+		death_date = 957.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+
+954.1.1 = {
+	monarch = {
+		name = "Máel Fathardaig"
+		dynasty = "Eóganachta"
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+
+954.1.1 = {
+	heir = {
+		name = "Dub-dá-Bairenn"
+		monarch_name = "Dub-dá-Bairenn"
+		dynasty = "Eóganachta"
+		birth_date = 927.1.1
+		death_date = 959.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+}
+
+957.1.1 = {
+	monarch = {
+		name = "Dub-dá-Bairenn"
+		dynasty = "Eóganachta"
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+}
+
+957.1.1 = {
+	heir = {
+		name = "Fer Gráid"
+		monarch_name = "Fer Gráid"
+		dynasty = "Eóganachta"
+		birth_date = 929.1.1
+		death_date = 961.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+959.1.1 = {
+	monarch = {
+		name = "Fer Gráid"
+		dynasty = "Eóganachta"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+959.1.1 = {
+	heir = {
+		name = "Donnchad"
+		monarch_name = "Donnchad"
+		dynasty = "Eóganachta"
+		birth_date = 931.1.1
+		death_date = 963.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+961.1.1 = {
+	monarch = {
+		name = "Donnchad"
+		dynasty = "Eóganachta"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+961.1.1 = {
+	heir = {
+		name = "Ivar"
+		monarch_name = "Ivar"
+		dynasty = "Eóganachta"
+		birth_date = 933.1.1
+		death_date = 968.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+963.1.1 = {
+	monarch = {
+		name = "Ivar"
+		dynasty = "Eóganachta"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+968.1.1 = {
+	monarch = {
+		name = "Mathgamain"
+		dynasty = "Dál gCais"
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+976.1.1 = {
+	monarch = {
+		name = "Máel Muad"
+		dynasty = "Eóganachta"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+978.1.1 = {
+	monarch = {
+		name = "Brian Bóruma"
+		dynasty = "Dál gCais"
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+1014.1.1 = {
+	monarch = {
+		name = "Dúngal"
+		dynasty = "Eóganachta"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1025.1.1 = {
+	monarch = {
+		name = "Donnchad"
+		dynasty = "Dál gCais"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1034.1.1 = {
+	heir = {
+		name = "Murchad"
+		monarch_name = "Murchad"
+		dynasty = "Dál gCais"
+		birth_date = 1034.1.1
+		death_date = 1068.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+}
+
+1064.1.1 = {
+	monarch = {
+		name = "Murchad"
+		dynasty = "Dál gCais"
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+}
+
+1064.1.1 = {
+	heir = {
+		name = "Toirhealbhach"
+		monarch_name = "Toirhealbhach"
+		dynasty = "Dál gCais"
+		birth_date = 1038.1.1
+		death_date = 1086.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1068.1.1 = {
+	monarch = {
+		name = "Toirhealbhach"
+		dynasty = "Dál gCais"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1068.1.1 = {
+	heir = {
+		name = "Muircheartach"
+		monarch_name = "Muircheartach"
+		dynasty = "Dál gCais"
+		birth_date = 1056.1.1
+		death_date = 1119.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1086.1.1 = {
+	monarch = {
+		name = "Muircheartach"
+		dynasty = "Dál gCais"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+# Kings of Thomond
+1118.1.1 = {
+	monarch = {
+		name = "Conchobar"
+		dynasty = "O'Brien"
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+1118.1.1 = {
+	heir = {
+		name = "Toirdelbhach"
+		monarch_name = "Toirdelbhach"
+		dynasty = "O'Brien"
+		birth_date = 1112.1.1
+		death_date = 1167.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1142.1.1 = {
+	monarch = {
+		name = "Toirdelbhach"
+		dynasty = "O'Brien"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1142.1.1 = {
+	heir = {
+		name = "Domnaill Mór"
+		monarch_name = "Domnaill Mór"
+		dynasty = "O'Brien"
+		birth_date = 1137.1.1
+		death_date = 1194.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1167.1.1 = {
+	monarch = {
+		name = "Domnaill Mór"
+		dynasty = "O'Brien"
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1167.1.1 = {
+	heir = {
+		name = "Muirchertach Finn"
+		monarch_name = "Muirchertach Finn"
+		dynasty = "O'Brien"
+		birth_date = 1164.1.1
+		death_date = 1210.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1194.1.1 = {
+	monarch = {
+		name = "Muirchertach Finn"
+		dynasty = "O'Brien"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1194.1.1 = {
+	heir = {
+		name = "Conchobar Ruad"
+		monarch_name = "Conchobar Ruad"
+		dynasty = "O'Brien"
+		birth_date = 1168.1.1
+		death_date = 1203.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1198.1.1 = {
+	monarch = {
+		name = "Conchobar Ruad"
+		dynasty = "O'Brien"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1203.1.1 = {
+	monarch = {
+		name = "Muirchertach Finn"
+		dynasty = "O'Brien"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1203.1.1 = {
+	heir = {
+		name = "Donnchad"
+		monarch_name = "Donnchad"
+		dynasty = "O'Brien"
+		birth_date = 1180.1.1
+		death_date = 1242.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1210.1.1 = {
+	monarch = {
+		name = "Donnchad"
+		dynasty = "O'Brien"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1212.1.1 = {
+	heir = {
+		name = "Conchobhair"
+		monarch_name = "Conchobhair"
+		dynasty = "O'Brien"
+		birth_date = 1212.1.1
+		death_date = 1258.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1242.1.1 = {
+	monarch = {
+		name = "Conchobhair"
+		dynasty = "O'Brien"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1242.1.1 = {
+	heir = {
+		name = "Tadgh"
+		monarch_name = "Tadgh"
+		dynasty = "O'Brien"
+		birth_date = 1228.1.1
+		death_date = 1269.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+}
+
+1258.1.1 = {
+	monarch = {
+		name = "Tadgh"
+		dynasty = "O'Brien"
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+}
+
+1258.1.1 = {
+	heir = {
+		name = "Briain Ruadh"
+		monarch_name = "Briain Ruadh"
+		dynasty = "O'Brien"
+		birth_date = 1239.1.1
+		death_date = 1277.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+}
+
+1269.1.1 = {
+	monarch = {
+		name = "Briain Ruadh"
+		dynasty = "O'Brien"
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+}
+
+1269.1.1 = {
+	heir = {
+		name = "Donnchadh"
+		monarch_name = "Donnchadh"
+		dynasty = "O'Brien"
+		birth_date = 1247.1.1
+		death_date = 1284.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+1277.1.1 = {
+	monarch = {
+		name = "Donnchadh"
+		dynasty = "O'Brien"
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+1277.1.1 = {
+	heir = {
+		name = "Toirdelbach"
+		monarch_name = "Toirdelbach"
+		dynasty = "O'Brien"
+		birth_date = 1254.1.1
+		death_date = 1311.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1284.1.1 = {
+	monarch = {
+		name = "Toirdelbach"
+		dynasty = "O'Brien"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1284.1.1 = {
+	heir = {
+		name = "Diarmaid Cléirech"
+		monarch_name = "Diarmaid Cléirech"
+		dynasty = "O'Brien"
+		birth_date = 1281.1.1
+		death_date = 1313.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1311.1.1 = {
+	monarch = {
+		name = "Diarmaid Cléirech"
+		dynasty = "O'Brien"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1311.1.1 = {
+	heir = {
+		name = "Muircheartach"
+		monarch_name = "Muircheartach"
+		dynasty = "O'Brien"
+		birth_date = 1283.1.1
+		death_date = 1343.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1313.1.1 = {
+	monarch = {
+		name = "Muircheartach"
+		dynasty = "O'Brien"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1313.1.1 = {
+	heir = {
+		name = "Brian Bán"
+		monarch_name = "Brian Bán"
+		dynasty = "O'Brien"
+		birth_date = 1313.1.1
+		death_date = 1350.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1343.1.1 = {
+	monarch = {
+		name = "Brian Bán"
+		dynasty = "O'Brien"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1343.1.1 = {
+	heir = {
+		name = "Dairmaid"
+		monarch_name = "Dairmaid"
+		dynasty = "O'Brien"
+		birth_date = 1320.1.1
+		death_date = 1360.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+1350.1.1 = {
+	monarch = {
+		name = "Dairmaid"
+		dynasty = "O'Brien"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+1350.1.1 = {
+	heir = {
+		name = "Mathghamhain"
+		monarch_name = "Mathghamhain"
+		dynasty = "O'Brien"
+		birth_date = 1330.1.1
+		death_date = 1369.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1360.1.1 = {
+	monarch = {
+		name = "Mathghamhain"
+		dynasty = "O'Brien"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1360.1.1 = {
+	heir = {
+		name = "Brian Sreamhach"
+		monarch_name = "Brian Sreamhach"
+		dynasty = "O'Brien"
+		birth_date = 1339.1.1
+		death_date = 1375.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1369.1.1 = {
+	monarch = {
+		name = "Brian Sreamhach"
+		dynasty = "O'Brien"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1369.1.1 = {
+	heir = {
+		name = "Turlough"
+		monarch_name = "Turlough III"
+		dynasty = "O'Brien"
+		birth_date = 1345.1.1
+		death_date = 1400.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1375.1.1 = {
+	monarch = {
+		name = "Turlough III"
+		dynasty = "O'Brien"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1380.4.13 = {
+	heir = {
+		name = "Conchobhar"
+		monarch_name = "Conchobhar III"
+		dynasty = "O'Brien"
+		birth_date = 1380.1.1 # Estimate
+		death_date = 1426.4.26
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+1400.1.1 = {
+	monarch = {
+		name = "Conchobhar III"
+		dynasty = "O'Brien"
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+1406.1.1 = {
+	heir = {
+		name = "Tadhg"
+		monarch_name = "Tadhg III"
+		dynasty = "O'Brien"
+		birth_date = 1406.1.1
+		death_date = 1444.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1426.1.1 = {
+	monarch = {
+		name = "Tadhg III"
+		dynasty = "O'Brien"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+# Tadhg deposed
+
+1438.1.1 = {
+	monarch = {
+		name = "Mathghamhain Dall"
+		dynasty = "O'Brien"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+# Mathghamhain deposed
+
+1444.1.1 = {
+	monarch = {
+		name = "Turlough IV"
+		dynasty = "O'Brien"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Tadhg"
+		monarch_name = "Tadhg IV"
+		dynasty = "O'Brien"
+		birth_date = 1434.1.1 # Estimate
+		death_date = 1466.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1459.1.1 = {
+	monarch = {
+		name = "Tadhg IV"
+		dynasty = "O'Brien"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1460.1.1 = {
+	monarch = {
+		name = "Donnchad VIII"
+		dynasty = "O'Brien"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1460.1.1 = {
+	heir = {
+		name = "Conchobhar"
+		monarch_name = "Conchobhar IV"
+		dynasty = "O'Brien"
+		birth_date = 1440.1.1
+		death_date = 1496.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1466.1.1 = {
+	monarch = {
+		name = "Conchobhar IV"
+		dynasty = "O'Brien"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1476.1.1 = {
+	heir = {
+		name = "Turlough"
+		monarch_name = "Turlough V"
+		dynasty = "O'Brien"
+		birth_date = 1476.1.1
+		death_date = 1496.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1496.1.1 = {
+	monarch = {
+		name = "Turlough V"
+		dynasty = "O'Brien"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1496.1.1 = {
+	heir = {
+		name = "Turlough"
+		monarch_name = "Turlough VI"
+		dynasty = "O'Brien"
+		birth_date = 1478.1.1
+		death_date = 1528.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1498.1.1 = {
+	monarch = {
+		name = "Turlough VI"
+		dynasty = "O'Brien"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1500.1.1 = {
+	heir = {
+		name = "Conchobhar"
+		monarch_name = "Conchobhar V"
+		dynasty = "O'Brien"
+		birth_date = 1500.1.1
+		death_date = 1528.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1528.1.1 = {
+	monarch = {
+		name = "Conchobhar V"
+		dynasty = "O'Brien"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1528.1.1 = {
+	heir = {
+		name = "Muireadhach"
+		monarch_name = "Muireadhach II"
+		dynasty = "O'Brien"
+		birth_date = 1519.1.1
+		death_date = 1551.11.7
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1539.1.1 = {
+	monarch = {
+		name = "Muireadhach II"
+		dynasty = "O'Brien"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1617.1.1 = { government = administrative_monarchy }
+
+1707.1.1 = { government = constitutional_monarchy }
+

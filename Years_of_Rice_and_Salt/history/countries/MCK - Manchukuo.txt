@@ -1,0 +1,22 @@
+government = despotic_monarchy
+government_rank = 3
+mercantilism = 0.1
+primary_culture = manchu
+religion = confucianism
+technology_group = early_chinese
+capital = 730	# Hsinking
+
+750.1.1 = { technology_group = chinese }
+
+1910.1.1 = { religion = secularism }
+1920.1.1 = { technology_group = asian }
+
+1932.2.18 = {
+	monarch = {
+		name = "Puyi"
+		dynasty = "Aisin Gioro"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}

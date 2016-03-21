@@ -1,0 +1,18 @@
+
+entity = {
+	name = "SVK_CAVALRY_4"
+	pdxmesh = "T-34-85"
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+}
+
+entity = {
+	name = "SVK_ARTILLERY_4" 
+	pdxmesh = "Pak40"
+
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+}

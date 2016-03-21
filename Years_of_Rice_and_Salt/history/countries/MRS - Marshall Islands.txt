@@ -1,0 +1,99 @@
+government = constitutional_republic
+#aristocracy_plutocracy = 2
+#centralization_decentralization = -2
+#innovative_narrowminded = 0
+#mercantilism_freetrade = 2
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 3
+#quality_quantity = -2
+#serfdom_freesubjects = 1
+technology_group = western
+primary_culture = english
+religion = protestant
+capital = 1993
+
+1910.1.1 = { religion = secularism }
+
+1979.1.1 = {
+	monarch = {
+		name = "Council of State"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1979.11.17 = {
+	monarch = {
+		name = "Amata Kabua"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+1996.12.20 = {
+	monarch = {
+		name = "Kunio Lemari"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1997.1.14 = {
+	monarch = {
+		name = "Imata Kabua"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+2000.1.10 = {
+	monarch = {
+		name = "Kessai Note"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2008.1.14 = {
+	monarch = {
+		name = "Litokwa Tomeing"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+2009.10.21 = {
+	monarch = {
+		name = "Ruben Zackhras"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+2009.11.2 = {
+	monarch = {
+		name = "Jurelang Zedkaia"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+
+}
+
+2012.1.10 = {
+	monarch = {
+		name = "Christopher Loeak"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}

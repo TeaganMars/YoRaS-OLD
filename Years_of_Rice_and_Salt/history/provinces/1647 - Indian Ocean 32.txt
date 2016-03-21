@@ -1,0 +1,6 @@
+#1647 - Western Indian Ocean South Equatorial Current
+
+1521.1.1 = { discovered_by = SPA }
+
+
+

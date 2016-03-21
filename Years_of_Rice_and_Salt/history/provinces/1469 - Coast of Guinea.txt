@@ -1,0 +1,8 @@
+#1469 - Coast of Guinea
+
+discovered_by = MAL
+1445.1.1 = { discovered_by = POR }
+1600.1.1 = { discovered_by = MOR }
+
+
+

@@ -1,0 +1,63 @@
+#263 - Ratibor
+
+owner = VAN
+controller = VAN
+add_core = VAN
+is_city = yes
+culture = vandal
+religion = germanic
+base_tax = 1
+base_production = 1
+capital = "Ratibor"
+trade_goods = wine
+base_manpower = 2
+hre = no
+discovered_by = western
+discovered_by = barbarian
+
+350.1.1 = { owner = LOM controller = LOM add_core = LOM remove_core = VAN culture = langobardi }
+568.1.1 = { owner = HER controller = HER add_core = HER remove_core = LOM culture = schlesian }
+600.1.1 = { discovered_by = eastern }
+623.1.1 = { owner = SAZ controller = SAZ add_core = SAZ remove_core = HER religion = slavic }
+659.1.1 = { owner = MRV controller = MRV add_core = MRV remove_core = SAZ }
+800.1.1 = { base_tax = 2 base_production = 2 }
+902.1.1 = { owner = BOH controller = BOH add_core = BOH }
+920.1.1 = { religion = catholic }
+960.1.1 = { owner = POL controller = POL add_core = POL remove_core = MRV remove_core = BOH }
+1000.1.1 = { discovered_by = muslim discovered_by = ottoman }
+1100.1.1 = { base_tax = 3 base_production = 3 }
+1163.1.1 = { owner = SIL controller = SIL add_core = SIL remove_core = POL hre = yes }
+1172.1.1 = { owner = RAT controller = RAT add_core = RAT }
+1327.1.1 = { owner = BOH controller = BOH add_core = BOH }
+1335.11.24 = { owner = SIL controller = SIL remove_core = RAT } # Duchy of Raciborz and Opole
+
+1523.1.1 = { religion = protestant }
+1618.1.1 = { unrest = 5 } # Religious struggles
+1648.1.1 = { unrest = 0 }
+1675.11.21 = {
+	owner = HAB
+	controller = HAB
+	add_core = HAB
+} # Annexed by the Habsburgs, death of the last Piast duke
+1700.1.1 = { base_tax = 4 base_production = 4 }
+1740.1.1 = { add_core = PRU } # 1st Silesian war against Austria
+1745.1.1 = { owner = PRU controller = PRU } # Peace of Dresden, 2nd Silesian war
+1750.1.1 = { base_tax = 5 base_production = 5 base_manpower = 3 }
+1763.1.1 = { remove_core = HAB } # End of 3rd Silesian war
+1800.1.1 = { base_tax = 6 }
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+
+1825.1.1 = { base_manpower = 4 }
+1851.1.1 = { base_manpower = 5 }
+1871.1.18  = { owner = GER controller = GER add_core = GER remove_core = PRU remove_core = SIL } # German unification
+1875.1.1 = { base_manpower = 6 }
+1901.1.1 = { base_tax = 8 }
+1925.1.1 = { base_manpower = 7 }
+1945.5.8   = { owner = POL controller = POL add_core = POL remove_core = GER capital = "Katowice" }
+1950.1.1   = { citysize = 175496 culture = polish religion = catholic }
+1951.1.1 = { base_production = 6 }
+1975.1.1 = { base_production = 7 }
+2000.1.1 = { base_tax = 9 base_production = 9 }
+
+
+

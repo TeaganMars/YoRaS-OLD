@@ -1,0 +1,25 @@
+#2162 - Solwezi
+
+culture = bemba
+religion = african
+capital = "Solwezi"
+native_size = 90
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+native_ferocity = 4.5
+native_hostileness = 9 
+
+1855.1.1   = { discovered_by = GBR } # David Livingstone
+1897.1.1   = { 	owner = GBR 
+		controller = GBR 
+		add_core = GBR 
+		is_city = yes 
+		trade_goods = copper 
+		religion = catholic 
+	     }
+1964.10.24 = { owner = ZAM controller = ZAM add_core = ZAM remove_core = GBR }
+
+

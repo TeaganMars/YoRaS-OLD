@@ -1,0 +1,6 @@
+#1501 - Cape Hatteras
+
+1524.1.1 = { discovered_by = FRA } # Goivanni da Verrazzano
+
+
+

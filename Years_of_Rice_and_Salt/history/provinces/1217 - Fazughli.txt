@@ -1,0 +1,47 @@
+#1217 - Gambela
+
+culture = dinka
+religion = african
+capital = "Gambela"
+native_size = 80
+native_ferocity = 4
+native_hostileness = 9 
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = ZIM
+discovered_by = AJU
+discovered_by = MBA
+discovered_by = MDI
+discovered_by = MLI
+discovered_by = SFA
+
+1300.1.1 = {
+	discovered_by = ETH
+	discovered_by = ADA
+	discovered_by = NUB
+	discovered_by = ZAN
+	discovered_by = AJU
+	discovered_by = MBA
+	discovered_by = MDI
+	discovered_by = MLI
+	discovered_by = SFA
+	discovered_by = ZIM
+	discovered_by = muslim
+	discovered_by = ottoman
+	discovered_by = indian
+}
+1390.1.1 = { owner = KAF controller = KAF add_core = KAF is_city = yes trade_goods = grain add_local_autonomy = 25 }
+
+1897.9.10  = { owner = ETH controller = ETH add_core = ETH remove_core = KAF }
+1936.5.9   = { owner = ITA controller = ITA }
+1941.11.27 = { owner = ETH controller = ETH }
+
+
+

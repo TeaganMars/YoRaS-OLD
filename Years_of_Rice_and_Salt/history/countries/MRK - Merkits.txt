@@ -1,0 +1,28 @@
+government = steppe_horde
+mercantilism = 0.1
+technology_group = eastern_nomad_group
+religion = tengri_pagan_reformed
+primary_culture = mongol
+capital = 1060
+
+750.1.1 = { technology_group = nomad_group }
+
+1080.1.1 = {
+	monarch = {
+		name = "Togtoa"
+		dynasty = "Merkit"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1140.1.1 = {
+	monarch = {
+		name = "Yehe Chiledu"
+		dynasty = "Merkit"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}

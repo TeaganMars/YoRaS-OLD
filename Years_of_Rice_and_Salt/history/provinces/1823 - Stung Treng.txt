@@ -1,0 +1,60 @@
+#1823 - Stung Treng
+
+owner = FUN
+controller = FUN
+culture = khmer
+religion = animism
+capital = "Stung Treng"
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = FUN
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = early_indian
+discovered_by = indian
+
+550.1.1 = { owner = CNA controller = CNA add_core = CNA remove_core = FUN }
+600.1.1 = { base_tax = 2 base_production = 2 }
+800.1.1 = { base_manpower = 2 }
+802.1.1 = { owner = KHM controller = KHM add_core = KHM remove_core = CNA }
+1000.1.1 = { base_tax = 3 base_production = 3 }
+1200.1.1 = { base_tax = 4 base_production = 4 }
+1354.1.1 = { owner = LXA controller = LXA add_core = LXA remove_core = KHM }
+
+1535.1.1 = { discovered_by = POR }
+1594.1.1 = {
+	owner = LXA
+	controller = LXA
+	add_core = LXA
+}
+1694.1.1 = { add_core = ANN } # Vietnamese Intervention
+1707.1.1 = {
+	owner = VIE
+	controller = VIE
+	add_core = VIE
+	remove_core = LXA
+} # Lan Xangs declared itself independent, partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
+1713.1.1 = {
+	owner = CHK
+	controller = CHK
+	add_core = CHK
+	remove_core = VIE
+}
+1811.1.1 = { unrest = 5 } # The Siamese-Cambodian Rebellion
+1812.1.1 = { unrest = 0 }
+
+1863.1.1   = { owner = FRA controller = FRA add_core = FRA add_core = CMB remove_core = CHK }
+1870.9.4   = {  owner = FR2
+		controller = FR2
+		add_core = FR2
+		remove_core = FRA
+	     } # Republic proclaimed
+1941.7.1   = { controller = JAP }
+1945.8.23  = { controller = FR2 }
+1953.11.9  = { owner = CMB controller = CMB remove_core = FR2 }
+
+

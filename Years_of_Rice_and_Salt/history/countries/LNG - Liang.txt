@@ -1,0 +1,166 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = early_chinese
+religion = confucianism
+primary_culture = chihan
+capital = 2462
+
+394.1.1 = {
+	monarch = {
+		name = "Taizu"
+		dynasty = "Liang"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+400.1.1 = {
+	monarch = {
+		name = "Luzuan"
+		dynasty = "Liang"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+401.1.1 = {
+	monarch = {
+		name = "Juqu Mengxun"
+		dynasty = "Liang"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+433.1.1 = {
+	monarch = {
+		name = "Juqu Mujian"
+		dynasty = "Liang"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+442.1.1 = {
+	monarch = {
+		name = "Juqu Wuhui"
+		dynasty = "Liang"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+}
+
+444.1.1 = {
+	monarch = {
+		name = "Juqu Anzhou"
+		dynasty = "Liang"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+}
+
+502.1.1 = { capital = 1821 } #Jiankang
+
+502.1.1 = {
+	monarch = {
+		name = "Wu"
+		dynasty = "Liang"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+549.1.1 = {
+	monarch = {
+		name = "Jianwen"
+		dynasty = "Liang"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+551.1.1 = {
+	monarch = {
+		name = "Yu Zhang"
+		dynasty = "Liang"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+552.1.1 = {
+	monarch = {
+		name = "Yuan"
+		dynasty = "Liang"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+}
+
+553.1.1 = { capital = 681 } #Jiangling
+
+555.1.1 = {
+	monarch = {
+		name = "Zhen Yang"
+		dynasty = "Liang"
+		adm = 1
+		dip = 3
+		mil = 2
+		female = yes
+	}
+}
+
+555.6.1 = {
+	monarch = {
+		name = "Jing"
+		dynasty = "Liang"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+750.1.1 = { technology_group = chinese }
+907.1.1 = { capital = 2492 } #Luoyang
+
+907.6.1 = {
+	monarch = {
+		name = "Taizu"
+		dynasty = "Liang"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+}
+
+912.7.18 = {
+	monarch = {
+		name = "Zhou Yougui"
+		dynasty = "Liang"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+913.1.1 = { capital = 688 } #Kaifeng
+
+913.3.27 = {
+	monarch = {
+		name = "Modi"
+		dynasty = "Liang"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}

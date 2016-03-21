@@ -1,0 +1,559 @@
+country_decisions = {
+	welsh_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { exists = WLS }
+			NOT = { tag = GBR }
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = EUR }
+			primary_culture = welsh
+		}
+		allow = {
+			is_subject = no
+			is_at_war = no
+			OR = {
+				num_of_owned_provinces_with = {
+					value = 4
+					region = british_isles_region
+					culture = welsh
+					is_core = ROOT
+				}
+				num_of_owned_provinces_with = {
+					value = 2
+					region = wales_area
+					culture = welsh
+					is_core = ROOT
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = WLS
+			british_isles_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+					OR = {
+						culture = welsh
+						culture = briton
+					}
+				}
+	  			add_claim = WLS
+	  		}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	scottish_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { exists = SCO }
+			NOT = { tag = GBR }
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = EUR }
+			
+			OR = {
+				primary_culture = scottish
+				AND = {
+					NOT = { tag = IRE }
+					primary_culture = irish
+					capital_scope = {
+						OR = {
+							culture = scottish
+							culture = pictish
+							area = lowlands_area
+							area = highlands_area
+						}
+					}
+				}
+			}
+		}
+		allow = {
+			#adm_tech = 27
+			is_subject = no
+			is_at_war = no
+			num_of_owned_provinces_with  = {
+				OR = {
+					area = lowlands_area
+					area = highlands_area
+					AND = {
+						region = british_isles_region
+						OR = {
+							culture = irish
+							culture = pictish
+							culture = scottish
+						}
+					}
+				}
+				value = 4
+			}
+			#owns_core_province = 248
+			#owns_core_province = 249
+			#owns_core_province = 250	
+			#owns_core_province = 251
+			#owns_core_province = 252
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = SCO
+			swap_free_idea_group = yes
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	kentish_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { exists = KEN }
+			NOT = { tag = GBR }
+			NOT = { tag = ENG }
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = WSX }
+			NOT = { tag = EUR }
+			NOT = { culture_group = gaelic }
+			capital_scope = {
+				province_id = 235
+			}
+		}
+		allow = {
+			is_subject = no
+			is_at_war = no
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 10
+			change_tag = KEN
+			if = {
+				limit = {
+					NOT = { primary_culture = anglo_saxon }
+					OR = {
+						culture_group = scandinavian
+						culture_group = germanic
+					}
+				}
+				change_primary_culture = anglo_saxon
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	essex_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { exists = ESX }
+			NOT = { tag = GBR }
+			NOT = { tag = ENG }
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = WSX }
+			NOT = { tag = EUR }
+			NOT = { culture_group = gaelic }
+			capital_scope = {
+				OR = {
+					province_id = 238
+					province_id = 236
+				}
+			}
+		}
+		allow = {
+			is_subject = no
+			is_at_war = no
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 10
+			change_tag = ESX
+			if = {
+				limit = {
+					NOT = { primary_culture = anglo_saxon }
+					OR = {
+						culture_group = scandinavian
+						culture_group = germanic
+					}
+				}
+				change_primary_culture = anglo_saxon
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	mercian_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { exists = MRC }
+			NOT = { tag = GBR }
+			NOT = { tag = ENG }
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = WSX }
+			NOT = { tag = EUR }
+			NOT = { culture_group = gaelic }
+			capital_scope = {
+				area = mercia_area
+				NOT = { province_id = 243 }
+			}
+		}
+		allow = {
+			is_subject = no
+			is_at_war = no
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 10
+			change_tag = MRC
+			if = {
+				limit = {
+					NOT = { primary_culture = anglo_saxon }
+					OR = {
+						culture_group = scandinavian
+						culture_group = germanic
+					}
+				}
+				change_primary_culture = anglo_saxon
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	wessex_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { exists = WSX }
+			NOT = { tag = GBR }
+			NOT = { tag = ENG }
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = EUR }
+			NOT = { culture_group = gaelic }
+			capital_scope = {
+				area = wessex_area
+			}
+		}
+		allow = {
+			is_subject = no
+			is_at_war = no
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 10
+			change_tag = MRC
+			if = {
+				limit = {
+					NOT = { primary_culture = anglo_saxon }
+					OR = {
+						culture_group = scandinavian
+						culture_group = germanic
+					}
+				}
+				change_primary_culture = anglo_saxon
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	northumbrian_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { exists = NOL }
+			NOT = { tag = GBR }
+			NOT = { tag = ENG }
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = WSX }
+			NOT = { tag = SCO }
+			NOT = { tag = EUR }
+			NOT = { culture_group = gaelic }
+			capital_scope = {
+				area = northern_england_area
+			}
+			
+		}
+		allow = {
+			is_subject = no
+			is_at_war = no
+			num_of_owned_provinces_with = {
+				value = 4
+				OR = {
+					region = northumbria
+					province_id = 248 #Lothian
+					province_id = 249 #Ayrshire
+					province_id = 243 #Lincoln
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 10
+			change_tag = NOL
+			if = {
+				limit = {
+					NOT = { primary_culture = anglo_saxon }
+					OR = {
+						culture_group = scandinavian
+						culture_group = germanic
+					}
+				}
+				change_primary_culture = anglo_saxon
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	eastanglian_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { exists = EAN }
+			NOT = { tag = GBR }
+			NOT = { tag = ENG }
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = WSX }
+			NOT = { tag = EUR }
+			NOT = { culture_group = gaelic }
+			capital_scope = { province_id = 1860 } #Norfolk
+		}
+		allow = {
+			is_subject = no
+			is_at_war = no
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 10
+			change_tag = EAN
+			if = {
+				limit = {
+					NOT = { primary_culture = anglo_saxon }
+					OR = {
+						culture_group = scandinavian
+						culture_group = germanic
+					}
+				}
+				change_primary_culture = anglo_saxon
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	lindsey_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { exists = LIN }
+			NOT = { tag = GBR }
+			NOT = { tag = ENG }
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = WSX }
+			NOT = { tag = NOL }
+			NOT = { tag = EUR }
+			NOT = { culture_group = gaelic }
+			capital_scope = { province_id = 243 } #Lincoln
+		}
+		allow = {
+			is_subject = no
+			is_at_war = no
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 10
+			change_tag = LIN
+			if = {
+				limit = {
+					NOT = { primary_culture = anglo_saxon }
+					OR = {
+						culture_group = scandinavian
+						culture_group = germanic
+					}
+				}
+				change_primary_culture = anglo_saxon
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	deira_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { exists = DEI }
+			NOT = { tag = GBR }
+			NOT = { tag = ENG }
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = WSX }
+			NOT = { tag = NOL }
+			NOT = { tag = EUR }
+			NOT = { culture_group = gaelic }
+			capital_scope = {
+				OR = {
+					province_id = 244 #Lancashire
+					province_id = 245 #Yorkshire
+				}
+			}
+		}
+		allow = {
+			is_subject = no
+			is_at_war = no
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 10
+			change_tag = DEI
+			if = {
+				limit = {
+					NOT = { primary_culture = anglo_saxon }
+					OR = {
+						culture_group = scandinavian
+						culture_group = germanic
+					}
+				}
+				change_primary_culture = anglo_saxon
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	bernicia_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { exists = BRN }
+			NOT = { tag = GBR }
+			NOT = { tag = ENG }
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = WSX }
+			NOT = { tag = NOL }
+			NOT = { tag = EUR }
+			NOT = { culture_group = gaelic }
+			capital_scope = {
+				OR = {
+					province_id = 246 #Northumberland
+					province_id = 247 #Cumbria
+				}
+			}
+		}
+		allow = {
+			is_subject = no
+			is_at_war = no
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 10
+			change_tag = BRN
+			if = {
+				limit = {
+					NOT = { primary_culture = anglo_saxon }
+					OR = {
+						culture_group = scandinavian
+						culture_group = germanic
+					}
+				}
+				change_primary_culture = anglo_saxon
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

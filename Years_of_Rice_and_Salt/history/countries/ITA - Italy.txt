@@ -1,0 +1,449 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = -3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = 1
+#quality_quantity = -1
+#serfdom_freesubjects = -2
+technology_group = western
+religion = chalcedonism
+primary_culture = lombard
+culture_group_union = latin
+capital = 118		# Roma
+
+855.9.30 = {
+	monarch = {
+		name = "Louis II"
+		dynasty = "Carolingian"
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+855.9.30 = {
+	heir = {
+		name = "Charles"
+		monarch_name = "Charles II"
+		dynasty = "Carolingian"
+		birth_date = 823.6.13
+		death_date = 877.10.6
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+867.1.1 = { religion = catholic }
+
+875.8.12 = {
+	monarch = {
+		name = "Charles II"
+		dynasty = "Carolingian"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+875.8.12 = {
+	heir = {
+		name = "Carloman"
+		monarch_name = "Carloman I"
+		dynasty = "Carolingian"
+		birth_date = 330.1.1
+		death_date = 880.9.29
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+877.10.6 = {
+	monarch = {
+		name = "Carloman I"
+		dynasty = "Carolingian"
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+887.11.17 = {
+	monarch = {
+		name = "Charles III"
+		dynasty = "Carolingian"
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+}
+
+887.12.26 = {
+	monarch = {
+		name = "Berengar I"
+		dynasty = "Unruoching"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+889.1.1 = {
+	monarch = {
+		name = "Guy I"
+		dynasty = "Guideschi"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+
+889.1.1 = {
+	heir = {
+		name = "Lambert"
+		monarch_name = "Lambert I"
+		dynasty = "Guideschi"
+		birth_date = 880.1.1
+		death_date = 898.10.15
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+899.12.8 = {
+	monarch = {
+		name = "Berengar I"
+		dynasty = "Unruoching"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+933.1.1 = {
+	monarch = {
+		name = "Hugh I"
+		dynasty = "Bosonid"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+933.1.1 = {
+	heir = {
+		name = "Lothair"
+		monarch_name = "Lothair II"
+		dynasty = "Bosonid"
+		birth_date = 926.1.1
+		death_date = 950.11.22
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+}
+
+945.1.1 = {
+	monarch = {
+		name = "Lothair II"
+		dynasty = "Bosonid"
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+}
+
+950.11.22 = {
+	monarch = {
+		name = "Berengar II"
+		dynasty = "d'Ivrea"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1797.6.29 = { government = constitutional_republic government_rank = 1 }
+
+1797.6.29 = {
+	monarch = {
+		name = "Republica Cisalpina"
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+
+1802.6.26 = {
+	monarch = {
+		name = "Republicca Italiana"
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+1805.3.18 = { government = constitutional_monarchy government_rank = 2 }
+
+1805.3.18 = {
+	monarch = {
+		name = "Napoleone I"
+		dynasty = "Bonaparte"
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+}
+
+1861.3.17 = {
+	monarch = {
+		name = "Vittorio Emmanuele II"
+		dynasty = "di Savoia"
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+1861.3.17 = {
+	heir = {
+		name = "Umberto"
+		monarch_name = "Umberto I"
+		dynasty = "di Savoia"
+		birth_date = 1844.3.14
+		death_date = 1900.7.29
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1878.1.9 = {
+	monarch = {
+		name = "Umberto I"
+		dynasty = "di Savoia"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1878.1.9 = {
+	heir = {
+		name = "Vittorio Emmanuele"
+		monarch_name = "Vittorio Emmanuele III"
+		dynasty = "di Savoia"
+		birth_date = 1869.11.11
+		death_date = 1946.5.9
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1900.7.29 = {
+	monarch = {
+		name = "Vittorio Emmanuele III"
+		dynasty = "di Savoia"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1904.9.15 = {
+	heir = {
+		name = "Umberto"
+		monarch_name = "Umberto II"
+		dynasty = "di Savoia"
+		birth_date = 1904.9.15
+		death_date = 1983.3.18
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1910.1.1 = { religion = secularism }
+
+1925.12.24 = { government = fascist_dictatorship government_rank = 3 }
+
+1925.12.24 = {
+	monarch = {
+		name = "Benito Mussolini"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1943.7.25 = { government = parliamentary_monarchy government_rank = 2 }
+
+1943.7.25 = {
+	monarch = {
+		name = "Vittorio Emmanuele III"
+		dynasty = "di Savoia"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1943.7.25 = {
+	heir = {
+		name = "Umberto"
+		monarch_name = "Umberto II"
+		dynasty = "di Savoia"
+		birth_date = 1904.9.15
+		death_date = 1983.3.18
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1946.5.9 = {
+	monarch = {
+		name = "Umberto II"
+		dynasty = "di Savoia"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1946.7.1 = { government = presidental_republic }
+
+1946.7.1 = {
+	monarch = {
+		name = "Enrico De Nicola"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1948.5.12 = {
+	monarch = {
+		name = "Luigi Einaudi"
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+1955.5.11 = {
+	monarch = {
+		name = "Giovanni Gronchi"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1958.1.1 = { decision = join_european_union }
+
+1962.5.11 = {
+	monarch = {
+		name = "Antonio Segni"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1964.12.29 = {
+	monarch = {
+		name = "Giuseppe Saragat"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1971.12.29 = {
+	monarch = {
+		name = "Giovanni Leone"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1978.7.9 = {
+	monarch = {
+		name = "Sandro Pertini"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1985.7.3 = {
+	monarch = {
+		name = "Francesco Cossiga"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1992.5.28 = {
+	monarch = {
+		name = "Oscar Luigi Scalfaro"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1999.1.1 = { decision = adopt_the_euro }
+
+1999.5.18 = {
+	monarch = {
+		name = "Carlo Azeglio Ciampi"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+2006.5.15 = {
+	monarch = {
+		name = "Giorgio Napolitano"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2015.1.14 = {
+	monarch = {
+		name = "Pietro Grasso"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+2015.2.3 = {
+	monarch = {
+		name = "Sergio Mattarella"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}

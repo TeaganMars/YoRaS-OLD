@@ -1,0 +1,6 @@
+#1595 - East of Magellans
+
+1520.1.1  = { discovered_by = SPA }
+
+
+

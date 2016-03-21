@@ -1,0 +1,46 @@
+government = tribal_despotism
+mercantilism = 0.1
+primary_culture = yemeni_culture
+religion = south_arabian
+technology_group = middle_eastern
+capital = 401 #Ubar
+
+400.1.1 = {
+	monarch = {
+		name = "Shaddad"
+		dynasty = "'Ad"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+450.1.1 = {
+	monarch = {
+		name = "Shaddad"
+		dynasty = "'Ad"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+500.1.1 = {
+	monarch = {
+		name = "Shaddad"
+		dynasty = "'Ad"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+550.1.1 = {
+	monarch = {
+		name = "Shaddad"
+		dynasty = "'Ad"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

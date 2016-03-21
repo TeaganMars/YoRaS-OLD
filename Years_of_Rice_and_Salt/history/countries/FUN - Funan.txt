@@ -1,0 +1,173 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -1
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = khmer
+religion = mahayana
+technology_group = early_chinese
+capital = 2391	# Vyadhapura
+
+
+50.1.1 = {
+	monarch = {
+		name = "Soma"
+		dynasty = "Funan"
+		adm = 4
+		dip = 3
+		mil = 1
+		female = yes
+	}
+}
+90.1.1 = {
+	monarch = {
+		name = "Kaundinya I"
+		dynasty = "Funan"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+130.1.1 = {
+	monarch = {
+		name = "Hunpanhuang"
+		dynasty = "Funan"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+170.1.1 = {
+	monarch = {
+		name = "Panpan"
+		dynasty = "Funan"
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+}
+205.1.1 = {
+	monarch = {
+		name = "Srei Meara"
+		dynasty = "Funan"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+225.1.1 = {
+	monarch = {
+		name = "Fan Jinsheng"
+		dynasty = "Funan"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+235.1.1 = {
+	monarch = {
+		name = "Fan Zhan"
+		dynasty = "Funan"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+243.1.1 = {
+	monarch = {
+		name = "Fan Chang"
+		dynasty = "Funan"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+248.1.1 = {
+	monarch = {
+		name = "Fan Xun"
+		dynasty = "Funan"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+287.1.1 = {
+	monarch = {
+		name = "(regency council)" #unknown ruler
+		regent = yes
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+340.1.1 = {
+	monarch = {
+		name = "Candana"
+		dynasty = "Funan"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+380.1.1 = {
+	monarch = {
+		name = "(regency council)" #unknown ruler
+		regent = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+400.1.1 = {
+	monarch = {
+		name = "Kaundinya II"
+		dynasty = "Funan"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+434.1.1 = {
+	monarch = {
+		name = "Sri Indravarman"
+		dynasty = "Funan"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+445.1.1 = {
+	monarch = {
+		name = "(regency council)" #unknown ruler
+		regent = yes
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+484.1.1 = {
+	monarch = {
+		name = "Kaundinya Jayavarman"
+		dynasty = "Funan"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+514.1.1 = {
+	monarch = {
+		name = "Rudravarman"
+		dynasty = "Funan"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+
+750.1.1 = { technology_group = chinese }

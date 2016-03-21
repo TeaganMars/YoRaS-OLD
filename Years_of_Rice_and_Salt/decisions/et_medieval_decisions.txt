@@ -1,0 +1,80 @@
+country_decisions = {
+
+	hold_grand_tournament = {
+		potential = {
+			religion_group = christian
+			government = feudal_monarchy
+			NOT = { is_year = 1400 }
+			NOT = { has_country_modifier = grand_tournament }
+		}
+		allow = {
+			is_at_war = no
+			mil_power = 20
+			mil_tech = 32
+		}
+		effect = {
+			add_mil_power = -20
+			add_prestige = 5
+			add_country_modifier = {
+				name = "grand_tournament"
+				duration = 3650
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	form_hre = {
+		major = yes
+		potential = {
+			emperor = { tag = JMN }
+			NOT = { exists = ROW }
+			NOT = { exists = ROM }
+			NOT = { exists = FRK }
+			NOT = { exists = HLR }
+			religion = catholic
+			government = feudal_monarchy
+		}
+		allow = {
+			OR = {
+				owns = 118
+				PAP = { is_subject_of = ROOT }
+			}
+			num_of_cities = 10
+			legitimacy = 80
+		}
+		effect = {
+			elector = yes
+			lombardia = { set_in_empire = yes }
+			every_owned_province = { set_in_empire = yes }
+			every_country = {
+				limit = { is_subject_of = ROOT }
+				elector = yes
+				every_owned_province = { set_in_empire = yes }
+			}
+			every_country = {
+				limit = {
+					culture_group = ROOT
+					religion = ROOT
+				}
+				every_owned_province = { 
+					limit = { NOT = { region = british_isles_region } }
+					set_in_empire = yes 
+				}
+			}
+			JMN = { 
+				elector = no
+				kill_ruler = yes 
+			}
+			3148 = { 
+				set_in_empire = no 
+				cede_province = XXX
+				remove_core = JMN
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

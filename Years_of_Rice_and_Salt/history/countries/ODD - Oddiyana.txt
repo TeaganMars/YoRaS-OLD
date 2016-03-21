@@ -1,0 +1,8 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = afghani
+religion = mahayana
+technology_group = early_indian
+capital = 2189
+
+750.1.1 = { technology_group = indian }

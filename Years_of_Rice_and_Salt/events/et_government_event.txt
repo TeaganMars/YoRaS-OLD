@@ -1,0 +1,103 @@
+namespace = et_government_event
+
+# Fascist ruler dies
+country_event = {
+	id = et_government_event.1
+	title = et_government_event.1.t
+	desc = et_government_event.1.d
+	picture = KING_SICK_IN_BED_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		government = fascist_dictatorship
+	}
+	
+	option = {
+		name = et_government_event.1.a
+		ai_chance = {
+			factor = 25
+			modifier = {
+				factor = 0
+				calc_true_if = {
+					all_country = {
+						government = fascist_dictatorship
+					}
+					amount = 10
+				}
+			}
+			modifier = {
+				factor = 3
+				tag = SPA
+			}
+		}
+		change_government = parliamentary_monarchy
+		define_ruler = {
+			claim = 100
+		}
+	}
+	
+	option = {
+		name = et_government_event.1.b
+		ai_chance = {
+			factor = 75
+			modifier = {
+				factor = 0
+				calc_true_if = {
+					all_country = {
+						government = fascist_dictatorship
+					}
+					amount = 10
+				}
+			}
+		}
+		change_government = parliamentary_republic
+		add_republican_tradition = 0.10
+	}
+	
+	option = {
+		name = et_government_event.1.c
+		add_republican_tradition = -0.10
+	}
+}
+
+# Communist ruler dies
+country_event = {
+	id = et_government_event.2
+	title = et_government_event.1.t
+	desc = et_government_event.1.d
+	picture = KING_SICK_IN_BED_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		government = communist_dictatorship
+	}
+	
+	option = {
+		name = et_government_event.1.a
+		ai_chance = {
+			factor = 0
+		}
+		change_government = parliamentary_monarchy
+		define_ruler = {
+			claim = 100
+		}
+	}
+	
+	option = {
+		name = et_government_event.1.b
+		ai_chance = {
+			factor = 0
+		}
+		change_government = socialist_republic
+		add_republican_tradition = 0.10
+	}
+	
+	option = {
+		name = et_government_event.1.c
+		add_republican_tradition = -0.10
+	}
+}
+
+# Adtriarior

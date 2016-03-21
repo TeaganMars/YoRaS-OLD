@@ -1,0 +1,42 @@
+#890 - Kiowa
+
+culture = pawnee #Old plains people
+religion = totemism
+capital = "Kiowa"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 25
+native_ferocity = 3
+native_hostileness = 9 
+discovered_by = north_american
+
+1541.1.1  = { discovered_by = SPA } # Francisco Vásquez de Coronado
+1760.1.1  = {	owner = KIO
+		controller = KIO
+		add_core = KIO
+		trade_goods = grain
+		is_city = yes
+		culture = kiowa } #Great Plain tribes spread over vast territories
+
+1767.1.1 = { base_tax = 2 }
+1810.1.1 = { base_tax = 3 }
+1853.1.1 = { base_production = 2 }
+1865.1.1   = {	owner = USA
+		controller = USA
+		add_core = USA
+		remove_core = KIO
+		religion = protestant
+		culture = american
+		capital = "Fort Dodge"
+	     }
+1872.1.1   = { capital = "Dodge City" }
+1896.1.1 = { base_production = 3 }
+1939.1.1 = { base_production = 4 }
+2000.1.1 = { base_tax = 4 base_manpower = 2 }
+
+
+
+

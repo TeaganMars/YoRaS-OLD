@@ -1,0 +1,77 @@
+government = despotic_monarchy
+primary_culture = bai
+religion = mahayana
+technology_group = early_chinese
+capital = 661	# Dali
+
+750.1.1 = { technology_group = chinese }
+
+937.1.1 = {
+	monarch = {
+		name = "Duan Siping"
+		dynasty = "Dali"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+1081.1.1 = {
+	monarch = {
+		name = "Duan Zhengming"
+		dynasty = "Dali"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1096.1.1 = {
+	monarch = {
+		name = "Duan Zhengchun"
+		dynasty = "Dali"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1108.1.1 = {
+	monarch = {
+		name = "Duan Zhengxing"
+		dynasty = "Dali"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1172.1.1 = {
+	monarch = {
+		name = "Duan Zhixing"
+		dynasty = "Dali"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1200.1.1 = {
+	monarch = {
+		name = "Duan Zhilian"
+		dynasty = "Dali"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1251.1.1 = {
+	monarch = {
+		name = "Duan Xingzhi"
+		dynasty = "Dali"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}

@@ -1,0 +1,154 @@
+government = feudal_monarchy
+government_rank = 1
+#aristocracy_plutocracy = -2
+#centralization_decentralization = -5
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -1
+mercantilism = 0.1
+#offensive_defensive = 5
+#land_naval = -4
+#quality_quantity = -3
+#serfdom_freesubjects = -3
+primary_culture = cosmopolitan_french
+religion = catholic
+technology_group = western
+capital = 184	# Orléans
+
+1344.1.1 = {
+	monarch = {
+		name = "Philippe I"
+		dynasty = "de Valois"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+1372.3.13 = {
+	heir = {
+		name = "Louis"
+		monarch_name = "Louis I"
+		dynasty = "de Valois"
+		birth_date = 1372.3.13
+		death_date = 1407.11.23
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+1376.9.1 = {
+	monarch = {
+		name = "Louis I"
+		dynasty = "de Valois"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+1394.11.24 = {
+	heir = {
+		name = "Charles"
+		monarch_name = "Charles I"
+		dynasty = "de Valois"
+		birth_date = 1394.11.24
+		death_date = 1465.1.5
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+1407.11.23 = {
+	monarch = {
+		name = "Charles I"
+		dynasty = "de Valois"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+1462.6.27 = {
+	heir = {
+		name = "Louis"
+		monarch_name = "Louis II"
+		dynasty = "de Valois"
+		birth_date = 1462.6.27
+		death_date = 1515.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+1465.1.5 = {
+	monarch = {
+		name = "Louis II"
+		dynasty = "de Valois"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+1498.4.7 = {
+	monarch = {
+		name = "Charles II"
+		dynasty = "de Valois"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1515.1.2 = { government = despotic_monarchy }
+
+1545.1.1 = {
+	monarch = {
+		name = "Régence"
+		regent = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1549.1.1 = {
+	monarch = {
+		name = "Louis III"
+		dynasty = "de Valois"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1550.1.1 = {
+	monarch = {
+		name = "Charles III"
+		dynasty = "de Valois"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1560.12.5 = {
+	monarch = {
+		name = "Henri Alexandre I"
+		dynasty = "de Valois"
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+}
+
+1589.8.3 = { government = administrative_monarchy }
+
+1661.3.9 = { government = absolute_monarchy }
+

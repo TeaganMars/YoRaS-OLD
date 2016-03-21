@@ -1,0 +1,117 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = khorasani
+religion = sunni
+technology_group = muslim
+capital = 436 #Nishapur
+
+821.1.1 = {
+	monarch = {
+		name = "Tahir I"
+		dynasty = "Tahirid"
+		birth_date = 791.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+821.1.1 = {
+	heir = {
+		name = "Talha"
+		monarch_name = "Talha"
+		dynasty = "Tahirid"
+		birth_date = 792.1.1
+		death_date = 828.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+}
+
+822.1.1 = {
+	monarch = {
+		name = "Talha"
+		dynasty = "Tahirid"
+		birth_date = 792.1.1
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+}
+
+822.1.1 = {
+	heir = {
+		name = "Abdallah"
+		monarch_name = "Abdallah"
+		dynasty = "Tahirid"
+		birth_date = 798.1.1
+		death_date = 845.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+828.1.1 = {
+	monarch = {
+		name = "Abdallah"
+		dynasty = "Tahirid"
+		birth_date = 798.1.1
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+828.1.1 = {
+	heir = {
+		name = "Tahir"
+		monarch_name = "Tahir II"
+		dynasty = "Tahirid"
+		birth_date = 815.1.1
+		death_date = 862.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+845.1.1 = {
+	monarch = {
+		name = "Tahir II"
+		dynasty = "Tahirid"
+		birth_date = 815.1.1
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+845.1.1 = {
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Muhammad"
+		dynasty = "Tahirid"
+		birth_date = 832.1.1
+		death_date = 873.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+}
+
+862.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Tahirid"
+		birth_date = 832.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+}

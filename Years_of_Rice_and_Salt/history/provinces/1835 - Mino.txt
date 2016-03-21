@@ -1,0 +1,40 @@
+#1835 - Mino
+
+owner = YAM
+controller = YAM
+culture = japanese
+religion = animism
+capital = "Inabayama"
+trade_goods = grain
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+add_core = YAM
+discovered_by = early_chinese
+discovered_by = chinese
+
+607.1.1 = { religion = mahayana }
+712.1.1 = { religion = shinto }
+794.1.1 = { owner = JAP controller = JAP add_core = JAP remove_core = YAM }
+
+1440.1.1 = { fort_15th = yes } # Inabayama (later Gifu) Castle, Estimation
+1542.1.1 = { discovered_by = POR }
+1561.1.1 = { add_core = ODA }
+1567.10.1 = { owner = ODA controller = ODA remove_core = JAP }
+1567.10.1 = { capital = "Gifu" } # Oda Nobunaga changed the name of city.
+1573.7.3 = { add_core = JAP owner = JAP controller = JAP remove_core = ODA }
+1600.9.15 = { fort_15th = no } # Gifu Castle was taken down
+1750.1.1 = { base_production = 6 base_manpower = 4 }
+1775.1.1 = { base_tax = 5 base_manpower = 6 }
+1800.1.1 = { base_production = 8 base_manpower = 7 }
+
+1825.1.1 = { base_tax = 6 base_production = 9 base_manpower = 8 }
+1850.1.1 = { base_tax = 7 base_production = 11 }
+1875.1.1 = { base_tax = 8 base_manpower = 10 }
+1900.1.1 = { base_tax = 11 }
+1925.1.1 = { base_production = 13 base_manpower = 11 }
+1950.1.1 = { base_tax = 13 base_production = 14 }
+1975.1.1 = { base_production = 16 base_manpower = 12 }
+2000.1.1 = { base_tax = 17 base_manpower = 15 }

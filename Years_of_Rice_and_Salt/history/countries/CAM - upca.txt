@@ -1,0 +1,96 @@
+government = revolutionary_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = 0
+technology_group = western
+religion = catholic
+primary_culture = castillian
+capital = 841	# Guatemala city
+
+1823.7.1 = {
+	monarch = {
+		name = "Pedro Molina Mazariegos"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1823.10.4 = {
+	monarch = {
+		name = "Tomas O'Horan"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1825.4.29 = {
+	government = constitutional_republic
+	monarch = {
+		name = "Manuel José Arce"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1829.6.13 = {
+	monarch = {
+		name = "Francisco Morazán"
+		adm = 3
+		mil = 4
+		dip = 3
+	}
+}
+
+1829.6.26 = {
+	monarch = {
+		name = "José Francisco Barrundia"
+		adm = 4
+		mil = 2
+		dip = 2
+	}
+}
+
+1830.9.16 = {
+	monarch = {
+		name = "Francisco Morazán"
+		adm = 3
+		mil = 4
+		dip = 3
+	}
+}
+
+1834.9.16 = {
+	monarch = {
+		name = "José Gregorio Salazar"
+		adm = 3
+		mil = 3
+		dip = 2
+	}
+}
+
+1835.2.14 = {
+	monarch = {
+		name = "Francisco Morazán"
+		adm = 3
+		mil = 4
+		dip = 3
+	}
+}
+
+1896.9.15 = {
+	monarch = {
+		name = "Policarpo Bonilla"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}

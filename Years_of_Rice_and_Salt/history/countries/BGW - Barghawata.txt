@@ -1,0 +1,86 @@
+government = tribal_kingdom
+mercantilism = 0.1
+primary_culture = berber
+religion = african
+technology_group = muslim
+capital = 345
+
+744.1.1 = {
+	monarch = {
+		name = "Tarif al-Mathgari"
+		dynasty = "Barghawata"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+750.1.1 = {
+	monarch = {
+		name = "Salih"
+		dynasty = "Barghawata"
+		adm = 2
+		mil = 2
+		dip = 4
+	}
+}
+
+792.1.1 = {
+	monarch = {
+		name = "Ilyas"
+		dynasty = "Barghawata"
+		adm = 2
+		mil = 1
+		dip = 2
+	}
+}
+
+842.1.1 = {
+	monarch = {
+		name = "Yunus"
+		dynasty = "Barghawata"
+		adm = 2
+		mil = 1
+		dip = 2
+	}
+}
+
+888.1.1 = {
+	monarch = {
+		name = "Abu Ghafir"
+		dynasty = "Barghawata"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+917.1.1 = {
+	monarch = {
+		name = "Abu al-Ansar"
+		dynasty = "Barghawata"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+961.1.1 = {
+	monarch = {
+		name = "Abu Mansur Isa"
+		dynasty = "Barghawata"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1061.1.1 = {
+	monarch = {
+		name = "Saqqut"
+		dynasty = "Barghawata"
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+}

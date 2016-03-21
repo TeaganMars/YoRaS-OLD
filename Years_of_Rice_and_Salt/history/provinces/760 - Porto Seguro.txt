@@ -1,0 +1,31 @@
+#760 - Porto Seguro
+
+culture = ge
+religion = south_american
+capital = "Porto Seguro"
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 4
+base_manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = south_american
+
+1500.4.21 = { discovered_by = POR } # Pedro Álvares Cabral
+1504.1.1 = { #Portuguese Fort Erected
+	owner = POR
+	controller = POR
+	add_core = POR
+	culture = portugese
+	religion = catholic
+	is_city = yes
+	trade_goods = sugar
+}
+1550.1.1  = { citysize = 2555 } # Became one of the busiest port from 1500
+
+1822.9.7   = { owner = BRZ add_core = BRZ controller = BRZ remove_core = POR }
+
+
+

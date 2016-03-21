@@ -1,0 +1,283 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = korean
+religion = muism
+technology_group = early_chinese
+capital = 2553 #Gungnae
+
+2.1.1 = {
+	monarch = {
+		name = "Yuri"
+		dynasty = "Goguryeo"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+18.1.1 = {
+	monarch = {
+		name = "Daemusin"
+		dynasty = "Goguryeo"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+44.1.1 = {
+	monarch = {
+		name = "Minjung"
+		dynasty = "Goguryeo"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+48.1.1 = {
+	monarch = {
+		name = "Mobon"
+		dynasty = "Goguryeo"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+53.1.1 = {
+	monarch = {
+		name = "Taejo"
+		dynasty = "Goguryeo"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+146.1.1 = {
+	monarch = {
+		name = "Chadae"
+		dynasty = "Goguryeo"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+165.1.1 = {
+	monarch = {
+		name = "Sindae"
+		dynasty = "Goguryeo"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+179.1.1 = {
+	monarch = {
+		name = "Gogukcheon"
+		dynasty = "Goguryeo"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+197.1.1 = {
+	monarch = {
+		name = "Sansang"
+		dynasty = "Goguryeo"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+227.1.1 = {
+	monarch = {
+		name = "Dongcheon"
+		dynasty = "Goguryeo"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+248.1.1 = {
+	monarch = {
+		name = "Jungcheon"
+		dynasty = "Goguryeo"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+270.1.1 = {
+	monarch = {
+		name = "Seocheon"
+		dynasty = "Goguryeo"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+292.1.1 = {
+	monarch = {
+		name = "Bongsang"
+		dynasty = "Goguryeo"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+300.1.1 = {
+	monarch = {
+		name = "Micheon"
+		dynasty = "Goguryeo"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+331.1.1 = {
+	monarch = {
+		name = "Gogug-won"
+		dynasty = "Goguryeo"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+371.1.1 = {
+	monarch = {
+		name = "Sosurim"
+		dynasty = "Goguryeo"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+372.1.1 = { religion = mahayana }
+
+384.1.1 = {
+	monarch = {
+		name = "Gogug-yang"
+		dynasty = "Goguryeo"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+391.1.1 = {
+	monarch = {
+		name = "Gwanggaeto"
+		dynasty = "Goguryeo"
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+}
+
+413.1.1 = {
+	monarch = {
+		name = "Jangsu"
+		dynasty = "Goguryeo"
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+427.1.1 = { capital = 1845 } #Pyongyang
+
+491.1.1 = {
+	monarch = {
+		name = "Munja"
+		dynasty = "Goguryeo"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+519.1.1 = {
+	monarch = {
+		name = "Anjang"
+		dynasty = "Goguryeo"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+545.1.1 = {
+	monarch = {
+		name = "An-won"
+		dynasty = "Goguryeo"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+559.1.1 = {
+	monarch = {
+		name = "Pyeong-won"
+		dynasty = "Goguryeo"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+590.1.1 = {
+	monarch = {
+		name = "Yeong-yang"
+		dynasty = "Goguryeo"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+
+618.1.1 = {
+	monarch = {
+		name = "Yeong-nyu"
+		dynasty = "Goguryeo"
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+
+642.1.1 = {
+	monarch = {
+		name = "Bojang"
+		dynasty = "Goguryeo"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+750.1.1 = { technology_group = chinese }
+
+901.1.1 = {
+	monarch = {
+		name = "Gung Ye"
+		dynasty = "Taebong"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}

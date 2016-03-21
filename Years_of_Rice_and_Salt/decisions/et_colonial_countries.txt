@@ -1,0 +1,1553 @@
+country_decisions = {
+
+	new_zealand_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = NZL }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_oceania = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1106
+			owns_core_province = 1107
+			owns_core_province = 1109
+		}
+		effect = {
+			if = {
+				limit = {
+					1108 = { NOT = { owned_by = ROOT } }
+				}
+				1108 = { add_claim = ROOT }
+			}
+			if = {
+				limit = {
+					1246 = { NOT = { owned_by = ROOT } }
+				}
+				1246 = { add_claim = ROOT }
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = NZL
+			set_country_flag = changed_from_colonial_nation
+			swap_free_idea_group = yes
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	papua_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = PNG }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_oceania = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+			NOT = { tag = AUS }
+			NOT = { tag = NZL }
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1237
+			owns_core_province = 1236
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = PNG
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	mauretania_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = MRT }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_west_africa = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1112
+			owns_core_province = 1115
+			owns_core_province = 1111
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = MRT
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	senegal_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = SGL }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_west_africa = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1113
+			owns_core_province = 1116
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = SGL
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	mali_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = MAL }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_mali = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1123
+			owns_core_province = 1131
+			owns_core_province = 1132
+			owns_core_province = 2321
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = MAL
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	burkina_faso_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = BFA }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_mali = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1137
+			owns_core_province = 1135
+			owns_core_province = 2328
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = BFA
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	guinea_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = GUI }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_ivory_coast = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 2313
+			owns_core_province = 1117
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = GUI
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	ivory_coast_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = IVO }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_ivory_coast = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1126
+			owns_core_province = 1125
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = IVO
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	ghana_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = GHA }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_ivory_coast = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1139
+			owns_core_province = 1138
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = GHA
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	benin_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = BEN }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_ivory_coast = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1141
+			owns_core_province = 1140
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = BEN
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	nigeria_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = NIG }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_niger = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1153
+			owns_core_province = 1154
+			owns_core_province = 1155
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = NIG
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	niger_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = NGR }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_niger = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1142
+			owns_core_province = 2350
+			owns_core_province = 1148
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = NGR
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	cameroon_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = CMR }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_central_africa = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1164
+			owns_core_province = 2042
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = CMR
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	chad_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = CDD }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_central_africa = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1164
+			owns_core_province = 2042
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = CDD
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	central_africa_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = CAF }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_central_africa = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 2043
+			owns_core_province = 1796
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = CAF
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	gabon_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = GAB }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_central_africa = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1165
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = GAB
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	congo_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = CNG }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_central_africa = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1166
+			owns_core_province = 1169
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = CNG
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	sudan_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = SUD }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_sudan = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1220
+			owns_core_province = 1221
+			owns_core_province = 1222
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = SUD
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	ethiopia_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = ETH }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_east_africa = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1213
+			owns_core_province = 1211
+			owns_core_province = 1214
+			owns_core_province = 1224
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = ETH
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	somalia_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = SOM }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_east_africa = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1205
+			owns_core_province = 1206
+			owns_core_province = 1209
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = SOM
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	kenya_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = KEY }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_east_africa = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1798
+			owns_core_province = 1202
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = KEY
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	tanzania_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = TNZ }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_east_africa = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 2166
+			owns_core_province = 1199
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = TNZ
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	dr_congo_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = DRC }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_congo = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 2037
+			owns_core_province = 2059
+			owns_core_province = 1797
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = DRC
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	angola_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = AGL }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_congo = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1167
+			owns_core_province = 1168
+			owns_core_province = 1171
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = AGL
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	zambia_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = ZAM }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_zambezi = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 2028
+			owns_core_province = 2127
+			owns_core_province = 1800
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = ZAM
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	mozambique_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = MZM }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_zambezi = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1195
+			owns_core_province = 1192
+			owns_core_province = 1186
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = MZM
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	zimbabwe_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = ZIB }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_zambezi = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1184
+			owns_core_province = 1185
+			owns_core_province = 1188
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = ZIB
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	madagascar_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = MDG }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_zambezi = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1792
+			owns_core_province = 1194
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = MDG
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	botswana_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = BOT }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_south_africa = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 2024
+			owns_core_province = 2126
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = BOT
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
+	namibia_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = NMB }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_south_africa = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1173
+			owns_core_province = 2170
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = NMB
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	south_africa_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = RSA }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_south_africa = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 1177
+			owns_core_province = 1179
+			owns_core_province = 1180
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = RSA
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	california_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = CLF }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			is_nomad = no
+			is_random_new_world = no
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_california = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 2	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 868
+			owns_core_province = 869
+			owns_core_province = 2143
+			owns_core_province = 871
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = CLF
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	cuba_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = CUB }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			is_nomad = no
+			is_random_new_world = no
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_the_carribean = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 484
+			owns_core_province = 485
+			owns_core_province = 486
+			owns_core_province = 2624
+			owns_core_province = 2625
+			owns_core_province = 2626
+		}
+		effect = {
+			change_tag = CUB
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	dominican_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = DOM }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			is_nomad = no
+			is_random_new_world = no
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_the_carribean = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 490
+			owns_core_province = 2622
+			owns_core_province = 2623
+		}
+		effect = {
+			change_tag = DOM
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	bolivia_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = BOL }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			is_nomad = no
+			is_random_new_world = no
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_peru = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 490
+			owns_core_province = 2622
+			owns_core_province = 2623
+		}
+		effect = {
+			change_tag = BOL
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	uruguay_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = URU }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			is_nomad = no
+			is_random_new_world = no
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_la_plata = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 2772
+			owns_core_province = 2773
+			owns_core_province = 772
+		}
+		effect = {
+			change_tag = URU
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

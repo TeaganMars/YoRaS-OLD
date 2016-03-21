@@ -1,0 +1,97 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = tajik
+religion = sunni
+technology_group = muslim
+capital = 454	# Samarkand
+
+819.1.1 = {
+	monarch = {
+		name = "Ahmad ibn Asad"
+		dynasty = "Samanid"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+865.1.1 = {
+	monarch = {
+		name = "Nasr I"
+		dynasty = "Samanid"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+892.1.1 = {
+	capital = 442 #Bukhara
+	monarch = {
+		name = "Abu Ibrahim Isma'il"
+		dynasty = "Samanid"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+907.1.1 = {
+	monarch = {
+		name = "Ahmad ibn Isma'il"
+		dynasty = "Samanid"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+943.1.1 = {
+	monarch = {
+		name = "Nasr II"
+		dynasty = "Samanid"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+954.1.1 = {
+	monarch = {
+		name = "Abd al-Malik"
+		dynasty = "Samanid"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+961.1.1 = {
+	monarch = {
+		name = "Abu Salih Mansur"
+		dynasty = "Samanid"
+		adm = 2
+		mil = 2
+		dip = 4
+	}
+}
+
+976.1.1 = {
+	monarch = {
+		name = "Nuh II"
+		dynasty = "Samanid"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+997.1.1 = {
+	monarch = {
+		name = "Abu'l-Harith Mansur"
+		dynasty = "Samanid"
+		adm = 2
+		mil = 1
+		dip = 2
+	}
+}

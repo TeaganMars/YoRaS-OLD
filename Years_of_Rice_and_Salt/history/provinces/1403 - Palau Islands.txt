@@ -1,0 +1,8 @@
+#1403 - Palau Islands
+
+discovered_by = early_chinese
+discovered_by = chinese
+1512.1.1 = { discovered_by = POR }
+
+
+

@@ -1,0 +1,19 @@
+government = despotic_monarchy
+government_rank = 3
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -2
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+technology_group = early_indian
+religion = hinduism
+primary_culture = kannada
+culture_group_union = hindusthani
+capital = 540	# Vijayanagara
+
+
+750.1.1 = { technology_group = indian }

@@ -1,0 +1,124 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -1
+#quality_quantity = 1
+#serfdom_freesubjects = -3
+technology_group = eastern
+religion = orthodox
+primary_culture = ruthenian
+capital = 280	# Kiev
+
+1900.1.1 = { technology_group = western }
+
+1918.1.22 = {
+	government = constitutional_republic
+	monarch = {
+		name = "Mykhailo Hrushevsky"
+		birth_date = 1866.9.29
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1918.4.29 = {
+	government = republican_dictatorship
+	monarch = {
+		name = "Pavlo Skoropadskyi"
+		birth_date = 1873.5.3
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1918.12.14 = {
+	government = constitutional_republic
+	monarch = {
+		name = "Volodymyr Vynnychenko"
+		birth_date = 1880.7.26
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+1919.2.11 = {
+	monarch = {
+		name = "Symon Petlyura"
+		birth_date = 1879.5.10
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1922.1.1 = { religion = secularism }
+
+1950.1.1 = { government = presidental_republic }
+
+1991.8.24 = { capital = 280 }
+
+1991.8.24 = {
+	monarch = {
+		name = "Leonid Kravchuk"
+		birth_date = 1934.1.10
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+}
+
+1994.7.19 = {
+	monarch = {
+		name = "Leonid Kuchma"
+		birth_date = 1938.8.9
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+}
+
+2005.1.23 = {
+	monarch = {
+		name = "Viktor Yushchenko"
+		birth_date = 1954.2.23
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+2010.2.25 = {
+	monarch = {
+		name = "Viktor Yanukovych"
+		birth_date = 1950.7.9
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+2014.2.23 = {
+	monarch = {
+		name = "Oleksandr Turchynov"
+		birth_date = 1964.3.31
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+2014.6.7 = {
+	monarch = {
+		name = "Petro Poroshenko"
+		birth_date = 1965.9.26
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}

@@ -1,0 +1,38 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = tamil
+religion = hinduism
+technology_group = early_indian
+capital = 540
+
+450.1.1 = {
+	monarch = {
+		name = "Achchutavikranta"
+		dynasty = "Kalabhras"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+500.1.1 = {
+	monarch = {
+		name = "Tiraiyan"
+		dynasty = "Kalabhras"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+550.1.1 = {
+	monarch = {
+		name = "Pulli"
+		dynasty = "Kalabhras"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+750.1.1 = { technology_group = indian }

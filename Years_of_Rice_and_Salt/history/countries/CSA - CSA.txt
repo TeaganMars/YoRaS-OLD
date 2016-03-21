@@ -1,0 +1,42 @@
+government = revolutionary_republic
+#aristocracy_plutocracy = 1
+#centralization_decentralization = 1
+#innovative_narrowminded = -1
+mercantilism = 0.1
+#offensive_defensive = 2
+#land_naval = -1
+#quality_quantity = 1
+#serfdom_freesubjects = 5
+technology_group = western
+primary_culture = american
+religion = protestant
+capital = 924	# Montgomery
+
+1791.12.15 = { religion = secularism }
+
+1860.12.20  = {
+	monarch = {
+		name = "Francis Wilkinson Pickens"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1861.2.4 = { government = constitutional_republic }
+
+1861.2.4  = {
+	monarch = {
+		name = "Jefferson Davis"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1861.4.1 = { leader = {	name = "Robert Lee"        type = general	rank = 7	fire = 6	shock = 5	manuever = 4	siege = 2  death_date = 1870.10.12 } }
+1861.4.1 = { leader = {	name = "Raphael Semmes"    type = admiral	rank = 7	fire = 4	shock = 3	manuever = 4	siege = 0  death_date = 1877.8.30 } }
+
+1861.5.29 = { capital = 952 } #Richmond
+
+1861.5.4 = { leader = {	name = "Joseph Johnston"    type = general	rank = 7	fire = 4	shock = 4	manuever = 3	siege = 3  death_date = 1891.3.21 } }

@@ -1,0 +1,4 @@
+#1422 - Southern Tasman Sea
+
+1850.1.1 = { discovered_by = western }
+

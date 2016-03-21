@@ -1,0 +1,40 @@
+government = steppe_horde
+mercantilism = 0.1
+primary_culture = bulgarian
+religion = tengri_pagan_reformed
+technology_group = western_nomad_group
+capital = 1081	# Bolgar
+
+660.1.1 = {
+	monarch = {
+		name = "Kotrag"
+		dynasty = "Bulgar"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+750.1.1 = { technology_group = nomad_group }
+
+850.1.1 = {
+	monarch = {
+		name = "Silki"
+		dynasty = "Bulgar"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+922.1.1 = { religion = sunni }
+
+922.1.1 = {
+	monarch = {
+		name = "Almis"
+		dynasty = "Bulgar"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}

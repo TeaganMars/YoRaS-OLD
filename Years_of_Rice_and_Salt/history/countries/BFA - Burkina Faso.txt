@@ -1,0 +1,88 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = 3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = mali
+religion = sunni
+technology_group = muslim
+capital = 1134
+
+1910.1.1 = { religion = secularism }
+
+1959.12.11 = {
+	monarch = {
+		name = "Maurice Yaméogo"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}	
+
+1966.1.3 = {
+	monarch = {
+		name = "Sangoulé Lamizana"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1980.11.7 = {
+	monarch = {
+		name = "Saye Zerbo"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1982.11.8 = {
+	monarch = {
+		name = "Jean-Baptiste Ouédraogo"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1983.8.4 = {
+	monarch = {
+		name = "Thomas Sankara"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1987.10.15 = {
+	monarch = {
+		name = "Blaise Compaoré"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+2014.10.31 = {
+	monarch = {
+		name = "Yacouba Isaac Zida"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+2014.11.18 = {
+	monarch = {
+		name = "Michel Kafando"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}

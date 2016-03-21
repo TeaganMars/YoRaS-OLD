@@ -1,0 +1,229 @@
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+primary_culture = slovene
+religion = chalcedonism
+technology_group = western
+capital = 1768	# Sankt Veit an der Glan
+
+659.1.1 = {
+	monarch = {
+		name = "Valuk"
+		dynasty = "Liutpolding"
+		adm = 3
+		mil = 4
+		dip = 4
+	}
+}
+
+745.1.1 = { primary_culture = austrian religion = catholic }
+
+976.1.1 = {
+	monarch = {
+		name = "Henry I"
+		dynasty = "Liutpolding"
+		adm = 3
+		mil = 4
+		dip = 4
+	}
+}
+
+978.1.1 = {
+	monarch = {
+		name = "Otto I"
+		dynasty = "Salian"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+985.1.1 = {
+	monarch = {
+		name = "Henry I"
+		dynasty = "Liutpolding"
+		adm = 3
+		mil = 4
+		dip = 4
+	}
+}
+
+1002.1.1 = {
+	monarch = {
+		name = "Otto I"
+		dynasty = "Salian"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+1004.11.4 = {
+	monarch = {
+		name = "Conrad I"
+		dynasty = "Salian"
+		adm = 3
+		mil = 3
+		dip = 1
+	}
+}
+
+1011.1.1 = {
+	monarch = {
+		name = "Adalbero"
+		dynasty = "von Eppenstein"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1047.1.1 = {
+	monarch = {
+		name = "Welf"
+		dynasty = "von Welf"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+1055.11.13 = {
+	monarch = {
+		name = "Conrad III"
+		dynasty = "Ezzonid"
+		adm = 1
+		mil = 3
+		dip = 3
+	}
+}
+
+1061.1.1 = {
+	monarch = {
+		name = "Berthold II"
+		dynasty = "von Zähringen"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+1077.1.1 = {
+	monarch = {
+		name = "Liutpold"
+		dynasty = "von Eppenstein"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+1090.1.1 = {
+	monarch = {
+		name = "Henry V"
+		dynasty = "von Eppenstein"
+		adm = 3
+		mil = 3
+		dip = 5
+	}
+}
+
+1122.1.1 = {
+	monarch = {
+		name = "Henry IV"
+		dynasty = "von Sponheim"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+1123.1.1 = {
+	monarch = {
+		name = "Engelbert"
+		dynasty = "von Sponheim"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+1134.1.1 = {
+	monarch = {
+		name = "Ulrich I"
+		dynasty = "von Sponheim"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+1144.1.1 = {
+	monarch = {
+		name = "Henry V"
+		dynasty = "von Sponheim"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1161.1.1 = {
+	monarch = {
+		name = "Herman II"
+		dynasty = "von Sponheim"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1181.10.4 = {
+	monarch = {
+		name = "Ulrich II"
+		dynasty = "von Sponheim"
+		adm = 5
+		mil = 5
+		dip = 4
+	}
+}
+
+1201.1.1 = {
+	monarch = {
+		name = "Bernhard"
+		dynasty = "von Sponheim"
+		adm = 3
+		mil = 4
+		dip = 2
+	}
+}
+
+1256.1.1 = {
+	monarch = {
+		name = "Ulrich III"
+		dynasty = "von Sponheim"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+1286.1.1 = {
+	monarch = {
+		name = "Meinhard"
+		dynasty = "von Gorizia-Tyrol"
+		adm = 3
+		mil = 1
+		dip = 2
+	}
+}
+
+1295.10.20 = {
+	monarch = {
+		name = "Henry VI"
+		dynasty = "von Gorizia-Tyrol"
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+}

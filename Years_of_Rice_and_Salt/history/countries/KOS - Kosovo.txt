@@ -1,0 +1,55 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 2
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -1
+#quality_quantity = 1
+#serfdom_freesubjects = -5
+primary_culture = albanian
+religion = orthodox
+technology_group = eastern
+capital = 1766
+
+1900.1.1 = { technology_group = western }
+1910.1.1 = { religion = secularism }
+1945.1.1 = { government = presidental_republic }
+
+2008.2.17 = {
+	monarch = {
+		name = "Fatmir Sejdiu"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+2010.9.27 = {
+	monarch = {
+		name = "Jakup Krasniqi"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+2011.2.22 = {
+	monarch = {
+		name = "Behgjet Pacolli"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+2011.4.7 = {
+	monarch = {
+		name = "Atifete Jahjaga"
+		adm = 2
+		dip = 4
+		mil = 2
+		female = yes
+	}
+}

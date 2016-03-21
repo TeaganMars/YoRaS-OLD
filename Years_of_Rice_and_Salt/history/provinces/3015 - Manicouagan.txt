@@ -1,0 +1,34 @@
+#3015 - Manicouagan
+
+culture = cree
+religion = totemism
+capital = "Manicouagan"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1679.1.1  = {	owner = FRA
+		controller = FRA
+		citysize = 100
+		capital = "Sept-Îles"
+		culture = cosmopolitan_french
+		religion = catholic
+	    }
+1704.1.1  = {	add_core = FRA trade_goods = fish }
+1707.5.12 = { discovered_by = GBR }
+1763.2.10  = { owner = GBR controller = GBR citysize = 500 }
+1788.2.10 = { add_core = GBR }
+1820.1.1  = { is_city = yes }
+
+1867.7.1   = { owner = CAN add_core = CAN controller = CAN remove_core = GBR }
+1980.5.20  = { add_core = QUE } # Quebec referendum
+
+
+
+

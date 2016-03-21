@@ -1,0 +1,65 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = 3
+#centralization_decentralization = -2
+#innovative_narrowminded = -2
+#mercantilism_freetrade = -2
+mercantilism = 0.1
+#offensive_defensive = 3
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -3
+primary_culture = andalucian
+religion = sunni
+add_accepted_culture = berber
+technology_group = muslim
+capital = 230	# Algarve
+
+1040.1.1 = {
+	monarch = {
+		name = "Muhammad I"
+		dynasty = "Muzaymid"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1048.1.1 = {
+	monarch = {
+		name = "'Isa II"
+		dynasty = "Muzaymid"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1053.1.1 = {
+	monarch = {
+		name = "Muhammad II"
+		dynasty = "Muzaymid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1058.1.1 = {
+	monarch = {
+		name = "'Isa III"
+		dynasty = "Muzaymid"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1145.1.1 = {
+	monarch = {
+		name = "Abu'l-Walid Muhammad"
+		dynasty = "al-Mundirid"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}

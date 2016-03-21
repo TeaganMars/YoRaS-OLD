@@ -1,0 +1,8 @@
+#Missile Destroyer
+type = heavy_ship
+
+hull_size = 120
+base_cannons = 280
+sail_speed = 28
+
+sprite_level = 6

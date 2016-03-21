@@ -1,0 +1,68 @@
+government = caliphate
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 2
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -2
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+technology_group = muslim
+religion = sunni
+primary_culture = bedouin_arabic
+capital = 384	# Medina
+
+622.1.1 = { decision = dummy_rise_of_islam }
+
+622.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Rashidun"
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+632.6.8 = {
+	monarch = {
+		name = "Abu Bakr"
+		dynasty = "Rashidun"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+634.8.23 = {
+	monarch = {
+		name = "'Umar"
+		dynasty = "Rashidun"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+644.11.6 = {
+	monarch = {
+		name = "Uthman"
+		dynasty = "Rashidun"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+656.1.1 = { capital = 409 } # Kufa
+
+656.6.20 = {
+	monarch = {
+		name = "Ali"
+		dynasty = "Rashidun"
+		adm = 1
+		mil = 5
+		dip = 5
+	}
+}

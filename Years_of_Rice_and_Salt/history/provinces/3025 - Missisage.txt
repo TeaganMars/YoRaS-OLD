@@ -1,0 +1,46 @@
+#3025 - Missisage
+
+culture = huron
+religion = totemism
+capital = "Missisage"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1609.1.1 = { discovered_by = FRA } # Samuel de Champlain
+1611.1.1  = { discovered_by = ENG } # Henry Hudson
+1650.1.1 = {
+	owner = OJI
+	controller = OJI
+	add_core = OJI
+	is_city = yes
+	trade_goods = fur
+	culture = anishinabe
+	} #Iroquois focus on Lake Ontario, Ojibwe moves in
+1707.5.12 = { discovered_by = GBR }
+
+1767.1.1 = { base_manpower = 2 }
+1810.1.1 = { base_production = 2 }
+1853.1.1 = { base_production = 3 }
+1855.1.1   = { 	owner = GBR
+		controller = GBR
+		add_core = GBR
+		remove_core = OJI
+		culture = english
+		religion = protestant
+		capital = "Parry Sound" 
+	     }
+1867.7.1   = { owner = CAN add_core = CAN controller = CAN remove_core = GBR }
+
+
+
+
+1896.1.1 = { base_production = 4 }
+1939.1.1 = { base_tax = 2 }
+2000.1.1 = { base_tax = 4 }

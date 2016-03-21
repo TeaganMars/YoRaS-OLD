@@ -1,0 +1,97 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = -2
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -3
+#quality_quantity = 0
+#serfdom_freesubjects = -4
+technology_group = early_chinese
+religion = confucianism
+primary_culture = chihan
+capital = 704
+
+384.1.1 = {
+	monarch = {
+		name = "Murong Chui"
+		dynasty = "Yan"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+396.1.1 = {
+	monarch = {
+		name = "Murong Bao"
+		dynasty = "Yan"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+
+398.1.1 = {
+	monarch = {
+		name = "Murong Sheng"
+		dynasty = "Yan"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+401.1.1 = {
+	monarch = {
+		name = "Murong Xi"
+		dynasty = "Yan"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+407.1.1 = {
+	monarch = {
+		name = "Murong Yun"
+		dynasty = "Yan"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+409.1.1 = {
+	monarch = {
+		name = "Feng Ba"
+		dynasty = "Yan"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+430.1.1 = {
+	monarch = {
+		name = "Feng Hong"
+		dynasty = "Yan"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+750.1.1 = { technology_group = chinese }
+
+907.6.1 = {
+	monarch = {
+		name = "Liu Shouguang"
+		dynasty = "Yan"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}

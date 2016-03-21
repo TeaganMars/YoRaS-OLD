@@ -1,0 +1,8 @@
+#1545 - Coast of Peru
+
+discovered_by = INC
+discovered_by = CHM
+1535.1.18 = { discovered_by = SPA }
+
+
+

@@ -1,0 +1,6 @@
+#1667 - Komandorskie Islands
+
+1647.1.1 = { discovered_by = RUS }
+
+
+

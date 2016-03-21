@@ -1,0 +1,153 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -5
+#centralization_decentralization = 5
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -5
+#quality_quantity = 2
+#serfdom_freesubjects = -5
+primary_culture = madagascan
+religion = sunni
+technology_group = muslim
+capital = 1988
+
+1910.1.1 = { religion = secularism }
+
+1975.7.6 = {
+	monarch = {
+		name = "Ahmed Abdallah"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1975.8.3 = {
+	monarch = {
+		name = "Said Mohamed Jaffar"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1976.1.3 = {
+	monarch = {
+		name = "Ali Soilih"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+}
+
+1978.5.23 = {
+	monarch = {
+		name = "Ahmed Abdallah"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1989.11.27 = {
+	monarch = {
+		name = "Said Mohamed Djohar"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1995.10.2 = {
+	monarch = {
+		name = "Mohamed Taki Abdoulkarim"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1995.10.5 = {
+	monarch = {
+		name = "Caabi El-Yachroutu Mohamed"
+		dynasty = "Hethumid"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1996.1.26 = {
+	monarch = {
+		name = "Said Mohamed Djohar"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1996.3.25 = {
+	monarch = {
+		name = "Mohamed Taki Abdoulkarim"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1998.11.6 = {
+	monarch = {
+		name = "Tadjidine Ben Said Massounde"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+
+1999.4.30 = {
+	monarch = {
+		name = "Azali Assoumani"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+2002.1.21 = {
+	monarch = {
+		name = "Hamada Madi Bolero"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2002.5.26 = {
+	monarch = {
+		name = "Azali Assoumani"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+2006.5.26 = {
+	monarch = {
+		name = "Ahmed Abdallah Mohamed Sambi"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2011.5.26 = {
+	monarch = {
+		name = "Ikililou Dhoinine"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}

@@ -1,0 +1,16 @@
+government = tribal_federation
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -2
+#quality_quantity = 3
+#serfdom_freesubjects = -3
+technology_group = early_indian
+religion = hinduism
+primary_culture = panjabi
+capital = 511
+
+750.1.1 = { technology_group = indian }

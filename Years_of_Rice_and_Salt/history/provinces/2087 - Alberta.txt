@@ -1,0 +1,32 @@
+#2087 - Danezaa
+
+culture = athabascan
+religion = totemism
+capital = "Danezaa"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1754.1.1   = { discovered_by = CAN discovered_by = GBR }
+1792.1.1   = {	owner = GBR
+		controller = GBR
+		culture = english
+		religion = protestant
+		citysize = 100
+		trade_goods = fur
+		capital = "Fort Fork"
+	      }
+1820.1.1   = { add_core = GBR }
+1850.1.1   = { citysize = 500 }
+1870.7.15  = { owner = CAN add_core = CAN controller = CAN remove_core = GBR }
+1900.1.1   = { is_city = yes }
+1914.1.1   = { capital = "Peace River Crossing" }
+1916.1.1   = { capital = "Peace River" }
+
+

@@ -1,0 +1,300 @@
+government = constitutional_republic
+#aristocracy_plutocracy = 2
+#centralization_decentralization = -5
+#innovative_narrowminded = -3
+#mercantilism_freetrade = -1
+mercantilism = 0.1
+#offensive_defensive = 2
+#land_naval = -3
+#quality_quantity = -2
+#serfdom_freesubjects = 4
+technology_group = western
+primary_culture = cosmopolitan_french
+culture_group_union = french
+religion = catholic
+capital = 183 # Paris
+
+1870.9.4 = {
+	monarch = {
+		name = "Luis Jules Trochu"
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+1871.2.17 = {
+	monarch = {
+		name = "Adolphe Thiers"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1873.5.24 = {
+	monarch = {
+		name = "Patrice de Mac-Mahon duc de Magenta"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1879.1.30 = {
+	monarch = {
+		name = "Jules Grévy"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1887.12.3 = {
+	monarch = {
+		name = "Marie Francois Sadi Carnot"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1894.6.27 = {
+	monarch = {
+		name = "Jean Casimir-Perier"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1895.1.17 = {
+	monarch = {
+		name = "Félix Faure"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1899.2.18 = {
+	monarch = {
+		name = "Émile Loubet"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1905.12.9 = { religion = secularism }
+
+1906.2.18 = {
+	monarch = {
+		name = "Armand Fallières"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1907.1.1   = { leader = {	name = "Ferdinand Foch"	type = general	rank = 8	fire = 4	shock = 4	manuever = 2	siege = 1	death_date = 1923.1.1 } }
+
+1913.2.18 = {
+	monarch = {
+		name = "Raymond Poincaré"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1920.9.23 = {
+	monarch = {
+		name = "Alexandre Millerand"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1924.6.13 = {
+	monarch = {
+		name = "Gaston Doumergue"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1931.6.13 = {
+	monarch = {
+		name = "Paul Doumer"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1932.5.10 = {
+	monarch = {
+		name = "Albert Lebrun"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+1939.1.1  = { government = presidental_republic }
+1940.6.14 = { capital = 1169 } #Brazzaville
+
+1940.6.14 = {
+	monarch = {
+		name = "Charles de Gaulle"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+1942.11.16 = { capital = 338 } #Algiers
+
+1944.8.25 = { capital = 183 }
+
+1946.1.26 = {
+	monarch = {
+		name = "Félix Gouin"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1946.7.24 = {
+	monarch = {
+		name = "Georges Bidault"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1946.11.28 = {
+	monarch = {
+		name = "Vincent Auriol"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1946.12.16 = {
+	monarch = {
+		name = "Léon Blum"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1947.1.16 = {
+	monarch = {
+		name = "Vincent Auriol"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1954.1.16 = {
+	monarch = {
+		name = "René Coty"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1958.1.1 = { decision = join_european_union }
+
+1959.1.8 = {
+	monarch = {
+		name = "Charles de Gaulle"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+1969.4.28 = {
+	monarch = {
+		name = "Alain Poher"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1969.7.20 = {
+	monarch = {
+		name = "Georges Pompidou"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1974.4.2 = {
+	monarch = {
+		name = "Alain Poher"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1974.5.27 = {
+	monarch = {
+		name = "Valéry Giscard d'Estaing"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1981.5.21 = {
+	monarch = {
+		name = "Francois Mitterrand"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1995.5.17 = {
+	monarch = {
+		name = "Jacques Chirac"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1999.1.1 = { decision = adopt_the_euro }
+
+2007.5.16 = {
+	monarch = {
+		name = "Nicolas Sarkozy"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+2012.5.15 = {
+	monarch = {
+		name = "Francois Hollande"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}

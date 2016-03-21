@@ -1,0 +1,59 @@
+#714 - Ili
+
+owner = XIO
+controller = XIO
+add_core = XIO
+is_city = yes
+culture = turkish
+religion = tengri_pagan_reformed
+capital = "Ili"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = western_nomad_group
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+
+260.1.1 = { owner = CBN controller = CBN add_core = CBN remove_core = XIO }
+400.1.1 = { owner = ROU controller = ROU add_core = ROU remove_core = CBN }
+547.1.1 = { owner = GOK controller = GOK add_core = GOK remove_core = ROU }
+744.1.1 = { owner = UIG controller = UIG add_core = UIG remove_core = GOK }
+763.1.1 = { religion = manichaeism }
+840.1.1 = { religion = tengri_pagan_reformed }
+848.1.1 = { owner = KKH controller = KKH add_core = KKH remove_core = UIG }
+1124.1.1 = { owner = KKT controller = KKT add_core = KKT remove_core = KKH }
+1218.1.1 = { owner = MGE controller = MGE add_core = MGE remove_core = KKT culture = uyghur }
+1260.1.1 = { owner = CHG controller = CHG add_core = CHG remove_core = MGE }
+1300.1.1 = { citysize = 8950 discovered_by = muslim discovered_by = ottoman }
+1350.1.1 = { religion = sunni }
+
+1518.1.1 = {	owner = OIR
+		controller = OIR
+		}
+1622.1.1 = { discovered_by = RUS }
+1635.1.1 = {	owner = ZUN
+		controller = ZUN
+		add_core = ZUN
+		}
+1755.1.1 = {	owner = QNG
+		controller = QNG
+		add_core = QNG
+		capital = "Yining"
+		}
+
+1762.1.1 = { base_tax = 4 }
+1800.1.1 = { base_production = 4 }
+1837.1.1 = { base_manpower = 4 }
+1850.1.1   = { citysize = 30000 remove_core = OIR }
+1875.1.1 = { base_tax = 5 }
+1912.2.12  = { owner = CHN controller = CHN add_core = CHN remove_core = QNG }
+1913.1.1 = { base_production = 5 }
+1951.1.1 = { base_production = 6 }
+2000.1.1 = { base_tax = 6 base_manpower = 5 }
+
+
+

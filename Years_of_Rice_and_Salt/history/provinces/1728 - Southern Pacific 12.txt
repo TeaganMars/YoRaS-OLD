@@ -1,0 +1,6 @@
+#1728 - Society Islands
+
+1606.1.1 = { discovered_by = SPA }
+
+
+

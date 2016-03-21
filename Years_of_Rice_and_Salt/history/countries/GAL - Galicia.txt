@@ -1,0 +1,32 @@
+government = barbarian_tribe
+mercantilism = 0.1
+primary_culture = galician
+religion = animism
+technology_group = barbarian
+capital = 206	# Galicia
+
+466.1.1 = { religion = arianism }
+477.1.1 = { government = feudal_monarchy }
+536.1.1 = { technology_group = western }
+561.5.1 = { religion = chalcedonism }
+867.1.1 = { religion = catholic }
+
+910.12.10 = {
+	monarch = {
+		name = "Ordoño II"
+		dynasty = "Beni Alfons"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1065.6.1 = {
+	monarch = {
+		name = "García II"
+		dynasty = "Jiménez"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}

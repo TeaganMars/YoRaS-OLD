@@ -1,0 +1,54 @@
+government = steppe_horde
+#aristocracy_plutocracy = -4
+#centralization_decentralization = 5
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -4
+#quality_quantity = 3
+#serfdom_freesubjects = -5
+technology_group = muslim
+primary_culture = mongol
+religion = shiite
+capital = 433	# Yazd
+
+1335.1.1 = {
+	monarch = {
+		name = "Shah Shuja"
+		dynasty = "Mozaffarid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1358.1.1 = {
+	monarch = {
+		name = "Shah Mahmud"
+		dynasty = "Mozaffarid"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1366.1.1 = {
+	monarch = {
+		name = "Shah Shuja"
+		dynasty = "Mozaffarid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1384.1.1 = {
+	monarch = {
+		name = "Muhajid ad-Din Zain Al-Abidin 'Ali"
+		dynasty = "Mozaffarid"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}

@@ -1,0 +1,48 @@
+#2403 - Rokan
+
+owner = KNT
+controller = KNT
+add_core = KNT
+is_city = yes
+culture = sumatran
+religion = mahayana
+capital = "Rokan"
+trade_goods = fish
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = early_indian
+discovered_by = indian
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+
+683.1.1 = { owner = SRI controller = SRI add_core = SRI remove_core = KNT }
+1288.1.1 = { owner = SIN controller = SIN add_core = SIN remove_core = SRI }
+1293.1.1 = { owner = MAJ controller = MAJ add_core = MAJ remove_core = SIN }
+1300.1.1 = { citysize = 2333 religion = sunni }
+1389.1.1 = { owner = PSA controller = PSA add_core = PSA remove_core = MAJ }
+
+1405.1.1 = { discovered_by = MNG }
+1471.1.1 = { add_core = ATJ }
+1509.1.1 = { discovered_by = POR }
+1521.1.1 = {
+	owner = ATJ
+	controller = ATJ
+	remove_core = PSA
+}
+
+1903.1.10  = { owner = NED controller = NED add_core = NED capital = "Rantau Prapat" }
+1912.9.10  = { add_core = IDN remove_core = ATJ }
+1942.2.1   = { controller = JAP }
+1942.3.9   = { owner = JAP controller = JAP }
+1945.8.15  = { owner = NED revolt = { type = nationalist_rebels size = 1 } controller = REB }
+1945.8.17  = { owner = IDN revolt = {} controller = IDN }
+1949.12.27 = { remove_core = NED }
+2000.1.1 = { base_manpower = 3 }
+
+
+

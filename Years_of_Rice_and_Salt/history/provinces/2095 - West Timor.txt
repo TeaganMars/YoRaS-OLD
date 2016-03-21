@@ -1,0 +1,69 @@
+#2095 - West Timor
+
+culture = papuan
+religion = animism
+capital = "Lifau"
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+native_size = 10
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = ATJ
+discovered_by = MAJ
+discovered_by = MKS
+discovered_by = BLI
+discovered_by = BAN
+discovered_by = BEI
+discovered_by = BLM
+discovered_by = BTN
+discovered_by = CRB
+discovered_by = DMK
+discovered_by = PGR
+discovered_by = PLB
+discovered_by = PSA
+discovered_by = SAK
+discovered_by = SUN
+discovered_by = KUT
+discovered_by = BNJ
+discovered_by = LFA
+discovered_by = LNO
+discovered_by = LUW
+discovered_by = MGD
+discovered_by = TER
+discovered_by = TID
+
+1512.1.1 = { discovered_by = POR }
+1556.1.1 = {	owner = POR
+		controller = POR
+		add_core = POR
+	   	is_city = yes
+		trade_goods = spices
+	   } # Portuguese colony
+1613.1.1 = {	owner = NED
+		controller = NED
+		add_core = NED
+		capital = "Kupang"
+	   } # Dutch controlled the most part of West Timor
+1751.1.1 = { base_manpower = 4 }
+1775.1.1 = { base_tax = 4 }
+
+1801.1.1 = { base_production = 4 }
+1825.1.1 = { base_manpower = 5 }
+1851.1.1 = { base_manpower = 6 }
+1859.1.1   = { religion = reformed }
+1875.1.1 = { base_manpower = 8 }
+1901.1.1 = { base_tax = 5 base_production = 5 }
+1912.9.10  = { add_core = IDN }
+1925.1.1 = { base_tax = 6 }
+1942.3.9   = { controller = JAP owner = JAP }
+1945.8.15  = { owner = NED revolt = { type = nationalist_rebels size = 1 } controller = REB }
+1945.8.17  = { owner = IDN revolt = {} controller = IDN }
+1949.12.27 = { remove_core = NED }
+1951.1.1 = { base_tax = 7 }
+1975.1.1 = { base_production = 6 }
+2000.1.1 = { base_tax = 8 base_production = 8 }
+
+

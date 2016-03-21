@@ -1,0 +1,74 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = 0
+#serfdom_freesubjects = -1
+technology_group = western
+primary_culture = schlesian
+religion = catholic
+capital = 263	# Ratibor
+
+1172.1.1 = {
+	monarch = {
+		name = "Mieszko I"
+		dynasty = "Piast"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1211.5.16 = {
+	monarch = {
+		name = "Casimir I"
+		dynasty = "Piast"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1230.5.13 = {
+	monarch = {
+		name = "Mieszko II"
+		dynasty = "Piast"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1246.10.22 = {
+	monarch = {
+		name = "Wladyslaw"
+		dynasty = "Piast"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1281.5.14 = {
+	monarch = {
+		name = "Mieszko III"
+		dynasty = "Piast"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1306.1.1 = {
+	monarch = {
+		name = "Leszek"
+		dynasty = "Racibórzky"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}

@@ -1,0 +1,52 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = -2
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -3
+#quality_quantity = 0
+#serfdom_freesubjects = -4
+technology_group = early_chinese
+religion = confucianism
+primary_culture = sichuanese
+capital = 679	# Chengdu
+
+220.1.1 = {
+	monarch = {
+		name = "Liu Bei"
+		dynasty = "Shu"
+		birth_date = 161.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+220.1.1 = {
+	heir = {
+		name = "Liu Shan"
+		monarch_name = "Liu Shan"
+		dynasty = "Shu"
+		birth_date = 207.1.1
+		death_date = 271.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+223.6.10 = {
+	monarch = {
+		name = "Liu Shan"
+		dynasty = "Shu"
+		birth_date = 207.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+750.1.1 = { technology_group = chinese }

@@ -1,0 +1,72 @@
+government = parliamentary_republic
+#aristocracy_plutocracy = -5
+#centralization_decentralization = 5
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -5
+#quality_quantity = 2
+#serfdom_freesubjects = -5
+primary_culture = eastern_bantu
+religion = catholic
+technology_group = muslim
+capital = 2166 #Dodoma
+
+1910.1.1 = { religion = secularism }
+
+1961.12.9 = {
+	monarch = {
+		name = "Julius Nyerere"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1962.1.22 = {
+	monarch = {
+		name = "Rashidi Kawawa"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1962.12.9 = {
+	government = constitutional_republic
+	monarch = {
+		name = "Julius Nyerere"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1985.11.5 = {
+	monarch = {
+		name = "Ali Hassan Mwinyi"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1995.11.23 = {
+	monarch = {
+		name = "Benjamin Mkapa"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+2005.12.21 = {
+	monarch = {
+		name = "Jakaya Kikwete"
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+}
+

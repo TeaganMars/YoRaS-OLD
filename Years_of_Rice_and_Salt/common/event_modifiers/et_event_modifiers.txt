@@ -1,0 +1,489 @@
+
+rise_of_islam = {
+	land_morale = 1.0
+	discipline = 0.2
+	global_tax_modifier = 0.25
+	global_manpower_modifier = 0.25
+	diplomatic_reputation = 5
+	global_unrest = -4
+	infantry_cost = -0.5
+	cavalry_cost = -0.5
+	land_forcelimit_modifier = 0.5
+}
+
+grand_tournament = {
+	prestige = 0.5
+	stability_cost_modifier = -0.10
+}
+
+recent_conversion = {
+	global_unrest = 2
+	stability_cost_modifier = 0.20
+}
+
+nomadic_conquest = {
+	global_unrest = -2
+	global_tax_modifier = 0.5
+	global_manpower_modifier = 0.5
+	land_morale = 1.0
+	discipline = 0.2
+	infantry_cost = -0.5
+	cavalry_cost = -0.5
+	land_forcelimit_modifier = 0.5
+}
+
+pax_romana = {
+	global_unrest = -2
+	religious_unity = 0.25
+	global_manpower_modifier = -0.10
+	land_forcelimit_modifier = -0.10
+	core_creation = 0.10
+	land_maintenance_modifier = 0.2
+}
+
+empire_destabilized = {
+	global_tax_modifier = -0.2
+	stability_cost_modifier = 0.2
+	global_manpower_modifier = -0.2
+	land_forcelimit_modifier = -0.2
+	global_unrest = 1
+}
+
+empire_declining = {
+	global_tax_modifier = -0.4
+	stability_cost_modifier = 0.4
+	global_manpower_modifier = -0.4
+	land_forcelimit_modifier = -0.4
+	global_unrest = 2
+	production_efficiency = -0.1
+	trade_efficiency = -0.1
+}
+
+empire_fragmenting = {
+	global_tax_modifier = -0.6
+	stability_cost_modifier = 0.6
+	global_manpower_modifier = -0.6
+	land_forcelimit_modifier = -0.6
+	production_efficiency = -0.2
+	trade_efficiency = -0.2
+	global_unrest = 3
+}
+
+empire_collapsing = {
+	global_tax_modifier = -0.8
+	stability_cost_modifier = 0.8
+	global_manpower_modifier = -0.8
+	land_forcelimit_modifier = -0.8
+	production_efficiency = -0.3
+	trade_efficiency = -0.3
+	global_unrest = 4
+}
+
+total_collapse = {
+	global_tax_modifier = -2
+	stability_cost_modifier = 2
+	global_manpower_modifier = -2
+	land_forcelimit_modifier = -2
+	production_efficiency = -0.6
+	trade_efficiency = -0.6
+	global_unrest = 6
+}
+
+country_restabilized = {
+	stability_cost_modifier = 0.10
+}
+
+barbarian_migration = {
+	global_manpower_modifier = 0.5
+	land_forcelimit_modifier = 0.5
+	land_maintenance_modifier = -0.2
+	land_morale = 0.30
+}
+
+gods_pleased = {
+	global_missionary_strength = 0.02
+	land_morale = 0.10
+	stability_cost_modifier = -0.10
+}
+
+norse_exploration = {
+	prestige = 0.2
+}
+
+norse_colonization = {
+	colonists = 1
+	range = 1
+}
+
+working_class_benefits = {
+	global_tax_modifier = -0.2
+	global_manpower_modifier = -0.1
+	global_unrest = -1
+}
+
+working_class_restricted = {
+	global_unrest = 1
+}
+
+suppress_marxist_thinkers = {
+	global_unrest = 1
+}
+
+corrupted_government = {
+	global_unrest = 1
+}
+
+mass_deportation = {
+	global_unrest = 2
+}
+
+minority_restrictions = {
+	global_unrest = 1
+}
+
+suppress_fascist_thinkers = {
+	global_unrest = 1
+}
+
+lowered_taxes = {
+	global_tax_modifier = -0.25
+	production_efficiency = -0.1
+	stability_cost_modifier = -0.10
+}
+
+raided_province = {
+	local_manpower_modifier = -0.25
+	local_defensiveness = -0.25
+	local_tax_modifier = -0.25
+}
+
+zalmoxis_provides_weapons = {
+	land_morale = 0.10
+}
+
+zalmoxis_provides_harvest = {
+	production_efficiency = 0.10
+}
+
+zalmoxis_doesnt_help = {
+	global_unrest = 2
+}
+
+took_rite_of_passage = {
+	legitimacy = 0.5
+}
+
+refuse_rite_of_passage = {
+	global_unrest = 0.5
+}
+
+rome_celebrates = {
+	production_efficiency = 2
+}
+
+empire_celebrates = {
+	land_morale = 0.25
+}
+
+large_sacrifice = {
+	land_morale = 0.05
+	production_efficiency = 0.05
+}
+
+small_sacrifice = {
+	production_efficiency = 0.05
+}
+
+animal_sacrifice = {
+	land_morale = 0.1
+	production_efficiency = -0.05
+}
+
+et_human_sacrifice = {
+	land_morale = 0.15
+}
+
+listen_pontiffs = {
+	tolerance_own = 2
+}
+
+ignore_pontiffs = {
+	tolerance_heathen = 1
+}
+
+augurs = {
+	global_unrest = 1
+}
+
+cult_of_jupiter = {
+	global_tax_modifier = 0.05
+}
+
+cult_of_mars = {
+	land_morale = 0.05
+}
+
+cult_of_quirinus = {
+	global_unrest = -0.5
+}
+
+imperial_cult = {
+	legitimacy = 0.1
+}
+
+offensive_fetial = {
+	spy_offence = 0.15
+}
+
+defensive_fetial = {
+	global_spy_defence = 0.15
+}
+
+brethren_harvest = {
+	production_efficiency = 0.05
+}
+
+brethren_famine = {
+	production_efficiency = -0.1
+}
+
+horse_blot = {
+	production_efficiency = -0.1
+	land_morale = 0.05
+}
+
+human_blot = {
+	land_morale = 0.1
+}
+
+force_germanic = {
+	global_missionary_strength = 0.01
+}
+
+druidic_heritage = {
+	legitimacy = 0.05
+}
+
+mistletoe_ritual = {
+	heir_chance = 1.0
+}
+
+taranis_favored = {
+	land_morale = 0.1
+}
+
+toutatis_favored = {
+	global_unrest = -0.5
+}
+
+esus_favored = {
+	production_efficiency = 0.1
+}
+
+dushara_worshipped = {
+	global_unrest = -0.25
+}
+
+aluzza_worshipped = {
+	legitimacy = 0.05
+}
+
+birth_of_vajrayana = {
+	missionaries = 1
+	global_missionary_strength = 0.02
+}
+
+zurvanism = {
+	tolerance_own = 1
+	tolerance_heathen = -1
+	tolerance_heretic = -1
+}
+
+fire_temple = {
+	local_missionary_strength = 0.01
+	local_unrest = -1
+}
+
+spread_manichaeism = {
+	local_missionary_strength = -0.02
+}
+
+tolerate_manichaeism = {
+	tolerance_own = -1
+	tolerance_heathen = 1
+}
+
+expect_evil = {
+	global_unrest = -2
+}
+
+muinism_gut = {
+	stability_cost_modifier = -0.1
+}
+
+heir_okuyi = {
+	global_unrest = -0.5
+}
+
+wedding_okuyi = {
+	legitimacy = 1
+}
+
+funeral_okuyi = {
+	stability_cost_modifier = -0.25
+}
+
+adolescent_okuyi = {
+	global_unrest = -0.75
+}
+
+found_sampo = {
+	prestige = 1
+}
+
+suomenusko_feast = {
+	stability_cost_modifier = -0.1
+}
+
+united_pantheon = {
+	global_autonomy = -0.5
+}
+
+divided_pantheon = {
+	global_unrest = -1
+}
+
+worship_jarilo = {
+	production_efficiency = 0.1
+}
+
+worship_morana = {
+	hostile_attrition = 1
+}
+
+orthodoxy_accepted = {
+	global_missionary_strength = 0.01
+	technology_cost = -0.15
+}
+
+harvest_prayer = {
+	production_efficiency = 0.05
+}
+
+no_harvest_prayer = {
+	production_efficiency = -0.05
+}
+
+forced_fighting = {
+	global_manpower_modifier = 0.1
+	land_morale = -0.1
+}
+
+slavic_human_sacrifice = {
+	production_efficiency = 0.05
+}
+
+restored_jebel = {
+	legitimacy = 0.5
+}
+
+atenism = {
+	tolerance_own = -2
+	global_autonomy = -1
+}
+
+good_fortune = {
+	global_unrest = -1
+	legitimacy = 0.05
+}
+
+bad_fortune = {
+	global_unrest = 1
+	legitimacy = -0.05
+}
+
+end_arabization = {
+	accepted_culture_threshold = -0.1
+	culture_conversion_cost = 1
+}
+
+accept_heathens = {
+	tolerance_heathen = 5
+}
+
+ibadi_center = {
+	local_missionary_strength = -1
+}
+
+idrisid_rising = {
+	mercenary_cost = -0.75
+}
+
+rustamid_rising = {
+	missionaries = 1
+	global_missionary_strength = 0.02
+}
+
+given_to_general = {
+	local_autonomy = 0.25
+}
+
+mamluk_soldiers = {
+	mercenary_cost = -0.5
+}
+
+et_plague = {
+	local_development_cost = 0.5
+	local_manpower_modifier = -0.5
+	garrison_growth = -0.5
+}
+
+et_famine = {
+	local_development_cost = 0.5
+	local_manpower_modifier = -0.5
+	garrison_growth = -0.5
+}
+
+et_drought = {
+	local_development_cost = 0.5
+	local_manpower_modifier = -0.5
+	garrison_growth = -0.5
+}
+
+state_atheism = {
+	tolerance_heretic = 3
+	tolerance_heathen = -3
+	stability_cost_modifier = 0.1
+	global_manpower_modifier = 0.1
+	land_forcelimit_modifier = 0.1
+}
+
+state_atheism_abolished = {
+	stability_cost_modifier = 0.1
+}
+
+decadence_unrest = {
+	global_unrest = 5
+}
+
+increased_nationalism = {
+	local_unrest = 10
+}
+
+space_program = {
+	global_tax_income = -50
+}
+
+space_station = {
+	technology_cost = -0.10
+}
+
+moon_base = {
+	technology_cost = -0.05
+	global_tax_income = 25
+}
+
+mars_base = {
+	technology_cost = -0.05
+	global_tax_income = 25
+}

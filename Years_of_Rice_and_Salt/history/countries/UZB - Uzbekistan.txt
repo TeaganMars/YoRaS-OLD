@@ -1,0 +1,25 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -4
+#centralization_decentralization = 5
+#innovative_narrowminded = 3
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = -1
+#land_naval = -1
+#quality_quantity = 3
+#serfdom_freesubjects = -5
+technology_group = muslim
+religion = sunni
+primary_culture = uzbehk
+capital = 457	# Tashkent
+
+1910.1.1 = { religion = secularism }
+
+1991.12.8 = {
+	monarch = {
+		name = "Islam Karimov"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}

@@ -1,0 +1,8 @@
+#1550 - Acapulco Bay
+
+discovered_by = MAY
+discovered_by = ZAP
+discovered_by = AZT
+1522.1.1 = { discovered_by = SPA }
+
+

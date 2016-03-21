@@ -1,0 +1,6 @@
+#1538 - Coast of Patagonia
+
+1520.1.1 = { discovered_by = SPA }
+
+
+

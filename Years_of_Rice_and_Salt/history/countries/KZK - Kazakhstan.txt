@@ -1,0 +1,27 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -4
+#centralization_decentralization = 5
+#innovative_narrowminded = 3
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = -1
+#land_naval = -1
+#quality_quantity = 3
+#serfdom_freesubjects = -5
+technology_group = muslim
+religion = sunni
+primary_culture = khazak
+capital = 461	# Almaty
+
+1910.1.1 = { religion = secularism }
+
+1991.12.16 = {
+	monarch = {
+		name = "Nursultan Nazarbayev"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1997.12.10 = { capital = 476 }

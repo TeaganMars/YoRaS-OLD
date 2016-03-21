@@ -1,0 +1,326 @@
+government = parliamentary_republic
+#aristocracy_plutocracy = 5
+#centralization_decentralization = -3
+#innovative_narrowminded = -2
+#mercantilism_freetrade = 4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = -2
+#serfdom_freesubjects = 4
+technology_group = western
+primary_culture = english
+religion = protestant
+capital = 1088 # Canberra
+
+1901.1.1 = {
+	religion = secularism
+	monarch = {
+		name = "Edmund Barton"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1903.9.24 = {
+	monarch = {
+		name = "Alfred Deakin"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1904.4.27 = {
+	monarch = {
+		name = "Chris Watson"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1904.8.18 = {
+	monarch = {
+		name = "George Reid"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+}
+
+1905.7.5 = {
+	monarch = {
+		name = "Alfred Deakin"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1908.11.13 = {
+	monarch = {
+		name = "Andrew Fisher"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1909.7.2 = {
+	monarch = {
+		name = "Alfred Deakin"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1910.4.29 = {
+	monarch = {
+		name = "Andrew Fisher"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1913.7.24 = {
+	monarch = {
+		name = "Joseph Cook"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1914.9.17 = {
+	monarch = {
+		name = "Andrew Fisher"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1915.7.1  = { leader = {	name = "John Monash"	type = general	rank = 6	fire = 4	shock = 2	manuever = 3	siege = 1	death_date = 1920.1.1 } }
+
+1915.10.27 = {
+	monarch = {
+		name = "Billy Highes"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+
+1923.2.9 = {
+	monarch = {
+		name = "Stanley Bruce"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1929.10.22 = {
+	monarch = {
+		name = "James Scullin"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1932.1.6 = {
+	monarch = {
+		name = "Joseph Lyons"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1939.4.7 = {
+	monarch = {
+		name = "Earle Page"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1939.4.26 = {
+	monarch = {
+		name = "Robert Menzies"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+}
+
+1941.8.28 = {
+	monarch = {
+		name = "Arthur Fadden"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1941.10.7 = {
+	monarch = {
+		name = "John Curtin"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1945.7.6 = {
+	monarch = {
+		name = "Frank Forde"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1945.7.13 = {
+	monarch = {
+		name = "Ben Chifley"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1949.12.19 = {
+	monarch = {
+		name = "Robert Menzies"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+}
+
+1966.1.26 = {
+	monarch = {
+		name = "Harolt Holt"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1967.12.19 = {
+	monarch = {
+		name = "John McEwen"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1968.1.10 = {
+	monarch = {
+		name = "John Gorton"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1971.3.10 = {
+	monarch = {
+		name = "William McMahon"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1972.12.5 = {
+	monarch = {
+		name = "Gough Whitlam"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1975.11.11 = {
+	monarch = {
+		name = "Malcolm Fraser"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1983.3.11 = {
+	monarch = {
+		name = "Bob Hawke"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+
+1991.12.20 = {
+	monarch = {
+		name = "Paul Keating"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1996.3.11 = {
+	monarch = {
+		name = "John Howard"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2007.12.3 = {
+	monarch = {
+		name = "Kevin Rudd"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2010.6.24 = {
+	monarch = {
+		name = "Julia Gillard"
+		adm = 4
+		dip = 4
+		mil = 1
+		female = yes
+	}
+}
+
+2013.9.18 = {
+	monarch = {
+		name = "Tony Abbott"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+2015.9.15 = {
+	monarch = {
+		name = "Malcolm Turnbull"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}

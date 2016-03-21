@@ -1,0 +1,7 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = middle_eastern
+religion = ashurism
+primary_culture = babylonian
+capital = 409 #Babylon
+

@@ -1,0 +1,53 @@
+#2658 - Tizapan
+
+culture = tecos
+religion = nahuatl
+capital = "Tizapan"
+trade_goods = unknown
+hre = no 
+base_tax = 3
+base_production = 3
+base_manpower = 1
+native_size = 5 
+native_ferocity = 1
+native_hostileness = 5
+discovered_by = mesoamerican
+
+1300.1.1 = { 	owner = CLM
+		controller = CLM
+		add_core = CLM
+		is_city = yes
+		trade_goods = grain
+	   }
+
+1465.1.1   = { 	owner = TAR
+		controller = TAR } #Estimated
+1490.1.1   = { 	add_core = TAR } #Tarascan resettlement
+1510.1.1   = { 	owner = CLM
+		controller = CLM 
+		remove_core = TAR } #Tarascan defeat in the Saltpeter war
+1523.1.1   = {	discovered_by = SPA
+		owner = SPA
+		controller = SPA	
+		religion = catholic
+		unrest = 5
+	     } #Forced to surrender by Alvarado, Colimotl murdered
+1532.1.1   = { culture = castillian capital = "Guadalajara" } # growing aculturation
+1548.1.1   = { add_core = SPA }
+1750.1.1 = { base_tax = 5 base_production = 4 base_manpower = 2 }
+1775.1.1 = { base_tax = 6 base_production = 5 base_manpower = 4 }
+1800.1.1 = { base_tax = 8 base_manpower = 6 }
+1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence
+
+1821.9.27  = { controller = MEX remove_core = SPA }
+1825.1.1 = { base_tax = 10 base_production = 7 base_manpower = 7 }
+1851.1.1 = { base_tax = 11 base_production = 8 base_manpower = 9 }
+1875.1.1 = { base_production = 11 base_manpower = 10 }
+1901.1.1 = { base_tax = 13 base_production = 12 base_manpower = 11 }
+1925.1.1 = { base_tax = 15 base_manpower = 14 }
+1951.1.1 = { base_production = 14 base_manpower = 16 }
+1975.1.1 = { base_tax = 17 base_production = 15 base_manpower = 17 }
+2000.1.1 = { base_tax = 20 base_production = 20 base_manpower = 18 }
+
+
+

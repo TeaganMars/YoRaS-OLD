@@ -1,0 +1,44 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -3
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = yemeni_culture
+religion = south_arabian
+technology_group = middle_eastern
+capital = 2539 #Marib
+
+160.1.1 = {
+	monarch = {
+		name = "Rab Shams Namran"
+		dynasty = "Sabaean"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+200.1.1 = {
+	monarch = {
+		name = "Il Ez Nawfan Yuhasdiq"
+		dynasty = "Sabaean"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+240.1.1 = {
+	monarch = {
+		name = "Sa'd Um Namran"
+		dynasty = "Sabaean"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}

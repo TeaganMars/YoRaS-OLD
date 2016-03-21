@@ -1,0 +1,6 @@
+#1490 - Gulf of St. Lawrence
+
+1534.1.1 = { discovered_by = FRA } # Jacques Cartier
+
+
+

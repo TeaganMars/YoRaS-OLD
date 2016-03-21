@@ -1,0 +1,144 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = al_suryah_arabic
+religion = sunni
+technology_group = muslim
+capital = 378	# Beirut
+
+1922.1.1 = { religion = secularism }
+1930.1.1 = { government = constitutional_republic }
+
+1943.11.22 = {
+	monarch = {
+		name = "Bechara Khoury"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1952.9.18 = {
+	monarch = {
+		name = "Fuad Chebab"
+		adm = 5
+		mil = 1
+		dip = 4
+	}
+}
+
+1952.9.23 = {
+	monarch = {
+		name = "Camille Chamoun"
+		adm = 3
+		mil = 4
+		dip = 4
+	}
+}
+
+1958.9.23 = {
+	monarch = {
+		name = "Fuad Chebab"
+		adm = 5
+		mil = 1
+		dip = 4
+	}
+}
+
+1964.9.23 = {
+	monarch = {
+		name = "Charles Helou"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+1970.9.23 = {
+	monarch = {
+		name = "Suleiman Frangieh"
+		adm = 3
+		mil = 4
+		dip = 4
+	}
+}
+
+1976.9.23 = {
+	monarch = {
+		name = "Elias Sarkis"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+1982.9.23 = {
+	monarch = {
+		name = "Amine Gemayel"
+		adm = 2
+		mil = 3
+		dip = 5
+	}
+}
+
+1988.9.24 = {
+	monarch = {
+		name = "Selim Hoss"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1989.11.5 = {
+	monarch = {
+		name = "René Moawd"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1989.11.22 = {
+	monarch = {
+		name = "Selim Hoss"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1989.11.24 = {
+	monarch = {
+		name = "Elias Hrawi"
+		adm = 4
+		mil = 2
+		dip = 3
+	}
+}
+
+1998.11.24 = {
+	monarch = {
+		name = "Émile Lahoud"
+		adm = 3
+		mil = 3
+		dip = 2
+	}
+}
+
+2007.11.23 = {
+	monarch = {
+		name = "Fuad Siniora"
+		adm = 4
+		mil = 1
+		dip = 4
+	}
+}
+
+2008.5.25 = {
+	monarch = {
+		name = "Michel Suleiman"
+		adm = 3
+		mil = 3
+		dip = 4
+	}
+}

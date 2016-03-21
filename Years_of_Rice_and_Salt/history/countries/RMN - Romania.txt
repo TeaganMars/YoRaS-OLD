@@ -1,0 +1,241 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = -1
+#innovative_narrowminded = 1
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -1
+#quality_quantity = 1
+#serfdom_freesubjects = -3
+primary_culture = romanian
+religion = orthodox
+technology_group = eastern
+capital = 161	# Tîrgoviste
+
+1850.1.1 = { technology_group = western }
+
+1862.2.5 = {
+	monarch = {
+		name = "Alexandru I"
+		dynasty = "Cuza"
+		birth_date = 1820.3.20
+		adm = 0
+		dip = 5
+		mil = 3
+	}
+}
+
+1866.4.20 = {
+	monarch = {
+		name = "Carol I"
+		dynasty = "von Hohenzollern-Sigmaringen"
+		birth_date = 1839.4.20
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1866.4.20 = {
+	heir = {
+		name = "Ferdinand"
+		monarch_name = "Ferdinand I"
+		dynasty = "von Hohenzollern-Sigmaringen"
+		birth_date = 1865.8.24
+		death_date = 1927.7.10
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+}
+
+1881.3.15 = { government = constitutional_monarchy }
+1910.1.1 = { religion = secularism }
+
+1914.10.10 = {
+	monarch = {
+		name = "Ferdinand I"
+		dynasty = "von Hohenzollern-Sigmaringen"
+		birth_date = 1865.8.24
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+}
+
+1921.10.25 = {
+	heir = {
+		name = "Mihai"
+		monarch_name = "Mihai I"
+		dynasty = "von Hohenzollern-Sigmaringen"
+		birth_date = 1921.10.25
+		death_date = 3000.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+}
+
+1927.7.20 = {
+	monarch = {
+		name = "Mihai I"
+		dynasty = "von Hohenzollern-Sigmaringen"
+		birth_date = 1921.10.25
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+}
+
+1927.7.20 = {
+	heir = {
+		name = "Carol"
+		monarch_name = "Carol II"
+		dynasty = "von Hohenzollern-Sigmaringen"
+		birth_date = 1893.10.15
+		death_date = 1953.4.4
+		claim = 95
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+}
+
+1930.6.8 = {
+	monarch = {
+		name = "Carol II"
+		dynasty = "von Hohenzollern-Sigmaringen"
+		birth_date = 1893.10.15
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+}
+
+1940.9.6 = {
+	monarch = {
+		name = "Mihai I"
+		dynasty = "von Hohenzollern-Sigmaringen"
+		birth_date = 1921.10.25
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+}
+
+1947.12.30 = { government = socialist_republic }
+
+1947.12.30 = {
+	monarch = {
+		name = "Constantin Ion Parhon"
+		birth_date = 1874.1.1
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+}
+
+1952.6.12 = {
+	monarch = {
+		name = "Petru Groza"
+		birth_date = 1884.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1958.1.11 = {
+	monarch = {
+		name = "Ion Gheorghe Maurer"
+		birth_date = 1902.1.1
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+1961.3.21 = {
+	monarch = {
+		name = "Gheorghe Gheorghiu-Dej"
+		birth_date = 1901.1.1
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+}
+
+1965.3.24 = {
+	monarch = {
+		name = "Chivu Stoica"
+		birth_date = 1908.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1967.12.9 = {
+	monarch = {
+		name = "Nicolae Ceausescu"
+		birth_date = 1918.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+}
+
+1989.12.26 = {
+	government = presidental_republic
+	monarch = {
+		name = "Ion Iliescu"
+		birth_date = 1930.3.3
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+}
+
+1996.11.29 = {
+	monarch = {
+		name = "Emil Constantinescu"
+		birth_date = 1939.11.19
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+}
+
+2000.12.20 = {
+	monarch = {
+		name = "Ion Iliescu"
+		birth_date = 1930.3.3
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+}
+
+2004.12.20 = {
+	monarch = {
+		name = "Traian Basescu"
+		birth_date = 1951.11.4
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+2007.1.1 = { decision = join_european_union }
+
+2014.12.21 = {
+	monarch = {
+		name = "Klaus Iohannis"
+		birth_date = 1959.6.13
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}

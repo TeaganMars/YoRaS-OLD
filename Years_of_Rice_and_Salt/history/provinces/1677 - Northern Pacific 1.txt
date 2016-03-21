@@ -1,0 +1,6 @@
+#1677 - Pribilov Island
+
+1741.1.1 = { discovered_by = RUS }
+
+
+

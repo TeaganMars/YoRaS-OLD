@@ -1,0 +1,160 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -3
+#quality_quantity = 3
+#serfdom_freesubjects = -4
+technology_group = early_chinese
+religion = confucianism
+primary_culture = chihan
+capital = 1821	# Nanjing
+
+479.1.1 = {
+	monarch = {
+		name = "Gao"
+		dynasty = "Qi"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+482.1.1 = {
+	monarch = {
+		name = "Wu"
+		dynasty = "Qi"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+493.1.1 = {
+	monarch = {
+		name = "Xiao Zhaoye"
+		dynasty = "Qi"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+494.1.1 = {
+	monarch = {
+		name = "Xiao Zhaowen"
+		dynasty = "Qi"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+494.6.1 = {
+	monarch = {
+		name = "Ming"
+		dynasty = "Qi"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+499.1.1 = {
+	monarch = {
+		name = "Xiao Baojuan"
+		dynasty = "Qi"
+		adm = 2
+		mil = 2
+		dip = 4
+		female = yes
+	}
+}
+
+501.1.1 = {
+	monarch = {
+		name = "He"
+		dynasty = "Qi"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+550.1.1 = { capital = 691 }
+
+550.1.1 = {
+	monarch = {
+		name = "Wen Xuan Di"
+		dynasty = "Qi"
+		adm = 2
+		mil = 3
+		dip = 3
+	}
+}
+
+559.1.1 = {
+	monarch = {
+		name = "Fei Di"
+		dynasty = "Qi"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+560.1.1 = {
+	monarch = {
+		name = "Xiao Zhao Di"
+		dynasty = "Qi"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+
+561.1.1 = {
+	monarch = {
+		name = "Wu Cheng Di"
+		dynasty = "Qi"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+565.1.1 = {
+	monarch = {
+		name = "Hou Zhu"
+		dynasty = "Qi"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+577.1.1 = {
+	monarch = {
+		name = "You Zhu"
+		dynasty = "Qi"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+750.1.1 = { technology_group = chinese }
+
+907.6.1 = {
+	monarch = {
+		name = "Li Maozhen"
+		dynasty = "Qi"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}

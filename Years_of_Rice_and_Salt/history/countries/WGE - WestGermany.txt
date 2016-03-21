@@ -1,0 +1,92 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 2
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -3
+#quality_quantity = 0
+#serfdom_freesubjects = -3
+technology_group = western
+primary_culture = hannoverian
+religion = catholic
+capital = 85	# Bonn
+
+1750.1.1 = { government = constitutional_republic }
+1910.1.1 = { religion = secularism }
+
+1945.5.8 = {
+	monarch = {
+		name = "(Allied Occupation)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1949.9.7 = {
+	monarch = {
+		name = "Karl Arnold"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1949.9.13 = {
+	monarch = {
+		name = "Theodor Heuss"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1958.1.1 = { decision = join_european_union }
+
+1959.9.13 = {
+	monarch = {
+		name = "Heinrich Lübke"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1969.7.1 = {
+	monarch = {
+		name = "Gustav Heinemann"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1974.7.1 = {
+	monarch = {
+		name = "Walter Scheel"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1979.7.1 = {
+	monarch = {
+		name = "Karl Carstens"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1984.7.1 = {
+	monarch = {
+		name = "Richard von Weizsäcker"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}

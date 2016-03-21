@@ -1,0 +1,6 @@
+#1462 - Coast of Angola
+
+1481.1.1 = { discovered_by = POR }
+
+
+

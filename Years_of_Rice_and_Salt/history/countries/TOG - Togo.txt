@@ -1,0 +1,61 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = 3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = yorumba
+religion = sunni
+technology_group = muslim
+capital = 2016 #Lome
+
+1910.1.1 = { religion = secularism }
+
+1960.4.27 = {
+	monarch = {
+		name = "Sylvanus Olympio"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1963.1.16 = {
+	monarch = {
+		name = "Nicolas Grunitzky"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1967.1.14 = {
+	monarch = {
+		name = "Kléber Dadjo"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1967.4.14 = {
+	monarch = {
+		name = "Étienne Eyadéma"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+2005.2.5 = {
+	monarch = {
+		name = "Faure Gnassingbé"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}

@@ -1,0 +1,104 @@
+government = tribal_despotism
+mercantilism = 0.1
+primary_culture = madagascan
+religion = animism
+technology_group = sub_saharan
+capital = 3146
+
+1640.1.1 = {
+	monarch = {
+		name = "Ramanano"
+		dynasty = "Betsimisaraka"
+		birth_date = 1620.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1712.1.1 = {
+	monarch = {
+		name = "Ratsimilaho"
+		dynasty = "Zana-Malata"
+		birth_date = 1694.1.1
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1725.1.1 = {
+	heir = {
+		name = "Zanahary"
+		monarch_name = "Zanahary"
+		dynasty = "Zana-Malata"
+		birth_date = 1725.1.1
+		death_date = 1767.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+1755.1.1 = {
+	monarch = {
+		name = "Zanahary"
+		dynasty = "Zana-Malata"
+		birth_date = 1725.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+1755.1.1 = {
+	heir = {
+		name = "Iavy"
+		monarch_name = "Iavy"
+		dynasty = "Zana-Malata"
+		birth_date = 1737.1.1
+		death_date = 1791.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1767.1.1 = {
+	monarch = {
+		name = "Iavy"
+		dynasty = "Zana-Malata"
+		birth_date = 1737.1.1
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1767.1.1 = {
+	heir = {
+		name = "Zakavolo"
+		monarch_name = "Zakavolo"
+		dynasty = "Zana-Malata"
+		birth_date = 1761.1.1
+		death_date = 1817.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+}
+
+1791.1.1 = {
+	monarch = {
+		name = "Zakavolo"
+		dynasty = "Zana-Malata"
+		birth_date = 1761.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+}
+

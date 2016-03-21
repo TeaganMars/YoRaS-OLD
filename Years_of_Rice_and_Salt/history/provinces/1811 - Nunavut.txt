@@ -1,0 +1,27 @@
+#1811 - Nunavut
+
+culture = inuit
+religion = shamanism
+capital = "Nunavut"
+native_size = 30
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_ferocity = 4.5
+native_hostileness = 9 
+
+1850.1.1   = { discovered_by = CAN discovered_by = GBR }
+1860.1.1   = { base_tax = 1 }
+1870.7.15  = {	owner = CAN
+		controller = CAN
+		add_core = CAN
+		religion = protestant
+		citysize = 200
+		trade_goods = fur
+		capital = "Rankin Inlet"
+	      }
+1950.1.1   = { is_city = yes }
+
+

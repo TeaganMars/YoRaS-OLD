@@ -1,0 +1,34 @@
+#2727 - Ucayali
+
+culture = maipurean
+religion = inti
+capital = "Ucayali"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 1 
+native_hostileness = 1
+discovered_by = andean
+discovered_by = south_american
+
+1533.8.29  = {	discovered_by = SPA }
+1730.1.1  = {	discovered_by = SPA
+		owner = SPA
+		controller = SPA
+		culture = castillian
+		religion = catholic
+		citysize = 400
+		trade_goods = tropical_wood
+	    }
+1750.1.1  = { is_city = yes }
+1755.1.1  = { add_core = SPA }
+
+1821.7.28  = { owner = PEU controller = PEU add_core = PEU }
+1850.1.1   = { capital = "Atalaya" }
+1879.8.14  = { remove_core = SPA }
+
+
+

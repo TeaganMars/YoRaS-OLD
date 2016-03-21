@@ -1,0 +1,566 @@
+namespace = etbrit
+
+#Cornwall!
+#233 - Cornwall
+#CRN - Cornwall
+#Cornwall was severed from the remaining Welsh following the Battle of Deorham
+province_event = {
+	id = etbrit.1
+	title = "etbrit.1.t"
+	desc = "etbrit.1.d"
+	picture = REFORM_eventPicture
+	fire_only_once = yes
+	trigger = {
+		province_id = 233 
+		NOT = { exists = CRN }
+		OR = {
+			culture = welsh
+			culture = breton
+		}
+		owner = { 
+			OR = {
+				primary_culture = welsh 
+				primary_culture = breton
+			}
+			
+			NOT = { num_of_cities = 2 }
+			NOT = { tag = GBR }
+		}
+		all_neighbor_province = {
+			OR = {
+				AND = {
+					NOT = { culture = welsh }
+					NOT = { culture = breton }
+				}
+				owner = { 
+					NOT = { primary_culture = welsh }
+					NOT = { primary_culture = breton }
+				}
+			}
+			
+		}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "etbrit.1.a"
+		owner = { change_tag = CRN }
+		add_core = CRN
+	}
+}
+
+#Welsh Culture Emerges!
+#Developed from Romano-British and Briton culture
+province_event = {
+	id = etbrit.2
+	title = "etbrit.2.t"
+	desc = "etbrit.2.d"
+	picture = REFORM_eventPicture
+
+	trigger = {
+		NOT = { is_year = 1100 }
+		NOT = { culture = welsh }
+		OR = {
+			AND = {
+				culture = briton
+				owner = {
+					OR = {
+						primary_culture = welsh
+						primary_culture = roman
+					}
+				}
+			}
+			AND = {
+				region = british_isles_region
+				culture = roman
+				owner = {
+					OR = {
+						primary_culture = welsh
+						primary_culture = briton
+					} 
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		years = 100
+		modifier = {
+			factor = 0.5
+			owner = {
+				primary_culture = welsh
+			}
+		}
+		modifier = {
+			factor = 0.5
+			any_core_country = {
+				primary_culture = welsh
+			}
+		}
+		modifier = {
+			factor = 0.7
+			any_core_country = {
+				OR = {
+					culture_group = byzantine
+					culture_group = latin
+				}
+				NOT = { culture_group = ROOT }
+			}
+		}
+		modifier = {
+			factor = 0.8
+			owner = { religion_group = ROOT }
+		}
+		modifier = {
+			factor = 2.0
+			NOT = { religion_group = christian }
+		}
+		modifier = {
+			factor = 0.8
+			any_neighbor_province = { culture = welsh }
+		}
+		modifier = {
+			factor = 0.5
+			culture = briton
+			any_neighbor_province = {
+				OR = {
+					culture_group = latin
+					culture_group = byzantine
+				}
+			}
+		}
+	}
+	
+	# Welsh
+	option = {
+		name = "etbrit.2.a"
+		change_culture = welsh
+		if = {
+			limit = { NOT = { exists = WLS } }
+			add_core = WLS
+		}
+		if = {
+			limit = {
+				owner = {
+					NOT = { accepted_culture = welsh }
+					NOT = { primary_culture = welsh }
+				}
+			}
+			owner = {
+				add_accepted_culture = welsh
+			}
+		}
+	}
+}
+#Breton Culture Emerges!
+#Developed from Briton culture in France
+province_event = {
+	id = etbrit.3
+	title = "etbrit.3.t"
+	desc = "etbrit.3.d"
+	picture = REFORM_eventPicture
+
+	trigger = {
+		NOT = { is_year = 1100 }
+		NOT = { culture = breton }
+		OR = {
+			owner = { primary_culture = briton }
+			owner = { primary_culture = breton }
+			owner = { primary_culture = welsh }
+		}
+		region = france_region
+	}
+	mean_time_to_happen = {
+		years = 100
+		modifier = {
+			factor = 0.5
+			owner = {
+				primary_culture = breton
+			}
+		}
+		modifier = {
+			factor = 0.5
+			area = brittany_area
+		}
+	}
+	
+	# Breton
+	option = {
+		name = "etbrit.3.a"
+		change_culture = breton
+		if = {
+			limit = { NOT = { exists = BRI } }
+			add_core = BRI
+		}
+		if = {
+			limit = {
+				owner = {
+					NOT = { accepted_culture = breton }
+					NOT = { primary_culture = breton }
+				}
+			}
+			owner = {
+				add_accepted_culture = breton
+			}
+		}
+	}
+}
+
+#Anglo-Saxon Culture Emerges!
+#Developed from Germanic culture in British Isles
+province_event = {
+	id = etbrit.4
+	title = "etbrit.4.t"
+	desc = "etbrit.4.d"
+	picture = REFORM_eventPicture
+
+	trigger = {
+		NOT = { is_year = 1100 }
+		NOT = { culture = anglo_saxon }
+		owner = { culture_group = germanic }
+		region = british_isles_region
+	}
+	mean_time_to_happen = {
+		years = 100
+		modifier = {
+			factor = 0.5 
+			owner = { primary_culture = anglo_saxon }
+		}
+		modifier = {
+			factor = 0.5
+			any_core_country = {
+				primary_culture = anglo_saxon
+			}
+		}
+		modifier = {
+			factor = 0.8
+			owner = { religion_group = ROOT }
+		}
+		modifier = {
+			factor = 0.5
+			any_neighbor_province = { culture_group = germanic }
+		}
+		modifier = {
+			factor = 0.5
+			all_neighbor_province = { culture_group = germanic }
+		}
+		#Historical regions where Celtic culture held out
+		modifier = {
+			factor = 5
+			culture_group = gaelic
+			OR = {
+				area = ireland_area
+				area = wales_area
+				area = highlands_area
+			}
+			
+		}
+	}
+	
+	# Anglo Saxon
+	option = {
+		name = "etbrit.4.a"
+		change_culture = anglo_saxon
+		if = { #Kent
+			limit = {
+				province_id = 235
+				NOT = { exists = KEN }	
+			}
+			add_core = KEN
+		}
+		if = { #Essex
+			limit = {
+				OR = {
+					province_id = 238
+					province_id = 236
+				}
+				NOT = { exists = ESX }	
+			}
+			add_core = ESX
+		}
+		if = { #Wessex
+			limit = {
+				area = wessex_area
+				NOT = { exists = WSX }	
+			}
+			add_core = WSX
+		}
+		if = { #Northumberland
+			limit = {
+				area = northern_england_area
+				NOT = { exists = NOL }	
+			}
+			add_core = NOL
+		}
+		if = { #East Anglia
+			limit = {
+				province_id = 1860 #Norfolk
+				NOT = { exists = EAN }	
+			}
+			add_core = EAN
+		}
+		if = { #Lindsey
+			limit = {
+				province_id = 243 #Lincoln
+				NOT = { exists = LIN }	
+			}
+			add_core = LIN
+		}
+		if = { #Deira
+			limit = {
+				OR = {
+					province_id = 244 #Lancashire
+					province_id = 245 #Yorkshire
+				}
+				NOT = { exists = DEI }	
+			}
+			add_core = DEI
+		}
+		if = { #Bernicia
+			limit = {
+				OR = {
+					province_id = 246 #Northumberland
+					province_id = 247 #Cumbria
+				}
+				NOT = { exists = BRN }	
+			}
+			add_core = BRN
+		}
+		if = { #Mercia
+			limit = {
+				area = mercia_area
+				has_port = no
+				NOT = { exists = MRC }	
+			}
+			add_core = MRC
+		}
+	}
+}
+
+#Norman Culture Emerges!
+#Developed from Scandinavian culture in France
+province_event = {
+	id = etbrit.7
+	title = "etbrit.7.t"
+	desc = "etbrit.7.d"
+	picture = REFORM_eventPicture
+
+	trigger = {
+		#NOT = { is_year = 1100 }
+		NOT = { culture = normand }
+		OR = {
+			culture_group = scandinavian
+			culture_group = french
+		}
+		owner = { 
+			NOT = { culture_group = ROOT }
+			OR = {
+				culture_group = scandinavian
+				culture_group = french
+			}
+		}
+	}
+	mean_time_to_happen = {
+		years = 100
+		modifier = {
+			factor = 0.5
+			owner = {
+				primary_culture = normand
+			}
+		}
+		modifier = {
+			factor = 0.5
+			OR = {
+				region = british_isles_region
+				area = brittany_area
+				region = low_countries_region
+			}
+		}
+		modifier = {
+			factor = 3
+			has_port = no
+		}
+	}
+	
+	# Norman
+	option = {
+		name = "etbrit.7.a"
+		change_culture = normand
+		if = {
+			limit = { NOT = { exists = NRM } }
+			add_core = NRM
+		}
+	}
+}
+
+#British (English/Scottish) Culture Emerges!
+province_event = {
+	id = etbrit.8
+	title = "etbrit.8.t"
+	desc = "etbrit.8.d"
+	picture = REFORM_eventPicture
+
+	trigger = {
+		NOT = { is_year = 1450 }
+		NOT = { culture_group = british }
+		NOT = { culture_group = byzantine } # Can't have Romans doing it.
+		OR = {
+			culture = anglo_saxon
+			culture = pictish
+			AND = {
+				culture = irish
+				region = british_isles_region
+				NOT = { area = ireland_area }
+			}
+			AND = {
+				OR = {
+					culture = briton
+					culture = welsh
+				}
+				OR = {
+					region = highlands
+					region = lowlands
+				}
+				
+			}
+			AND = {
+				region = british_isles_region
+				NOT = { culture_group = gaelic }
+			}
+		}
+		NOT = {
+			OR = {
+				culture_group = germanic
+				culture_group = scandinavian
+			}
+			owner = {
+				OR = {
+					culture_group = germanic
+					culture_group = scandinavian
+				}
+			}
+		}
+		NOT = {
+			OR = {
+				culture_group = french
+				culture_group = latin
+				culture_group = iberian
+				culture_group = basque_group
+			}
+			owner = {
+				OR = {
+					culture_group = french
+					culture_group = latin
+					culture_group = iberian
+					culture_group = basque_group
+				}
+			}
+		}
+		owner = { 
+			NOT = { culture_group = ROOT } 
+			NOT = { culture_group = byzantine }
+		}
+	}
+	mean_time_to_happen = {
+		years = 100
+		modifier = {
+			factor = 0.5 
+			owner = { culture_group = british }
+		}
+		modifier = {
+			factor = 0.5
+			any_core_country = {
+				culture_group = british
+			}
+		}
+		modifier = {
+			factor = 0.5
+			culture = anglo_saxon
+		}
+		modifier = {
+			factor = 0.8
+			owner = { religion_group = ROOT }
+		}
+		modifier = {
+			factor = 0.5
+			any_neighbor_province = { culture_group = british }
+		}
+		modifier = {
+			factor = 0.5 
+			OR = {
+				owner = { tag = ENG }
+				owner = { tag = GBR }
+			}
+		}
+	}
+	
+	# English
+	option = {
+		name = "etbrit.8.a"
+		change_culture = english
+		trigger = {
+			NOT = {
+				OR = {
+					culture = welsh
+					culture = briton
+					culture = pictish
+					culture = irish
+					owner = { primary_culture = pictish }
+					owner = { primary_culture = irish }
+					owner = { primary_culture = scottish }
+					area = highlands_area
+					area = lowlands_area
+				}
+			}
+		}
+		if = {
+			limit = {
+				owner = { 
+					accepted_culture = ROOT
+					stability = 1
+					NOT = { accepted_culture = english }
+					NOT = { primary_culture = english }
+				}
+			}
+			owner = { add_accepted_culture = english }
+		}
+		if = {
+			limit = { NOT = { exists = ENG } }
+			add_core = ENG
+		}
+	}
+	#Scottish
+	option = {
+		name = "etbrit.8.b"
+		trigger = {
+			OR = {
+				
+				culture = welsh
+				culture = briton
+				culture = pictish
+				culture = irish
+				owner = { primary_culture = pictish }
+				owner = { primary_culture = irish }
+				owner = { primary_culture = scottish }
+				#region = highlands
+				#region = lowlands
+			}
+		}
+		if = {
+			limit = {
+				owner = { 
+					accepted_culture = ROOT
+					stability = 1
+					NOT = { accepted_culture = scottish }
+					NOT = { primary_culture = scottish }
+				}
+			}
+			owner = { add_accepted_culture = scottish }
+		}
+		change_culture = scottish
+		if = {
+			limit = { NOT = { exists = ENG } }
+			add_core = ENG
+		}
+	}
+}

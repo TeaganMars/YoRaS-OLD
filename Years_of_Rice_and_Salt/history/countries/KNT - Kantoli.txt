@@ -1,0 +1,54 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = sumatran
+technology_group = early_chinese
+religion = mahayana
+capital = 2406
+
+420.1.1 = {
+	monarch = {
+		name = "Sri Varanarendra"
+		dynasty = "Kantoli"
+		birth_date = 400.1.1
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+}
+
+480.1.1 = {
+	heir = {
+		name = "Vijayavarman"
+		monarch_name = "Vijayavarman"
+		dynasty = "Kantoli"
+		birth_date = 480.1.1
+		death_date = 580.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+500.1.1 = {
+	monarch = {
+		name = "Vijayavarman"
+		dynasty = "Kantoli"
+		birth_date = 470.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+580.1.1 = {
+	monarch = {
+		name = "(regency council)"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+
+750.1.1 = { technology_group = chinese }

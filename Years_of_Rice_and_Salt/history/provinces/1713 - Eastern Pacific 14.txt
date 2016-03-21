@@ -1,0 +1,6 @@
+#1713 - Easter Island
+
+1537.1.1 = { discovered_by = SPA }
+
+
+

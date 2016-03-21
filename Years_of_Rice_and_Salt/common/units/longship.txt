@@ -1,0 +1,8 @@
+#Longboat
+type = galley
+
+hull_size = 9
+base_cannons = 9
+sail_speed = 7
+
+sprite_level = 1

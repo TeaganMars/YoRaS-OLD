@@ -1,0 +1,325 @@
+government = steppe_horde
+mercantilism = 0.1
+primary_culture = turkish
+religion = tengri_pagan_reformed
+technology_group = eastern_nomad_group
+capital = 460	# Kashgar
+
+750.1.1 = { technology_group = nomad_group }
+
+840.1.1 = {
+	monarch = {
+		name = "Bilge Kul Qadir"
+		dynasty = "Kara-Khanid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+893.1.1 = {
+	monarch = {
+		name = "Bazil Arslan"
+		dynasty = "Kara-Khanid"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+
+920.1.1 = {
+	monarch = {
+		name = "Satuk Bughra"
+		dynasty = "Kara-Khanid"
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+}
+
+932.1.1 = { religion = sunni }
+
+955.1.1 = {
+	monarch = {
+		name = "Musa Bughra"
+		dynasty = "Kara-Khanid"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+958.1.1 = {
+	monarch = {
+		name = "Suleyman Arslan"
+		dynasty = "Kara-Khanid"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+970.1.1 = {
+	monarch = {
+		name = "Ali Arslan"
+		dynasty = "Kara-Khanid"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+998.1.1 = {
+	monarch = {
+		name = "Ahmad Arslan"
+		dynasty = "Kara-Khanid"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1017.1.1 = {
+	monarch = {
+		name = "Mansur Arslan"
+		dynasty = "Kara-Khanid"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1024.1.1 = {
+	monarch = {
+		name = "Muhammad Toghan"
+		dynasty = "Kara-Khanid"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1026.1.1 = {
+	monarch = {
+		name = "Yusuf Qadir"
+		dynasty = "Kara-Khanid"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1032.1.1 = {
+	monarch = {
+		name = "Ali Tigin Bughra"
+		dynasty = "Kara-Khanid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1034.1.1 = {
+	monarch = {
+		name = "Ebu Shuca Sulayman"
+		dynasty = "Kara-Khanid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1042.1.1 = {
+	monarch = {
+		name = "Muhammad Arslan Qara"
+		dynasty = "Kara-Khanid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+
+1052.1.1 = {
+	monarch = {
+		name = "Ibrâhîm Tamghach Bughra"
+		dynasty = "Kara-Khanid"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1068.1.1 = {
+	monarch = {
+		name = "Nasr Shams al-Mulik"
+		dynasty = "Kara-Khanid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1080.1.1 = {
+	monarch = {
+		name = "Khidr"
+		dynasty = "Kara-Khanid"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1081.1.1 = {
+	monarch = {
+		name = "Ahmad"
+		dynasty = "Kara-Khanid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1089.1.1 = {
+	monarch = {
+		name = "Ya'qub Qadir"
+		dynasty = "Kara-Khanid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1095.1.1 = {
+	monarch = {
+		name = "Mas'ud"
+		dynasty = "Kara-Khanid"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1097.1.1 = {
+	monarch = {
+		name = "Mahmud Arslan"
+		dynasty = "Kara-Khanid"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1099.1.1 = {
+	monarch = {
+		name = "Jibrail Arslan"
+		dynasty = "Kara-Khanid"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1102.1.1 = {
+	monarch = {
+		name = "Muhammad Arslan"
+		dynasty = "Kara-Khanid"
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+1129.1.1 = {
+	monarch = {
+		name = "Ahmad Qadir"
+		dynasty = "Kara-Khanid"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1130.1.1 = {
+	monarch = {
+		name = "Hasan Jalal ad-Dunya"
+		dynasty = "Kara-Khanid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+
+1132.1.1 = {
+	monarch = {
+		name = "Mahmud"
+		dynasty = "Kara-Khanid"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1141.1.1 = {
+	monarch = {
+		name = "Ibrahim Tabghach"
+		dynasty = "Kara-Khanid"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+1156.1.1 = {
+	monarch = {
+		name = "Ali Chaghri"
+		dynasty = "Kara-Khanid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1161.1.1 = {
+	monarch = {
+		name = "Mas'ud Tabghach"
+		dynasty = "Kara-Khanid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+
+1171.1.1 = {
+	monarch = {
+		name = "Muhammad Tabghach"
+		dynasty = "Kara-Khanid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1178.1.1 = {
+	monarch = {
+		name = "Ibrahim Arslan"
+		dynasty = "Kara-Khanid"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+1204.1.1 = {
+	monarch = {
+		name = "Uthman Ulugh"
+		dynasty = "Kara-Khanid"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+

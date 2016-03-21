@@ -1,0 +1,66 @@
+government = constitutional_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = 5
+#innovative_narrowminded = 3
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = -1
+#land_naval = -1
+#quality_quantity = 3
+#serfdom_freesubjects = -5
+technology_group = muslim
+religion = shiite
+primary_culture = persian
+culture_group_union = iranian
+capital = 428	# Tehran
+
+1925.12.15 = {
+	religion = secularism
+	monarch = {
+		name = "Reza Shah"
+		dynasty = "Pahlavi"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+1941.9.26 = {
+	monarch = {
+		name = "Mohammad Reza Shah"
+		dynasty = "Pahlavi"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1979.10.26 = {
+	government = theocratic_government
+	religion = shiite
+	monarch = {
+		name = "Revolutionary Council"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1979.12.3 = {
+	monarch = {
+		name = "Ruhollah Khomeini"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1989.6.4 = {
+	monarch = {
+		name = "Ali Khamenei"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}

@@ -1,0 +1,65 @@
+#2578 - Hodna
+
+owner = ROM
+controller = ROM
+culture = berber
+religion = african
+capital = "Sitiflis"
+trade_goods = salt
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = eastern
+discovered_by = roman_group
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+
+340.1.1 = { religion = chalcedonism }
+395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+429.1.1 = { owner = VAN controller = VAN add_core = VAN remove_core = ROW religion = arianism }
+534.3.1 = { owner = BYZ controller = BYZ add_core = BYZ remove_core = VAN }
+560.1.1 = { religion = chalcedonism }
+699.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = BYZ }
+740.1.1 = { religion = sunni }
+750.1.1 = { owner = ABB controller = ABB add_core = ABB remove_core = UMA }
+800.1.1 = { owner = TUN controller = TUN add_core = TUN remove_core = ABB }
+909.1.1 = { owner = FAT controller = FAT add_core = FAT remove_core = TUN }
+1007.1.1 = { capital = "Beni Hammad" }
+1018.1.1 = { owner = KBA controller = KBA add_core = KBA remove_core = FAT }
+1090.1.1 = { capital = "Msila" }
+1152.1.1 = { owner = AMH controller = AMH add_core = AMH remove_core = KBA }
+1229.1.1 = { owner = TUN controller = TUN add_core = TUN remove_core = AMH }
+
+1521.1.1 = {
+	owner = ALG
+	controller = ALG
+	add_core = ALG
+}
+
+1762.1.1 = { base_manpower = 2 }
+1800.1.1 = { base_tax = 2 }
+1830.7.5   = {  owner = FRA 
+		controller = FRA 
+		add_core = FRA 
+		add_core = AGR
+		remove_core = ALG
+	     } # Conquered by France
+1837.1.1 = { base_production = 2 }
+1870.9.4   = {  owner = FR2
+		controller = FR2
+		add_core = FR2
+		remove_core = FRA
+	     } # Republic proclaimed
+1875.1.1 = { base_manpower = 3 }
+1912.1.1 = { base_production = 3 }
+1940.6.14  = { owner = FRV controller = FRV add_core = FRV } # Vichy France
+1942.11.16 = { owner = FR2 controller = FR2 remove_core = FRV } # Under Free French control after Operation Torch
+1951.1.1 = { base_production = 4 }
+1962.7.3   = { owner = AGR controller = AGR remove_core = FR2 }
+2000.1.1 = { base_tax = 4 }

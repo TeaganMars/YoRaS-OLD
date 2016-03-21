@@ -1,0 +1,59 @@
+government = tribal_kingdom
+mercantilism = 0.1
+primary_culture = tamil
+religion = hinduism
+technology_group = early_indian
+capital = 538
+
+
+50.1.1 = {
+	monarch = {
+		name = "Achyuta Rayan"
+		dynasty = "Venadudayar"
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+100.1.1 = {
+	monarch = {
+		name = "Jatavarman Kulottunga"
+		dynasty = "Chola"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+150.1.1 = {
+	monarch = {
+		name = "Jatavarman Sundara"
+		dynasty = "Pandya"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+200.1.1 = {
+	monarch = {
+		name = "Kok-karimurkha Vikrama"
+		dynasty = "Chola"
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+}
+
+240.1.1 = {
+	monarch = {
+		name = "Maravarman Sundara"
+		dynasty = "Pandya"
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+}
+
+750.1.1 = { technology_group = indian }

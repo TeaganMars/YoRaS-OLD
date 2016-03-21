@@ -1,0 +1,10 @@
+#1372 - Taiwan Strait
+
+discovered_by = early_chinese
+discovered_by = chinese
+
+800.1.1 = { discovered_by = nomad_group }
+1519.1.1 = { discovered_by = POR } # Tome Pires
+
+
+

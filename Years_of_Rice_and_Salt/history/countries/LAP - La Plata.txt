@@ -1,0 +1,618 @@
+government = republican_dictatorship
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = 0
+technology_group = western
+religion = catholic
+primary_culture = castillian
+capital = 778	# Santa María del Buen Ayre
+
+
+1815.1.31 = {
+	monarch = {
+		name = "Carlos María de Alvear"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1815.4.21 = {
+	monarch = {
+		name = "Ignacio Álvarez Thomas"
+		adm = 2
+		mil = 1
+		dip = 2
+	}
+}
+
+1816.4.16 = {
+	monarch = {
+		name = "Antonio González de Balcarce"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1816.7.9 = {
+	monarch = {
+		name = "Juan Martín de Puyerredón"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1819.6.9 = {
+	monarch = {
+		name = "José Rondeau"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1820.2.11 = {
+	monarch = {
+		name = "Juan Pedro Aguirre"
+		adm = 1
+		mil = 3
+		dip = 2
+	}
+}
+
+
+1826.2.8 = { government = constitutional_republic }
+
+1826.2.8 = {
+	monarch = {
+		name = "Bernardino Rivadavia"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+1827.7.7 = {
+	monarch = {
+		name = "Vicente López y Planes"
+		adm = 4
+		mil = 2
+		dip = 3
+	}
+}
+
+1827.8.18 = {
+	monarch = {
+		name = "Manuel Dorrego"
+		adm = 4
+		mil = 3
+		dip = 2
+	}
+}
+
+1828.12.13 = {
+	monarch = {
+		name = "Juan Lavalle"
+		adm = 3
+		mil = 3
+		dip = 4
+	}
+}
+
+1829.8.26 = {
+	monarch = {
+		name = "Juan José Viamonte"
+		adm = 4
+		mil = 4
+		dip = 2
+	}
+}
+
+1829.12.5 = {
+	monarch = {
+		name = "Juan Manuel de Rosas"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1832.12.17 = {
+	monarch = {
+		name = "Juan Ramón Balcarce"
+		adm = 2
+		mil = 5
+		dip = 2
+	}
+}
+
+1833.11.5 = {
+	monarch = {
+		name = "Juan José Viamonte"
+		adm = 4
+		mil = 4
+		dip = 2
+	}
+}
+
+1834.10.1 = {
+	monarch = {
+		name = "Manuel Vicente Maza"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1835.3.7 = {
+	monarch = {
+		name = "Juan Manuel de Rosas"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1852.2.3 = {
+	monarch = {
+		name = "Justo José de Urquiza"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1860.3.5 = {
+	monarch = {
+		name = "Santiago Derqui"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1861.11.4 = {
+	monarch = {
+		name = "Juan Esteban Pedernera"
+		adm = 1
+		mil = 4
+		dip = 1
+	}
+}
+
+1861.12.12 = {
+	monarch = {
+		name = "Bartolomé Mitre"
+		adm = 3
+		mil = 4
+		dip = 3
+	}
+}
+
+1861.12.17 = { capital = 778 }
+
+1868.10.12 = {
+	monarch = {
+		name = "Domingo Faustino Sarmiento"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+1874.10.12 = {
+	monarch = {
+		name = "Nicolás Avellaneda"
+		adm = 4
+		mil = 3
+		dip = 3
+	}
+}
+
+1880.10.12 = {
+	monarch = {
+		name = "Julio Argentino Roca"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1886.10.12 = {
+	monarch = {
+		name = "Miguel Juárez Celman"
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+}
+
+1890.8.6 = {
+	monarch = {
+		name = "Carlos Pellegrini"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1892.10.12 = {
+	monarch = {
+		name = "Luis Sáenz Peña"
+		adm = 4
+		mil = 3
+		dip = 4
+	}
+}
+
+1895.1.22 = {
+	monarch = {
+		name = "José Evaristo Uriburu"
+		adm = 5
+		mil = 3
+		dip = 2
+	}
+}
+
+1898.10.12 = {
+	monarch = {
+		name = "Julio Argentino Roca"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1904.10.12 = {
+	monarch = {
+		name = "Manuel Quintana"
+		adm = 4
+		mil = 3
+		dip = 4
+	}
+}
+
+1906.1.25 = {
+	monarch = {
+		name = "José Figueroa Alcorta"
+		adm = 3
+		mil = 3
+		dip = 5
+	}
+}
+
+1910.10.12 = {
+	monarch = {
+		name = "Roque Sáenz Peña"
+		adm = 2
+		mil = 5
+		dip = 3
+	}
+}
+
+1914.8.9 = {
+	monarch = {
+		name = "Victorino de la Plaza"
+		adm = 3
+		mil = 3
+		dip = 5
+	}
+}
+
+1916.10.12 = {
+	monarch = {
+		name = "Hipólito Yrigoyen"
+		adm = 3
+		mil = 4
+		dip = 2
+	}
+}
+
+1920.1.1 = { religion = secularism }
+
+1922.10.12 = {
+	monarch = {
+		name = "Marcelo Torcuato de Alvear"
+		adm = 4
+		mil = 3
+		dip = 4
+	}
+}
+
+1928.10.12 = {
+	monarch = {
+		name = "Hipólito Yrigoyen"
+		adm = 3
+		mil = 4
+		dip = 2
+	}
+}
+
+1930.9.6 = {
+	monarch = {
+		name = "José Félix Uriburu"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1932.2.20 = {
+	monarch = {
+		name = "Agustín Pedro Justo"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1938.2.20 = {
+	monarch = {
+		name = "Roberto María Ortiz"
+		adm = 2
+		mil = 5
+		dip = 3
+	}
+}
+
+1942.6.27 = {
+	monarch = {
+		name = "Ramón Castillo"
+		adm = 3
+		mil = 4
+		dip = 2
+	}
+}
+
+1943.6.4 = {
+	monarch = {
+		name = "Arturo Rawson"
+		adm = 1
+		mil = 1
+		dip = 3
+	}
+}
+
+1943.6.7 = {
+	monarch = {
+		name = "Pedro Pablo Ramirez"
+		adm = 4
+		mil = 1
+		dip = 3
+	}
+}
+
+1944.3.11 = {
+	monarch = {
+		name = "Edelmiro Julián Farrell"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1946.6.4 = {
+	monarch = {
+		name = "Juan Domingo Perón"
+		adm = 5
+		mil = 2
+		dip = 4
+	}
+}
+
+1955.9.23 = {
+	monarch = {
+		name = "Eduardo Lonardi"
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+}
+
+1955.11.13 = {
+	monarch = {
+		name = "Pedro Eugenio Aramburu"
+		adm = 3
+		mil = 5
+		dip = 2
+	}
+}
+
+1958.5.1 = {
+	monarch = {
+		name = "Arturo Frondizi"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+1962.3.29 = {
+	monarch = {
+		name = "José María Guido"
+		adm = 5
+		mil = 2
+		dip = 2
+	}
+}
+
+1963.10.12 = {
+	monarch = {
+		name = "Arturo Umberto Illia"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1966.6.29 = {
+	monarch = {
+		name = "Juan Carlos Onganía"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1970.6.8 = {
+	monarch = {
+		name = "Roberto Levingston"
+		adm = 1
+		mil = 5
+		dip = 3
+	}
+}
+
+1971.5.26 = {
+	monarch = {
+		name = "Alejandro Lanusse"
+		adm = 4
+		mil = 4
+		dip = 2
+	}
+}
+
+1973.5.25 = {
+	monarch = {
+		name = "Héctor José Cámpora"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+1973.7.13 = {
+	monarch = {
+		name = "Raúl Alberto Lastiri"
+		adm = 2
+		mil = 3
+		dip = 3
+	}
+}
+
+1973.10.12 = {
+	monarch = {
+		name = "Juan Domingo Perón"
+		adm = 2
+		mil = 3
+		dip = 3
+	}
+}
+
+1974.6.30 = {
+	monarch = {
+		name = "Isabel Martínez de Perón"
+		adm = 3
+		mil = 3
+		dip = 5
+		female = yes
+	}
+}
+
+1976.3.29 = {
+	monarch = {
+		name = "Jorge Rafael Videla"
+		adm = 2
+		mil = 5
+		dip = 4
+	}
+}
+
+1981.3.29 = {
+	monarch = {
+		name = "Roberto Eduardo Viola"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+1981.12.22 = {
+	monarch = {
+		name = "Leopoldo Galtieri"
+		adm = 2
+		mil = 4
+		dip = 3
+	}
+}
+
+1982.7.1 = {
+	monarch = {
+		name = "Reynaldo Bignone"
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}
+
+1983.12.10 = {
+	monarch = {
+		name = "Raúl Alfonsin"
+		adm = 4
+		mil = 3
+		dip = 4
+	}
+}
+
+1989.7.8 = {
+	monarch = {
+		name = "Carlos Menem"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1999.12.10 = {
+	monarch = {
+		name = "Fernando de la Rúa"
+		adm = 3
+		mil = 2
+		dip = 5
+	}
+}
+
+2001.12.22 = {
+	monarch = {
+		name = "Adolfo Rodríguez Saá"
+		adm = 3
+		mil = 3
+		dip = 2
+	}
+}
+
+2002.1.2 = {
+	monarch = {
+		name = "Eduardo Duhalde"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+2003.5.25 = {
+	monarch = {
+		name = "Néstor Kirchner"
+		adm = 5
+		mil = 3
+		dip = 2
+	}
+}
+
+2007.12.10 = {
+	monarch = {
+		name = "Christina Fernández de Kirchner"
+		adm = 4
+		dip = 4
+		mil = 2
+		female = yes
+	}
+}

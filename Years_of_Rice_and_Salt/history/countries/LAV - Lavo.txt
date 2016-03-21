@@ -1,0 +1,30 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 4
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -3
+primary_culture = central_thai
+religion = mahayana
+technology_group = early_chinese
+capital = 600	# Lavo
+
+750.1.1 = { technology_group = chinese }
+
+1150.1.1 = { religion = buddhism }
+1200.1.1 = { religion = mahayana }
+
+1300.1.1 = {
+	religion = buddhism
+	monarch = {
+		name = "Uthong"
+		dynasty = "Lavo"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}

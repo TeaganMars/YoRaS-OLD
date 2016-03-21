@@ -1,0 +1,55 @@
+#888 - Atakapa
+
+culture = caddo
+religion = totemism
+capital = "Atakapa"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 2
+native_hostileness = 4
+discovered_by = north_american
+
+1519.1.1  = { discovered_by = SPA } # Alvarez de Piñeda explored the Gulf Coast
+1682.1.1  = { discovered_by = FRA }
+1722.1.1  = {
+	owner = SPA
+	controller = SPA
+	citysize = 400
+	culture = castillian
+	capital = "Los Adaes"
+	religion = catholic
+	trade_goods = sugar
+} # Spanish missions
+1740.1.1  = { add_core = SPA }
+1750.1.1  = { is_city = yes }
+1751.1.1 = { base_tax = 8 base_production = 4 base_manpower = 5 }
+1775.1.1 = { base_tax = 11 base_production = 12 base_manpower = 9 }
+1801.1.1 = { base_tax = 13 base_production = 20 base_manpower = 14 }
+1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+
+1821.9.27  = { controller = MEX remove_core = SPA }
+1825.1.1 = { base_tax = 17 base_production = 24 base_manpower = 21 }
+1836.3.2   = { owner = TEX controller = TEX add_core = TEX culture = american } # Republic of Texas
+1837.6.5   = { capital = "Houston" }
+1845.12.29 = { owner = USA controller = USA add_core = USA } # Texas annexed
+1846.2.19  = { remove_core = TEX }
+1848.2.2   = { remove_core = MEX } # Treaty of Guadalupe Hidalgo
+1851.1.1 = { base_tax = 25 base_production = 28 base_manpower = 23 }
+1861.2.1   = { owner = TEX controller = TEX add_core = TEX }
+1861.3.2   = { owner = CSA controller = CSA add_core = CSA remove_core = TEX }
+1865.5.5   = { owner = USA controller = USA remove_core = CSA }
+1875.1.1 = { base_tax = 32 base_production = 32 base_manpower = 27 }
+1901.1.1 = { base_tax = 38 base_production = 37 base_manpower = 31 }
+1905.1.1   = { trade_goods = oil }
+1925.1.1 = { base_tax = 45 base_production = 40 base_manpower = 36 }
+1951.1.1 = { base_tax = 49 base_production = 43 base_manpower = 43 }
+1975.1.1 = { base_tax = 54 base_production = 46 base_manpower = 50 }
+2000.1.1 = { base_tax = 55 base_production = 70 base_manpower = 55 }
+
+
+
+

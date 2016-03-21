@@ -1,0 +1,6 @@
+#1700 - Cocos Ridge
+
+1528.1.1 = { discovered_by = SPA }
+
+
+

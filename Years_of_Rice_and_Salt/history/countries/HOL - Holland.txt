@@ -1,0 +1,309 @@
+government = feudal_monarchy
+government_rank = 1
+#aristocracy_plutocracy = -1
+#centralization_decentralization = -1
+#innovative_narrowminded = -2
+#mercantilism_freetrade = 4
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = 2
+#quality_quantity = -2
+#serfdom_freesubjects = 2
+technology_group = western
+religion = catholic
+primary_culture = dutch
+capital = 97	# Amsterdam
+
+1061.1.1 = {
+	monarch = {
+		name = "Dirk V"
+		dynasty = "van Holland"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1080.1.1 = {
+	heir = {
+		name = "Floris"
+		monarch_name = "Floris II"
+		dynasty = "van Holland"
+		birth_date = 1080.1.1
+		death_date = 1121.3.2
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1091.6.17 = {
+	monarch = {
+		name = "Floris II"
+		dynasty = "van Holland"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1114.1.1 = {
+	heir = {
+		name = "Dirk"
+		monarch_name = "Dirk VI"
+		dynasty = "van Holland"
+		birth_date = 1114.1.1
+		death_date = 1157.8.5
+		claim = 95
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+}
+
+1121.3.2 = {
+	monarch = {
+		name = "Dirk VI"
+		dynasty = "van Holland"
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+}
+
+1141.1.1 = {
+	heir = {
+		name = "Floris"
+		monarch_name = "Floris III"
+		dynasty = "van Holland"
+		birth_date = 1141.1.1
+		death_date = 1190.8.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+1157.8.5 = {
+	monarch = {
+		name = "Floris III"
+		dynasty = "van Holland"
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+1160.1.1 = {
+	heir = {
+		name = "Dirk"
+		monarch_name = "Dirk VII"
+		dynasty = "van Holland"
+		birth_date = 1160.1.1
+		death_date = 1203.11.4
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+
+1190.8.1 = {
+	monarch = {
+		name = "Dirk VII"
+		dynasty = "van Holland"
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+
+1190.8.1 = {
+	heir = {
+		name = "Willem"
+		monarch_name = "Willem I"
+		dynasty = "van Holland"
+		birth_date = 1141.1.1
+		death_date = 1222.2.4
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+1203.11.4 = {
+	monarch = {
+		name = "Willem I"
+		dynasty = "van Holland"
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+1210.6.24 = {
+	heir = {
+		name = "Floris"
+		monarch_name = "Floris IV"
+		dynasty = "van Holland"
+		birth_date = 1210.6.24
+		death_date = 1234.7.19
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+1222.2.4 = {
+	monarch = {
+		name = "Floris IV"
+		dynasty = "van Holland"
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+1228.2.1 = {
+	heir = {
+		name = "Willem"
+		monarch_name = "Willem II"
+		dynasty = "van Holland"
+		birth_date = 1228.2.1
+		death_date = 1256.1.12
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1234.7.19 = {
+	monarch = {
+		name = "Willem II"
+		dynasty = "van Holland"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1254.6.24 = {
+	heir = {
+		name = "Floris"
+		monarch_name = "Floris V"
+		dynasty = "van Holland"
+		birth_date = 1254.6.24
+		death_date = 1296.6.27
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+}
+
+1256.1.12 = {
+	monarch = {
+		name = "Floris V"
+		dynasty = "van Holland"
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+}
+
+1284.1.1 = {
+	heir = {
+		name = "Johann"
+		monarch_name = "Johann I"
+		dynasty = "van Holland"
+		birth_date = 1284.1.1
+		death_date = 1299.11.10
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1296.6.27 = {
+	monarch = {
+		name = "Johann I"
+		dynasty = "van Holland"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1389.1.1 = {
+	monarch = {
+		name = "Albert"
+		dynasty = "von Wittelsbach"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1389.1.1 = {
+	heir = {
+		name = "Willem"
+		monarch_name = "Willem VI"
+		dynasty = "von Wittelsbach"
+		birth_date = 1365.4.5
+		death_date = 1417.5.31
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1404.1.1 = {
+	monarch = {
+		name = "Willem VI"
+		dynasty = "von Wittelsbach"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	heir = {
+		name = "Jacoba"
+		monarch_name = "Jacoba"
+		dynasty = "von Wittelsbach"
+		birth_date = 1401.8.16
+		death_date = 1436.10.8
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1417.5.31 = {
+	monarch = {
+		name = "Jacoba"
+		dynasty = "von Wittelsbach"
+		adm = 3
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+#1580.1.1 = { government = administrative_republic centralization_decentralization = 1 aristocracy_plutocracy = 2 serfdom_freesubjects = 5 mercantilism_freetrade = 5 innovative_narrowminded = -3 } # Constitutionalism and the General Estates
+
+#1601.1.1 = { offensive_defensive = 0 quality_quantity = -3 mercantilism_freetrade = 4 aristocracy_plutocracy = 3 innovative_narrowminded = -4 } # Dutch Military Reforms
+
+#1618.1.1 = { innovative_narrowminded = -2 quality_quantity = -4 } # Calvinism in the Netherlands
+
+#1670.1.1 = { centralization_decentralization = -1 aristocracy_plutocracy = 0 serfdom_freesubjects = 4 } # Statholder office is made Hereditary in Oranien Dynasty
+
+#1785.1.1 = { aristocracy_plutocracy = -3 serfdom_freesubjects = 1 innovative_narrowminded = 2 } # The Revolution in Holland
+

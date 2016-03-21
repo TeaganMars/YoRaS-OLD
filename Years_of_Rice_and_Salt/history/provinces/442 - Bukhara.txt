@@ -1,0 +1,60 @@
+#442 - Bukhara
+
+owner = KUS
+controller = KUS
+add_core = KUS
+is_city = yes
+culture = uzbehk
+religion = zoroastrian
+capital = "Bukhara"
+trade_goods = salt
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = western_nomad_group
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+discovered_by = early_indian
+discovered_by = indian
+
+320.1.1 = { owner = KID controller = KID add_core = KID remove_core = KUS }
+420.1.1 = { owner = HEP controller = HEP add_core = HEP remove_core = KID }
+567.1.1 = { owner = GOK controller = GOK add_core = GOK remove_core = HEP }
+593.1.1 = { owner = WGO controller = WGO add_core = WGO remove_core = GOK }
+659.1.1 = { owner = SOG controller = SOG add_core = SOG remove_core = WGO }
+670.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = SOG }
+700.1.1 = { fort_15th = yes }
+750.1.1 = { owner = ABB controller = ABB add_core = ABB remove_core = UMA }
+800.1.1 = { base_tax = 4 base_production = 4 }
+819.1.1 = { owner = SAM controller = SAM add_core = SAM remove_core = ABB }
+880.1.1 = { religion = sunni }
+900.1.1 = { base_manpower = 4 }
+999.1.1 = { owner = GHZ controller = GHZ add_core = GHZ remove_core = SAM }
+1000.1.1 = { base_tax = 5 base_production = 5 }
+1040.1.1 = { owner = SEL controller = SEL add_core = SEL remove_core = GHZ }
+1100.1.1 = { base_manpower = 5 }
+1153.1.1 = { owner = KHW controller = KHW add_core = KHW remove_core = SEL }
+1221.1.1 = { owner = MGE controller = MGE add_core = MGE remove_core = KHW }
+1260.1.1 = { owner = CHG controller = CHG add_core = CHG remove_core = MGE }
+1370.1.1 = { owner = TIM controller = TIM add_core = TIM remove_core = CHG }
+
+1501.1.1 = { controller = SHY } # Conquered by Muhammad Shaybani
+1502.1.1 = { owner = BUK add_core = BUK controller = BUK remove_core = TIM } # The Uzbek Shaybanids brings an end to the Timurid dynasty
+1533.1.1 = { base_tax = 7 } # Bukhara becomes capital
+1673.1.1 = { discovered_by = ENG }
+1677.1.1 = { discovered_by = FRA }
+1707.5.12 = { discovered_by = GBR }
+
+1873.8.12  = { owner = RUS controller = RUS add_core = RUS }
+1922.12.30 = { owner = SOV controller = SOV add_core = SOV }
+1924.10.27 = { add_core = UZB remove_core = BUK }
+1930.1.1   = { trade_goods = oil }
+1960.1.1   = { trade_goods = cotton }
+1991.12.8  = { owner = UZB controller = UZB remove_core = SOV remove_core = RUS }
+
+
+

@@ -1,0 +1,82 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+technology_group = early_indian
+religion = buddhism
+primary_culture = sinhala
+capital = 572	# Kandy
+
+750.1.1 = { technology_group = indian }
+
+1950.1.1 = { technology_group = asian }
+
+1972.5.22 = {
+	monarch = {
+		name = "William Gopallawa"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1978.2.4 = {
+	monarch = {
+		name = "Junius Richard Jayewardene"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1989.1.2 = {
+	monarch = {
+		name = "Ranasinghe Premadasa"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1993.5.2 = {
+	monarch = {
+		name = "Dingiri Banda Wijetunga"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1994.11.12 = {
+	monarch = {
+		name = "Chandrika Kumaratunga"
+		adm = 2
+		dip = 5
+		mil = 3
+		female = yes
+	}
+}
+
+2005.11.19 = {
+	monarch = {
+		name = "Mahinda Rajapaksa"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+2015.1.9 = {
+	monarch = {
+		name = "Maithripala Sirisena"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}

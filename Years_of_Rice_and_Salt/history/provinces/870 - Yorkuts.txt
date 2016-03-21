@@ -1,0 +1,42 @@
+#870 - Yokuts
+
+culture = chinook 
+religion = totemism
+capital = "Yorkuts" 
+trade_goods = unknown 
+hre = no 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 50 
+native_ferocity = 3 
+native_hostileness = 5 
+discovered_by = north_american
+
+1750.1.1 = { base_production = 2 base_manpower = 2 }
+1775.1.1 = { base_tax = 2 base_production = 4 }
+1776.1.1   = {	discovered_by = SPA }
+
+1800.1.1 = { base_production = 6 base_manpower = 3 }
+1825.1.1 = { base_production = 8 base_manpower = 4 }
+1848.2.2   = { 	owner = USA 
+		controller = USA
+		add_core = USA 
+		culture = american 
+		religion = catholic
+		trade_goods = gold
+		is_city = yes
+		capital = "Millerton"
+	     } # California Gold rush
+1850.1.1 = { base_production = 11 }
+1867.12.24 = { capital = "Fresno" } #Flood, Millerton declined
+
+
+
+
+1875.1.1 = { base_production = 12 base_manpower = 6 }
+1900.1.1 = { base_tax = 4 base_production = 13 }
+1925.1.1 = { base_manpower = 9 }
+1950.1.1 = { base_tax = 6 base_manpower = 10 }
+1975.1.1 = { base_tax = 7 base_manpower = 12 }
+2000.1.1 = { base_tax = 13 }

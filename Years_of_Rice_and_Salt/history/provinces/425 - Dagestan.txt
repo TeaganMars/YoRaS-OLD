@@ -1,0 +1,63 @@
+#425 - Dagestan
+
+owner = ALA
+controller = ALA
+add_core = ALA
+is_city = yes
+culture = avar
+religion = tengri_pagan_reformed
+capital = "Derbent"
+trade_goods = fish
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = western_nomad_group
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+
+253.1.1 = { owner = SAS controller = SAS add_core = SAS }
+450.1.1 = { culture = khazar remove_core = ALA }
+620.1.1 = { owner = KHZ controller = KHZ add_core = KHZ remove_core = SAS }
+654.1.1 = { owner = RAS controller = RAS add_core = RAS remove_core = KHZ }
+661.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = RAS }
+700.1.1 = { base_tax = 2 base_production = 2 }
+720.1.1 = { culture = dagestani religion = shiite }
+734.1.1 = { owner = GAZ controller = GAZ add_core = GAZ remove_core = UMA remove_core = KHZ }
+800.1.1 = { discovered_by = eastern }
+900.1.1 = { base_tax = 3 base_production = 3 }
+1236.1.1 = { owner = MGE controller = MGE add_core = MGE }
+1260.1.1 = { owner = GAZ controller = GAZ add_core = GAZ remove_core = MGE }
+1437.1.1 = { owner = SRV controller = SRV add_core = SRV remove_core = GAZ }
+
+1501.7.1   = {	owner = PER
+		controller = PER
+		add_core = PER
+		remove_core = AKK
+	     } # Ismail conquers Tabriz and defeats Alwand
+1578.9.9   = { controller = TUR } 
+1590.3.21  = { controller = GAZ owner = GAZ add_core = GAZ } # Peace of Istanbul
+1725.1.1   = { owner = GAZ
+		controller = GAZ
+		add_core = GAZ
+		remove_core = PER
+		revolt = { }
+	     } # Shirvan Khanate given to the Shamkhals by Persia
+1747.1.1   = { unrest = 3 } # Shah Nadir is killed, local khanates emerged
+1748.1.1   = { unrest = 4 } # The empire began to decline
+1779.1.1   = { unrest = 0 } # With the Qajar dynasty the situation stabilized
+1803.1.1   = {	owner = RUS
+		controller = RUS
+		add_core = RUS
+	     } # Incorporated into Russia
+
+1825.1.1 = { base_manpower = 2 }
+1922.12.30 = { owner = SOV controller = SOV add_core = SOV }
+1991.12.25 = { owner = RUS controller = RUS remove_core = SOV }
+2000.1.1 = { base_tax = 4 base_production = 4 }
+
+
+

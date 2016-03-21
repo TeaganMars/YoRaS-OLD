@@ -1,0 +1,68 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = 0
+technology_group = western
+primary_culture = american
+religion = catholic
+capital = 888
+
+1836.3.2 = {
+	monarch = {
+		name = "David Burnet"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1836.10.22 = {
+	monarch = {
+		name = "Sam Houston"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1838.12.10 = {
+	monarch = {
+		name = "Mirabeau Lamar"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1841.12.13 = {
+	monarch = {
+		name = "Sam Houston"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1844.12.9 = {
+	monarch = {
+		name = "Anson Jones"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1861.2.1 = {
+	monarch = {
+		name = "Sam Houston"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}

@@ -1,0 +1,142 @@
+government = steppe_horde
+mercantilism = 0.1
+primary_culture = uyghur
+religion = tengri_pagan_reformed
+technology_group = eastern_nomad_group
+capital = 2891
+
+744.1.1 = {
+	monarch = {
+		name = "Guli Peilo"
+		dynasty = "Uyghur"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+747.1.1 = {
+	monarch = {
+		name = "Bayanchur"
+		dynasty = "Uyghur"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+750.1.1 = { technology_group = nomad_group }
+
+759.1.1 = {
+	monarch = {
+		name = "Qutlugh Tarqan Sengün"
+		dynasty = "Uyghur"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+763.1.1 = { secondary_religion = manichaeism }
+
+779.1.1 = {
+	monarch = {
+		name = "Alp Qutlugh Bilge"
+		dynasty = "Uyghur"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+789.1.1 = {
+	monarch = {
+		name = "Ai Tengride Bulmïsh Külüg Bilge"
+		dynasty = "Uyghur"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+790.1.1 = {
+	monarch = {
+		name = "Qutlugh Bilge"
+		dynasty = "Uyghur"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+795.1.1 = {
+	monarch = {
+		name = "Ai Tengride Ülüg Bulmïsh Alp Qutlugh Ulugh Bilge"
+		dynasty = "Uyghur"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+808.1.1 = {
+	monarch = {
+		name = "Ai Tengride Qut Bulmïsh Külüg Bilge"
+		dynasty = "Uyghur"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+821.1.1 = {
+	monarch = {
+		name = "Kün Tengride Ülüg Bulmïsh Alp Küchlüg Bilge"
+		dynasty = "Uyghur"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+824.1.1 = {
+	monarch = {
+		name = "Ai Tengride Qut Bulmïsh Alp Bilge"
+		dynasty = "Uyghur"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+832.1.1 = {
+	monarch = {
+		name = "Ai Tengride Qut Bulmïsh Alp Külüg Bilge"
+		dynasty = "Uyghur"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+839.1.1 = {
+	monarch = {
+		name = "Kürebir"
+		dynasty = "Uyghur"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+840.1.1 = { secondary_religion = vajrayana }
+
+841.1.1 = {
+	monarch = {
+		name = "Öge"
+		dynasty = "Uyghur"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}

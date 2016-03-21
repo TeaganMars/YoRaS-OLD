@@ -1,0 +1,36 @@
+government = tribal_despotism
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 5
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -3
+primary_culture = nubian
+religion = african
+technology_group = sub_saharan
+capital = 1234	# Pachoras
+
+451.11.1 = { religion = coptic }
+
+530.1.1 = {
+	monarch = {
+		name = "Silko"
+		dynasty = "Nobatian"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+559.1.1 = {
+	monarch = {
+		name = "Eirpanome"
+		dynasty = "Nobatian"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}

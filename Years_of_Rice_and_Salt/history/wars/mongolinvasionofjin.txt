@@ -1,0 +1,30 @@
+name = "Mongol Invasion of Jin"
+
+war_goal = {
+	type = take_claim
+	casus_belli = cb_horde_vs_civ
+	province = 1816
+}
+
+1211.1.1 = {
+	add_attacker = MGE
+	add_attacker = XIA
+	add_defender = JIN
+}
+
+1219.1.1 = {
+	rem_attacker = XIA
+}
+
+1225.1.1 = {
+	add_defender = XIA
+}
+
+1227.1.1 = {
+	rem_defender = XIA
+}
+
+1234.1.1 = {
+	rem_attacker = MGE
+	rem_defender = JIN
+}

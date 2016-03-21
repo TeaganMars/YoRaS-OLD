@@ -1,0 +1,58 @@
+#924 - Alabama
+
+culture = choctaw
+religion = totemism
+capital = "Alabama"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 20
+native_ferocity = 7
+native_hostileness = 3
+discovered_by = north_american
+
+1519.1.1   = { discovered_by = SPA } # Alonzo Alvarez de Pineda
+1717.1.1   = { owner = FRA
+		controller = FRA
+		citysize = 500
+		culture = cosmopolitan_french
+		religion = catholic } #Fort Toulouse
+1732.1.1  = { add_core = FRA is_city = yes trade_goods = cotton }
+1751.1.1 = { base_tax = 2 base_production = 2 base_manpower = 2 }
+1763.2.10 = {	owner = GBR
+		controller = GBR
+		remove_core = FRA
+	    } # Treaty of Paris, France gave up its claim to New France
+1763.10.9 = {	owner = CRE
+		controller = CRE
+		add_core = CRE
+		is_city = yes
+		culture = creek
+		religion = totemism
+	    } # Royal proclamation, Britan recognize native lands (as protectorates)
+1775.1.1 = { base_tax = 4 base_production = 3 }
+1800.1.1 = { base_tax = 6 base_production = 4 base_manpower = 3 }
+1814.8.9  = {	owner = USA
+		controller = USA
+		add_core = USA
+		culture = american
+		religion = protestant } #Treaty of Fort Jackson ending the Creek War
+1819.12.3  = { capital = "Montgomery" }
+
+1825.1.1 = { base_production = 7 }
+1850.1.1   = { citysize = 8728 culture = american }
+1851.1.1 = { base_production = 10 base_manpower = 4 }
+1861.1.11  = { owner = CSA controller = CSA add_core = CSA }
+1865.5.5   = { owner = USA controller = USA remove_core = CSA }
+1875.1.1 = { base_tax = 7 base_production = 11 base_manpower = 5 }
+1901.1.1 = { base_production = 12 base_manpower = 7 }
+1925.1.1 = { base_tax = 9 base_manpower = 9 }
+1951.1.1 = { base_production = 13 base_manpower = 11 }
+1975.1.1 = { base_tax = 12 base_production = 14 }
+2000.1.1 = { base_tax = 15 base_production = 15 base_manpower = 14 }
+
+
+
+

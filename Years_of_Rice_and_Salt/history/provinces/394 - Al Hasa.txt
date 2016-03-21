@@ -1,0 +1,72 @@
+#394 - Hofuf
+
+owner = GRR
+controller = GRR
+culture = bedouin_arabic
+religion = south_arabian
+capital = "Gerrha"
+trade_goods = wool
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = GRR
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = early_indian
+discovered_by = indian
+discovered_by = western_nomad_group
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+discovered_by = TUR
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = AJU
+discovered_by = MBA
+discovered_by = MDI
+discovered_by = MLI
+discovered_by = SFA
+discovered_by = ZIM
+
+220.1.1 = { owner = LAK controller = LAK add_core = LAK remove_core = GRR religion = chalcedonism }
+325.1.1 = { owner = SAS controller = SAS add_core = SAS remove_core = LAK capital = "Hofuf" }
+431.7.1 = { religion = nestorian }
+634.1.1 = { owner = RAS controller = RAS add_core = RAS remove_core = SAS religion = sunni }
+661.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = RAS religion = shiite }
+750.1.1 = { owner = ABB controller = ABB add_core = ABB remove_core = UMA }
+899.1.1 = { owner = QRM controller = QRM add_core = QRM remove_core = ABB }
+1076.1.1 = { owner = ALH controller = ALH add_core = ALH remove_core = QRM }
+
+1498.1.1 = { discovered_by = POR }
+1549.1.1 = {
+	owner = TUR
+	controller = TUR
+	add_core = TUR
+}
+1725.1.1 = { owner = ALH controller = ALH remove_core = TUR }
+1751.1.1 = { base_tax = 3 base_production = 2 base_manpower = 3 }
+1775.1.1 = { base_tax = 5 base_production = 4 base_manpower = 6 }
+1795.1.1 = { owner = NAJ controller = NAJ add_core = NAJ }
+1818.9.9 = {	owner = TUR
+		controller = TUR
+		add_core = TUR
+	   } # The end of the Saudi State
+
+1824.1.1   = { owner = NAJ controller = NAJ remove_core = TUR remove_core = ALH }
+1825.1.1 = { base_tax = 6 base_production = 5 base_manpower = 7 }
+1871.1.1   = { owner = TUR controller = TUR add_core = TUR }
+1901.1.1 = { base_tax = 7 base_production = 7 base_manpower = 8 }
+1913.1.1   = { owner = NAJ controller = NAJ add_core = NAJ remove_core = TUR }
+1932.9.23  = { owner = SAU controller = SAU add_core = SAU remove_core = NAJ }
+1938.1.1   = { trade_goods = oil } #Ghawar oil field
+1939.1.1   = { base_tax = 20 base_production = 40 base_manpower = 20 }
+1951.1.1 = { base_tax = 30 base_production = 45 base_manpower = 26 }
+1975.1.1 = { base_tax = 38 base_production = 54 base_manpower = 38 }
+2000.1.1 = { base_tax = 48 base_production = 69 }
+
+
+

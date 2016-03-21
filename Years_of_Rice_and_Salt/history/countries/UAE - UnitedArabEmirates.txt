@@ -1,0 +1,32 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = bedouin_arabic
+religion = sunni
+technology_group = muslim
+capital = 2543	# Abu Dhabi
+
+1971.12.1 = {
+	monarch = {
+		name = "Zayed bin Sultan Al Nahyan"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+2004.11.3 = {
+	monarch = {
+		name = "Khalifa bin Zayed Al Nahyan"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}

@@ -1,0 +1,29 @@
+#2101 - Nyikina
+
+culture = aboriginal
+religion = animism
+capital = "Nyikina"
+native_size = 90
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_ferocity = 4.5
+native_hostileness = 9
+
+1699.1.1   = { discovered_by = GBR } # William Dampier
+1825.1.1 = { base_tax = 2 }
+1880.1.1   = { 	owner = GBR
+		controller = GBR
+		citysize = 100
+		culture = english
+		religion = protestant
+		capital = "Broome"
+		trade_goods = grain
+	     }
+1900.1.1   = { is_city = yes }
+1942.10.9  = { owner = AUS controller = AUS add_core = AUS remove_core = GBR } #Statute of Westminster
+2000.1.1 = { base_production = 2 base_manpower = 2 }
+
+

@@ -1,0 +1,72 @@
+#2569 - Meknes
+
+owner = MOO
+controller = MOO 
+culture = berber
+religion = african
+capital = "Meknes"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core = MOO
+discovered_by = western
+discovered_by = barbarian
+discovered_by = eastern
+discovered_by = roman_group
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+
+320.1.1 = { religion = chalcedonism }
+708.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = MOO }
+730.1.1 = { religion = shiite culture = moroccan }
+750.1.1 = { owner = ABB controller = ABB add_core = ABB remove_core = UMA }
+789.1.1 = { owner = MOR controller = MOR add_core = MOR remove_core = ABB }
+922.1.1 = { owner = FAT controller = FAT }
+925.1.1 = { owner = MOR controller = MOR }
+927.1.1 = { owner = FAT controller = FAT }
+937.1.1 = { owner = MOR controller = MOR }
+974.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = MOR }
+1031.1.1 = { owner = FEZ controller = FEZ add_core = FEZ remove_core = UMA }
+1040.1.1 = { owner = AMR controller = AMR add_core = AMR remove_core = FEZ }
+1050.1.1 = { religion = sunni }
+1147.4.1 = { owner = AMH controller = AMH add_core = AMH remove_core = AMR }
+1269.1.1 = { owner = MOR controller = MOR add_core = MOR remove_core = AMH }
+
+1465.1.1 = { unrest = 2 } #Marinid Sultan killed by mob. Mohammed ibn Ali Amrani-Joutey (Idrisid) proclaims himself Sultan. Unrest in the entire country. 
+1472.1.1 = {
+	owner = FEZ
+	controller = FEZ
+	unrest = 0
+} #Wattasids take control over Fez, nominal ruler over much of Morocco.
+1549.1.1 = {
+	owner = MOR
+	controller = MOR
+}	#Fall of Fez
+1603.8.1 = { unrest = 5 } #Death of al-Mansur, long period of instability follows
+1638.10.26 = {
+	owner = FEZ
+	controller = FEZ
+} #Dilawites seize the region from squabling Saadite claimants
+1666.6.6 = {
+	owner = TFL
+	controller = TFL
+	add_core = TFL
+	unrest = 0
+}	#Alaouites
+1668.9.7 = {
+	owner = MOR
+	controller = MOR
+	remove_core = TFL
+} #Alaouites reunifies the country
+
+1912.3.30  = { owner = FR2 controller = FR2 add_core = FR2 }
+1940.6.14  = { owner = FRV controller = FRV add_core = FRV } # Vichy France
+1942.11.16 = { owner = FR2 controller = FR2 remove_core = FRV } # Under Free French control after Operation Torch
+1956.3.2   = { owner = MOR controller = MOR remove_core = FR2 }
+
+
+

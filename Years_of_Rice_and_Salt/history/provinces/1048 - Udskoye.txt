@@ -1,0 +1,65 @@
+#1048 - North Sakhalin
+
+culture = ainu
+religion = tengri_pagan_reformed
+capital = "Okha"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 1
+discovered_by = JAP
+discovered_by = AMA
+discovered_by = ASA
+discovered_by = CSK
+discovered_by = DTE
+discovered_by = HJO
+discovered_by = HSK
+discovered_by = HTK
+discovered_by = IKE
+discovered_by = IMG
+discovered_by = MAE
+discovered_by = MRI
+discovered_by = ODA
+discovered_by = OTM
+discovered_by = OUC
+discovered_by = SBA
+discovered_by = SMZ
+discovered_by = TKD
+discovered_by = TKG
+discovered_by = UES
+discovered_by = YMN
+discovered_by = MYR
+discovered_by = MJZ
+discovered_by = MHX
+discovered_by = MNG
+discovered_by = ANU
+discovered_by = HOD
+discovered_by = CHU
+discovered_by = CHV
+discovered_by = KMC
+
+1206.1.1 = { owner = MYR controller = MYR add_core = MYR is_city = yes trade_goods = fish }
+
+1640.1.1  = { discovered_by = RUS } # Ivan Moskvitin
+1689.8.27 = {	discovered_by = QNG
+		owner = QNG
+		controller = QNG
+		remove_core = MYR
+	    } # Treaty of Nerchinsk
+1807.1.1  = { add_core = JAP }
+
+1845.1.1   = { add_core = JAP }
+1849.1.1   = { owner = RUS controller = RUS add_core = RUS }
+1862.1.1   = { capital = "Alexandrovskaya" culture = russian religion = orthodox }
+1922.12.30 = { owner = SOV controller = SOV add_core = SOV }
+1923.1.1   = { trade_goods = oil }
+1926.1.1   = { capital = "Alexandrovsk-Sakhalinsky" }
+1960.1.1   = { capital = "Okha" }
+1991.12.25 = { owner = RUS controller = RUS remove_core = SOV }
+
+
+

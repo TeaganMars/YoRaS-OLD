@@ -1,0 +1,85 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = 4
+#centralization_decentralization = -2
+#innovative_narrowminded = -2
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 4
+#land_naval = -4
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = andalucian
+religion = sunni
+add_accepted_culture = berber
+technology_group = muslim
+capital = 218	# Badajoz
+
+1011.1.1 = {
+	monarch = {
+		name = "Abu Muhammad Abdallah ben Muhammad el Sabur al-Saqlabi"
+		dynasty = "Aftasid"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}	
+
+1022.1.1 = {
+	monarch = {
+		name = "Abdallah ibn Muhammad ibn Maslamah ibn al-Aftas"
+		dynasty = "Aftasid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1045.1.1 = {
+	monarch = {
+		name = "Abu Bakr Muhammad ibn Abdallah al-Muzzaffar"
+		dynasty = "Aftasid"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1067.6.1 = {
+	monarch = {
+		name = "Yahya ibn Muhammad al-Mansur"
+		dynasty = "Aftasid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1073.1.1 = {
+	monarch = {
+		name = "'Umar ibn Muhammas al-Mutawakkil"
+		dynasty = "Aftasid"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1144.1.1 = {
+	monarch = {
+		name = "Aben Hacham"
+		dynasty = "Aftasid"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1146.1.1 = {
+	monarch = {
+		name = "Sidrey"
+		dynasty = "Aftasid"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}

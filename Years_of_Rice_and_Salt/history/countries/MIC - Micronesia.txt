@@ -1,0 +1,88 @@
+government = constitutional_republic
+#aristocracy_plutocracy = 2
+#centralization_decentralization = -2
+#innovative_narrowminded = 0
+#mercantilism_freetrade = 2
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 3
+#quality_quantity = -2
+#serfdom_freesubjects = 1
+technology_group = western
+primary_culture = english
+religion = protestant
+capital = 1998
+
+1910.1.1 = { religion = secularism }
+
+1979.5.10 = {
+	monarch = {
+		name = "Tosiwo Nakayama"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1987.5.11 = {
+	monarch = {
+		name = "John Haglelgam"
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+1991.5.11 = {
+	monarch = {
+		name = "Bailey Olter"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1996.11.8 = {
+	monarch = {
+		name = "Jacob Nena"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1999.5.11 = {
+	monarch = {
+		name = "Leo Falcam"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+2003.5.11 = {
+	monarch = {
+		name = "Joseph Urusemal"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+2007.5.11 = {
+	monarch = {
+		name = "Manny Mori"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+2015.5.11 = {
+	monarch = {
+		name = "Peter Christian"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}

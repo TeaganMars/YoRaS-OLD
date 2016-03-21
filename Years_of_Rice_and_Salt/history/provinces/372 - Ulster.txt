@@ -1,0 +1,69 @@
+#372 - Ulster
+
+owner = ULA
+controller = ULA
+add_core = ULA
+is_city = yes
+culture = irish
+religion = druidism
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = grain
+base_manpower = 1
+capital = "Carrickfergus"
+discovered_by = PCT
+discovered_by = ULA
+discovered_by = CNN
+
+300.1.1 = { discovered_by = western }
+600.1.1 = { discovered_by = eastern }
+650.1.1 = { base_tax = 2 base_production = 2 }
+700.1.1 = { religion = chalcedonism }
+850.1.1 = { base_manpower = 2 }
+867.1.1 = { religion = catholic }
+1004.1.1 = { owner = IRE controller = IRE add_core = IRE }
+1014.4.23 = { owner = ULA controller = ULA remove_core = IRE }
+1050.1.1 = { base_tax = 3 base_production = 3 }
+1100.1.1 = { discovered_by = muslim discovered_by = ottoman }
+1185.1.1 = { owner = TYR controller = TYR add_core = TYR remove_core = ULA }
+1250.1.1 = { base_tax = 4 base_production = 4 }
+
+1607.9.4   = {	owner = ENG
+		controller = ENG
+		add_core = ENG
+		capital = Belfast
+	     } # Flight of the Earls
+1609.1.1   = { culture = english religion = protestant } # Jacobean Plantations
+1641.10.22 = { unrest = 15 }
+1642.5.1   = { unrest = 0 } # Estimated
+1642.6.7  = { add_core = IRE } # Confederation of Kilkenny
+1646.6.5   = { controller = IRE }
+1650.6.21  = { controller = ENG } # Battle of Scarrifhollis
+1707.5.12  = {	owner = GBR
+		controller = GBR
+		add_core = GBR
+	    	remove_core = ENG
+	     }
+1711.1.1   = { trade_goods = cloth } # Formation of Linen Board
+1751.1.1 = { base_tax = 5 base_production = 5 }
+1776.1.1 = { base_production = 6 base_manpower = 3 }
+1798.5.23  = { unrest = 10 } # Irish rebellion
+1798.7.14  = { unrest = 0 } # The rebels are defeated
+
+1801.1.1 = { base_tax = 6 base_manpower = 4 }
+1825.1.1 = { base_tax = 7 base_manpower = 5 }
+1851.1.1 = { base_production = 7 base_manpower = 6 }
+1875.1.1 = { base_manpower = 8 }
+1900.1.1   = { citysize = 81456 capital = "Belfast" }
+1901.1.1 = { base_production = 9 }
+1919.1.21  = { owner = IRE controller = IRE }
+1922.12.7  = { owner = GBR controller = GBR remove_core = TYR }
+1925.1.1 = { base_tax = 8 base_production = 10 }
+1951.1.1 = { base_production = 12 }
+1975.1.1 = { base_tax = 9 base_manpower = 9 }
+1999.12.1  = { remove_core = IRE }
+2000.1.1 = { base_tax = 13 base_manpower = 10 }
+
+
+

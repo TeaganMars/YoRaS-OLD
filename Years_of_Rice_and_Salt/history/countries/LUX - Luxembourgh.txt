@@ -1,0 +1,574 @@
+government = feudal_monarchy
+government_rank = 1
+#aristocracy_plutocracy = -4
+#centralization_decentralization = 5
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 0
+#serfdom_freesubjects = -3
+primary_culture = wallonian
+religion = catholic
+technology_group = western
+capital = 94	# Luxembourg
+
+963.1.1 = {
+	monarch = {
+		name = "Siegfried I"
+		dynasty = "von Luxemburg"
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+964.1.1 = {
+	heir = {
+		name = "Heinrich"
+		monarch_name = "Heinrich I"
+		dynasty = "von Luxemburg"
+		birth_date = 964.1.1
+		death_date = 1026.2.27
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+998.10.28 = {
+	monarch = {
+		name = "Heinrich I"
+		dynasty = "von Luxemburg"
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+1007.1.1 = {
+	heir = {
+		name = "Heinrich"
+		monarch_name = "Heinrich II"
+		dynasty = "von Luxemburg"
+		birth_date = 1007.1.1
+		death_date = 1047.10.16
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1026.2.27 = {
+	monarch = {
+		name = "Heinrich II"
+		dynasty = "von Luxemburg"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1026.2.27 = {
+	heir = {
+		name = "Giselbert"
+		monarch_name = "Giselbert I"
+		dynasty = "von Luxemburg"
+		birth_date = 1007.1.1
+		death_date = 1059.8.14
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1047.10.16 = {
+	monarch = {
+		name = "Giselbert I"
+		dynasty = "von Luxemburg"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1047.10.16 = {
+	heir = {
+		name = "Conrad"
+		monarch_name = "Conrad I"
+		dynasty = "von Luxemburg"
+		birth_date = 1040.1.1
+		death_date = 1086.8.8
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+1059.8.14 = {
+	monarch = {
+		name = "Conrad I"
+		dynasty = "von Luxemburg"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+1070.1.1 = {
+	heir = {
+		name = "Heinrich"
+		monarch_name = "Heinrich III"
+		dynasty = "von Luxemburg"
+		birth_date = 1070.1.1
+		death_date = 1096.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+}
+
+1086.8.8 = {
+	monarch = {
+		name = "Heinrich III"
+		dynasty = "von Luxemburg"
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+}
+
+1086.8.8 = {
+	heir = {
+		name = "Wilhelm"
+		monarch_name = "Wilhelm I"
+		dynasty = "von Luxemburg"
+		birth_date = 1081.1.1
+		death_date = 1131.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1096.1.1 = {
+	monarch = {
+		name = "Wilhelm I"
+		dynasty = "von Luxemburg"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1106.1.1 = {
+	heir = {
+		name = "Conrad"
+		monarch_name = "Conrad II"
+		dynasty = "von Luxemburg"
+		birth_date = 1106.1.1
+		death_date = 1136.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1131.1.1 = {
+	monarch = {
+		name = "Conrad II"
+		dynasty = "von Luxemburg"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1131.1.1 = {
+	heir = {
+		name = "Heinrich"
+		monarch_name = "Heinrich IV"
+		dynasty = "von Luxemburg"
+		birth_date = 1112.1.1
+		death_date = 1196.8.14
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1136.1.1 = {
+	monarch = {
+		name = "Heinrich IV"
+		dynasty = "von Luxemburg"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1196.8.14 = {
+	monarch = {
+		name = "Otto I"
+		dynasty = "von Hohenstaufen"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1197.1.1 = {
+	monarch = {
+		name = "Ermesinde"
+		dynasty = "von Luxemburg"
+		adm = 1
+		dip = 5
+		mil = 1
+		female = yes
+	}
+}
+
+1216.1.1 = {
+	heir = {
+		name = "Heinrich"
+		monarch_name = "Heinrich V"
+		dynasty = "von Luxemburg"
+		birth_date = 1216.1.1
+		death_date = 1281.12.24
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1247.2.12 = {
+	monarch = {
+		name = "Heinrich V"
+		dynasty = "von Luxemburg"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1247.2.12 = {
+	heir = {
+		name = "Heinrich"
+		monarch_name = "Heinrich VI"
+		dynasty = "von Luxemburg"
+		birth_date = 1240.1.1
+		death_date = 1288.6.5
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1281.12.24 = {
+	monarch = {
+		name = "Heinrich VI"
+		dynasty = "von Luxemburg"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1281.12.24 = {
+	heir = {
+		name = "Heinrich"
+		monarch_name = "Heinrich VII"
+		dynasty = "von Luxemburg"
+		birth_date = 1275.1.1
+		death_date = 1346.8.26
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1288.6.5 = {
+	monarch = {
+		name = "Heinrich VII"
+		dynasty = "von Luxemburg"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1378.11.29 = {
+	monarch = {
+		name = "Wenceslaus I"
+		dynasty = "von Luxemburg"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1388.1.1 = {
+	monarch = {
+		name = "Jobst I"
+		dynasty = "von Luxemburg"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1390.11.1 = {
+	heir = {
+		name = "Elisabeth"
+		monarch_name = "Elisabeth"
+		dynasty = "von Luxemburg"
+		birth_date = 1390.11.1
+		death_date = 1451.8.3
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+		female = yes
+	}
+}
+
+1415.1.1 = {
+	monarch = {
+		name = "Elisabeth I"
+		dynasty = "von Luxemburg"
+		adm = 3
+		dip = 3
+		mil = 2
+		female = yes
+	}
+}
+
+1800.1.1 = { government = administrative_monarchy }
+
+1815.6.9 = {
+	monarch = {
+		name = "Willem I"
+		dynasty = "van Oranje"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1815.6.9 = {
+	heir = {
+		name = "Willem"
+		monarch_name = "Willem II"
+		dynasty = "van Oranje"
+		birth_date = 1792.12.6
+		death_date = 1849.3.17
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+1840.10.7 = {
+	monarch = {
+		name = "Willem II"
+		dynasty = "van Oranje"
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+1840.10.7 = {
+	heir = {
+		name = "Willem"
+		monarch_name = "Willem III"
+		dynasty = "van Oranje"
+		birth_date = 1817.2.17
+		death_date = 1890.11.23
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1849.3.17 = {
+	monarch = {
+		name = "Willem III"
+		dynasty = "van Oranje"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1890.11.23 = { government = constitutional_monarchy }
+
+1890.11.23 = {
+	monarch = {
+		name = "Adolf I"
+		dynasty = "von Nassau-Weilburg"
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+}
+
+1890.11.23 = {
+	heir = {
+		name = "Willem"
+		monarch_name = "Willem IV"
+		dynasty = "von Nassau-Weilburg"
+		birth_date = 1852.4.22
+		death_date = 1912.2.25
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1905.11.17 = {
+	monarch = {
+		name = "Willem IV"
+		dynasty = "von Nassau-Weilburg"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1905.11.17 = {
+	heir = {
+		name = "Marie-Adelheid"
+		monarch_name = "Marie-Adelheid"
+		dynasty = "von Nassau-Weilburg"
+		birth_date = 1894.6.14
+		death_date = 1924.1.24
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 2
+		female = yes
+	}
+}
+
+1910.1.1 = { religion = secularism }
+
+1912.2.25 = {
+	monarch = {
+		name = "Marie-Adelheid"
+		dynasty = "von Nassau-Weilburg"
+		adm = 5
+		dip = 4
+		mil = 2
+		female = yes
+	}
+}
+
+1912.2.25 = {
+	heir = {
+		name = "Charlotte"
+		monarch_name = "Charlotte"
+		dynasty = "von Nassau-Weilburg"
+		birth_date = 1896.1.23
+		death_date = 1964.11.12
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 5
+		female = yes
+	}
+}
+
+1919.1.14 = {
+	monarch = {
+		name = "Charlotte"
+		dynasty = "von Nassau-Weilburg"
+		adm = 4
+		dip = 3
+		mil = 5
+		female = yes
+	}
+}
+
+1921.1.5 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean I"
+		dynasty = "de Bourbon-Parma"
+		birth_date = 1921.1.5
+		death_date = 3000.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1939.1.1 = { government = parliamentary_monarchy }
+
+1958.1.1 = { decision = join_european_union }
+
+1964.11.12 = {
+	monarch = {
+		name = "Jean I"
+		dynasty = "de Bourbon-Parma"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1964.11.12 = {
+	heir = {
+		name = "Henri"
+		monarch_name = "Henri I"
+		dynasty = "de Bourbon-Parma"
+		birth_date = 1955.4.16
+		death_date = 3000.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+
+1999.1.1 = { decision = adopt_the_euro }
+
+2000.10.7 = {
+	monarch = {
+		name = "Henri I"
+		dynasty = "de Bourbon-Parma"
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+
+2000.10.7 = {
+	heir = {
+		name = "Guillaume"
+		monarch_name = "Guillaume I"
+		dynasty = "de Bourbon-Parma"
+		birth_date = 1981.11.11
+		death_date = 3000.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}

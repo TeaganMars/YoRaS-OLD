@@ -1,0 +1,29 @@
+#1955 - Kholmogory
+ 
+culture = karelian
+religion = suomenusko
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown  
+base_manpower = 1
+capital = "Kholmogory"
+
+749.1.1 = { discovered_by = KKS discovered_by = VEP }
+750.1.1 = { owner = VEP controller = VEP add_core = VEP is_city = yes trade_goods = fur }
+900.1.1 = { discovered_by = eastern }
+1000.1.1 = { discovered_by = western }
+1150.1.1 = { owner = NOV controller = NOV add_core = NOV remove_core = VEP }
+1180.1.1 = { culture = russian }
+1200.1.1 = { base_tax = 2 base_production = 2 religion = orthodox discovered_by = nomad_group }
+
+1478.1.15 = { owner = MOS controller = MOS add_core = MOS remove_core = NOV } # Passed to Muscovy with the rest of Novgorod republic
+1503.4.1  = { owner = RUS controller = RUS add_core = RUS remove_core = MOS }
+1598.1.7  = { unrest = 5 } # "Time of troubles"
+1613.3.3  = { unrest = 0 } # Order returned, Romanov dynasty, kremlin built
+
+1922.12.30 = { owner = SOV controller = SOV add_core = SOV }
+1936.1.1   = { capital = "Severodvinsk" }
+1991.12.25 = { owner = RUS controller = RUS remove_core = SOV }
+
+

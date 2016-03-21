@@ -1,0 +1,74 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+#mercantilism_freetrade = 2
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = 3
+#quality_quantity = -1
+#serfdom_freesubjects = -1
+primary_culture = papuan
+religion = catholic
+technology_group = early_chinese
+capital = 635 # Dili
+
+750.1.1 = { technology_group = chinese }
+
+1910.1.1 = { religion = secularism }
+1950.1.1 = { technology_group = asian }
+
+2002.5.20 = {
+	monarch = {
+		name = "Xanana Gusmão"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+2007.5.20 = {
+	monarch = {
+		name = "José Ramos-Horta"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+
+2008.2.11 = {
+	monarch = {
+		name = "Vicente Guterres"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+2008.2.13 = {
+	monarch = {
+		name = "Fernando de Araújo"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+2008.4.17 = {
+	monarch = {
+		name = "José Ramos-Horta"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+2012.5.20 = {
+	monarch = {
+		name = "Taur Matan Ruak"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}

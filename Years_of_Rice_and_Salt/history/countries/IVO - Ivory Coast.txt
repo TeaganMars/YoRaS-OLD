@@ -1,0 +1,63 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = 3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = aka
+religion = sunni
+technology_group = muslim
+capital = 1126
+
+1910.1.1 = { religion = secularism }
+
+1960.8.7 = {
+	monarch = {
+		name = "Félix Houphouêt-Boigny"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1983.3.1 = { capital = 1125 }
+
+1993.12.7 = {
+	monarch = {
+		name = "Henri Konan Bédié"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1999.12.24 = {
+	monarch = {
+		name = "Robert Guéï"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+2000.10.26 = {
+	monarch = {
+		name = "Laurent Gbagbo"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+2010.12.4 = {
+	monarch = {
+		name = "Alassane Ouattara"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}

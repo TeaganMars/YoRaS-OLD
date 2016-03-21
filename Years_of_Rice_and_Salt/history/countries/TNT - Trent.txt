@@ -1,0 +1,186 @@
+government = theocratic_government
+government_rank = 1
+#aristocracy_plutocracy = 5
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -1
+mercantilism = 0.1
+#offensive_defensive = 3
+#land_naval = -3
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+religion = catholic
+primary_culture = austrian
+technology_group = western
+capital = 110	# Trent
+
+1027.1.1 = {
+	monarch = {
+		name = "Ulrich II"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1055.1.1 = {
+	monarch = {
+		name = "Azzo"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1068.1.1 = {
+	monarch = {
+		name = "Henry I"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1082.1.1 = {
+	monarch = {
+		name = "Bernard II"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1084.1.1 = {
+	monarch = {
+		name = "Adalberon"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1106.1.1 = {
+	monarch = {
+		name = "Gebhard"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1120.1.1 = {
+	monarch = {
+		name = "Albert I"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1124.1.1 = {
+	monarch = {
+		name = "Altmann"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1149.1.1 = {
+	monarch = {
+		name = "Arnold II"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1154.1.1 = {
+	monarch = {
+		name = "Eberhard"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1156.1.1 = {
+	monarch = {
+		name = "Albert II"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1177.1.1 = {
+	monarch = {
+		name = "Salomon"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1184.1.1 = {
+	monarch = {
+		name = "Albert III"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1188.1.1 = {
+	monarch = {
+		name = "Conrad II"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1207.8.9 = {
+	monarch = {
+		name = "Federico Wanga"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1219.1.1 = {
+	monarch = {
+		name = "Albert IV"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1223.1.1 = {
+	monarch = {
+		name = "Gerard I"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+1232.1.1 = {
+	monarch = {
+		name = "Aldrighetto"
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+1250.1.1 = {
+	monarch = {
+		name = "Egno"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}

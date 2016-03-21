@@ -1,0 +1,138 @@
+government = parliamentary_republic
+#aristocracy_plutocracy = -3
+#centralization_decentralization = -3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = 1
+#quality_quantity = -1
+#serfdom_freesubjects = -2
+technology_group = western
+religion = catholic
+primary_culture = maltese
+capital = 126		# Valletta
+
+1910.1.1 = { religion = secularism }
+
+1964.9.21 = {
+	monarch = {
+		name = "Giorgio Borg Olivier"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1971.6.21 = {
+	monarch = {
+		name = "Dom Mintoff"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1974.12.13 = {
+	government = constitutional_republic
+	monarch = {
+		name = "Anthony Joseph Mamo"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1976.12.27 = {
+	monarch = {
+		name = "Anton Buttigieg"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1981.12.27 = {
+	monarch = {
+		name = "Albert Hyzler"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1982.2.15 = {
+	monarch = {
+		name = "Agatha Barbara"
+		adm = 5
+		dip = 3
+		mil = 2
+		female = yes
+	}
+}
+
+1987.2.15 = {
+	monarch = {
+		name = "Paul Xuereb"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1989.4.4 = {
+	monarch = {
+		name = "Vincent Tabone"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1994.4.4 = {
+	monarch = {
+		name = "Ugo Mifsud Bonnici"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1999.4.4 = {
+	monarch = {
+		name = "Guido de Marco"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+2004.4.4 = {
+	monarch = {
+		name = "Edward Fenech Adami"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+2004.5.1 = { decision = join_european_union }
+
+2009.4.4 = {
+	monarch = {
+		name = "George Abela"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+2014.4.4 = {
+	monarch = {
+		name = "Marie Louise Coleiro Preca"
+		adm = 5
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}

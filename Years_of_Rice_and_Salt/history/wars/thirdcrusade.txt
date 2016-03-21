@@ -1,0 +1,42 @@
+name = "Third Crusade"
+
+war_goal = {
+	type = superiority_crusade
+	casus_belli = cb_crusade
+}
+
+1187.10.2 = {
+	add_attacker = PAP
+	add_attacker = KOJ
+	add_attacker = TPL
+	add_attacker = ANT
+	add_attacker = ENG
+	add_attacker = GUY
+	add_attacker = FRA
+	add_attacker = FRC
+	add_attacker = SWA
+	add_attacker = HAB
+	add_attacker = BOH
+	add_attacker = HUN
+	add_defender = AYY
+	add_defender = ZNG
+	add_defender = RUM
+}
+
+1192.9.2 = {
+	rem_attacker = PAP
+	rem_attacker = KOJ
+	rem_attacker = TPL
+	rem_attacker = ANT
+	rem_attacker = ENG
+	rem_attacker = GUY
+	rem_attacker = FRA
+	rem_attacker = FRC
+	rem_attacker = SWA
+	rem_attacker = HAB
+	rem_attacker = BOH
+	rem_attacker = HUN
+	rem_defender = AYY
+	rem_defender = ZNG
+	rem_defender = RUM
+}

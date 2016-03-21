@@ -1,0 +1,50 @@
+#2520 - Wadi Halfa
+
+owner = MEO
+controller = MEO
+add_core = MEO
+culture = nubian 
+religion = egyptian
+capital = "Wadi Halfa"
+base_manpower = 1
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+is_city = yes
+discovered_by = MEO
+discovered_by = BLE
+discovered_by = AKS
+discovered_by = MAK
+discovered_by = NOB
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = ZIM
+discovered_by = AJU
+discovered_by = MBA
+discovered_by = MDI
+discovered_by = MLI
+discovered_by = SFA
+
+340.1.1 = { religion = african }
+350.1.1 = { owner = MAK controller = MAK add_core = MAK remove_core = MEO }
+550.1.1 = { religion = coptic }
+1200.1.1 = { discovered_by = MAM }
+1276.1.1 = { owner = MAM controller = MAM add_core = MAM }
+1286.1.1 = { owner = MAK controller = MAK remove_core = MAM }
+
+# 1453.1.1 = { controller = REB } # Under control of Awlad Kenz
+1517.1.1 = { add_core = TUR } # Mamluks fall to Ottomans, Ottomans do not advance up Nile
+1540.1.1 = {	owner = TUR
+		controller = TUR		
+	   } #Ottomans occupy Lower Nubia
+1805.5.17 = { owner = EGY controller = EGY add_core = EGY }
+
+1882.9.13  = { owner = GBR controller = GBR add_core = GBR remove_core = TUR }
+1899.6.19  = { add_core = SUD }
+1956.1.1   = { owner = SUD controller = SUD remove_core = GBR remove_core = EGY }
+
+
+

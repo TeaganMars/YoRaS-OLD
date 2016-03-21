@@ -1,0 +1,6 @@
+#1382 - Bay of Komenskoie
+
+1647.1.1 = { discovered_by = RUS }
+
+
+

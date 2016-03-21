@@ -1,0 +1,58 @@
+government = tribal_kingdom
+mercantilism = 0.1
+primary_culture = berber
+religion = african
+technology_group = middle_eastern
+capital = 336 #Altava
+
+340.1.1 = { religion = chalcedonism }
+
+450.1.1 = {
+	monarch = {
+		name = "Masuna"
+		dynasty = "Altava"
+		dip = 3
+		adm = 2
+		mil = 3
+	}
+}
+
+500.1.1 = {
+	monarch = {
+		name = "Garmul"
+		dynasty = "Altava"
+		dip = 3
+		adm = 2
+		mil = 3
+	}
+}
+
+535.1.1 = {
+	monarch = {
+		name = "Mastigas"
+		dynasty = "Altava"
+		dip = 3
+		adm = 2
+		mil = 3
+	}
+}
+
+600.1.1 = {
+	monarch = {
+		name = "Yabdas"
+		dynasty = "Altava"
+		dip = 3
+		adm = 2
+		mil = 2
+	}
+}
+
+650.1.1 = {
+	monarch = {
+		name = "Aksel"
+		dynasty = "Altava"
+		dip = 3
+		adm = 2
+		mil = 4
+	}
+}

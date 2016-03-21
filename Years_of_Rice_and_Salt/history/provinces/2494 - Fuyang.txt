@@ -1,0 +1,64 @@
+#2494 - Fuyang
+
+owner = HND
+controller = HND
+culture = chihan
+religion = confucianism
+capital = "Fuyang"
+trade_goods = grain
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_core = HND
+add_core = WEI
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+
+220.1.1 = { owner = WEI controller = WEI add_core = WEI remove_core = HND }
+265.2.4 = { owner = JIN controller = JIN add_core = JIN remove_core = WUU }
+420.1.1 = { owner = LSO controller = LSO add_core = LSO remove_core = JIN }
+479.1.1 = { owner = QIC controller = QIC add_core = QIC remove_core = LSO }
+550.6.7 = { owner = QIC controller = QIC add_core = QIC remove_core = WEI }
+577.2.28 = { owner = CZH controller = CZH add_core = CZH remove_core = QIC }
+581.3.4 = { owner = SUI controller = SUI add_core = SUI remove_core = CZH }
+618.6.18 = { owner = TNG controller = TNG add_core = TNG remove_core = SUI }
+907.6.1 = { owner = WUU controller = WUU add_core = WUU remove_core = TNG }
+937.1.1 = { owner = TNG controller = TNG add_core = TNG remove_core = WUU }
+975.1.1 = { owner = SNG controller = SNG add_core = SNG remove_core = TNG }
+1127.1.1 = { owner = JIN controller = JIN add_core = JIN remove_core = SNG }
+1234.2.9 = { owner = MGE controller = MGE add_core = MGE add_core = CSH remove_core = JIN }
+1260.1.1 = { owner = KHA controller = KHA add_core = KHA remove_core = MGE }
+1271.1.1 = { owner = YUA controller = YUA add_core = YUA remove_core = KHA }
+1368.1.1 = { owner = KHA controller = KHA add_core = KHA remove_core = YUA }
+1382.1.1 = { owner = MNG controller = MNG add_core = MNG remove_core = KHA }
+
+1608.1.1 = { discovered_by = SPA }
+1645.6.1 = {	owner = QNG
+		controller = QNG
+		add_core = QNG
+		}
+
+1750.1.1 = { base_tax = 5 base_production = 3 }
+1775.1.1 = { base_tax = 7 base_production = 4 base_manpower = 3 }
+1800.1.1 = { base_tax = 8 base_production = 8 }
+1825.1.1 = { base_manpower = 8 }
+1851.1.1 = { base_tax = 9 base_production = 11 base_manpower = 9 }
+1875.1.1 = { base_production = 16 }
+1901.1.1 = { base_production = 19 base_manpower = 10 }
+1911.12.2  = { revolt = { type = revolutionary_rebels size = 1 } controller = REB }
+1912.2.12  = { revolt = {} owner = CHN controller = CHN add_core = CHN remove_core = QNG remove_core = CSH }
+1924.11.3  = { revolt = { type = zhili_clique size = 0 } controller = REB }
+1927.4.18  = { revolt = {} controller = CHN }
+1929.1.1 = { base_tax = 10 base_production = 21 base_manpower = 12 }
+1949.1.10  = { revolt = { type = communist_rebels size = 0 } controller = REB }
+1949.10.1  = { revolt = {} controller = CHN }
+1950.1.1 = { base_tax = 11 base_manpower = 16 }
+1975.1.1 = { base_tax = 12 base_manpower = 20 }
+2000.1.1 = { base_tax = 21 base_manpower = 21 }
+
+
+

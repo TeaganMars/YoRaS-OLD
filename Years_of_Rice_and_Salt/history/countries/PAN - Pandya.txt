@@ -1,0 +1,299 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = tamil
+religion = hinduism
+technology_group = early_indian
+capital = 536 #Madurai
+
+2.1.1 = {
+	monarch = {
+		name = "Koon Pandiyan"
+		dynasty = "Pandya"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+50.1.1 = {
+	monarch = {
+		name = "Nedunj Cheliyan I"
+		dynasty = "Pandya"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+90.1.1 = {
+	monarch = {
+		name = "Mudukudumi Paruvaludhi"
+		dynasty = "Pandya"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+130.1.1 = {
+	monarch = {
+		name = "Nedunj Cheliyan II"
+		dynasty = "Pandya"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+170.1.1 = {
+	monarch = {
+		name = "Nan Maran"
+		dynasty = "Pandya"
+		adm = 2
+		mil = 2
+		dip = 4
+	}
+}
+
+200.1.1 = {
+	monarch = {
+		name = "Nedunj Cheliyan III"
+		dynasty = "Pandya"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+240.1.1 = {
+	monarch = {
+		name = "Kadalul Maintha Ukkirap Peruvaludi"
+		dynasty = "Pandya"
+		adm = 2
+		mil = 1
+		dip = 1
+	}
+}
+
+436.1.1 = {
+	monarch = {
+		name = "Pandu"
+		dynasty = "Pandya"
+		adm = 2
+		mil = 3
+		dip = 4
+	}
+}
+
+441.1.1 = {
+	monarch = {
+		name = "Khudda Parinda"
+		dynasty = "Pandya"
+		adm = 3
+		mil = 3
+		dip = 2
+	}
+}
+
+447.1.1 = {
+	monarch = {
+		name = "Dathiya"
+		dynasty = "Pandya"
+		adm = 2
+		mil = 4
+		dip = 2
+	}
+}
+
+450.1.1 = {
+	monarch = {
+		name = "Pithiya"
+		dynasty = "Pandya"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+560.1.1 = {
+	monarch = {
+		name = "Kadungon"
+		dynasty = "Pandya"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+590.1.1 = {
+	monarch = {
+		name = "Maravarman Avani Culamani"
+		dynasty = "Pandya"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+
+620.1.1 = {
+	monarch = {
+		name = "Cezhiyan Cendan"
+		dynasty = "Pandya"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+640.1.1 = {
+	monarch = {
+		name = "Arikesari Maravarman"
+		dynasty = "Pandya"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+710.1.1 = {
+	monarch = {
+		name = "Kochadaiyan Ranadhiran"
+		dynasty = "Pandya"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+735.1.1 = {
+	monarch = {
+		name = "Maravarman Rajasimha I"
+		dynasty = "Pandya"
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+750.1.1 = { technology_group = indian }
+
+765.1.1 = {
+	monarch = {
+		name = "Parantaka Nedunjadaiyan"
+		dynasty = "Pandya"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+790.1.1 = {
+	monarch = {
+		name = "Rajasingan II"
+		dynasty = "Pandya"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+800.1.1 = {
+	monarch = {
+		name = "Varagunan I"
+		dynasty = "Pandya"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+830.1.1 = {
+	monarch = {
+		name = "Sirmara Srivallabha"
+		dynasty = "Pandya"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+862.1.1 = {
+	monarch = {
+		name = "Varagunavarman II"
+		dynasty = "Pandya"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+880.1.1 = {
+	monarch = {
+		name = "Parantaka Viranarayana"
+		dynasty = "Pandya"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+900.1.1 = {
+	monarch = {
+		name = "Maravarman Rajasimha II"
+		dynasty = "Pandya"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1216.1.1 = {
+	monarch = {
+		name = "Maravarman Sundara I"
+		dynasty = "Pandya"
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+}
+
+1238.1.1 = {
+	monarch = {
+		name = "Maravarman Sundara II"
+		dynasty = "Pandya"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1251.1.1 = {
+	monarch = {
+		name = "Jatavarman Sundara"
+		dynasty = "Pandya"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1268.1.1 = {
+	monarch = {
+		name = "Maaravaramban Kulasekara I"
+		dynasty = "Pandya"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1309.1.1 = {
+	monarch = {
+		name = "Vira IV"
+		dynasty = "Pandya"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}

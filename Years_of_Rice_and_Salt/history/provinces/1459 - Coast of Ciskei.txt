@@ -1,0 +1,6 @@
+#1459 - Coast of Ciskei
+
+1481.1.1 = { discovered_by = POR }
+
+
+

@@ -1,0 +1,148 @@
+government = despotic_monarchy
+government_rank = 3
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = 1
+#quality_quantity = -1
+#serfdom_freesubjects = -2
+primary_culture = roman
+add_accepted_culture = celtiberian
+add_accepted_culture = gallian
+add_accepted_culture = greek
+add_accepted_culture = illyrian
+religion = chalcedonism
+technology_group = roman_group
+historical_friend = BYZ
+capital = 104	# Mediolanum
+
+390.1.1 = { decision = dummy_empire_declining }
+
+395.1.17 = {
+	monarch = {
+		name = "Honorius"
+		dynasty = "Theodosian"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+402.1.1 = { capital = 114 } #Ravenna
+
+423.8.27 = {
+	monarch = {
+		name = "Joannes"
+		dynasty = "Theodosian"
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+}
+
+425.7.2 = {
+	monarch = {
+		name = "Valentinian III"
+		dynasty = "Theodosian"
+		adm = 3
+		dip = 4
+		mil = 4
+		leader = {	name = "Valentinian III"      	type = general	rank = 0	fire = 2	shock = 2	manuever = 1	siege = 0}
+	}
+}
+
+425.10.19 = { leader = {	name = "Flavius Aetius" type = general rank = 3	fire = 3 shock = 4 manuever = 3	siege = 1 death_date = 454.9.21 } }
+
+455.3.17 = { decision = dummy_empire_fragmenting }
+
+455.3.17 = {
+	monarch = {
+		name = "Petronius Maximus"
+		adm = 5
+		dip = 5
+		mil = 3
+		leader = {	name = "Petronius Maximus"        	type = general	rank = 0	fire = 3	shock = 3	manuever = 3	siege = 0}
+	}
+}
+
+455.6.1 = {
+	monarch = {
+		name = "Avitus"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+457.4.1 = {
+	monarch = {
+		name = "Majorian"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+461.11.1 = {
+	monarch = {
+		name = "Libius Severus"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+467.4.12 = {
+	monarch = {
+		name = "Anthemius"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+470.1.1 = { decision = dummy_empire_collapsing }
+
+472.4.11 = {
+	monarch = {
+		name = "Olybrius"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+473.3.1 = {
+	monarch = {
+		name = "Glycerius"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+474.6.10 = {
+	monarch = {
+		name = "Julius Nepos"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+475.10.31 = {
+	monarch = {
+		name = "Romulus Augustus"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+#Fell sept 4, 476
+
+476.9.4 = { decision = dummy_clear_decline }
+

@@ -1,0 +1,85 @@
+#516 - Ahmadabad
+
+owner = WSA
+controller = WSA
+culture = gujarati
+religion = hinduism
+capital = "Ashaval"
+trade_goods = cloth
+hre = no
+base_tax = 6
+base_production = 7
+base_manpower = 2
+is_city = yes
+add_core = WSA
+discovered_by = early_indian
+discovered_by = indian
+discovered_by = muslim
+discovered_by = middle_eastern 
+discovered_by = ottoman
+discovered_by = western_nomad_group
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+discovered_by = early_chinese
+discovered_by = chinese
+
+2.1.1 = {
+		add_permanent_province_modifier = {
+			name = center_of_trade_modifier
+			duration = -1
+		}
+}
+
+405.1.1 = { owner = GUP controller = GUP add_core = GUP remove_core = WSA }
+475.1.1 = { owner = GUJ controller = GUJ add_core = GUJ remove_core = GUP }
+520.1.1 = { religion = jainism }
+620.1.1 = { owner = HRS controller = HRS add_core = HRS }
+647.1.1 = { owner = GUJ controller = GUJ remove_core = HRS }
+767.1.1 = { owner = GUR controller = GUR add_core = GUR remove_core = GUJ }
+942.1.1 = { owner = GUJ controller = GUJ add_core = GUJ remove_core = GUR }
+1100.1.1 = {   }
+1180.1.1 = { religion = hinduism }
+1297.1.1 = { owner = DLH controller = DLH add_core = DLH }
+1300.1.1 = {   }
+1391.1.1 = { owner = GUJ controller = GUJ remove_core = DLH }
+
+1411.1.1 = { capital = "Ahmadabad" }
+1498.1.1 = { discovered_by = POR }
+1573.6.1 = {
+	owner = MUG
+	controller = MUG
+	add_core = MUG
+} # Conquered by Akbar
+1725.1.1 = {
+	owner = GUJ
+	controller = GUJ
+	remove_core = MUG	
+} #Mughal governor
+1751.1.1 = { base_tax = 7 base_manpower = 3 }
+1757.1.1 = {
+	owner = BDA
+	controller = BDA
+	add_core = BDA
+} # Conquered by the Marathas
+1775.1.1 = { base_tax = 8 base_manpower = 5 }
+1801.1.1 = { base_tax = 9 base_manpower = 6 }
+1818.6.3 = {
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = BDA
+}
+
+1825.1.1 = { base_tax = 11 base_manpower = 7 }
+1851.1.1 = { base_production = 9 }
+1875.1.1 = { base_tax = 13 base_manpower = 8 }
+1901.1.1 = { base_tax = 14 base_manpower = 9 }
+1925.1.1 = { base_tax = 15 base_production = 11 }
+1930.1.1  = { add_core = IND remove_core = GUJ }
+1947.8.15 = { owner = IND controller = IND remove_core = GBR }
+1951.1.1 = { base_manpower = 11 }
+1975.1.1 = { base_tax = 17 base_manpower = 12 }
+2000.1.1 = { base_production = 15 base_manpower = 14 }
+
+
+

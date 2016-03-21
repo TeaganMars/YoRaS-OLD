@@ -1,0 +1,31 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = bedouin_arabic
+culture_group_union = turko_semitic	#Arabic
+religion = sunni
+technology_group = muslim
+capital = 385 # Mecca
+
+1920.1.1 = {
+	government = constitutional_republic
+	primary_culture = al_misr_arabic
+	capital = 361	# Cairo
+}
+
+1956.6.23 = {
+	monarch = {
+		name = "Gamal Abdel Nasser"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1970.10.15 = {
+	monarch = {
+		name = "Anwar Sadat"
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+}

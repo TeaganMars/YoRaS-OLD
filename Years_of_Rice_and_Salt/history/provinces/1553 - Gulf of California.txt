@@ -1,0 +1,7 @@
+#1553 - Gulf of California
+
+discovered_by = AZT
+1533.1.1 = { discovered_by = SPA }
+
+
+

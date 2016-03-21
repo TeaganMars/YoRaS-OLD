@@ -1,0 +1,26 @@
+government = tribal_despotism
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -3
+primary_culture = senegambian
+religion = african
+technology_group = sub_saharan
+capital = 1116	# Wolof
+
+1030.1.1 = {
+	monarch = {
+		name = "War Jabi"
+		dynasty = "Takrur"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1035.1.1 = { religion = sunni }

@@ -1,0 +1,6 @@
+#1493 - Strait of Belle Isle
+
+1534.1.1 = { discovered_by = FRA } # Jacques Cartier
+
+
+

@@ -1,0 +1,30 @@
+#2824 - Jurua
+
+culture = tupinamba
+religion = south_american
+capital = "Jurua"
+native_size = 90
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_ferocity = 4.5
+native_hostileness = 9 
+discovered_by = south_american
+
+1850.1.1 = { 	discovered_by = BRZ
+		owner = BRZ 
+		controller = BRZ 
+		add_core = BRZ
+		is_city = yes
+		trade_goods = grain
+		capital = "Tabatinga"
+	   }
+1940.1.1   = {  discovered_by = eastern
+		discovered_by = muslim
+		discovered_by = ottoman
+		discovered_by = asian
+	     }
+
+

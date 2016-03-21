@@ -1,0 +1,101 @@
+government = despotic_monarchy
+government_rank = 1
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 0
+#innovative_narrowminded = 1
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -1
+#quality_quantity = -1
+#serfdom_freesubjects = -1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 318	# Smyrna
+
+1313.1.1 = {
+	monarch = {
+		name = "Saruhan"
+		dynasty = "Saruhanoglu"
+		birth_date = 1300.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_piety = -0.1
+}
+
+1316.1.1 = {
+	heir = {
+		name = "Ilyas"
+		monarch_name = "Ilyas"
+		dynasty = "Saruhanoglu"
+		birth_date = 1316.1.1
+		death_date = 1362.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+
+1346.1.1 = {
+	monarch = {
+		name = "Ilyas"
+		dynasty = "Saruhanoglu"
+		birth_date = 1316.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+
+1346.1.1 = {
+	heir = {
+		name = "Ishak"
+		monarch_name = "Ishak"
+		dynasty = "Saruhanoglu"
+		birth_date = 1332.1.1
+		death_date = 1388.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1362.1.1 = {
+	monarch = {
+		name = "Ishak"
+		dynasty = "Saruhanoglu"
+		birth_date = 1332.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1362.1.1 = {
+	heir = {
+		name = "Hizir"
+		monarch_name = "Hizir I"
+		dynasty = "Saruhanoglu"
+		birth_date = 1358.1.1
+		death_date = 1410.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}
+
+1388.1.1 = {
+	monarch = {
+		name = "Hizir I"
+		dynasty = "Saruhanoglu"
+		birth_date = 1358.1.1
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}

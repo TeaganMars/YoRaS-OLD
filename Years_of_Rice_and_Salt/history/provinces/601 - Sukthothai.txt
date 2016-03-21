@@ -1,0 +1,56 @@
+#601 - Sukthothai
+
+owner = MNX
+controller = MNX
+culture = central_thai
+religion = mahayana
+capital = "Sukhothai"
+trade_goods = chinaware
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = MNX
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = early_indian
+discovered_by = indian
+
+550.1.1 = { owner = DVA controller = DVA add_core = DVA remove_core = MNX }
+600.1.1 = { base_tax = 2 base_production = 2 }
+661.1.1 = { owner = LAV controller = LAV add_core = LAV remove_core = DVA }
+700.1.1 = { base_manpower = 2 }
+800.1.1 = { base_tax = 3 base_production = 3 }
+880.1.1 = { owner = KHM controller = KHM add_core = KHM }
+900.1.1 = { base_manpower = 3 }
+1000.1.1 = { base_tax = 4 base_production = 4 }
+1060.1.1 = { owner = LAV controller = LAV remove_core = KHM }
+1100.1.1 = { base_tax = 5 base_production = 5 }
+1200.1.1 = { base_tax = 6 base_production = 6 }
+1238.1.1 = { owner = SUK controller = SUK add_core = SUK remove_core = LAV fort_15th = yes }
+1260.1.1 = { religion = buddhism }
+
+1438.1.1 = {	
+		add_core = AYU
+	   } # Sukhothai is under Personal Union with Ayutthaya
+1456.1.1 = { add_core = LNA } # Lan Na Invasion of Sukhothai
+1474.1.1 = { remove_core = LNA }
+1530.1.1 = { owner = AYU
+		controller = AYU
+		remove_core = SUK
+} # Completely annexed by Ayutthaya
+1535.1.1 = { discovered_by = POR }
+1767.4.1 = { unrest = 7 } # The fall of Ayutthaya
+1768.1.1 = { base_production = 7 }
+1774.1.1 = { unrest = 0 }
+
+1810.1.1 = { base_manpower = 4 }
+1853.1.1 = { base_manpower = 5 }
+1896.1.1 = { base_tax = 7 }
+1932.7.24  = { owner = THL controller = THL add_core = THL remove_core = AYU }
+1939.1.1 = { base_tax = 8 }
+2000.1.1 = { base_production = 8 base_manpower = 6 }
+
+
+

@@ -1,0 +1,33 @@
+#1089 - Wiradjuri
+
+culture = aboriginal
+religion = animism
+capital = "Wiradjuri"
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+native_size = 10
+native_ferocity = 1
+native_hostileness = 1
+
+1775.1.1 = { base_manpower = 3 }
+1825.1.1 = { base_tax = 4 }
+1846.1.1   = {	discovered_by = GBR
+		owner = GBR
+		controller = GBR
+		culture = english
+		religion = protestant
+		trade_goods = wine
+		capital = "Orange"
+	     	citysize = 500
+	     }
+1850.1.1   = { is_city = yes add_core = GBR }
+1875.1.1 = { base_production = 4 }
+1925.1.1 = { base_tax = 5 }
+1942.10.9  = { owner = AUS controller = AUS add_core = AUS remove_core = GBR } #Statute of Westminster
+2000.1.1 = { base_production = 5 base_manpower = 4 }
+
+
+

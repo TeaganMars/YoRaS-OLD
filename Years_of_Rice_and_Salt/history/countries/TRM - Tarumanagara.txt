@@ -1,0 +1,106 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 4
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = 4
+#quality_quantity = 3
+#serfdom_freesubjects = -3
+primary_culture = javanese
+technology_group = early_chinese
+religion = hinduism
+capital = 630	# Sundapura
+
+358.1.1 = {
+	monarch = {
+		name = "Rajadirajaguru Jayasingawarman"
+		dynasty = "Tarumanagara"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+382.1.1 = {
+	monarch = {
+		name = "Dharmayawarman"
+		dynasty = "Tarumanagara"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+395.1.1 = {
+	monarch = {
+		name = "Purnawarman"
+		dynasty = "Tarumanagara"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+434.1.1 = {
+	monarch = {
+		name = "Wisnuwarman"
+		dynasty = "Tarumanagara"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+455.1.1 = {
+	monarch = {
+		name = "Indrawarman"
+		dynasty = "Tarumanagara"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+515.1.1 = {
+	monarch = {
+		name = "Candrawarman"
+		dynasty = "Tarumanagara"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+535.1.1 = {
+	monarch = {
+		name = "Suryawarman"
+		dynasty = "Tarumanagara"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+561.1.1 = {
+	monarch = {
+		name = "Kertawarman"
+		dynasty = "Tarumanagara"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+628.1.1 = {
+	monarch = {
+		name = "Linggawarman"
+		dynasty = "Tarumanagara"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+750.1.1 = { technology_group = chinese }

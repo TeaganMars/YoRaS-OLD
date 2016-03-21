@@ -1,0 +1,124 @@
+#563 - Gauda
+
+owner = MGH
+controller = MGH
+culture = bengali
+religion = hinduism
+capital = "Pandua"
+trade_goods = cotton
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+add_core = MGH
+discovered_by = early_indian
+discovered_by = indian
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = early_chinese
+discovered_by = chinese
+
+300.1.1 = { base_tax = 3 base_production = 3 }
+320.1.1 = { owner = GUP controller = GUP add_core = GUP remove_core = MGH }
+400.1.1 = { base_manpower = 3 }
+500.1.1 = { base_tax = 4 base_production = 4 }
+600.1.1 = { owner = VGA controller = VGA add_core = VGA remove_core = GUP }
+625.1.1 = { owner = HRS controller = HRS add_core = HRS remove_core = VGA }
+647.1.1 = { owner = MAU controller = MAU add_core = MAU remove_core = HRS }
+700.1.1 = { base_manpower = 4 }
+740.1.1 = { religion = mahayana }
+750.1.1 = { owner = PAA controller = PAA add_core = PAA remove_core = MAU }
+800.1.1 = { base_tax = 5 base_production = 5 discovered_by = nomad_group }
+900.1.1 = { fort_15th = yes }
+1000.1.1 = { base_manpower = 5 }
+1100.1.1 = { base_tax = 6 base_production = 6 }
+1170.1.1 = { religion = hinduism }
+1174.1.1 = { owner = SEN controller = SEN add_core = SEN remove_core = PAA }
+1193.1.1 = { owner = GHU controller = GHU add_core = GHU }
+1200.1.1 = { base_tax = 7 base_production = 7 }
+1206.1.1 = { owner = SEN controller = SEN remove_core = GHU }
+1230.1.1 = { owner = NIZ controller = NIZ add_core = NIZ remove_core = SEN }
+1280.1.1 = { owner = DLH controller = DLH add_core = DLH add_core = BNG remove_core = NIZ }
+1342.1.1 = { owner = BNG controller = BNG remove_core = DLH }
+
+1453.1.1 = {
+	capital = "Gaur"
+}
+1538.6.1 = { controller = MUG } # Mughal Invasion
+1539.1.1 = { controller = BNG } # Surs again in control
+1570.1.1 = { religion = sunni }
+1576.7.12 = {
+	owner = MUG
+	controller = MUG
+	revolt_risk = 8
+} #Mughal takeover, but the land remains in the hand of Afghan and Hindu landowners with interests vested against the Mughal dynasty and a deep hatred for the Mughal state
+1587.1.1 = {
+	revolt_risk = 0
+	add_core = MUG
+} # Integrated into Mughal Empire
+1622.10.1 = {
+	controller = REB
+	revolt = {
+		type = pretender_rebels
+		size = 0
+		name = "Khurrams Faction"
+		leader = "Shah Jahan Timurid"
+	}
+} #With some aid from Golconda Khurrams rebelion against his father continues
+1623.5.1 = {
+	revolt = {
+		type = pretender_rebels
+		size = 1
+		name = "Khurrams Faction"
+		leader = "Shah Jahan Timurid"
+	}
+} #Defeated, retreats into Bengal
+1624.1.1 = {
+	controller = MUG
+	revolt = { }
+} #Khurram is defeated and is chased away by Mughal forces and rebelious Zamindars. Takes refuge in Ahmednagar and eventually surrenders on terms dictated by Nur Jahan
+1627.1.1 = { discovered_by = POR }
+1657.9.14 = {
+	controller = REB
+	revolt = {
+		type = pretender_rebels
+		size = 0
+		name = "Muhammed Shuja's Faction"
+		leader = "Muhammed Shuja Timurid"
+	}
+} # Shah Jahan falls ill, his sons starts civil war
+1658.12.28 = {
+	controller = MUG
+	revolt = { }
+} # Muhammed Shuja defeated by Aurangzeb
+1707.3.15 = {
+	owner = BNG
+	controller = BNG
+	remove_core = MUG
+	capital = "Murshidabad"
+}
+1751.1.1 = { base_production = 9 base_manpower = 8 }
+1765.1.1 = {
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+} # Given to GBR by Mughal Empire (was formerly british puppet)
+1775.1.1 = { base_tax = 9 base_production = 11 base_manpower = 10 }
+1801.1.1 = { base_tax = 12 base_production = 14 }
+1813.1.1 = { capital = "Malda" religion = hinduism }
+
+1825.1.1 = { base_tax = 13 base_production = 16 base_manpower = 12 }
+1851.1.1 = { base_tax = 15 base_production = 17 base_manpower = 15 }
+1875.1.1 = { base_tax = 17 base_production = 21 }
+1901.1.1 = { base_tax = 18 base_production = 23 base_manpower = 17 }
+1925.1.1 = { base_tax = 22 base_production = 25 }
+1930.1.1  = { add_core = IND remove_core = BNG }
+1947.8.15 = { owner = IND controller = IND remove_core = GBR }
+
+
+
+1950.1.1 = { base_tax = 23 base_production = 27 base_manpower = 20 }
+1975.1.1 = { base_tax = 24 base_production = 31 }
+2000.1.1 = { base_tax = 29 base_manpower = 29 }

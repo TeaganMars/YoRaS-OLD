@@ -1,0 +1,27 @@
+government = despotic_monarchy
+government_rank = 1
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = panjabi
+religion = mahayana
+technology_group = early_indian
+capital = 510
+
+30.1.1 = {
+	monarch = {
+		name = "Amoghbhuti"
+		dynasty = "Kuninda"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+750.1.1 = { technology_group = indian }

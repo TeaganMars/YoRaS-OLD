@@ -1,0 +1,36 @@
+#845 - Campeche
+
+owner = CAL
+controller = CAL
+culture = yucatec 
+religion = mesoamerican_religion
+capital = "Rio Bec"
+trade_goods = sugar 
+hre = no 
+base_tax = 4
+base_production = 4
+base_manpower = 1
+is_city = yes
+add_core = CAL
+discovered_by = mesoamerican
+
+987.1.1 = { owner = MAY controller = MAY add_core = MAY remove_core = CAL capital = "Campeche" }
+1441.1.1 = { owner = XIU controller = XIU add_core = XIU }
+
+1519.1.1  = { discovered_by = SPA } # Hernán Cortés 
+1542.1.23  = {	owner = SPA
+		controller = SPA
+		culture = castillian
+		religion = catholic
+	    } # the lord of Mani submits peacefully to the Spanish and converts
+1567.1.1  = { add_core = SPA }
+1801.1.1 = { base_manpower = 2 }
+1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+
+1821.9.27  = { controller = MEX remove_core = SPA }
+1875.1.1 = { base_tax = 5 }
+1981.1.1   = { trade_goods = oil } #Cantarell oil field
+2000.1.1 = { base_production = 6 }
+
+
+

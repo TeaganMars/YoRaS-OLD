@@ -1,0 +1,54 @@
+government = steppe_horde
+mercantilism = 0.1
+technology_group = eastern_nomad_group
+religion = tengri_pagan_reformed
+primary_culture = mongol
+capital = 2893
+
+750.1.1 = { technology_group = nomad_group }
+
+1120.1.1 = {
+	monarch = {
+		name = "Khabul"
+		dynasty = "Khamag Mongol"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+1148.1.1 = {
+	monarch = {
+		name = "Ambaghai"
+		dynasty = "Khamag Mongol"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1156.1.1 = {
+	monarch = {
+		name = "Hotula"
+		dynasty = "Khamag Mongol"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+1160.1.1 = {
+	monarch = {
+		name = "(regency council)"
+		regent = yes
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1189.1.1 = {
+	monarch = {
+                name = "Genghis"
+		dynasty = "Genghisid"
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}

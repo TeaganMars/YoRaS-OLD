@@ -1,0 +1,58 @@
+#2124 - Ubykhia
+
+owner = SIR
+controller = SIR
+add_core = SIR
+is_city = yes
+culture = circassian
+religion = tengri_pagan_reformed
+capital = "Sochi"
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = roman_group
+discovered_by = western
+discovered_by = barbarian
+discovered_by = western_nomad_group
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+
+440.1.1 = { owner = ALA controller = ALA add_core = ALA remove_core = SIR }
+632.1.1 = { owner = BUL controller = BUL add_core = BUL remove_core = ALA }
+680.1.1 = { religion = chalcedonism }
+720.1.1 = { owner = KHZ controller = KHZ add_core = KHZ remove_core = BUL }
+867.1.1 = { religion = orthodox }
+900.1.1 = { base_tax = 2 base_production = 2 }
+1008.1.1 = { owner = CIR controller = CIR add_core = CIR remove_core = KHZ }
+1100.1.1 = { base_manpower = 2 }
+1236.1.1 = { owner = MGE controller = MGE add_core = MGE }
+1260.1.1 = { owner = CIR controller = CIR add_core = CIR remove_core = MGE }
+
+1752.1.1 = { base_tax = 3 }
+1779.1.1 = { base_manpower = 3 }
+1806.1.1 = { base_production = 3 }
+1829.9.14 = {	owner = RUS
+		controller = RUS
+		add_core = RUS
+	     } # Annexed by Russia
+1834.1.1 = { base_production = 4 }
+1861.1.1 = { base_manpower = 4 }
+1870.1.1   = { culture = russian } #Circassian genocide
+1888.1.1 = { base_tax = 4 }
+1915.1.1 = { base_production = 5 }
+1918.2.20  = { owner = UKR controller = UKR add_core = UKR }
+1919.11.7  = { owner = RUS controller = RUS remove_core = UKR }
+1922.12.30 = { owner = SOV controller = SOV add_core = SOV remove_core = GEO }
+1943.1.1 = { base_tax = 5 }
+1970.1.1 = { base_tax = 6 }
+1991.12.25 = { owner = RUS controller = RUS remove_core = SOV }
+2000.1.1 = { base_production = 6 base_manpower = 5 }
+
+
+

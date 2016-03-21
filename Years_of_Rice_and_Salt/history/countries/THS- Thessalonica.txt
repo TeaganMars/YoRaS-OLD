@@ -1,0 +1,36 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 1
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -1
+#land_naval = 0
+#quality_quantity = -1
+#serfdom_freesubjects = -1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+capital = 1967	# Thessalonica
+
+
+1204.1.1 = {
+	monarch = {
+		name = "Boniface I"
+		dynasty = "del Montferrat"
+		dip = 2
+		adm = 2
+		mil = 3
+	}
+}
+
+1207.1.1 = {
+	monarch = {
+		name = "Demetrius"
+		dynasty = "del Montferrat"
+		dip = 2
+		adm = 4
+		mil = 1
+	}
+}
+

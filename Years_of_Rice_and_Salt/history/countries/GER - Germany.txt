@@ -1,0 +1,231 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = western
+primary_culture = prussian
+culture_group_union = germanic
+religion = catholic
+capital = 50	# Berlin
+
+1750.1.1 = { government = constitutional_monarchy }
+1800.1.1 = { religion = protestant }
+
+1871.1.18 = {
+	government_rank = 3
+	monarch = {
+		name = "Wilhelm I"
+		dynasty = "von Hohenzollern"
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+1871.1.18 = {
+	heir = {
+		name = "Friedrich"
+		monarch_name = "Friedrich III"
+		dynasty = "von Hohenzollern"
+		birth_date = 1831.10.18
+		death_date = 1888.6.15
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1888.3.9 = {
+	monarch = {
+		name = "Friedrich III"
+		dynasty = "von Hohenzollern"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1888.3.9 = {
+	heir = {
+		name = "Wilhelm"
+		monarch_name = "Wilhelm II"
+		dynasty = "von Hohenzollern"
+		birth_date = 1859.1.27
+		death_date = 1941.6.4
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1888.6.15 = {
+	monarch = {
+		name = "Wilhelm II"
+		dynasty = "von Hohenzollern"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1888.6.15 = {
+	heir = {
+		name = "Wilhelm"
+		monarch_name = "Wilhelm III"
+		dynasty = "von Hohenzollern"
+		birth_date = 1882.5.6
+		death_date = 1951.7.20
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1894.1.1 = { leader = { name = "Erich Ludendorff"	type = general	rank = 8	fire = 4	shock = 4	manuever = 2	siege = 2	death_date = 1918.11.11 } }
+1912.1.1 = { leader = {	name = "Erwin Rommel"		type = general	rank = 8	fire = 5	shock = 3	manuever = 1	siege = 2	death_date = 1944.10.14 } }
+
+1918.11.18 = { 
+	government = constitutional_republic 
+	religion = secularism
+	government_rank = 2
+}
+
+1918.11.18 = {
+	monarch = {
+		name = "Friedrich Ebert"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1925.2.28 = {
+	monarch = {
+		name = "Hans Luther"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1925.3.12 = {
+	monarch = {
+		name = "Walter Simmons"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1925.5.12 = {
+	monarch = {
+		name = "Paul von Hindenburg"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1934.8.2 = { government = fascist_dictatorship government_rank = 3 }
+
+1934.8.2 = {
+	monarch = {
+		name = "Adolf Hitler"
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+}
+
+1935.7.1  = { leader = { name = "Erich von Manstein"	type = general	rank = 8	fire = 5	shock = 4	manuever = 2	siege = 2	death_date = 1944.3.30 } }
+1935.10.1 = { leader = { name = "Heinz Guderian"	type = general	rank = 8	fire = 4	shock = 3	manuever = 3	siege = 1	death_date = 1945.5.10 } }
+
+1945.5.1 = {
+	monarch = {
+		name = "Karl Dönitz"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+1945.5.8 = { government = presidental_republic government_rank = 2 }
+
+1958.1.1 = { decision = join_european_union }
+
+1990.10.3 = { capital = 50 }
+
+1990.10.3 = {
+	monarch = {
+		name = "Richard von Weizsäcker"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1994.7.1 = {
+	monarch = {
+		name = "Roman Herzog"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1999.1.1 = { decision = adopt_the_euro }
+
+1999.7.1 = {
+	monarch = {
+		name = "Johannes Rau"
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+}
+
+2004.7.1 = {
+	monarch = {
+		name = "Horst Köhler"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+2010.5.31 = {
+	monarch = {
+		name = "Jens Böhrnsen"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+2010.6.30 = {
+	monarch = {
+		name = "Christian Wulff"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2012.2.17 = {
+	monarch = {
+		name = "Horst Seehofer"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+2012.3.8 = {
+	monarch = {
+		name = "Joachim Gauck"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}

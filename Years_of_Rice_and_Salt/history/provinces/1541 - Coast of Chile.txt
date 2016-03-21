@@ -1,0 +1,6 @@
+#1541 - Coast of Chile
+
+1520.1.1 = { discovered_by = SPA }
+
+
+

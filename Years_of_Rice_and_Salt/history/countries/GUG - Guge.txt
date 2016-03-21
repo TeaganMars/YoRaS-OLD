@@ -1,0 +1,307 @@
+government = despotic_monarchy
+primary_culture = tibetan
+religion = vajrayana
+technology_group = early_chinese
+capital = 2452
+
+750.1.1 = { technology_group = chinese }
+
+1396.1.1 = {
+	monarch = {
+		name = "rNam rgyal lde"
+		dynasty = "Darma"
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+1396.1.1 = {
+	heir = {
+		name = "Nam mkha'i dBang po Phun tshogs lde"
+		monarch_name = "Nam mkha'i dBang po Phun tshogs lde"
+		dynasty = "Darma"
+		birth_Date = 1390.1.1
+		death_Date = 1449.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1424.1.1 = {
+	monarch = {
+		name = "Nam mkha'i dBang po Phun tshogs lde"
+		dynasty = "Darma"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1424.1.1 = {
+	heir = {
+		name = "rNam ri Sang rgyas lde"
+		monarch_name = "rNam ri Sang rgyas lde"
+		dynasty = "Darma"
+		birth_Date = 1404.1.1
+		death_Date = 1470.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1449.1.1 = {
+	monarch = {
+		name = "rNam ri Sang rgyas lde"
+		dynasty = "Darma"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1449.1.1 = {
+	heir = {
+		name = "bLo bzang Rab brtan"
+		monarch_name = "bLo bzang Rab brtan"
+		dynasty = "Darma"
+		birth_Date = 1429.1.1
+		death_Date = 1485.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1470.1.1 = {
+	monarch = {
+		name = "bLo bzang Rab brtan"
+		dynasty = "Darma"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1470.1.1 = {
+	heir = {
+		name = "sTod tsha 'Phags pa lha"
+		monarch_name = "sTod tsha 'Phags pa lha"
+		dynasty = "Darma"
+		birth_Date = 1460.1.1
+		death_Date = 1510.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1485.1.1 = {
+	monarch = {
+		name = "sTod tsha 'Phags pa lha"
+		dynasty = "Darma"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1485.1.1 = {
+	heir = {
+		name = "Shakya 'od"
+		monarch_name = "Shakya 'od"
+		dynasty = "Darma"
+		birth_Date = 1470.1.1
+		death_Date = 1537.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1510.1.1 = {
+	monarch = {
+		name = "Shakya 'od"
+		dynasty = "Darma"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1510.1.1 = {
+	heir = {
+		name = "Jig rten dBang phyug Pad kar lde"
+		monarch_name = "Jig rten dBang phyug Pad kar lde"
+		dynasty = "Darma"
+		birth_Date = 1480.1.1
+		death_Date = 1555.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1537.1.1 = {
+	monarch = {
+		name = "Jig rten dBang phyug Pad kar lde"
+		dynasty = "Darma"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1537.1.1 = {
+	heir = {
+		name = "Ngag gi dBang phyug"
+		monarch_name = "Ngag gi dBang phyug"
+		dynasty = "Darma"
+		birth_Date = 1510.1.1
+		death_Date = 1570.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1555.1.1 = {
+	monarch = {
+		name = "Ngag gi dBang phyug"
+		dynasty = "Darma"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1555.1.1 = {
+	heir = {
+		name = "Nam mkha dBang phyug"
+		monarch_name = "Nam mkha dBang phyug"
+		dynasty = "Darma"
+		birth_Date = 1540.1.1
+		death_Date = 1590.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1570.1.1 = {
+	monarch = {
+		name = "Nam mkha dBang phyug"
+		dynasty = "Darma"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+1570.1.1 = {
+	heir = {
+		name = "Khri Nyi ma dBang phyug"
+		monarch_name = "Khri Nyi ma dBang phyug"
+		dynasty = "Darma"
+		birth_Date = 1550.1.1
+		death_Date = 1605.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1590.1.1 = {
+	monarch = {
+		name = "Khri Nyi ma dBang phyug"
+		dynasty = "Darma"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1590.1.1 = {
+	heir = {
+		name = "Khri Grags pa'i dBang phyug"
+		monarch_name = "Khri Grags pa'i dBang phyug"
+		dynasty = "Darma"
+		birth_Date = 1570.1.1
+		death_Date = 1618.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}
+
+1605.1.1 = {
+	monarch = {
+		name = "Khri Grags pa'i dBang phyug"
+		dynasty = "Darma"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1605.1.1 = {
+	heir = {
+		name = "Khri Nam rgyal Grags pa lde"
+		monarch_name = "Khri Nam rgyal Grags pa lde"
+		dynasty = "Darma"
+		birth_Date = 1570.1.1
+		death_Date = 1621.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+}
+
+1618.1.1 = {
+	monarch = {
+		name = "Khri Nam rgyal Grags pa lde"
+		dynasty = "Darma"
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+}
+
+1618.1.1 = {
+	heir = {
+		name = "Khri bKra shis Grags pa lde"
+		monarch_name = "Khri bKra shis Grags pa lde"
+		dynasty = "Darma"
+		birth_Date = 1600.1.1
+		death_Date = 1635.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+}
+
+1621.1.1 = {
+	monarch = {
+		name = "Khri bKra shis Grags pa lde"
+		dynasty = "Darma"
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+}
+
+#Annexed by Laddakh 1630

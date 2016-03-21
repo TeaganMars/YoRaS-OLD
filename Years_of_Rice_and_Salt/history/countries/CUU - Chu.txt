@@ -1,0 +1,66 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = -2
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -3
+#quality_quantity = 0
+#serfdom_freesubjects = -4
+technology_group = early_chinese
+religion = confucianism
+primary_culture = cantonese
+capital = 672
+
+750.1.1 = { technology_group = chinese }
+
+907.1.1 = {
+	monarch = {
+		name = "Ma Yin" 
+		dynasty = "Chu"
+		adm = 4
+		dip = 3
+		mil = 3
+		}
+}
+
+930.1.1 = {
+	monarch = {
+		name = "Ma Xisheng" 
+		dynasty = "Chu"
+		adm = 3
+		dip = 3
+		mil = 2
+		}
+}
+
+932.1.1 = {
+	monarch = {
+		name = "Ma Xifan" 
+		dynasty = "Chu"
+		adm = 2
+		dip = 2
+		mil = 2
+		}
+}
+
+947.1.1 = {
+	monarch = {
+		name = "Ma Xiguang" 
+		dynasty = "Chu"
+		adm = 2
+		dip = 3
+		mil = 3
+		}
+}
+
+950.1.1 = {
+	monarch = {
+		name = "Ma Xichong" 
+		dynasty = "Chu"
+		adm = 3
+		dip = 3
+		mil = 2
+		}
+}

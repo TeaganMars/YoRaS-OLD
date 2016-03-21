@@ -1,0 +1,117 @@
+government = parliamentary_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = 0
+technology_group = western
+primary_culture = english
+religion = protestant
+capital = 487
+
+1910.1.1 = { religion = secularism }
+
+1962.4.29 = {
+	monarch = {
+		name = "Alexander Bustamante"
+		adm = 3
+		mil = 3
+		dip = 3
+	}
+}
+
+1967.2.23 = {
+	monarch = {
+		name = "Donald Sangster"
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+1967.4.11 = {
+	monarch = {
+		name = "Hugh Shearer"
+		adm = 5
+		mil = 2
+		dip = 2
+	}
+}
+
+1972.3.2 = {
+	monarch = {
+		name = "Michael Manley"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1980.11.1 = {
+	monarch = {
+		name = "Edward Seaga"
+		adm = 3
+		mil = 4
+		dip = 2
+	}
+}
+
+1989.2.10 = {
+	monarch = {
+		name = "Michael Manley"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1992.3.30 = {
+	monarch = {
+		name = "Percival Patterson"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+2006.3.30 = {
+	monarch = {
+		name = "Portia Simpson-Miller"
+		adm = 4
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}
+
+2007.9.11 = {
+	monarch = {
+		name = "Bruce Golding"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+2011.10.23 = {
+	monarch = {
+		name = "Andrew Holness"
+		adm = 4
+		mil = 4
+		dip = 2
+	}
+}
+
+2012.1.5 = {
+	monarch = {
+		name = "Portia Simpson-Miller"
+		adm = 4
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}

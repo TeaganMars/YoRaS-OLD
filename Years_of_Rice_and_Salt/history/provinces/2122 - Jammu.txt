@@ -1,0 +1,85 @@
+#2122 - Kashmir
+
+owner = KSH
+controller = KSH
+culture = kashmiri
+religion = mahayana
+capital = "Srinagar"
+trade_goods = cloth
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+add_core = KSH
+discovered_by = early_indian
+discovered_by = indian
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = western_nomad_group
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+discovered_by = early_chinese
+discovered_by = chinese
+
+140.1.1 = { owner = KUS controller = KUS add_core = KUS }
+250.1.1 = { owner = KSH controller = KSH remove_core = KUS }
+510.1.1 = { owner = HEP controller = HEP add_core = HEP }
+542.1.1 = { owner = KSH controller = KSH remove_core = HEP }
+1003.1.1 = { religion = hinduism }
+1220.1.1 = { owner = MGE controller = MGE add_core = MGE }
+1260.1.1 = { owner = CHG controller = CHG add_core = CHG remove_core = MGE }
+1346.1.1 = { owner = KSH controller = KSH remove_core = CHG }
+
+1500.1.1  = {
+	religion = shiite
+}
+1589.7.28 = {
+	owner = MUG
+	controller = MUG
+	add_core = MUG
+} # Integrated into the Mughal Empire
+1690.1.1  = { discovered_by = ENG }
+1707.5.12 = { discovered_by = GBR }
+1738.1.1 = { controller = PER } # Captured by Persia, Nadir Shah
+1739.5.1 = { owner = PER } # Captured by Persia, Nadir Shah
+1747.10.1 = {
+	owner = AFG
+	controller = AFG
+	add_core = AFG
+	remove_core = MUG
+} # Ahmad Shah established the Durrani empire
+1751.1.1 = { base_production = 4 base_manpower = 4 }
+1755.1.1  = {
+	owner = KSH
+	controller = KSH
+} # Governor declares independence
+1762.1.1  = {
+	owner = AFG
+	controller = AFG
+} # Revolt beaten
+1775.1.1 = { base_production = 6 }
+1801.1.1 = { base_production = 7 base_manpower = 5 }
+1809.1.1  = {
+	owner = KSH
+	controller = KSH
+} # Governor independent
+1819.1.1  = {
+	owner = PUN
+	controller = PUN
+	add_core = PUN
+} # Sikh annexation
+
+1825.1.1 = { base_tax = 5 base_manpower = 6 }
+1849.1.1   = { owner = GBR controller = GBR add_core = GBR }
+1851.1.1 = { base_production = 8 base_manpower = 7 }
+1875.1.1 = { base_production = 9 base_manpower = 8 }
+1901.1.1 = { base_production = 11 }
+1925.1.1 = { base_production = 12 base_manpower = 10 }
+1930.1.1   = { add_core = IND remove_core = PUN }
+1930.12.29 = { add_core = PAK }
+1947.8.15  = { owner = IND controller = IND remove_core = GBR }
+1951.1.1 = { base_manpower = 12 }
+1975.1.1 = { base_tax = 8 }
+2000.1.1 = { base_tax = 13 }

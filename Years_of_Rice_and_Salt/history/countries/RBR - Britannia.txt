@@ -1,0 +1,15 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 2
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -3
+#quality_quantity = -3
+#serfdom_freesubjects = -4
+primary_culture = roman
+add_accepted_culture = welsh
+religion = hellenism
+technology_group = roman_group
+capital = 236	# London

@@ -1,0 +1,26 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = sogdian
+religion = zoroastrian
+technology_group = middle_eastern
+capital = 454	# Samarkand
+
+659.1.1 = {
+	monarch = {
+		name = "Kang"
+		dynasty = "Sogdiana"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+705.1.1 = {
+	monarch = {
+		name = "An Yanyan"
+		dynasty = "Sogdiana"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}

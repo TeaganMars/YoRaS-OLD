@@ -1,0 +1,8 @@
+#1507 - Mobile Bay
+
+discovered_by = CRE
+discovered_by = CHE
+1519.1.1 = { discovered_by = SPA }
+
+
+

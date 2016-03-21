@@ -1,0 +1,13 @@
+﻿l_french:
+ cb_spread_communism: "Propager le communisme"
+ cb_spread_communism_desc: "Forcer le gouvernement à adopter un régime communiste"
+ cb_spread_fascism: "Propager le fascisme"
+ cb_spread_fascism_desc: "Forcer le gouvernement à adopter un régime fasciste"
+ cb_spread_democracy: "Propager la démocratie"
+ cb_spread_democracy_desc: "Forcer le gouvernement à adopter un régime démocratique"
+ et_government_event.1.t: "Mort du [Root.Monarch.GetTitle]"
+ et_government_event.1.d: "Suite au décès de [Root.Monarch.GetHerHis], un successeur est appelé à monter sur le trône. Cependant, ce nouveau dirigeant n'a guère le même charisme que le précédent. Peut-être qu'être élu par un Sénat augmenterait [Root.Monarch.GetHerHis] légitimité?"
+ et_government_event.1.a: "Nous pouvons toujours rétablir la monarchie"
+ et_government_event.1.b: "Faisons appel à une assemblée"
+ et_government_event.1.c: "Le [Root.Monarch.GetTitle] doit conserver tous les pouvoirs!"
+ friendly_government: "Gouvernement ami"

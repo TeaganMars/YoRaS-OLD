@@ -1,0 +1,8 @@
+#1266 - Southern Norwegian Sea
+
+discovered_by = JUT
+
+500.1.1 = { discovered_by = eastern }
+
+
+

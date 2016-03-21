@@ -1,0 +1,51 @@
+#1844 - Xiankhouang
+
+culture = lao
+religion = mahayana
+capital = "Muang Khoun"
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 30
+native_ferocity = 1
+native_hostileness = 5
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = early_indian
+discovered_by = indian
+
+880.1.1 = { owner = KHM controller = KHM add_core = KHM is_city = yes trade_goods = grain }
+1000.1.1 = { base_tax = 2 base_production = 2 }
+1200.1.1 = { base_manpower = 2 }
+1285.1.1 = { owner = SUK controller = SUK add_core = SUK remove_core = KHM }
+1310.1.1 = { religion = buddhism }
+1354.1.1 = { owner = LXA controller = LXA add_core = LXA remove_core = SUK }
+
+1483.1.1 = { add_core = DAI } # Vietnamese Invasion
+1579.1.1 = { unrest = 5 } # Revolt against vassalization
+1580.1.1 = { unrest = 0 }
+1593.1.1 = { unrest = 4 } # Revolt against Burmese vassalization
+1603.1.1 = { unrest = 0 }
+1627.1.1 = { unrest = 6 }
+1633.1.1 = { unrest = 0 }
+1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
+1694.1.1 = { add_core = TOK } # Vietnamese Intervention
+1707.1.1 = {	owner = MPH
+		controller = MPH
+		add_core = MPH
+		remove_core = LXA
+	   	remove_core = DAI
+		remove_core = TOK
+	   } # Declared independent, Lan Xang was partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
+1780.1.1 = { unrest = 4 }
+
+1893.10.3  = { owner = FR2 controller = FR2 add_core = FR2 add_core = LAO remove_core = MPH }
+1941.1.1   = { controller = JAP }
+1945.8.23  = { controller = FR2 }
+1953.10.22 = { owner = LAO controller = LAO remove_core = FR2 }
+1978.1.1   = { capital = "Phonsavan" }
+
+
+

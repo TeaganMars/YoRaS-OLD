@@ -1,0 +1,131 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 91  9  214 }
+
+historical_idea_groups = {
+	early_religious_ideas
+	early_mil_ideas
+	early_trade_ideas
+	early_adm_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Václav #0" = 10
+	"Jiri #0" = 10
+	"Ludvík #0" = 10
+	"Zikmund #0" = 10
+	"Viktorin #0" = 10
+	"Jan #0" = 10
+	"Jindrich #0" = 10
+	"Eduard #0" = 10
+	"Karel #0" = 10
+	"Premysl #0" = 10
+	"Adam #0" = 10
+	"Alexandr #0" = 10
+	"Alojz #0" = 10
+	"Daniel #0" = 10
+	"David #0" = 10
+	"Dominik #0" = 10
+	"Filip #0" = 10
+	"Honza #0" = 10
+	"Ignác #0" = 10
+	"Jakub #0" = 10
+	"Jirka #0" = 10
+	"Jozef #0" = 10
+	"Kliment #0" = 10
+	"Leos #0" = 10
+	"Lubomir #0" = 10
+	"Lukás #0" = 10
+	"Marek #0" = 10
+	"Martin #0" = 10
+	"Mataj #0" = 10
+	"Michal #0" = 10
+	"Mikolás #0" = 10
+	"Miroslav #0" = 10
+	"Ondrej #0" = 10
+	"Patrik #0" = 10
+	"Pavol #0" = 10
+	"Peter #0" = 10
+	"Samuel #0" = 10
+	"Tomas #0" = 10
+	"Vilem #0" = 10
+	"Michaela #0" = -10
+	"Barbora #0" = -10
+	"Lucia #0" = -10
+	"Dominika #0" = -10
+	"Kristina #0" = -10
+	"Viktoria #0" = -10
+	"Diana #0" = -10
+}
+
+leader_names = {
+	Blaha Blazek Boleslav
+	Dolezal Dusek
+	Hruska
+	Janda
+	Kadlec Kladno Kohout Kopecky Kriz
+	Lablonec
+	Maly Mares Masek Matousek Moravec
+	Nemec
+	Pardubice Polak Pospisil
+	Sedlacek Simek Smida Soukup Stastny Stepanek Strnad Sykora
+	Tichy Trutnov Tuma
+	Urban
+	Vacek Vanek Vlcek
+	Zatec
+}
+
+ship_names = {
+	"Svatý Vaclav"
+	"Svatý Mikulás"
+	"Svatý Jirí"
+	"Svatá Anezká"
+	"Nejsvatejsí Trojice"
+	"Král Karel"
+	"Král Boleslav"
+	"Král Premysl"
+	"Panna Maria Vitezná"
+	"Jan Hus"
+	Sárka
+	Ctirad
+	Cechý
+	Moravy
+	Budvar
+	Libuse
+	Odvázný
+	Orel
+	Sokol
+	Slezko
+	Sipká
+	Hvezdá
+}
+
+
+

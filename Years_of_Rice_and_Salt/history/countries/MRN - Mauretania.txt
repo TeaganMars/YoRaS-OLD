@@ -1,0 +1,40 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = berber
+religion = hellenism
+technology_group = middle_eastern
+capital = 343
+
+2.1.1 = {
+	monarch = {
+		name = "Juba II"
+		dynasty = "Ptolemaic"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+2.1.1 = {
+	heir = {
+		name = "Ptolemy"
+		monarch_name = "Ptolemy"
+		dynasty = "Ptolemaic"
+		birth_date = 2.1.1
+		death_date = 40.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+23.1.1 = {
+	monarch = {
+		name = "Ptolemy"
+		dynasty = "Ptolemaic"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}

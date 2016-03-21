@@ -1,0 +1,295 @@
+government = feudal_monarchy
+government_rank = 1
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = 0
+mercantilism = 0.1
+#offensive_defensive = -3
+#land_naval = -2
+#quality_quantity = -1
+#serfdom_freesubjects = -2
+technology_group = barbarian
+primary_culture = anglo_saxon
+religion = germanic
+capital = 234	# Wessex
+
+
+519.1.1 = {
+	monarch = {
+		name = "Cerdic"
+		dynasty = "Cerdicing"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+534.1.1 = {
+	monarch = {
+		name = "Cynric"
+		dynasty = "Cerdicing"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+536.1.1 = { technology_group = western }
+
+560.1.1 = {
+	monarch = {
+		name = "Ceawlin"
+		dynasty = "Cerdicing"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+591.1.1 = {
+	monarch = {
+		name = "Ceol"
+		dynasty = "Cerdicing"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+597.1.1 = {
+	monarch = {
+		name = "Ceolwulf"
+		dynasty = "Cerdicing"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+611.1.1 = {
+	monarch = {
+		name = "Cynegils"
+		dynasty = "Cerdicing"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+640.1.1 = { religion = chalcedonism }
+
+643.1.1 = {
+	religion = druidism
+	monarch = {
+		name = "Cenwalh"
+		dynasty = "Cerdicing"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+648.1.1 = {
+	religion = chalcedonism
+	monarch = {
+		name = "Cenwalh"
+		dynasty = "Cerdicing"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+674.1.1 = {
+	monarch = {
+		name = "Cenfus"
+		dynasty = "Cerdicing"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+674.6.1 = {
+	monarch = {
+		name = "Aescwine"
+		dynasty = "Cerdicing"
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+676.1.1 = {
+	monarch = {
+		name = "Centwine"
+		dynasty = "Cerdicing"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+685.1.1 = {
+	monarch = {
+		name = "Caedwalla"
+		dynasty = "Cerdicing"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+
+688.1.1 = {
+	monarch = {
+		name = "Ine"
+		dynasty = "Cerdicing"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+726.1.1 = {
+	monarch = {
+		name = "Aethelheard"
+		dynasty = "Cerdicing"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+740.1.1 = {
+	monarch = {
+		name = "Cuthred"
+		dynasty = "Cerdicing"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+756.1.1 = {
+	monarch = {
+		name = "Sigebert"
+		dynasty = "Cerdicing"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+757.1.1 = {
+	monarch = {
+		name = "Cynewulf"
+		dynasty = "Cerdicing"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+786.1.1 = {
+	monarch = {
+		name = "Beorthtic"
+		dynasty = "Cerdicing"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+802.1.1 = {
+	monarch = {
+		name = "Egbert"
+		dynasty = "Cerdicing"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+839.1.1 = {
+	monarch = {
+		name = "Aethelwulf"
+		dynasty = "Cerdicing"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+856.1.1 = {
+	monarch = {
+		name = "Aethelbald"
+		dynasty = "Cerdicing"
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+860.1.1 = {
+	monarch = {
+		name = "Aethelbert"
+		dynasty = "Cerdicing"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+865.1.1 = {
+	monarch = {
+		name = "Aethelred"
+		dynasty = "Cerdicing"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+867.1.1 = { religion = catholic }
+
+871.1.1 = {
+	monarch = {
+		name = "Alfred"
+		dynasty = "Cerdicing"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+899.1.1 = {
+	monarch = {
+		name = "Edward"
+		dynasty = "Cerdicing"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+924.1.1 = {
+	monarch = {
+		name = "Aelfweard"
+		dynasty = "Cerdicing"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+925.1.1 = {
+	monarch = {
+		name = "Athelstan"
+		dynasty = "Cerdicing"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}

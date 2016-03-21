@@ -1,0 +1,24 @@
+government = tribal_despotism
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -3
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = omani_culture
+religion = south_arabian
+technology_group = middle_eastern
+capital = 400 #Masqat
+
+250.1.1 = {
+	monarch = {
+		name = "Imran bin Amr"
+		dynasty = "Azd"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}

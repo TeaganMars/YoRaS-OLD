@@ -1,0 +1,122 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+technology_group = early_indian
+religion = hinduism
+primary_culture = bengali
+capital = 564	# Bikrampur
+
+750.1.1 = { technology_group = indian }
+
+1230.1.1 = {
+	monarch = {
+		name = "Purushottamadeva"
+		dynasty = "Deva"
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+1230.1.1 = {
+	heir = {
+		name = "Madhumathana"
+		monarch_name = "Madhumathana"
+		dynasty = "Deva"
+		birth_date = 1220.1.1
+		death_date = 1260.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1250.1.1 = {
+	monarch = {
+		name = "Madhumathana"
+		dynasty = "Deva"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1250.1.1 = {
+	heir = {
+		name = "Vasudeva"
+		monarch_name = "Vasudeva"
+		dynasty = "Deva"
+		birth_date = 1230.1.1
+		death_date = 1270.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1260.1.1 = {
+	monarch = {
+		name = "Vasudeva"
+		dynasty = "Deva"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1260.1.1 = {
+	heir = {
+		name = "Damodaradeva"
+		monarch_name = "Damodaradeva"
+		dynasty = "Deva"
+		birth_date = 1240.1.1
+		death_date = 1310.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+1270.1.1 = {
+	monarch = {
+		name = "Damodaradeva"
+		dynasty = "Deva"
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+1280.1.1 = {
+	heir = {
+		name = "Dasharathadeva"
+		monarch_name = "Dasharathadeva"
+		dynasty = "Deva"
+		birth_date = 1280.1.1
+		death_date = 1342.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1310.1.1 = {
+	monarch = {
+		name = "Dasharathadeva"
+		dynasty = "Deva"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}

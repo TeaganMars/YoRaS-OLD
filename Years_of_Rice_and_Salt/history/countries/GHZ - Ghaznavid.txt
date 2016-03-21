@@ -1,0 +1,236 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -3
+#quality_quantity = 3
+#serfdom_freesubjects = -3
+primary_culture = persian
+religion = sunni
+technology_group = muslim
+capital = 448	# Ghazni
+
+963.1.1 = {
+	monarch = {
+		name = "Ishaq"
+		dynasty = "Ghaznavid"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+966.1.1 = {
+	monarch = {
+		name = "Bilgetigin"
+		dynasty = "Ghaznavid"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+975.1.1 = {
+	monarch = {
+		name = "Boritigin"
+		dynasty = "Ghaznavid"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+977.1.1 = {
+	monarch = {
+		name = "Sabuktigin"
+		dynasty = "Ghaznavid"
+		adm = 4
+		mil = 4
+		dip = 3
+	}
+}
+
+997.1.1 = {
+	monarch = {
+		name = "Ismail"
+		dynasty = "Ghaznavid"
+		adm = 2
+		mil = 1
+		dip = 2
+	}
+}
+
+998.1.1 = {
+	monarch = {
+		name = "Mahmud"
+		dynasty = "Ghaznavid"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1030.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Ghaznavid"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+1030.6.1 = {
+	monarch = {
+		name = "Masud I"
+		dynasty = "Ghaznavid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1041.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Ghaznavid"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+1041.6.1 = {
+	monarch = {
+		name = "Mawdud"
+		dynasty = "Ghaznavid"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1048.1.1 = {
+	monarch = {
+		name = "Masud II"
+		dynasty = "Ghaznavid"
+		adm = 1
+		mil = 3
+		dip = 3
+	}
+}
+
+1048.6.1 = {
+	monarch = {
+		name = "Ali"
+		dynasty = "Ghaznavid"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+1049.1.1 = {
+	monarch = {
+		name = "Abdul-Rashid"
+		dynasty = "Ghaznavid"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+1052.1.1 = {
+	monarch = {
+		name = "Toghrul"
+		dynasty = "Ghaznavid"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1053.1.1 = {
+	monarch = {
+		name = "Farrukhzad"
+		dynasty = "Ghaznavid"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1059.1.1 = {
+	monarch = {
+		name = "Ibrahim"
+		dynasty = "Ghaznavid"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1099.1.1 = {
+	monarch = {
+		name = "Masud III"
+		dynasty = "Ghaznavid"
+		adm = 4
+		mil = 4
+		dip = 3
+	}
+}
+
+1115.1.1 = {
+	monarch = {
+		name = "Shirzad"
+		dynasty = "Ghaznavid"
+		adm = 2
+		mil = 1
+		dip = 2
+	}
+}
+
+1116.1.1 = {
+	monarch = {
+		name = "Arslan-Shah"
+		dynasty = "Ghaznavid"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1117.1.1 = {
+	monarch = {
+		name = "Bahram Shah"
+		dynasty = "Ghaznavid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1157.1.1 = {
+	monarch = {
+		name = "Khusrau-Shah"
+		dynasty = "Ghaznavid"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1160.1.1 = {
+	monarch = {
+		name = "Khusrau Malik"
+		dynasty = "Ghaznavid"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+1163.1.1 = { capital = 507 } #Lahore

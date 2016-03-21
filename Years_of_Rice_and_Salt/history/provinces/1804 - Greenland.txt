@@ -1,0 +1,34 @@
+#1804 - East Greenland
+
+culture = inuit
+religion = shamanism
+capital = "East Greenland"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 2
+native_hostileness = 9
+
+1720.1.1 = { discovered_by = DAN }
+1880.1.1 = { base_tax = 1 }
+1894.1.1 = {	owner = DAN
+		controller = DAN
+		add_core = DAN
+		culture = danish
+		religion = protestant
+		citysize = 100
+		capital = "Tasiilaq"
+		trade_goods = fish
+	   }
+1910.1.1 = { discovered_by = western }
+1940.1.1   = {  discovered_by = eastern
+		discovered_by = muslim
+		discovered_by = ottoman
+		discovered_by = asian
+	     }
+1950.1.1 = { citysize = 600 }
+1970.1.1 = { is_city = yes }
+

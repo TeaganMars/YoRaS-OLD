@@ -1,0 +1,13 @@
+
+bookmark =
+{
+	name = "ISLAM_NAME"
+	desc = "ISLAM_DESC"
+	date = 637.1.1
+	
+	country = RAS
+	country = SAS
+	country = BYZ
+	country = GVI
+	country = FRK
+}

@@ -1,0 +1,30 @@
+#2822 - Barcelos
+
+culture = carib
+religion = south_american
+capital = "Barcelos"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 15
+native_ferocity = 2
+native_hostileness = 6
+discovered_by = south_american
+
+1758.5.27 = {
+	citysize = 500
+	owner = POR
+	controller = POR
+	discovered_by = POR
+	add_core = POR
+	culture = portugese
+	religion = catholic
+	trade_goods = cocoa
+}
+
+1800.1.1 = { is_city = yes }
+
+1822.9.7   = { owner = BRZ controller = BRZ add_core = BRZ remove_core = POR }
+

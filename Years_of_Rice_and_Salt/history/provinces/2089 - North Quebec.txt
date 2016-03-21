@@ -1,0 +1,32 @@
+#2089 - Caniapiscau
+
+culture = cree
+religion = shamanism
+capital = "Caniapiscau"
+native_size = 30
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_ferocity = 4.5
+native_hostileness = 9 
+
+1870.1.1   = { discovered_by = CAN discovered_by = GBR }
+1920.1.1   = {	owner = CAN
+		controller = CAN
+		add_core = CAN
+		religion = protestant
+		citysize = 100
+		trade_goods = iron
+	      }
+1940.1.1   = {  discovered_by = eastern
+		discovered_by = muslim
+		discovered_by = ottoman
+		discovered_by = asian
+	     }
+1953.1.1   = { citysize = 500 capital = "Schefferville" }
+1974.10.15 = { is_city = yes capital = "Fermont" }
+1980.5.20  = { add_core = QUE } # Quebec referendum
+
+

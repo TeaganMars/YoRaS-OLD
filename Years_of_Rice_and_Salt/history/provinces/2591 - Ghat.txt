@@ -1,0 +1,30 @@
+#2591 - Ghat
+
+culture = tuareg
+religion = african
+capital = "Ghat"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 90
+native_ferocity = 2
+native_hostileness = 9
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+
+850.1.1    = { religion = sunni }
+1910.1.1   = { discovered_by = ITA }
+1912.10.18 = { 	owner = ITA 
+		controller = ITA 
+		add_core = ITA 
+		add_core = LIB 
+		is_city = yes
+		trade_goods = grain
+	     }
+1943.9.8   = { owner = GBR controller = GBR remove_core = ITA }
+1951.12.24 = { owner = LIB controller = LIB }
+
+

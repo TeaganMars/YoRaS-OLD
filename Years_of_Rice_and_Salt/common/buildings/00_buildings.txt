@@ -1,0 +1,1600 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new buildings, make sure they are uniquely named.
+
+# cost = x #==> cost in $ to build (subject to other modifiers)
+# time = x #==> number of months to build.
+# modifier = m # a modifier on the province that the building gives
+# trigger = t # an and trigger that needs to be fullfilled to build and keep the building
+# one_per_country = yes/no # if yes, only one of these can exist in a country
+# manufactory = { trade_good trade_good } # list of trade goods that get a production bonus
+# onmap = yes/no # show as a sprite on the map
+
+# FROM = owner
+# ROOT = province
+
+# AI will consider buildings it does not have the tech for at 20% of scripted AI weight (in case it wants to save slots)
+
+################################################
+# Production
+################################################
+
+storehouse = {
+	cost = 100
+	time = 12
+	modifier = {
+		local_production_efficiency = 0.25
+	}
+	
+	allow_in_gold_provinces = no
+
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { base_production = 3 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { base_production = 5 }
+		}
+		modifier = {
+			factor = 1.5
+			base_production = 7
+		}		
+		modifier = {
+			factor = 1.5
+			base_production = 9
+		}		
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}		
+	}
+}
+
+windmill = {
+	cost = 100
+	time = 12
+
+	make_obsolete = storehouse
+	modifier = {
+		local_production_efficiency = 0.5
+	}
+	
+	allow_in_gold_provinces = no
+
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { base_production = 3 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { base_production = 5 }
+		}
+		modifier = {
+			factor = 1.5
+			base_production = 7
+		}		
+		modifier = {
+			factor = 1.5
+			base_production = 9
+		}		
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}		
+	}
+}
+
+workshop = {
+	cost = 100
+	time = 12
+
+	make_obsolete = windmill
+	modifier = {
+		local_production_efficiency = 0.75
+	}
+	
+	allow_in_gold_provinces = no
+
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { base_production = 3 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { base_production = 5 }
+		}
+		modifier = {
+			factor = 1.5
+			base_production = 7
+		}		
+		modifier = {
+			factor = 1.5
+			base_production = 9
+		}		
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}		
+	}
+}
+
+counting_house = {
+	cost = 400
+	time = 12
+	
+	make_obsolete = workshop
+	modifier = {
+		local_production_efficiency = 1
+	}	
+	
+	allow_in_gold_provinces = no
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { base_production = 3 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { base_production = 5 }
+		}
+		modifier = {
+			factor = 1.5
+			base_production = 7
+		}		
+		modifier = {
+			factor = 1.5
+			base_production = 9
+		}		
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}		
+	}
+}
+
+factory = {
+	cost = 800
+	time = 18
+	
+	make_obsolete = counting_house
+	modifier = {
+		local_production_efficiency = 1.25
+		regiment_recruit_speed = -0.5
+		local_development_cost = -0.10
+	}	
+	
+	allow_in_gold_provinces = no
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { base_production = 3 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { base_production = 5 }
+		}
+		modifier = {
+			factor = 1.5
+			base_production = 7
+		}		
+		modifier = {
+			factor = 1.5
+			base_production = 9
+		}		
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}		
+	}
+}
+
+coal_plant = {
+	cost = 1200
+	time = 24
+	
+	modifier = {
+		local_production_efficiency = 0.2
+		local_tax_modifier = 0.2
+		trade_goods_size = 0.25
+		local_development_cost = -0.10
+	}	
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { base_production = 3 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { base_production = 5 }
+		}
+		modifier = {
+			factor = 1.5
+			base_production = 7
+		}		
+		modifier = {
+			factor = 1.5
+			base_production = 9
+		}		
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}		
+	}
+}
+
+nuclear_plant = {
+	cost = 2400
+	time = 48
+	
+	make_obsolete = coal_plant
+	modifier = {
+		local_production_efficiency = 0.4
+		local_tax_modifier = 0.4
+		trade_goods_size = 0.5
+		local_development_cost = -0.15
+	}	
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { base_production = 3 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { base_production = 5 }
+		}
+		modifier = {
+			factor = 1.5
+			base_production = 7
+		}		
+		modifier = {
+			factor = 1.5
+			base_production = 9
+		}		
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}		
+	}
+}
+
+fusion_reactor = {
+	cost = 3200
+	time = 48
+	
+	make_obsolete = nuclear_plant
+	modifier = {
+		local_production_efficiency = 0.6
+		local_tax_modifier = 0.6
+		trade_goods_size = 0.75
+		local_development_cost = -0.20
+	}	
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { base_production = 3 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { base_production = 5 }
+		}
+		modifier = {
+			factor = 1.5
+			base_production = 7
+		}		
+		modifier = {
+			factor = 1.5
+			base_production = 9
+		}		
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}		
+	}
+}
+
+################################################
+# Trade
+################################################
+marketplace = {
+	cost = 100
+	time = 12
+	
+	modifier = {
+		province_trade_power_modifier = 0.25
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { province_trade_power = 4 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { province_trade_power = 6 }
+		}
+		modifier = {
+			factor = 1.5
+			province_trade_power = 8
+		}		
+		modifier = {
+			factor = 1.5
+			province_trade_power = 10
+		}
+		modifier = {
+			factor = 1.5
+			province_trade_power = 12
+		}	
+	}
+}
+
+trade_post = {
+	cost = 100
+	time = 12
+	
+	make_obsolete = marketplace
+	modifier = {
+		province_trade_power_modifier = 0.5
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { province_trade_power = 4 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { province_trade_power = 6 }
+		}
+		modifier = {
+			factor = 1.5
+			province_trade_power = 8
+		}		
+		modifier = {
+			factor = 1.5
+			province_trade_power = 10
+		}
+		modifier = {
+			factor = 1.5
+			province_trade_power = 12
+		}	
+	}
+}
+
+trade_depot = {
+	cost = 300
+	time = 12
+	
+	make_obsolete = trade_post
+	
+	modifier = {
+		province_trade_power_modifier = 0.75
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { province_trade_power = 4 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { province_trade_power = 6 }
+		}
+		modifier = {
+			factor = 1.5
+			province_trade_power = 8
+		}		
+		modifier = {
+			factor = 1.5
+			province_trade_power = 10
+		}
+		modifier = {
+			factor = 1.5
+			province_trade_power = 12
+		}		
+	}
+}
+
+treasury_office = {
+	cost = 400
+	time = 12
+	
+	make_obsolete = trade_depot
+	
+	modifier = {
+		province_trade_power_modifier = 1
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { province_trade_power = 4 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { province_trade_power = 6 }
+		}
+		modifier = {
+			factor = 1.5
+			province_trade_power = 8
+		}		
+		modifier = {
+			factor = 1.5
+			province_trade_power = 10
+		}
+		modifier = {
+			factor = 1.5
+			province_trade_power = 12
+		}			
+	}
+}
+
+stock_exchange = {
+	cost = 500
+	time = 18
+	
+	make_obsolete = treasury_office
+	
+	modifier = {
+		province_trade_power_modifier = 1.25
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { province_trade_power = 4 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { province_trade_power = 6 }
+		}
+		modifier = {
+			factor = 1.5
+			province_trade_power = 8
+		}		
+		modifier = {
+			factor = 1.5
+			province_trade_power = 10
+		}
+		modifier = {
+			factor = 1.5
+			province_trade_power = 12
+		}			
+	}
+}
+
+################################################
+# Government
+################################################
+
+constable = {		
+	cost = 100
+	time = 12
+	modifier = {
+		local_tax_modifier = 0.4
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { base_tax = 3 }
+		}		
+		modifier = {
+			factor = 0.5
+			NOT = { base_tax = 5 }
+		}
+		modifier = {
+			factor = 1.5
+			base_tax = 7
+		}	
+		modifier = {
+			factor = 1.5
+			base_tax = 9
+		}				
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}		
+	}
+}
+
+tax_assessor = {
+
+	cost = 300
+	time = 12
+
+	make_obsolete = constable
+	modifier = {
+		local_tax_modifier = 0.6
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { base_tax = 3 }
+		}		
+		modifier = {
+			factor = 0.5
+			NOT = { base_tax = 5 }
+		}
+		modifier = {
+			factor = 1.5
+			base_tax = 7
+		}	
+		modifier = {
+			factor = 1.5
+			base_tax = 9
+		}				
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}	
+	}
+}
+
+courthouse = {
+	cost = 200
+	time = 12
+	modifier = {
+		local_unrest = -3
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			nationalism = 1
+		}
+		modifier = {
+			factor = 0
+			NOT = { unrest = 5 }
+		}		
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}		
+	}
+}
+
+town_hall = {
+	cost = 400
+	time = 12
+	
+	make_obsolete = courthouse
+	
+	modifier = {
+		local_unrest = -5
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			nationalism = 1
+		}
+		modifier = {
+			factor = 0
+			NOT = { unrest = 5 }
+		}		
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}	
+		modifier = {
+			factor = 0.1
+			NOT = { development = 10 }
+		}	
+	}
+}
+
+################################################
+# Army
+################################################
+
+armory = {
+	cost = 100
+	time = 12
+	modifier = {
+		local_manpower_modifier = 0.25
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { base_manpower = 2 }
+		}		
+		modifier = {
+			factor = 0.5
+			NOT = { base_manpower = 4 }
+		}
+		modifier = {
+			factor = 1.5
+			base_manpower = 6
+		}	
+		modifier = {
+			factor = 1.5
+			base_manpower = 8
+		}	
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}
+	}
+}
+
+barracks = {
+	cost = 100
+	time = 12
+
+	make_obsolete = armory
+
+	modifier = {
+		local_manpower_modifier = 0.5
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { base_manpower = 2 }
+		}		
+		modifier = {
+			factor = 0.5
+			NOT = { base_manpower = 4 }
+		}
+		modifier = {
+			factor = 1.5
+			base_manpower = 6
+		}	
+		modifier = {
+			factor = 1.5
+			base_manpower = 8
+		}	
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}
+	}
+}
+
+training_fields = {
+	cost = 300
+	time = 12
+	
+	make_obsolete = barracks
+	
+	modifier = {
+		local_manpower_modifier = 1
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { base_manpower = 2 }
+		}		
+		modifier = {
+			factor = 0.5
+			NOT = { base_manpower = 4 }
+		}
+		modifier = {
+			factor = 1.5
+			base_manpower = 6
+		}	
+		modifier = {
+			factor = 1.5
+			base_manpower = 8
+		}	
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}
+	}
+}
+
+regimental_camp = {
+	cost = 200
+	time = 12
+	modifier = {
+		land_forcelimit = 1
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}	
+		modifier = {
+			factor = 0.1
+			NOT = { development = 20 }
+		}			
+	}
+}
+
+conscription_center = {
+	cost = 400
+	time = 12
+	
+	
+	make_obsolete = regimental_camp
+	
+	modifier = {
+		land_forcelimit = 2
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}
+		modifier = {
+			factor = 0.1
+			NOT = { development = 20 }
+		}		
+	}
+}
+		
+################################################
+# Navy
+################################################
+
+dock = {
+	cost = 100
+	time = 12
+	trigger = {
+		has_port = yes
+	}
+	modifier = {
+		naval_forcelimit = 1
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}	
+		modifier = {
+			factor = 0.1
+			NOT = { development = 10 }
+		}		
+	}
+}
+
+drydock = {
+	cost = 200
+	time = 12
+
+	make_obsolete = dock
+
+	trigger = {
+		has_port = yes
+	}
+	modifier = {
+		naval_forcelimit = 2
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}	
+		modifier = {
+			factor = 0.1
+			NOT = { development = 10 }
+		}		
+	}
+}
+
+naval_arsenal = {
+	cost = 400
+	time = 12
+	
+	make_obsolete = drydock
+	
+	trigger = {
+		has_port = yes
+	}
+	
+	modifier = {
+		naval_forcelimit = 4		
+	}	
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}	
+		modifier = {
+			factor = 0.1
+			NOT = { development = 10 }
+		}			
+	}
+}
+
+shipyard = {
+	cost = 100
+	time = 12
+	trigger = {
+		has_port = yes
+	}
+	modifier = {
+		local_ship_cost = -0.10
+		local_ship_repair = 0.25
+		ship_recruit_speed = -0.50
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}	
+		modifier = {
+			factor = 10
+			development = 10
+		}	
+		modifier = {
+			factor = 0
+			is_overseas = yes
+		}
+	}
+}
+
+grand_shipyard = {
+	cost = 300
+	time = 12
+	
+	make_obsolete = shipyard
+	
+	trigger = {
+		has_port = yes
+	}
+	modifier = {
+		local_ship_cost = -0.2
+		local_ship_repair = 0.5
+		ship_recruit_speed = -0.5
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}	
+		modifier = {
+			factor = 10
+			development = 10
+		}	
+		modifier = {
+			factor = 0
+			is_overseas = yes
+		}
+	}
+}
+
+naval_base = {
+	cost = 300
+	time = 12
+	
+	make_obsolete = grand_shipyard
+	
+	trigger = {
+		has_port = yes
+	}
+	modifier = {
+		local_ship_cost = -0.3
+		local_ship_repair = 0.75
+		ship_recruit_speed = -0.5
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}	
+		modifier = {
+			factor = 10
+			development = 10
+		}	
+		modifier = {
+			factor = 0
+			is_overseas = yes
+		}
+	}
+}
+
+################################################
+# Education
+################################################
+
+
+university = {
+	cost = 300
+	time = 12
+	modifier = {
+		local_development_cost = -0.20
+		allowed_num_of_buildings = 1
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}		
+	}	
+}
+
+################################################
+# Fort
+################################################
+
+fort_15th = {
+	cost = 200
+	time = 30
+	modifier = {
+		fort_level = 2
+	}
+	
+	onmap = yes
+	
+	influencing_fort = yes
+	
+	ai_will_do = {
+		factor = 1000
+		modifier = {
+			factor = 0.5
+			NOT = {
+				any_neighbor_province = {
+					NOT = { owned_by = ROOT }
+				}
+			}
+		}			
+		modifier = {
+			factor = 2.0
+			any_neighbor_province = {
+				NOT = { owned_by = ROOT }
+			}
+		}	
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}	
+		modifier = {
+			factor = 0
+			any_neighbor_province = {
+				owned_by = ROOT
+				OR = {
+					has_building = fort_15th
+					has_building = fort_16th
+					has_building = fort_17th
+					has_building = fort_18th
+				}
+			}
+		}		
+	}
+}
+
+fort_16th = {
+	cost = 400
+	time = 30
+	make_obsolete = fort_15th
+	modifier = {
+		fort_level = 4
+	}
+
+	onmap = yes
+	
+	influencing_fort = yes
+	
+	ai_will_do = {
+		factor = 1000
+		modifier = {
+			factor = 0.5
+			NOT = {
+				any_neighbor_province = {
+					NOT = { owned_by = ROOT }
+				}
+			}
+		}			
+		modifier = {
+			factor = 2.0
+			any_neighbor_province = {
+				NOT = { owned_by = ROOT }
+			}
+		}	
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}	
+		modifier = {
+			factor = 0
+			any_neighbor_province = {
+				owned_by = ROOT
+				OR = {
+					has_building = fort_15th
+					has_building = fort_16th
+					has_building = fort_17th
+					has_building = fort_18th
+				}
+			}
+		}		
+	}
+}
+
+fort_17th = {
+	cost = 600
+	time = 30
+	
+	make_obsolete = fort_16th
+	
+	modifier = {
+		fort_level = 6
+	}
+
+	onmap = yes
+	
+	influencing_fort = yes
+	
+	ai_will_do = {
+		factor = 1000
+		modifier = {
+			factor = 0.5
+			NOT = {
+				any_neighbor_province = {
+					NOT = { owned_by = ROOT }
+				}
+			}
+		}			
+		modifier = {
+			factor = 2.0
+			any_neighbor_province = {
+				NOT = { owned_by = ROOT }
+			}
+		}	
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}	
+		modifier = {
+			factor = 0
+			any_neighbor_province = {
+				owned_by = ROOT
+				OR = {
+					has_building = fort_15th
+					has_building = fort_16th
+					has_building = fort_17th
+					has_building = fort_18th
+				}
+			}
+		}			
+	}
+}
+
+fort_18th = {
+	cost = 800
+	time = 30
+	
+	
+	make_obsolete = fort_17th
+	
+	modifier = {
+		fort_level = 8
+	}
+
+	onmap = yes
+	
+	influencing_fort = yes
+	
+	ai_will_do = {
+		factor = 1000
+		modifier = {
+			factor = 0.5
+			NOT = {
+				any_neighbor_province = {
+					NOT = { owned_by = ROOT }
+				}
+			}
+		}			
+		modifier = {
+			factor = 2.0
+			any_neighbor_province = {
+				NOT = { owned_by = ROOT }
+			}
+		}	
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}	
+		modifier = {
+			factor = 0
+			any_neighbor_province = {
+				owned_by = ROOT
+				OR = {
+					has_building = fort_15th
+					has_building = fort_16th
+					has_building = fort_17th
+					has_building = fort_18th
+				}
+			}
+		}		
+	}
+}
+
+
+################################################
+# Transportation
+################################################
+
+road = {
+	cost = 60
+	time = 8
+	modifier = {
+		local_movement_speed = 0.10
+	}
+
+	ai_will_do = {
+		factor = 50
+		modifier = {
+			factor = 0
+			NOT = { development = 6 }
+		}
+		modifier = {
+			factor = 0
+			is_overseas = yes
+		}		
+	}
+}
+
+highway = {
+	cost = 100
+	time = 12
+
+	make_obsolete = road
+
+	modifier = {
+		local_movement_speed = 0.25
+	}
+
+	ai_will_do = {
+		factor = 50
+		modifier = {
+			factor = 0
+			NOT = { development = 6 }
+		}		
+		modifier = {
+			factor = 0
+			is_overseas = yes
+		}
+	}
+}
+
+railroad = {
+	cost = 100
+	time = 12
+
+	modifier = {
+		local_movement_speed = 0.3
+		province_trade_power_modifier = 0.25
+	}
+
+	ai_will_do = {
+		factor = 100	
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}	
+		modifier = {
+			factor = 0.5
+			NOT = { development = 20 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}
+		modifier = {
+			factor = 1.5
+			development = 40
+		}
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}
+	}
+}
+
+mass_transit_system = {
+	cost = 200
+	time = 18
+
+	modifier = {
+		local_tax_modifier = 0.4
+		local_movement_speed = 0.10
+	}
+
+	ai_will_do = {
+		factor = 100	
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}	
+		modifier = {
+			factor = 0.5
+			NOT = { development = 20 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}
+		modifier = {
+			factor = 1.5
+			development = 40
+		}
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}
+	}
+}
+
+################################################
+# Religion
+################################################
+
+glorious_monument = {		
+	cost = 100
+	time = 12
+	modifier = {
+		tax_income = 0.5
+		local_missionary_strength = 0.01
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { base_tax = 3 }
+		}		
+		modifier = {
+			factor = 0.5
+			NOT = { base_tax = 5 }
+		}
+		modifier = {
+			factor = 1.5
+			base_tax = 7
+		}	
+		modifier = {
+			factor = 1.5
+			base_tax = 9
+		}				
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}		
+	}
+}
+
+temple = {		
+	make_obsolete = glorious_monument
+
+	cost = 100
+	time = 12
+	modifier = {
+		tax_income = 1
+		local_missionary_strength = 0.01
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { base_tax = 3 }
+		}		
+		modifier = {
+			factor = 0.5
+			NOT = { base_tax = 5 }
+		}
+		modifier = {
+			factor = 1.5
+			base_tax = 7
+		}	
+		modifier = {
+			factor = 1.5
+			base_tax = 9
+		}				
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}		
+	}
+}
+
+cathedral = {
+	make_obsolete = temple
+	
+	cost = 300
+	time = 12
+	modifier = {
+		tax_income = 1
+		local_unrest = -1
+		local_missionary_strength = 0.03
+	}
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { base_tax = 3 }
+		}		
+		modifier = {
+			factor = 0.5
+			NOT = { base_tax = 5 }
+		}
+		modifier = {
+			factor = 1.5
+			base_tax = 7
+		}	
+		modifier = {
+			factor = 1.5
+			base_tax = 9
+		}				
+		modifier = {
+			factor = 0.1
+			is_overseas = yes
+		}	
+	}
+}
+
+################################################
+# Manufactories
+################################################
+
+
+wharf = {
+	cost = 500
+	time = 60
+	manufactory = {
+		naval_supplies
+		fish
+		salt
+		tropical_wood
+	}
+	modifier = {
+		trade_goods_size = 1.0
+	}
+	onmap = yes
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}	
+	}
+}
+
+weapons = {
+	cost = 500
+	time = 60
+	manufactory = {
+		copper
+		iron
+		oil
+	}
+	modifier = {
+		trade_goods_size = 1.0
+	}
+	onmap = yes	
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}		
+	}
+}
+
+textile = {
+	cost = 500
+	time = 60
+	manufactory = {
+		wool
+		cloth
+		silk
+		dyes
+	}
+	modifier = {
+		trade_goods_size = 1.0
+	}
+	onmap = yes
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}		
+	}
+}
+
+
+
+plantations = {
+	cost = 500
+	time = 60
+	manufactory = {
+		coffee
+		cotton
+		sugar
+		tobacco
+		cocoa
+		grain
+	}
+	modifier = {
+		trade_goods_size = 1.0	
+	}
+	onmap = yes
+	
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}		
+	}
+}
+
+tradecompany = {
+	cost = 500
+	time = 60
+	manufactory = {
+		ivory
+		tea
+		chinaware
+		slaves
+		spices
+		fur
+		wine
+	}
+	modifier = {
+		trade_goods_size = 1.0	
+	}
+	onmap = yes
+
+	ai_will_do = {
+		factor = 100
+		modifier = {
+			factor = 0
+			NOT = { development = 10 }
+		}		
+		modifier = {
+			factor = 0.1
+			NOT = { development = 15 }
+		}
+		modifier = {
+			factor = 1.5
+			development = 20
+		}		
+		modifier = {
+			factor = 1.5
+			development = 25
+		}
+		modifier = {
+			factor = 1.5
+			development = 30
+		}		
+	}
+}
+
+
+

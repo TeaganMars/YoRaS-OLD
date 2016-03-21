@@ -1,0 +1,69 @@
+#1033 - South Sakhalin
+
+culture = ainu
+religion = tengri_pagan_reformed
+capital = "Sakhalin"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 1
+discovered_by = JAP
+discovered_by = AMA
+discovered_by = ASA
+discovered_by = CSK
+discovered_by = DTE
+discovered_by = HJO
+discovered_by = HSK
+discovered_by = HTK
+discovered_by = IKE
+discovered_by = IMG
+discovered_by = MAE
+discovered_by = MRI
+discovered_by = ODA
+discovered_by = OTM
+discovered_by = OUC
+discovered_by = SBA
+discovered_by = SMZ
+discovered_by = TKD
+discovered_by = TKG
+discovered_by = UES
+discovered_by = YMN
+discovered_by = MYR
+discovered_by = MJZ
+discovered_by = MHX
+discovered_by = MNG
+discovered_by = ANU
+discovered_by = HOD
+discovered_by = CHU
+discovered_by = CHV
+discovered_by = KMC
+
+1206.1.1 = { owner = MYR controller = MYR add_core = MYR is_city = yes trade_goods = fish }
+
+1640.1.1  = { discovered_by = RUS } # Ivan Moskvitin
+1679.1.1  = {	owner = JAP
+		controller = JAP
+		culture = japanese
+		trade_goods = fish
+		religion = shinto
+	    } # Russian & Japanese attemps at colonization
+1704.1.1  = { add_core = JAP }
+1787.1.1  = { discovered_by = FRA } # Jean-Francois de La Pérouse
+
+1855.1.1   = { add_core = RUS }
+1875.8.22  = { owner = RUS controller = RUS remove_core = JAP capital = "Sakhalin" }
+1882.1.1   = { capital = "Yuzhno-Sakhalinsk" }
+1905.9.5   = { owner = JAP controller = JAP add_core = JAP }
+1907.1.1   = { capital = "Otomari" }
+1908.1.1   = { capital = "Toyohara" }
+1945.8.15  = { owner = SOV controller = SOV add_core = SOV capital = "Yuzhno-Sakhalinsk" }
+1949.6.1   = { remove_core = JAP }
+1950.1.1   = { citysize = 80000 religion = orthodox culture = russian }
+1991.12.25 = { owner = RUS controller = RUS remove_core = SOV }
+
+
+

@@ -1,0 +1,50 @@
+#1023 - Echizen
+
+owner = YAM
+controller = YAM
+culture = japanese
+religion = animism
+capital = "Fukui"
+trade_goods = chinaware
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+add_core = YAM
+discovered_by = early_chinese
+discovered_by = chinese
+
+580.1.1 = { religion = mahayana }
+712.1.1 = { religion = shinto }
+794.1.1 = { owner = JAP controller = JAP add_core = JAP remove_core = YAM }
+1000.1.1 = { base_tax = 3 base_production = 3 }
+1200.1.1 = { base_tax = 4 base_production = 4 }
+1338.2.23 = { owner = SBA controller = SBA add_core = SBA remove_core = JAP } #Ashikaga Shogunate
+1366.1.1 = { owner = HTK controller = HTK add_core = HTK }
+1380.1.1 = { owner = SBA controller = SBA remove_core = HTK }
+
+1460.1.1 = { add_core = ASA }
+1471.7.1 = { owner = ASA controller = ASA }
+1471.7.1 = { capital = "Ichijodani" }
+1487.1.1 = { remove_core = SBA }
+1542.1.1 = { discovered_by = POR }
+1568.1.1 = { add_core = ODA }
+1573.7.1 = { add_core = JAP owner = JAP controller = JAP remove_core = ASA remove_core = ODA }
+1575.1.1 = { capital = "Kitanosho" }
+1601.1.1 = { capital = "Fukui" }
+
+1750.1.1 = { base_tax = 5 base_manpower = 3 }
+1775.1.1 = { base_production = 5 base_manpower = 5 }
+1800.1.1 = { base_tax = 6 base_production = 6 base_manpower = 6 }
+1825.1.1 = { base_manpower = 8 }
+1851.1.1 = { base_tax = 7 base_production = 7 base_manpower = 9 }
+1875.1.1 = { base_tax = 9 base_production = 8 }
+1901.1.1 = { base_tax = 10 base_manpower = 10 }
+1925.1.1 = { base_production = 11 }
+1951.1.1 = { base_tax = 11 base_manpower = 12 }
+1975.1.1 = { base_tax = 12 base_manpower = 13 }
+2000.1.1 = { base_tax = 14 base_production = 14 base_manpower = 14 }
+
+
+

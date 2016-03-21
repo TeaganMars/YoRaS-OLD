@@ -1,0 +1,58 @@
+#887 - Tonkawa
+
+culture = caddo
+religion = totemism
+capital = "Tonkawa"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 2
+native_hostileness = 9
+discovered_by = north_american
+
+1528.11.6 = { discovered_by = SPA } # Álvar Núñez Cabeza de Vaca
+1682.1.1 = { discovered_by = FRA }
+1718.1.1 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	citysize = 520
+	culture = castillian
+	religion = catholic
+	trade_goods = sugar
+} # Missions around San Antonio, future Alamo
+1750.1.1 = { is_city = yes }
+1751.1.1 = { base_tax = 3 base_production = 3 base_manpower = 5 }
+1775.1.1 = { base_tax = 6 base_production = 7 base_manpower = 6 }
+1800.1.1 = { base_tax = 9 base_production = 10 base_manpower = 9 }
+1810.9.16 = {
+	owner = MEX
+	add_core = MEX
+	controller = SPA
+} # Mexican War of Independence
+
+1821.9.27  = { controller = MEX remove_core = SPA }
+1825.1.1 = { base_tax = 12 base_production = 12 base_manpower = 12 }
+1835.1.1   = { capital = "Austin" }
+1836.3.2   = { owner = TEX controller = TEX add_core = TEX culture = american } # Republic of Texas
+1845.12.29 = { owner = USA controller = USA add_core = USA } # Texas annexed
+1846.2.19  = { remove_core = TEX }
+1848.2.2   = { remove_core = MEX } # Treaty of Guadalupe Hidalgo
+1851.1.1 = { base_tax = 16 base_production = 15 base_manpower = 13 }
+1861.2.1   = { owner = TEX controller = TEX add_core = TEX }
+1861.3.2   = { owner = CSA controller = CSA add_core = CSA remove_core = TEX }
+1865.5.5   = { owner = USA controller = USA remove_core = CSA }
+1875.1.1 = { base_tax = 18 base_production = 19 base_manpower = 16 }
+1901.1.1 = { base_tax = 20 base_production = 21 base_manpower = 20 }
+1925.1.1 = { base_tax = 24 base_production = 23 base_manpower = 22 }
+1930.10.5  = { trade_goods = oil } #East Texas oil field
+1951.1.1 = { base_tax = 27 base_production = 26 base_manpower = 25 }
+1975.1.1 = { base_tax = 32 base_production = 27 base_manpower = 27 }
+2000.1.1 = { base_tax = 35 base_production = 35 base_manpower = 33 }
+
+
+
+

@@ -1,0 +1,101 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = early_chinese
+religion = confucianism
+primary_culture = cantonese
+capital = 662	# Yunnan
+
+557.1.1 = {
+	monarch = {
+		name = "Ming"
+		dynasty = "Zhou"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+561.1.1 = {
+	monarch = {
+		name = "Wu"
+		dynasty = "Zhou"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+
+578.1.1 = {
+	monarch = {
+		name = "Xuan"
+		dynasty = "Zhou"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+579.1.1 = {
+	monarch = {
+		name = "Jing"
+		dynasty = "Zhou"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+750.1.1 = { technology_group = chinese }
+
+951.1.1 = {
+	monarch = {
+		name = "Taizu"
+		dynasty = "Zhou"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+954.1.1 = {
+	monarch = {
+		name = "Shizong"
+		dynasty = "Zhou"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+959.1.1 = {
+	monarch = {
+		name = "Gongdi"
+		dynasty = "Zhou"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1662.1.1 = {
+	monarch = {
+		name = "Sangui"
+		dynasty = "Wu"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1678.8.1 = {
+	monarch = {
+		name = "Shifan"
+		dynasty = "Wu"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+

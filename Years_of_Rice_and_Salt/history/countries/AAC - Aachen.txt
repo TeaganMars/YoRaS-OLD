@@ -1,0 +1,21 @@
+government = imperial_city
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+religion = catholic
+primary_culture = hessian
+capital = 1878	# Aachen
+
+
+962.2.2 = {
+	monarch = {
+		name = "Stadtrat"
+		regent = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1798.1.1 = { government = constitutional_republic }
+

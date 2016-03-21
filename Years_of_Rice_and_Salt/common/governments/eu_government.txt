@@ -1,0 +1,23 @@
+eu_gov = {
+	republic = yes
+	
+	valid_for_new_country = no
+	allow_convert = no
+	
+	republican_name = yes
+	royal_marriage = no
+	
+	allow_vassal_war = yes
+	allow_vassal_alliance = yes
+	
+	valid_for_nation_designer = no
+	
+	rank = {
+		3 = {
+			accepted_culture_threshold = -0.75
+			prestige = 3
+			liberty_desire = -999
+		}
+	}
+	fixed_rank = 3
+}

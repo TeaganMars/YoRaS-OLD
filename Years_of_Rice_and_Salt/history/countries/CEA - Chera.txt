@@ -1,0 +1,290 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = tamil
+religion = hinduism
+technology_group = early_indian
+capital = 534
+
+2.1.1 = {
+	monarch = {
+		name = "Uthiyan Cheralathan"
+		dynasty = "Chera"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+50.1.1 = {
+	monarch = {
+		name = "Imayavaramban Nedun-Cheralatan"
+		dynasty = "Chera"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+110.1.1 = {
+	monarch = {
+		name = "Cheran Chenkutuvan"
+		dynasty = "Chera"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+166.1.1 = {
+	monarch = {
+		name = "Palyanai Sel-Kelu Kuttuvan"
+		dynasty = "Chera"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+200.6.1 = {
+	monarch = {
+		name = "Poraiyan Kadungo"
+		dynasty = "Chera"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+250.1.1 = {
+	monarch = {
+		name = "Kalankai-Kanni Narmudi Cheral"
+		dynasty = "Chera"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+300.1.1 = {
+	monarch = {
+		name = "Vel-Kelu Kuttuvan"
+		dynasty = "Chera"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+350.1.1 = {
+	monarch = {
+		name = "Selvak-Kadungo"
+		dynasty = "Chera"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+400.1.1 = {
+	monarch = {
+		name = "Adukotpattu Cheralatan"
+		dynasty = "Chera"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+450.1.1 = {
+	monarch = {
+		name = "Kuttuvan Irumporai"
+		dynasty = "Chera"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+500.1.1 = {
+	monarch = {
+		name = "Tagadur Erinda Perumcheral"
+		dynasty = "Chera"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+550.1.1 = {
+	monarch = {
+		name = "Yanaikat-sey Mantaran Cheral"
+		dynasty = "Chera"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+600.10.1 = {
+	monarch = {
+		name = "Ilamcheral Irumporai"
+		dynasty = "Chera"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+650.1.1 = {
+	monarch = {
+		name = "Perumkadungo"
+		dynasty = "Chera"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+700.1.1 = {
+	monarch = {
+		name = "Ilamkadungo"
+		dynasty = "Chera"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+750.1.1 = { technology_group = indian }
+
+750.1.1 = {
+	monarch = {
+		name = "Kanaikal Irumporai"
+		dynasty = "Chera"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+800.1.1 = {
+	monarch = {
+		name = "Kulashekhara Varman"
+		dynasty = "Kulasekhara"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+820.1.1 = {
+	monarch = {
+		name = "Rajashekhara Varman"
+		dynasty = "Kulasekhara"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+844.6.1 = {
+	monarch = {
+		name = "Sthanu Ravi Varman"
+		dynasty = "Kulasekhara"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+885.6.1 = {
+	monarch = {
+		name = "Rama Varma Kulashekhara I"
+		dynasty = "Kulasekhara"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+917.6.1 = {
+	monarch = {
+		name = "Goda Ravi Varma"
+		dynasty = "Kulasekhara"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+
+944.6.1 = {
+	monarch = {
+		name = "Indu Kotha Varma"
+		dynasty = "Kulasekhara"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+962.6.1 = {
+	monarch = {
+		name = "Bhaskara Ravi Varman I"
+		dynasty = "Kulasekhara"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1019.6.1 = {
+	monarch = {
+		name = "Bhaskara Ravi Varman II"
+		dynasty = "Kulasekhara"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1021.6.1 = {
+	monarch = {
+		name = "Vira Kerala"
+		dynasty = "Kulasekhara"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1028.6.1 = {
+	monarch = {
+		name = "Rajasimha"
+		dynasty = "Kulasekhara"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1043.6.1 = {
+	monarch = {
+		name = "Bhaskara Ravi Varman III"
+		dynasty = "Kulasekhara"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1090.1.1 = {
+	monarch = {
+		name = "Rama Varma Kulashekhara II"
+		dynasty = "Kulasekhara"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+

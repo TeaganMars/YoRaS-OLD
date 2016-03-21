@@ -1,0 +1,5 @@
+#1922 - Great Salt Lake
+
+1776.1.1   = { discovered_by = SPA } # Silvestre Vélez de Escalante
+1824.1.1   = { discovered_by = GBR }
+

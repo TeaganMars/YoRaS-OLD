@@ -1,0 +1,53 @@
+government = constitutional_republic
+#aristocracy_plutocracy = 1
+#centralization_decentralization = -2
+#innovative_narrowminded = 0
+#mercantilism_freetrade = 3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 3
+#quality_quantity = 2
+#serfdom_freesubjects = 0
+technology_group = western
+religion = catholic
+primary_culture = portugese
+capital = 1096
+
+1910.1.1 = { religion = secularism }
+
+1975.7.8 = {
+	monarch = {
+		name = "Aristides Pereira"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1991.3.22 = {
+	monarch = {
+		name = "António Monteiro"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+2001.3.22 = {
+	monarch = {
+		name = "Pedro Pires"
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}
+
+2011.9.9 = {
+	monarch = {
+		name = "Jorge Carlos Fonseca"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+

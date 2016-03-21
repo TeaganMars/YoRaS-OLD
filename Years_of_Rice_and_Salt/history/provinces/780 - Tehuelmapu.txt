@@ -1,0 +1,31 @@
+#780 - Tehuelmapu
+
+culture = patagonian
+religion = south_american
+capital = "Tehuelmapu"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 2
+native_hostileness = 9
+discovered_by = south_american
+
+1520.1.1  = { discovered_by = SPA } # Ferdinand Magellan
+1577.1.1  = { discovered_by = ENG } # Drake
+1786.1.1  = { discovered_by = FRA } # Jean Francois la Perouse
+
+1884.1.1  = {	owner = LAP
+		controller = LAP
+		add_core = LAP 
+		is_city = yes
+		culture = castillian
+		religion = catholic
+		trade_goods = grain
+	    } # Conquista del desierto
+1910.1.1  = { capital = "Maquinchao" }
+
+
+

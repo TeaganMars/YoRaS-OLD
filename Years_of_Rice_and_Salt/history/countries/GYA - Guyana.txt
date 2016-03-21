@@ -1,0 +1,99 @@
+government = parliamentary_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = 0
+technology_group = western
+primary_culture = english
+religion = reformed
+capital = 744	# Georgetown
+
+1910.1.1 = { religion = secularism }
+
+1966.5.26 = {
+	monarch = {
+		name = "Forbes Burnham"
+		adm = 3
+		mil = 2
+		dip = 4
+	}
+}
+
+1970.5.17 = {
+	government = constitutional_republic
+	monarch = {
+		name = "Arthur Chung"
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}
+
+1980.10.6 = {
+	monarch = {
+		name = "Forbes Burnham"
+		adm = 3
+		mil = 2
+		dip = 4
+	}
+}
+
+1985.8.6 = {
+	monarch = {
+		name = "Desmond Hoyte"
+		adm = 3
+		mil = 3
+		dip = 5
+	}
+}
+
+1992.10.6 = {
+	monarch = {
+		name = "Cheddi Jagan"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1997.12.19 = {
+	monarch = {
+		name = "Janet Jagan"
+		adm = 5
+		mil = 2
+		dip = 3
+		female = yes
+	}
+}
+
+1999.8.11 = {
+	monarch = {
+		name = "Bharrat Jagdeo"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+2011.12.3 = {
+	monarch = {
+		name = "Donald Ramotar"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+2015.5.16 = {
+	monarch = {
+		name = "David Granger"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}

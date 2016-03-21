@@ -1,0 +1,32 @@
+#2357 - Yao
+
+culture = bilala  
+religion = african
+capital = "Yao"
+base_manpower = 1
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+discovered_by = sub_saharan
+
+1064.1.1 = { religion = sunni }
+
+1300.1.1 = { owner = YAO controller = YAO add_core = YAO is_city = yes trade_goods = grain }
+
+1890.1.1   = { discovered_by = FR2 }
+1900.4.22  = { owner = FR2 controller = FR2 add_core = FR2 citysize = 18000 } # Battle of Kousséri
+1910.1.1   = { discovered_by = western }
+1940.1.1   = {  discovered_by = eastern
+		discovered_by = muslim
+		discovered_by = ottoman
+		discovered_by = indian
+		discovered_by = chinese
+	     }
+1960.8.11  = { owner = CDD controller = CDD add_core = CDD remove_core = FR2 remove_core = KBO }
+
+
+

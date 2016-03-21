@@ -1,0 +1,56 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+technology_group = early_indian
+religion = hinduism
+primary_culture = bengali
+capital = 561	# Nabadwip
+
+750.1.1 = { technology_group = indian }
+
+1174.1.1 = {
+	monarch = {
+		name = "Ballal"
+		dynasty = "Sena"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1179.1.1 = {
+	monarch = {
+		name = "Lakshman"
+		dynasty = "Sena"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1206.1.1 = {
+	monarch = {
+		name = "Vishwarup"
+		dynasty = "Sena"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1225.1.1 = {
+	monarch = {
+		name = "Keshab"
+		dynasty = "Sena"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}

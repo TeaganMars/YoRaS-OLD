@@ -1,0 +1,8 @@
+#1360 - Karimata Strait
+
+discovered_by = early_chinese
+discovered_by = chinese
+1509.1.1 = { discovered_by = POR }
+
+
+

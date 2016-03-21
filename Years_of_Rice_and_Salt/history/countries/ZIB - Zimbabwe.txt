@@ -1,0 +1,243 @@
+government = tribal_despotism
+mercantilism = 0.1
+primary_culture = shona
+religion = african
+technology_group = sub_saharan
+capital = 1184	# Zimbabwe
+
+1660.1.1 = { capital = 2852 } #Rozwi Empire
+
+1690.1.1 = {
+	monarch = {
+		name = "Dombo Chinkura"
+		dynasty = "Rozwi"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+1690.1.1 = {
+	heir = {
+		name = "Nechisake"
+		monarch_name = "Nechisake"
+		dynasty = "Rozwi"
+		birth_date = 1690.1.1
+		death_date = 1720.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1696.1.1 = {
+	monarch = {
+		name = "Nechisake"
+		dynasty = "Rozwi"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1696.1.1 = {
+	heir = {
+		name = "Nechagadzike"
+		monarch_name = "Nechagadzike"
+		dynasty = "Rozwi"
+		birth_date = 1696.1.1
+		death_date = 1768.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+		
+
+1720.1.1 = {
+	monarch = {
+		name = "Nechagadzike"
+		dynasty = "Rozwi"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1720.1.1 = {
+	heir = {
+		name = "Mambo Rupanadamananga"
+		monarch_name = "Mambo Rupanadamananga"
+		dynasty = "Rozwi"
+		birth_date = 1720.1.1
+		death_Date = 1779.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1768.1.1 = {
+	monarch = {
+		name = "Mambo Rupanadamananga"
+		dynasty = "Rozwi"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1768.1.1 = {
+	heir = {
+		name = "Gumboremvura"
+		monarch_name = "Gumboremvura"
+		dynasty = "Rozwi"
+		birth_date = 1768.1.1
+		death_date = 1802.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1779.1.1 = {
+	monarch = {
+		name = "Gumboremvura"
+		dynasty = "Rozwi"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1779.1.1 = {
+	heir = {
+		name = "Chirisamhuru"
+		monarch_name = "Chirisamhuru I"
+		dynasty = "Rozwi"
+		birth_Date = 1779.1.1
+		death_Date = 1836.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1802.1.1 = {
+	monarch = {
+		name = "Chirisamhuru I"
+		dynasty = "Rozwi"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1831.1.1 = {
+	monarch = {
+		name = "Changamire Tohwechipi"
+		dynasty = "Rozwi"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+#Ndebele kingdom
+1866.1.1 = { capital = 2031 } #Matabeleland
+
+1866.1.1 = {
+	monarch = {
+		name = "Mzilikazi"
+		dynasty = "Mthwakazi"
+		birth_date = 1790.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1866.1.1 = {
+	heir = {
+		name = "Lobengula"
+		monarch_name = "Lobengula"
+		dynasty = "Mthwakazi"
+		birth_date = 1836.1.1
+		death_date = 1894.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1868.9.1 = {
+	monarch = {
+		name = "Lobengula"
+		dynasty = "Mthwakazi"
+		birth_date = 1836.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1900.1.1 = { technology_group = muslim }
+1910.1.1 = { religion = secularism }
+1950.1.1 = { government = constitutional_republic }
+1965.11.11 = { capital = 1188 }
+
+1965.11.11 = {
+	monarch = {
+		name = "Clifford Dupont"
+		birth_date = 1905.12.6
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+1976.1.14 = {
+	monarch = {
+		name = "John Wrathall"
+		birth_date = 1913.8.28
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+}
+
+1978.8.31 = {
+	monarch = {
+		name = "Jack William Pithey"
+		birth_date = 1903.12.30
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1980.4.18 = {
+	monarch = {
+		name = "Canaan Banana"
+		birth_date = 1936.3.5
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+
+1987.12.31 = {
+	monarch = {
+		name = "Robert Mugabe"
+		birth_date = 1924.2.21
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}

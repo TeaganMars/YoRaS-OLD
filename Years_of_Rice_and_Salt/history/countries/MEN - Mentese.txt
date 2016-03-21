@@ -1,0 +1,56 @@
+government = despotic_monarchy
+government_rank = 1
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 0
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -1
+#quality_quantity = -1
+#serfdom_freesubjects = -1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 319	# Antalya
+
+1260.1.1 = {
+	monarch = {
+		name = "Mentes I"
+		dynasty = "Mentesoglu"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1282.1.1 = {
+	monarch = {
+		name = "Mesud I"
+		dynasty = "Mentesoglu"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1340.1.1 = {
+	monarch = {
+		name = "Ahmet Ghazi"
+		dynasty = "Mentesoglu"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+
+1399.1.1 = {
+	monarch = {
+		name = "Ilyas I"
+		dynasty = "Mentesoglu"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+

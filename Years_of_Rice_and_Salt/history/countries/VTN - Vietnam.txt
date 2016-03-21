@@ -1,0 +1,104 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = vietnamese
+religion = mahayana
+technology_group = early_chinese
+capital = 616	# Hanoi
+
+750.1.1 = { technology_group = chinese }
+
+1915.1.1 = { technology_group = asian }
+
+1945.3.11 = {
+	monarch = {
+		name = "Bao Dai"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1945.8.23 = { religion = secularism }
+1945.8.23 = { government = socialist_republic }
+1949.11.9 = { leader = {	name = "Vo Nguyen Giap"	type = general	rank = 8	fire = 5	shock = 4	manuever = 3	siege = 2	death_date = 1991.1.1 } }
+
+1976.7.2 = {
+	monarch = {
+		name = "Don Duc Thang"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1980.3.30 = {
+	monarch = {
+		name = "Nguyen Huu Tho"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1981.7.4 = {
+	monarch = {
+		name = "Truong Chinh"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1987.6.18 = {
+	monarch = {
+		name = "Vo Chi Cong"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1992.9.24 = {
+	monarch = {
+		name = "Le Duc Anh"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+
+1997.9.24 = {
+	monarch = {
+		name = "Tran Duc Luong"
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+2006.6.27 = {
+	monarch = {
+		name = "Nguyen Minh Triet"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2011.7.25 = {
+	monarch = {
+		name = "Truong Tan Sang"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}

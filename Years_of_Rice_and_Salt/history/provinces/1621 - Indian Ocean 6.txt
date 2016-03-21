@@ -1,0 +1,7 @@
+#1621 - Chagos Archipelago
+
+discovered_by = early_indian
+discovered_by = indian
+1498.1.1 = { discovered_by = POR }
+
+

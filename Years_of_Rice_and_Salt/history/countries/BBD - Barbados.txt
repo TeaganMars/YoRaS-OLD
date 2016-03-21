@@ -1,0 +1,86 @@
+government = parliamentary_republic
+#aristocracy_plutocracy = 4
+#centralization_decentralization = -3
+#innovative_narrowminded = 0
+#mercantilism_freetrade = 4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = 2
+technology_group = western
+primary_culture = english
+religion = protestant
+capital = 501
+
+1966.11.18 = {
+	monarch = {
+		name = "Errol Barrow"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1976.9.8 = {
+	monarch = {
+		name = "John Adams"
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+1985.3.11 = {
+	monarch = {
+		name = "Bernard St. John"
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+}
+
+1986.5.29 = {
+	monarch = {
+		name = "Errol Barrow"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1987.6.1 = {
+	monarch = {
+		name = "Erskine Sandiford"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1994.9.7 = {
+	monarch = {
+		name = "Owen Arthur"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+2008.1.16 = {
+	monarch = {
+		name = "David Thompson"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+2010.10.23 = {
+	monarch = {
+		name = "Freundel Stuart"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}

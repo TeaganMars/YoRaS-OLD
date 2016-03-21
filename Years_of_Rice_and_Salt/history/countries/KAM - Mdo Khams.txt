@@ -1,0 +1,101 @@
+government = tribal_federation
+government_rank = 1
+mercantilism = 0.1
+primary_culture = tibetan
+religion = vajrayana
+technology_group = early_chinese
+capital = 2458	# Derge
+
+
+
+750.1.1 = { technology_group = chinese }
+
+1400.1.1 = {
+	monarch = {
+		name = "bSod-nams Bzan-po"
+		dynasty = "sDed-dge"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1450.1.1 = {
+	monarch = {
+		name = "Blo-gros-Stobs"
+		dynasty = "sDed-dge"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1480.1.1 = {
+	monarch = {
+		name = "rGyal-mts'an-'bum"
+		dynasty = "sDed-dge"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1510.1.1 = {
+	monarch = {
+		name = "dPon-c'en A-sna"
+		dynasty = "sDed-dge"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1540.1.1 = {
+	monarch = {
+		name = "Ya-rgyal-'p'el"
+		dynasty = "sDed-dge"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1570.1.1 = {
+	monarch = {
+		name = "Nam-mk'a"
+		dynasty = "sDed-dge"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1600.1.1 = {
+	monarch = {
+		name = "Lhun-t'ub"
+		dynasty = "sDed-dge"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1630.1.1 = {
+	monarch = {
+		name = "Klu-'p'el"
+		dynasty = "sDed-dge"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1660.1.1 = {
+	monarch = {
+		name = "O-rgyan bKra-sis"
+		dynasty = "sDed-dge"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}

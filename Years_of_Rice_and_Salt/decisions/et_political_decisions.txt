@@ -1,0 +1,137 @@
+country_decisions = {
+
+	declare_fascist_dictatorship = {
+		major = yes
+		potential = {
+			has_faction = national_socialist_party
+			faction_in_power = national_socialist_party
+		}
+		allow = {
+			is_subject = no
+			is_at_war = no
+			stability = 1
+			NOT = { republican_tradition = 0.5 }
+			faction_influence = {
+				faction = national_socialist_party
+				influence = 50
+			}
+		}
+		effect = {
+			add_stability = -2
+			change_government = fascist_dictatorship
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	declare_communist_dictatorship = {
+		major = yes
+		potential = {
+			has_faction = communist_party
+			faction_in_power = communist_party
+		}
+		allow = {
+			is_subject = no
+			is_at_war = no
+			stability = 1
+			NOT = { republican_tradition = 0.5 }
+			faction_influence = {
+				faction = communist_party
+				influence = 50
+			}
+		}
+		effect = {
+			add_stability = -2
+			change_government = communist_dictatorship
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	disestablish_monarchy = {
+		major = yes
+		potential = {
+			government = parliamentary_monarchy
+			has_faction = liberal_party
+			faction_in_power = liberal_party
+		}
+		allow = {
+			is_subject = no
+			is_at_war = no
+			stability = 2
+			faction_influence = {
+				faction = liberal_party
+				influence = 50
+			}
+		}
+		effect = {
+			add_stability = -1
+			change_government = presidental_republic
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	adopt_state_atheism = {
+		potential = {
+			OR = {
+				government = communist_dictatorship
+				government = socialist_republic
+				AND = {
+					has_faction = communist_party
+					faction_in_power = communist_party
+				}
+			}
+			NOT = { has_country_modifier = state_atheism }
+			NOT = { has_country_modifier = state_atheism_abolished }
+		}
+		allow = {
+			is_subject = no
+			is_at_war = no
+			adm_power = 50
+		}
+		effect = {
+			add_adm_power = -50
+			add_country_modifier = {
+				name = state_atheism
+				duration = -1
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { government = communist_dictatorship }
+			}
+		}
+	}
+
+	abolish_state_atheism = {
+		potential = {
+			has_country_modifier = state_atheism
+		}
+		allow = {
+			is_subject = no
+			is_at_war = no
+			adm_power = 50
+		}
+		effect = {
+			add_adm_power = -50
+			remove_country_modifier = state_atheism
+			add_country_modifier = {
+				name = state_atheism_abolished
+				duration = 3650
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				government = communist_dictatorship
+			}
+		}
+	}
+}

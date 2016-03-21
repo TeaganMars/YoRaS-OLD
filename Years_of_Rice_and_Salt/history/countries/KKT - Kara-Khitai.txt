@@ -1,0 +1,69 @@
+government = steppe_horde
+mercantilism = 0.1
+primary_culture = uzbehk
+religion = mahayana
+technology_group = eastern_nomad_group
+capital = 459	# Balasagun
+
+750.1.1 = { technology_group = nomad_group }
+
+1124.1.1 = {
+	monarch = {
+		name = "Yelü Dashi"
+		dynasty = "Kara-Khitan"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1144.1.1 = {
+	monarch = {
+		name = "Tabuyan"
+		dynasty = "Kara-Khitan"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+
+1150.1.1 = {
+	monarch = {
+		name = "Yelü Yilie"
+		dynasty = "Kara-Khitan"
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+}
+
+1164.1.1 = {
+	monarch = {
+		name = "Yelü Pusuwan"
+		dynasty = "Kara-Khitan"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1178.1.1 = {
+	monarch = {
+		name = "Yelü Zhilugu"
+		dynasty = "Kara-Khitan"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1211.1.1 = {
+	monarch = {
+		name = "Kuchlug"
+		dynasty = "Kara-Khitan"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}

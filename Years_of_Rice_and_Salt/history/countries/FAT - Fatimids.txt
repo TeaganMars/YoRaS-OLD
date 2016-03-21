@@ -1,0 +1,156 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 4
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = -3
+primary_culture = al_misr_arabic
+religion = shiite
+technology_group = muslim
+capital = 2584	# Mahdia
+
+909.1.1 = {
+	monarch = {
+		name = "Abdullah al-Mahdi Billah"
+		dynasty = "Fatimid"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+934.1.1 = {
+	monarch = {
+		name = "Muhammad al-Qa'im Bi-Amrillah"
+		dynasty = "Fatimid"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+946.5.17 = {
+	monarch = {
+		name = "Ismail al-Mansur"
+		dynasty = "Fatimid"
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+}
+
+953.1.1 = {
+	monarch = {
+		name = "Al-Mu'izz Ii-Din Allah"
+		dynasty = "Fatimid"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+973.1.1 = { capital = 361 }	# Cairo
+
+975.1.1 = {
+	monarch = {
+		name = "Abu Mansur Nizar al-Aziz Billah"
+		dynasty = "Fatimid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+996.1.1 = {
+	monarch = {
+		name = "Al-Hakim bi-Amr Allah"
+		dynasty = "Fatimid"
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+}
+
+1021.1.1 = {
+	monarch = {
+		name = "Ali az-Zahir"
+		dynasty = "Fatimid"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1036.6.13 = {
+	monarch = {
+		name = "Ma'ad al-Mustansir Billah"
+		dynasty = "Fatimid"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1094.1.10 = {
+	monarch = {
+		name = "Al-Musta'li"
+		dynasty = "Fatimid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1101.1.1 = {
+	monarch = {
+		name = "Al-Amir bi-Ahkami I-Lah"
+		dynasty = "Fatimid"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1130.10.7 = {
+	monarch = {
+		name = "Al-Hafiz"
+		dynasty = "Fatimid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1149.1.1 = {
+	monarch = {
+		name = "Al-Zafir"
+		dynasty = "Fatimid"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1154.1.1 = {
+	monarch = {
+		name = "Al-Faiz"
+		dynasty = "Fatimid"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1160.1.1 = {
+	monarch = {
+		name = "Al-'Adid"
+		dynasty = "Fatimid"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}

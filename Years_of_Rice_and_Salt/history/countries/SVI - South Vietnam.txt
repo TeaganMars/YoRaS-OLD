@@ -1,0 +1,133 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = vietnamese
+religion = mahayana
+technology_group = early_chinese
+historical_rival = NVI
+capital = 605	# Saigon
+
+750.1.1 = { technology_group = chinese }
+
+1910.1.1 = { religion = secularism }
+1915.1.1 = { technology_group = asian }
+1920.1.1 = { government = revolutionary_republic }
+
+1949.11.9 = {
+	monarch = {
+		name = "Bao Dai"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1949.11.9 = { leader = {	name = "Vo Nguyen Giap"	type = general	rank = 8	fire = 5	shock = 4	manuever = 3	siege = 2	death_date = 1991.1.1 } }
+
+1955.4.30 = {
+	monarch = {
+		name = "Ngo Dinh Diem"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1955.10.26 = { government = constitutional_republic }
+
+1963.11.2 = {
+	monarch = {
+		name = "Duong Van Minh"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1964.1.30 = {
+	monarch = {
+		name = "Nguyen Khanh"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1964.2.8 = {
+	monarch = {
+		name = "Duong Van Minh"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1964.8.16 = {
+	monarch = {
+		name = "Nguyen Khanh"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1964.9.8 = {
+	monarch = {
+		name = "Duong Van Minh"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1964.10.26 = {
+	monarch = {
+		name = "Phan Khac Suu"
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+}
+
+1965.6.14 = {
+	monarch = {
+		name = "Nguyen Van Thieu"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1975.4.21 = {
+	monarch = {
+		name = "Tran Van Huong"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1975.4.28 = {
+	monarch = {
+		name = "Duong Van Minh"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1975.4.30 = {
+	monarch = {
+		name = "Nguyen Huu Tho"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}

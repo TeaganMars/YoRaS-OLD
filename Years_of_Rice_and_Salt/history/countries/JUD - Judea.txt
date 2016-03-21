@@ -1,0 +1,15 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = israeli
+religion = hellenism
+technology_group = middle_eastern
+capital = 379	# Jerusalem
+
+2.1.1 = {
+	monarch = {
+		name = "Herod Archelaus"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}

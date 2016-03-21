@@ -1,0 +1,197 @@
+government = absolute_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = bedouin_arabic
+religion = sunni
+technology_group = muslim
+capital = 392	# Riyad
+
+1932.9.23 = {
+	monarch = {
+		name = "Ibn Saud"
+		dynasty = "Sa'ud"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+	leader = {	name = "Ibn Saud"	type = general	rank = 1	fire = 3	shock = 4	manuever = 3	siege = 1	death_date = 1953.11.9 }
+}
+
+1932.9.23 = {
+	heir = {
+		name = "Saud"
+		monarch_name = "Saud"
+		dynasty = "Sa'ud"
+		birth_date = 1902.1.12
+		death_date = 1969.2.23
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1953.11.9 = {
+	monarch = {
+		name = "Saud"
+		dynasty = "Sa'ud"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1953.11.9 = {
+	heir = {
+		name = "Faisal"
+		monarch_name = "Faisal"
+		dynasty = "Sa'ud"
+		birth_date = 1906.4.1
+		death_date = 1975.3.25
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1964.11.2 = {
+	monarch = {
+		name = "Faisal"
+		dynasty = "Sa'ud"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1964.11.2 = {
+	heir = {
+		name = "Khalid"
+		monarch_name = "Khalid"
+		dynasty = "Sa'ud"
+		birth_date = 1913.2.13
+		death_date = 1982.6.13
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1975.3.25 = {
+	monarch = {
+		name = "Khalid"
+		dynasty = "Sa'ud"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1975.3.25 = {
+	heir = {
+		name = "Fahd"
+		monarch_name = "Fahd"
+		dynasty = "Sa'ud"
+		birth_date = 1921.3.16
+		death_date = 2005.8.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1982.6.13 = {
+	monarch = {
+		name = "Fahd"
+		dynasty = "Sa'ud"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1982.6.13 = {
+	heir = {
+		name = "Abdullah"
+		monarch_name = "Abdullah"
+		dynasty = "Sa'ud"
+		birth_date = 1924.8.1
+		death_date = 2015.1.23
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+2005.8.1 = {
+	monarch = {
+		name = "Abdullah"
+		dynasty = "Sa'ud"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+2005.8.1 = {
+	heir = {
+		name = "Salman"
+		monarch_name = "Salman"
+		dynasty = "Sa'ud"
+		birth_date = 1935.12.31
+		death_date = 3000.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+2015.1.23 = {
+	monarch = {
+		name = "Salman"
+		dynasty = "Sa'ud"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+2015.1.23 = {
+	heir = {
+		name = "Muqrin"
+		monarch_name = "Muqrin"
+		dynasty = "Sa'ud"
+		birth_date = 1945.9.15
+		death_date = 3000.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+2015.4.29 = {
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Muhammad"
+		dynasty = "Sa'ud"
+		birth_date = 1959.8.30
+		death_date = 3000.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}

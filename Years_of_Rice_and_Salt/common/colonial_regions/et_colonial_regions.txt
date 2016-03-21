@@ -1,0 +1,744 @@
+# Australia
+colonial_australia = {
+	color = { 25 25 160 }
+
+	# Random New World
+	tax_income = 1
+	native_size = 4
+	native_ferocity = 1
+	native_hostileness = 4
+	
+	trade_goods = {
+		grain = 20
+		wool = 4
+		copper = 2
+		gold = 2
+		naval_supplies = 1
+		cotton = 1
+		iron = 1
+	}
+	
+	culture = {
+		aboriginal = 10
+	}
+	
+	religion = {
+		animism = 10
+	}
+
+	provinces = {
+		1084 1085 1086 1087 1088 1089 1090 1091 1092 1093 1094 1790 1791 2096 2097 2098 2099 2100
+		2101 2102 2103 2104 2105 2106 2107 2108 2109 2110 2111 2112 2113 2114 2115 2116 2117
+		2876 2877
+	}
+	
+	# Specific
+	names = {
+		trigger = {
+			primary_culture = dutch
+		}
+		name = "COLONIAL_AUSTRALIA_Nova_Hollandia"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = castillian
+				primary_culture = catalan
+			}
+		}
+		name = "COLONIAL_AUSTRALIA_Terra_Austral"
+	}
+	# Generic
+	names = {
+		name = "COLONIAL_AUSTRALIA_Root_GetAdjective_Australia"
+	}
+	names = {
+		name = "COLONIAL_REGION_New_Root_GetName"
+	}
+}
+
+# Oceania
+colonial_oceania = {
+	color = { 85 155 220 }
+
+	# Random New World
+	tax_income = 2
+	native_size = 6
+	native_ferocity = 2
+	native_hostileness = 5
+	
+	trade_goods = {
+		fish = 15
+		naval_supplies = 3
+		coffee = 3
+		wool = 2
+		copper = 1
+		sugar = 1
+	}
+	
+	culture = {
+		papuan = 2
+		polynesian = 10
+		melanesian = 10
+		moluccan = 2
+	}
+	
+	religion = {
+		animism = 10
+	}
+
+	provinces = {
+		1106 1107 1108 1109 1235 1236 1237 1238 1239 1240 1241 1242 1243 1244 1246 1986 1987 1988
+		1989 1990 1991 1992 1993 1994 1995 1996 1997
+		2871 2872 2873 2874 2878 2879 2880
+	}
+	
+	# Specific
+	names = {
+		trigger = {
+			OR = {
+				tag = PRU
+				tag = GER
+			}
+		}
+		name = "COLONIAL_OCEANIA_German_New_Guinea"
+	}
+	names = {
+		trigger = {
+			owns = 1237
+			owns = 1236
+		}
+		name = "COLONIAL_OCEANIA_Papua"
+	}
+	names = {
+		trigger = {
+			owns = 1993
+			owns = 1995
+		}
+		name = "COLONIAL_OCEANIA_Root_GetAdjective_Micronesia"
+	}
+	names = {
+		trigger = {
+			owns = 1944
+			owns = 1987
+		}
+		name = "COLONIAL_OCEANIA_Root_GetAdjective_Polynesia"
+	}
+	names = {
+		trigger = {
+			owns = 1238
+			owns = 1239
+		}
+		name = "COLONIAL_OCEANIA_Root_GetAdjective_Melanesia"
+	}
+	names = {
+		trigger = {
+			owns = 1107
+			primary_culture = dutch
+		}
+		name = "COLONIAL_OCEANIA_Nova_Zeelandia"
+	}
+	names = {
+		trigger = {
+			owns = 1107
+			owns = 1106
+		}
+		name = "COLONIAL_OCEANIA_Root_GetAdjective_New_Zealand"
+	}
+	# Generic
+	names = {
+		name = "COLONIAL_OCEANIA_Root_GetAdjective_Pacific"
+	}
+	names = {
+		name = "COLONIAL_OCEANIA_Root_GetAdjective_Oceania"
+	}
+}
+
+# South Africa
+colonial_south_africa = {
+	color = { 106 112 32 }
+
+	# Random New World
+	tax_income = 1
+	native_size = 10
+	native_ferocity = 5
+	native_hostileness = 8
+	
+	trade_goods = {
+		grain = 7
+		wine = 3
+		copper = 2
+		wool = 1
+		ivory = 1
+		gold = 1
+		fish = 1
+	}
+	
+	culture = {
+		bantu = 10
+	}
+	
+	religion = {
+		african = 10
+	}
+
+	provinces = {
+		1098 1173 1174 1175 1176 1177 1178 1179 1180 1181 1801 2021 2022 2023 2024 2025 2126
+		2168 2169 2170 2572 2595 2596 2597 2847 2848 2849
+	}
+	
+	# Specific
+	names = {
+		trigger = {
+			tag = NED
+		}
+		name = "COLONIAL_SOUTH_AFRICA_Batavia"
+	}
+	names = {
+		trigger = {
+			tag = GBR
+		}
+		name = "COLONIAL_SOUTH_AFRICA_Cape_Colony"
+	}
+	names = {
+		trigger = {
+			owns = 1173
+			NOT = { owns = 1177 }
+		}
+		name = "COLONIAL_SOUTH_AFRICA_Root_GetAdjective_Southwest_Africa"
+	}
+	# Generic
+	names = {
+		name = "COLONIAL_SOUTH_AFRICA_Root_GetAdjective_South_Africa"
+	}
+}
+
+# Zambezi
+colonial_zambezi = {
+	color = { 49 88 32 }
+
+	# Random New World
+	tax_income = 1
+	native_size = 10
+	native_ferocity = 5
+	native_hostileness = 8
+	
+	trade_goods = {
+		grain = 7
+		ivory = 7
+		copper = 2
+		wool = 1
+		gold = 1
+	}
+	
+	culture = {
+		bantu = 10
+		shona = 10
+		swahili = 4
+	}
+	
+	religion = {
+		african = 10
+	}
+
+	provinces = {
+		1182 1183 1184 1185 1186 1187 1188 1189 1190 1191 1192 1195 1799 1800 2028 2029 2031 2127
+		1102 1103 1193 1194 1792 2060 2162 2163 2850 2851 2852 2853 2854 3145 3146 3147
+	}
+	
+	# Specific
+	names = {
+		trigger = {
+			owns = 1195
+		}
+		name = "COLONIAL_ZAMBEZI_Root_GetAdjective_Mozambique"
+	}
+	names = {
+		trigger = {
+			tag = GBR
+		}
+		name = "COLONIAL_ZAMBEZI_Rhodesia"
+	}
+	names = {
+		trigger = {
+			NOT = { tag = GBR }
+			owns = 1184
+		}
+		name = "COLONIAL_ZAMBEZI_Root_GetAdjective_Zimbabwe"
+	}
+	names = {
+		trigger = {
+			owns = 1800
+			NOT = { tag = GBR }
+		}
+		name = "COLONIAL_ZAMBEZI_Root_GetAdjective_Zambia"
+	}
+	names = {
+		trigger = {
+			owns = 1792
+		}
+		name = "COLONIAL_ZAMBEZI_Root_GetAdjective_Madagascar"
+	}
+	# Generic
+	names = {
+		name = "COLONIAL_ZAMBEZI_Root_GetAdjective_Southeast_Africa"
+	}
+	names = {
+		name = "COLONIAL_ZAMBEZI_Zambezi"
+	}
+}
+
+# Congo
+colonial_congo = {
+	color = { 221 58 79 }
+
+	# Random New World
+	tax_income = 1
+	native_size = 10
+	native_ferocity = 5
+	native_hostileness = 8
+	
+	trade_goods = {
+		grain = 6
+		naval_supplies = 6
+		wool = 4
+		copper = 2
+		coffee = 2
+		ivory = 1
+		fish = 1
+	}
+	
+	culture = {
+		kongolese = 10
+	}
+	
+	religion = {
+		shamanism = 10
+	}
+
+	provinces = {
+		1167 1168 1170 1171 1172 1797 2026 2027 2032 2033 2037 2057 2058 2059 2160 2161 
+		2164 2171 2172 2173 2845 2846
+	}
+	
+	# Specific
+	names = {
+		trigger = {
+			owns = 1168
+		}
+		name = "COLONIAL_CONGO_Root_GetAdjective_Angola"
+	}
+	# Generic
+	names = {
+		name = "COLONIAL_CONGO_Root_GetAdjective_Congo"
+	}
+}
+
+# East Africa
+colonial_east_africa = {
+	color = { 180 130 79 }
+
+	# Random New World
+	tax_income = 1
+	native_size = 10
+	native_ferocity = 5
+	native_hostileness = 8
+	
+	trade_goods = {
+		grain = 11
+		wool = 7
+		ivory = 5
+		coffee = 5
+		gold = 2
+		slaves = 2
+		spices = 1
+		salt = 1
+	}
+	
+	culture = {
+		bantu = 5
+		swahili = 4
+	}
+	
+	religion = {
+		african = 10
+	}
+
+	provinces = {
+		1100 1196 1197 1198 1199 1200 1201 1202 1203 1204 1798 2030 2034 2035 2036 2150 2153 2165 
+		2166 2167 2708 2709 2855 2856
+	}
+	
+	# Specific
+
+	# Generic
+	names = {
+		name = "COLONIAL_EAST_AFRICA_Root_GetAdjective_East_Africa"
+	}
+}
+
+# Ethiopia
+colonial_ethiopia = {
+	color = { 70 90 199 }
+
+	# Random New World
+	tax_income = 2
+	native_size = 10
+	native_ferocity = 5
+	native_hostileness = 8
+	
+	trade_goods = {
+		grain = 11
+		wool = 7
+		ivory = 5
+		coffee = 5
+		gold = 2
+		slaves = 2
+		spices = 1
+		salt = 1
+	}
+	
+	culture = {
+		somali = 8
+	}
+	
+	religion = {
+		african = 10
+	}
+
+	provinces = {
+		1205 1206 1207 1208 1209 1210 1211 1212 1213 1214 1215 1217 1218 1223 1224 1227 1230 
+		2003 2044 2147 2671 2672 2673 2674 2675 2676 2677 2678 2679 2680 2681 2682 2683 2684
+		2685 2686 2687 2688 2689 2690 2691 2692 2693 2694 2695 2696 2697 2698 2699 2700 2701
+		2702 2703 2704 2705 2706 2707
+	}
+	
+	# Specific
+	names = {
+		trigger = {
+			OR = {
+				owns = 1205
+				owns = 1209
+				owns = 2895
+				owns = 2899
+			}
+		}
+		name = "COLONIAL_ETHIOPIA_Root_GetAdjective_Somaliland"
+	}
+	# Generic
+	names = {
+		name = "COLONIAL_ETHIOPIA_Root_GetAdjective_Ethiopia"
+	}
+}
+
+# Sudan
+colonial_sudan = {
+	color = { 183 246 173 }
+
+	# Random New World
+	tax_income = 1
+	native_size = 10
+	native_ferocity = 5
+	native_hostileness = 8
+	
+	trade_goods = {
+		wool = 6
+		grain = 4
+		ivory = 3
+		slaves = 1
+	}
+	
+	culture = {
+		nubian = 10
+	}
+	
+	religion = {
+		animism = 10
+		african = 5
+	}
+
+	provinces = {
+		1216 1219 1220 1221 1222 1225 1226 1228 1229 1232 2045 2047 2051 2054 2064 2520 2521 
+		2593 2664 2665 2666 2667 2668 2669 2670
+	}
+	
+	# Specific
+
+	# Generic
+	names = {
+		name = "COLONIAL_SUDAN_Root_GetAdjective_Sudan"
+	}
+	names = {
+		name = "COLONIAL_SUDAN_Root_GetAdjective_Nubia"
+	}
+}
+
+# Central Africa
+colonial_central_africa = {
+	color = { 56 60 126 }
+
+	# Random New World
+	tax_income = 1
+	native_size = 10
+	native_ferocity = 5
+	native_hostileness = 8
+	
+	trade_goods = {
+		grain = 7
+		ivory = 3
+		wool = 2
+		coffee = 1
+		slaves = 1
+	}
+	
+	culture = {
+		kongolese = 6
+		mali = 4
+		tuareg = 2
+	}
+	
+	religion = {
+		african = 10
+	}
+
+	provinces = {
+		1097 1158 1159 1164 1165 1166 1169 1249 1796 2038 2039 2040 2041 2042 2043 2046 2048 2056 
+		2065 2066 2123 2128 2129 2157 2158 2159 2357 2358 2594 3142 3143 3144
+	}
+	
+	# Specific
+	names = {
+		trigger = {
+			OR = {
+				owns = 2040
+				owns = 1165
+			}
+		}
+		name = "COLONIAL_CENTRAL_AFRICA_Root_GetAdjective_Equatorial_Africa"
+	}
+	names = {
+		trigger = {
+			owns = 2042
+			NOT = { owns = 1158 }
+		}
+		name = "COLONIAL_CENTRAL_AFRICA_Root_GetAdjective_Cameroon"
+	}
+	names = {
+		trigger = {
+			owns = 1158
+			NOT = { owns = 2042 }
+		}
+		name = "COLONIAL_CENTRAL_AFRICA_Root_GetAdjective_Chad"
+	}
+	# Generic
+	names = {
+		name = "COLONIAL_CENTRAL_AFRICA_Root_GetAdjective_Central_Africa"
+	}
+}
+
+# Niger
+colonial_niger = {
+	color = { 225 114 79 }
+
+	# Random New World
+	tax_income = 1
+	native_size = 10
+	native_ferocity = 5
+	native_hostileness = 8
+	
+	trade_goods = {
+		grain = 18
+		salt = 3
+		ivory = 2
+		wool = 1
+	}
+	
+	culture = {
+		mali = 14
+		yorumba = 5
+		bantu = 4
+	}
+	
+	religion = {
+		african = 10
+	}
+
+	provinces = {
+		1142 1144 1145 1146 1147 1148 1149 1150 1151 1152 1153 1154 1155 1156 1157 1160 1161 1162 1163 
+		2049 2053 2339 2340 2341 2342 2343 2344 2345 2346 2348 2349 2350 2351 2352 2353 2354 2355 2356
+	}
+	
+	# Specific
+	names = {
+		trigger = {
+			owns = 1155
+			owns = 1147
+		}
+		name = "COLONIAL_NIGER_Root_GetAdjective_Nigeria"
+	}
+	names = {
+		trigger = {
+			owns = 1147
+			NOT = { owns = 1155 }
+		}
+		name = "COLONIAL_NIGER_Niger_Coast"
+	}
+	# Generic
+	names = {
+		name = "COLONIAL_NIGER_Root_GetAdjective_Niger"
+	}
+}
+
+# Ivory Coast
+colonial_ivory_coast = {
+	color = { 43 128 32 }
+
+	# Random New World
+	tax_income = 1
+	native_size = 10
+	native_ferocity = 5
+	native_hostileness = 8
+	
+	trade_goods = {
+		grain = 5
+		ivory = 3
+		gold = 2
+		slaves = 1
+	}
+	
+	culture = {
+		yorumba = 3
+		mali = 3
+		dyola = 2
+		aka = 2
+	}
+	
+	religion = {
+		african = 10
+	}
+
+	provinces = {
+		1117 1118 1119 1121 1122 1125 1126 1138 1139 1140 1141 1143 2016 2312 2313 2318 2326 2331 2332 2333 2334
+		2335 2336 2337 2338 2359
+	}
+	
+	# Specific
+	names = {
+		trigger = {
+			owns = 1139
+		}
+		name = "COLONIAL_IVORY_COAST_Gold_Coast"
+	}
+	names = {
+		trigger = {
+			owns = 1119
+		}
+		name = "COLONIAL_IVORY_COAST_Grain_Coast"
+	}
+	# Generic
+	names = {
+		name = "COLONIAL_IVORY_COAST_Root_GetAdjective_Ivory_Coast"
+	}
+}
+
+# Mali
+colonial_mali = {
+	color = { 226 215 111 }
+
+	# Random New World
+	tax_income = 1
+	native_size = 10
+	native_ferocity = 5
+	native_hostileness = 8
+	
+	trade_goods = {
+		grain = 7
+		salt = 4
+		ivory = 1
+		gold = 1
+	}
+	
+	culture = {
+		mali = 10
+	}
+	
+	religion = {
+		african = 10
+	}
+
+	provinces = {
+		1120 1123 1124 1128 1129 1130 1131 1132 1133 1134 1135 1136 1137 2314 2315 2316 2317 2319 2320 2321 2322 
+		2323 2324 2325 2327 2328 2329 2330 2347
+	}
+	
+	# Specific
+
+	# Generic
+	names = {
+		name = "COLONIAL_MALI_Root_GetAdjective_Mali"
+	}
+	names = {
+		name = "COLONIAL_MALI_Upper_Volta"
+	}
+}
+
+# West Africa
+colonial_west_africa = {
+	color = { 40 92 126 }
+
+	# Random New World
+	tax_income = 1
+	native_size = 10
+	native_ferocity = 5
+	native_hostileness = 8
+	
+	trade_goods = {
+		grain = 7
+		iron = 1
+		gold = 1
+		slaves = 1
+		fish = 1
+	}
+	
+	culture = {
+		senegambian = 6
+		tuareg = 4
+	}
+	
+	religion = {
+		african = 10
+	}
+
+	provinces = {
+		1096 1110 1111 1112 1113 1114 1115 1116 1793 2015 2061 2305 2306 2307 2308 2309 2310 2311 2565
+	}
+	
+	# Specific
+	names = {
+		trigger = {
+			owns = 1113
+			NOT = { owns = 1111 }
+		}
+		name = "COLONIAL_WEST_AFRICA_Root_GetAdjective_Senegal"
+	}
+	names = {
+		trigger = {
+			owns = 2015
+		}
+		name = "COLONIAL_WEST_AFRICA_Root_GetAdjective_Gambia"
+	}
+	names = {
+		trigger = {
+			owns = 1111
+			NOT = { owns = 1113 }
+		}
+		name = "COLONIAL_WEST_AFRICA_Root_GetAdjective_Mauritania"
+	}
+	# Generic
+	names = {
+		name = "COLONIAL_WEST_AFRICA_Root_GetAdjective_West_Africa"
+	}
+	names = {
+		name = "COLONIAL_WEST_AFRICA_Senegambia"
+	}
+}

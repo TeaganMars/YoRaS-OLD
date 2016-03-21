@@ -1,0 +1,34 @@
+#1784 - Tian Shan
+
+culture = kirgiz
+religion = tengri_pagan_reformed
+capital = "Tiam Shan"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = western_nomad_group
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+native_size = 30
+native_ferocity = 4
+native_hostileness = 9
+
+1350.1.1   = { religion = sunni }
+1850.1.1   = { 	owner = QNG 
+		controller = QNG
+		add_core = QNG
+		trade_goods = grain
+		capital = "Zhaosu"
+		is_city = yes
+	     }
+1890.1.1   = { discovered_by = western }
+1912.2.12  = { owner = CHN controller = CHN add_core = CHN remove_core = QNG }
+1940.1.1   = {  discovered_by = eastern
+		discovered_by = muslim
+		discovered_by = ottoman
+		discovered_by = asian
+	     }
+
+

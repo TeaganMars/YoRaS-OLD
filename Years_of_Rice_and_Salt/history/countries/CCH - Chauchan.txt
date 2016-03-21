@@ -1,0 +1,246 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = rajput
+religion = hinduism
+technology_group = early_indian
+capital = 2196 # Ajmer
+
+750.1.1 = { technology_group = indian }
+
+880.1.1 = {
+	monarch = {
+		name = "Ajay Pal"
+		dynasty = "Chauhan"
+		birth_date = 850.1.1
+		adm = 5
+		dip = 0
+		mil = 4
+	}
+}
+
+887.1.1 = {
+	heir = {
+		name = "Vakpatiraja"
+		monarch_name = "Vakpatiraja"
+		dynasty = "Chauhan"
+		birth_date = 887.1.1
+		death_date = 944.1.1
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+}
+
+917.1.1 = {
+	monarch = {
+		name = "Vakpatiraja"
+		dynasty = "Chauhan"
+		birth_date = 887.1.1
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+}
+
+917.1.1 = {
+	heir = {
+		name = "Simharaja"
+		monarch_name = "Simharaja"
+		dynasty = "Chauhan"
+		birth_date = 914.1.1
+		death_date = 971.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+}
+
+944.1.1 = {
+	monarch = {
+		name = "Simharaja"
+		dynasty = "Chauhan"
+		birth_date = 914.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+}
+
+944.1.1 = {
+	heir = {
+		name = "Vigraharaja"
+		monarch_name = "Vigraharaja I"
+		dynasty = "Chauhan"
+		birth_date = 941.1.1
+		death_date = 1000.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+}
+
+971.1.1 = {
+	monarch = {
+		name = "Vigraharaja I"
+		dynasty = "Chauhan"
+		birth_date = 941.1.1
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+}
+
+971.1.1 = {
+	heir = {
+		name = "Vigraharaja"
+		monarch_name = "Vigraharaja II"
+		dynasty = "Chauhan"
+		birth_date = 970.1.1
+		death_date = 1050.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+}
+
+1000.1.1 = {
+	monarch = {
+		name = "Vigraharaja II"
+		dynasty = "Chauhan"
+		birth_date = 970.1.1
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+}
+
+1020.1.1 = {
+	heir = {
+		name = "Vigraharaja"
+		monarch_name = "Vigraharaja III"
+		dynasty = "Chauhan"
+		birth_date = 1020.1.1
+		death_date = 1100.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+}
+
+1050.1.1 = {
+	monarch = {
+		name = "Vigraharaja III"
+		dynasty = "Chauhan"
+		birth_date = 1020.1.1
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+}
+
+1070.1.1 = {
+	heir = {
+		name = "Prithviraj"
+		monarch_name = "Prithviraj I"
+		dynasty = "Chauhan"
+		birth_date = 1070.1.1
+		death_date = 1150.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+1100.1.1 = {
+	monarch = {
+		name = "Prithviraj I"
+		dynasty = "Chauhan"
+		birth_date = 1070.1.1
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+1120.1.1 = {
+	heir = {
+		name = "Jagdeva"
+		monarch_name = "Jagdeva"
+		dynasty = "Chauhan"
+		birth_date = 1120.1.1
+		death_date = 1152.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+}
+
+1150.1.1 = {
+	monarch = {
+		name = "Jagdeva"
+		dynasty = "Chauhan"
+		birth_date = 1120.1.1
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+}
+
+1150.1.1 = {
+	heir = {
+		name = "Vigraharaja"
+		monarch_name = "Vigraharaja IV"
+		dynasty = "Chauhan"
+		birth_date = 1122.1.1
+		death_date = 1165.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1152.1.1 = {
+	monarch = {
+		name = "Vigraharaja IV"
+		dynasty = "Chauhan"
+		birth_date = 1120.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1152.1.1 = {
+	heir = {
+		name = "Prithviraj"
+		monarch_name = "Prithviraj III"
+		dynasty = "Chauhan"
+		birth_date = 1149.1.1
+		death_date = 1192.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+1165.1.1 = {
+	monarch = {
+		name = "Prithviraj III"
+		dynasty = "Chauhan"
+		birth_date = 1149.1.1
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+

@@ -1,0 +1,39 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = vietnamese
+religion = mahayana
+technology_group = early_chinese
+historical_rival = SVI
+capital = 616	# Hanoi
+
+750.1.1 = { technology_group = chinese }
+
+1910.1.1 = { religion = secularism }
+1915.1.1 = { technology_group = asian }
+1920.1.1 = { government = socialist_republic }
+
+1945.9.2 = {
+	monarch = {
+		name = "Ho Chi Minh"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1969.9.2 = {
+	monarch = {
+		name = "Ton Duc Thang"
+		adm = 2
+		mil = 4
+		dip = 3
+	}
+}

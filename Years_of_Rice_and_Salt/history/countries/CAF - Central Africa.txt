@@ -1,0 +1,101 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = 3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = gbaya
+religion = catholic
+technology_group = muslim
+capital = 2043
+
+1910.1.1 = { religion = secularism }
+
+1960.8.14 = {
+	monarch = {
+		name = "David Dacko"
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+}
+
+1966.1.1 = {
+	monarch = {
+		name = "Jean-Bédel Bokassa"
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+1976.12.4 = { government = absolute_monarchy government_rank = 3 }
+1979.9.21 = { government = constitutional_republic government_rank = 2 }
+
+1979.9.21 = {
+	monarch = {
+		name = "David Dacko"
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+}
+
+1981.9.1 = {
+	monarch = {
+		name = "André Kolingba"
+		adm = 3
+		mil = 3
+		dip = 5
+	}
+}
+
+1993.10.22 = {
+	monarch = {
+		name = "Ange-Félix Patassé"
+		adm = 2
+		mil = 2
+		dip = 4
+	}
+}
+
+2003.3.15 = {
+	monarch = {
+		name = "Francois Bozizé"
+		adm = 4
+		mil = 4
+		dip = 3
+	}
+}
+
+2013.3.24 = {
+	monarch = {
+		name = "Michel Djotodia"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+2014.1.10 = {
+	monarch = {
+		name = "Alexandre-Ferdinand Nguendet"
+		adm = 2
+		mil = 1
+		dip = 2
+	}
+}
+
+2014.1.23 = {
+	monarch = {
+		name = "Catherine Samba-Panza"
+		adm = 4
+		mil = 1
+		dip = 3
+		female = yes
+	}
+}

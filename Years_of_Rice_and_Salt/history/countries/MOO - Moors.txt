@@ -1,0 +1,11 @@
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+primary_culture = berber
+religion = african
+technology_group = middle_eastern
+capital = 347	# Ifni
+
+420.1.1 = { religion = chalcedonism }
+
+700.1.1 = { religion = sunni technology_group = muslim }

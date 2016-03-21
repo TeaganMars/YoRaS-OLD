@@ -1,0 +1,63 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = 3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = senegambian
+religion = sunni
+technology_group = muslim
+capital = 1113
+
+1910.1.1 = { religion = secularism }
+
+1960.8.20 = {
+	monarch = {
+		name = "Council of State"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1960.9.6 = {
+	monarch = {
+		name = "Léopold Sédar Senghor"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1988.1.1 = {
+	monarch = {
+		name = "Abdou Diouf"
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+}
+
+2000.4.1 = {
+	monarch = {
+		name = "Abdoulaye Wade"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+2012.4.2 = {
+	monarch = {
+		name = "Macky Sall"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+

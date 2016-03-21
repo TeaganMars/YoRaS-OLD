@@ -1,0 +1,56 @@
+country_decisions = {
+
+	claim_mandate_of_heaven = {
+		major = yes
+		potential = {
+			government = monarchy
+			OR = {
+				technology_group = chinese
+				technology_group = early_chinese
+			}
+			is_colonial_nation = no
+			OR = {
+				religion_group = eastern
+				religion_group = buddhic
+			}
+			NOT = { government = celestial_empire }
+		}
+		allow = {
+			stability = 1
+			legitimacy = 80
+			NOT = { any_country = { government = celestial_empire } }
+			calc_true_if = {
+				all_province = {
+					AND = {
+						owned_by = ROOT
+						OR = {
+							region = south_china_region
+							region = north_china_region
+							region = xinan_region
+						
+						}
+					}
+				}
+				amount = 50
+			}
+		}
+		effect = {
+			change_government = celestial_empire
+			every_province = {
+				limit = {
+					OR = {
+						region = south_china_region
+						region = north_china_region
+						region = xinan_region
+						
+					}
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			add_stability = 2
+			add_prestige = 50
+			add_legitimacy = 20
+		}
+	}
+}

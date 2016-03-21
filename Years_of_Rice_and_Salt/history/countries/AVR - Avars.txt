@@ -1,0 +1,179 @@
+government = steppe_horde
+mercantilism = 0.1
+primary_culture = avar
+religion = tengri_pagan_reformed
+technology_group = western_nomad_group
+capital = 282
+
+480.1.1 = {
+	monarch = {
+		name = "Sarosios"
+		dynasty = "Avar"
+		birth_date = 450.1.1
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+}
+
+492.1.1 = {
+	heir = {
+		name = "Anakuei"
+		monarch_name = "Anakuei"
+		dynasty = "Avar"
+		birth_date = 492.1.1
+		death_date = 552.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+522.1.1 = {
+	monarch = {
+		name = "Anakuei"
+		dynasty = "Avar"
+		birth_date = 492.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+522.1.1 = {
+	heir = {
+		name = "K'u-t'i"
+		monarch_name = "K'u-t'i"
+		dynasty = "Avar"
+		birth_date = 522.1.1
+		death_date = 554.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+552.1.1 = {
+	monarch = {
+		name = "K'u-t'i"
+		dynasty = "Avar"
+		birth_date = 522.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+552.1.1 = {
+	heir = {
+		name = "Kandik"
+		monarch_name = "Kandik"
+		dynasty = "Avar"
+		birth_date = 524.1.1
+		death_date = 562.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+554.1.1 = {
+	monarch = {
+		name = "Kandik"
+		dynasty = "Avar"
+		birth_date = 524.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+554.1.1 = {
+	heir = {
+		name = "Bayan"
+		monarch_name = "Bayan I"
+		dynasty = "Avar"
+		birth_date = 532.1.1
+		death_date = 602.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+562.1.1 = {
+	monarch = {
+		name = "Bayan I"
+		dynasty = "Avar"
+		birth_date = 532.1.1
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+567.1.1 = { capital = 153 }
+
+572.1.1 = {
+	heir = {
+		name = "Bayan"
+		monarch_name = "Bayan II"
+		dynasty = "Avar"
+		birth_date = 572.1.1
+		death_date = 630.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+602.1.1 = {
+	monarch = {
+		name = "Bayan II"
+		dynasty = "Avar"
+		birth_date = 572.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+680.1.1 = {
+	monarch = {
+		name = "(interregnum)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+750.1.1 = { technology_group = nomad_group }
+
+750.1.1 = {
+	monarch = {
+		name = "Yugurus"
+		dynasty = "Avar"
+		birth_date = 730.1.1
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+795.1.1 = {
+	monarch = {
+		name = "Kajd Tudun"
+		dynasty = "Avar"
+		birth_date = 770.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+

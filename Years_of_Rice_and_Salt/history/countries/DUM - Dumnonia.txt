@@ -1,0 +1,23 @@
+government = feudal_monarchy 
+government_rank = 1
+mercantilism = 0.1
+primary_culture = briton
+religion = druidism
+technology_group = barbarian
+capital = 233
+
+410.1.1 = { primary_culture = welsh }
+500.1.1 = { religion = chalcedonism }
+536.1.1 = { technology_group = western }
+
+590.1.1 = {
+	monarch = {
+		name = "Judicaep"
+		dynasty = "ap Hoel"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+710.1.1 = { primary_culture = breton capital = 169 }

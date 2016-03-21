@@ -1,0 +1,28 @@
+#1807 - Baffin
+
+culture = inuit
+religion = shamanism
+capital = "Baffin"
+native_size = 30
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_ferocity = 4.5
+native_hostileness = 9 
+
+1861.1.1 = { discovered_by = USA discovered_by = CAN discovered_by = GBR } # Charles Francis Hall
+1880.1.1   = { base_tax = 1 }
+1913.1.1   = {	owner = CAN
+		controller = CAN
+		add_core = CAN
+		religion = protestant
+		citysize = 200
+		trade_goods = fur
+	      }
+1942.1.1   = { capital = "Iqaluit" }
+1950.1.1   = { is_city = yes }
+
+
+

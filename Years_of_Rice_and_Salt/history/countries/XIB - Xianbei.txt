@@ -1,0 +1,58 @@
+government = steppe_horde
+mercantilism = 0.1
+technology_group = eastern_nomad_group
+religion = tengri_pagan_reformed
+primary_culture = mongol
+capital = 722
+
+46.1.1 = {
+	monarch = {
+		name = "Touluhou"
+		dynasty = "Xianbei"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+141.1.1 = {
+	monarch = {
+		name = "Tanshihuai"
+		dynasty = "Xianbei"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+181.1.1 = {
+	monarch = {
+		name = "Kutoi"
+		dynasty = "Xianbei"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+187.1.1 = {
+	monarch = {
+		name = "Buguden"
+		dynasty = "Xianbei"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+233.1.1 = {
+	monarch = {
+		name = "Kebineng"
+		dynasty = "Xianbei"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+750.1.1 = { technology_group = nomad_group }

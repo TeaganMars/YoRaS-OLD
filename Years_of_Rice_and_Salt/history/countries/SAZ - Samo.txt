@@ -1,0 +1,24 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -3
+#quality_quantity = 0
+#serfdom_freesubjects = -4
+primary_culture = czech
+religion = slavic
+capital = 1772
+technology_group = western
+
+623.1.1 = {
+	monarch = {
+		name = "Samo"
+		dynasty = "Senonian"
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+}

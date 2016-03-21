@@ -1,0 +1,6 @@
+#1719 - South Pacific Raging Fifties
+
+1520.1.1 = { discovered_by = SPA }
+
+
+

@@ -1,0 +1,84 @@
+#187 - Barrois
+
+owner = ROM
+controller = ROM
+capital = "Verodunum"
+is_city = yes
+culture = gallian
+religion = druidism
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = cloth
+base_manpower = 1
+add_core = ROM
+discovered_by = eastern
+discovered_by = roman_group
+discovered_by = western
+discovered_by = barbarian
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+
+260.1.1 = { add_core = GLL revolt = { type = nationalist_rebels size = 1 } controller = REB }
+274.1.1 = { controller = ROM remove_core = GLL revolt = {} }
+395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+440.1.1 = { religion = chalcedonism }
+461.11.1 = { owner = SOI controller = SOI add_core = SOI }
+480.6.1 = { remove_core = ROW }
+486.6.1 = { owner = FRK controller = FRK add_core = FRK remove_core = SOI culture = cosmopolitan_french capital = "Bar-le-Duc" }
+500.1.1 = { base_tax = 2 base_production = 2 }
+700.1.1 = { fort_15th = yes base_manpower = 2 }
+800.1.1 = { culture = burgundian base_tax = 3 base_production = 3 }
+840.6.21 = { owner = FRM controller = FRM add_core = FRM remove_core = FRK }
+855.9.30 = { owner = LOT controller = LOT add_core = LOT remove_core = FRM }
+867.1.1 = { religion = catholic }
+870.8.8 = { owner = FRE controller = FRE add_core = FRE remove_core = LOT }
+900.1.1 = { base_manpower = 3 }
+911.11.10 = { owner = LOT controller = LOT add_core = LOT remove_core = FRE }
+959.1.1 = { owner = BAR controller = BAR add_core = BAR remove_core = LOT }
+962.2.2 = { hre = yes }
+1000.1.1 = { base_tax = 4 base_production = 4 }
+1100.1.1 = { base_manpower = 4 }
+1200.1.1 = { base_tax = 5 base_production = 5 }
+1300.1.1 = { base_manpower = 5 }
+
+1430.6.26 = { owner = PRO controller = PRO add_core = PRO }
+1467.6.15 = { add_core = BUR } # Charles the Bold ascends and lays claims on Bar
+1475.11.30 = { owner = BUR controller = BUR unrest = 5 } # Charles the Bold annexes Bar
+1476.1.1 = { unrest = 0 revolt = { type = nationalist_rebels size = 2 } controller = REB } # Bar revolts against Charles the Bold during the Burgundian-Swiss War
+1477.1.5 = { revolt = {} owner = PRO controller = PRO remove_core = BUR } # Charles the Bold dies and Lorraine is re-established
+1480.7.10 = { owner = BAR controller = BAR remove_core = PRO }
+1483.3.23 = { owner = LOR controller = LOR add_core = LOR remove_core = BAR }
+1551.3.20 = { controller = FRA } # Franco-Habsburg War (1551-1559): France takes Toul & Verdun
+1559.4.3 = { owner = FRA add_core = FRA capital = "Verdun" } # Peace of Cateau-Cambrésis, France annexes Barrois
+1583.1.1 = { fort_15th = no fort_16th = yes }
+1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
+1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
+1636.7.30 = { controller = HAB } # Habsburg forces ravage North Eastern France
+1636.10.10 = { controller = FRA } # Bernhard of Saxe-Weimar defeats the invaders and gradually pushes them back
+1650.1.14 = { unrest = 7 } # Mazarin arrests the Princes Condé, Conti & Longueville, the beginning of the Second Fronde
+1648.1.1 = { fort_16th = no fort_17th = yes }
+1650.3.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Fronde rebels take control
+1650.12.13 = { revolt = {} controller = FRA } # Plessis-Praslin takes Rethel & surrounding lands
+1651.4.1 = { unrest = 4 } # An unstable peace is concluded
+1651.12.1 = { unrest = 7 } # Mazarin returns from exile, Condé sides with Spain, situation heats up again
+1652.10.21 = { unrest = 0 } # The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.
+1715.1.1 = { fort_17th = no fort_18th = yes }
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+
+1870.9.4   = {  owner = FR2
+		controller = PRU
+		add_core = FR2
+		remove_core = FRA
+	     } # Republic proclaimed
+1871.1.18  = { controller = GER }
+1871.5.10  = { controller = FR2 }
+1940.6.14  = { owner = GER controller = GER } # France surrendered to Nazi Garmany
+1944.9.1   = { controller = FR2 }
+1945.5.8   = { owner = FR2 }
+1950.1.1   = { citysize = 42000 capital = "Thionville" }
+2000.1.1 = { base_tax = 6 base_production = 6 }
+
+
+

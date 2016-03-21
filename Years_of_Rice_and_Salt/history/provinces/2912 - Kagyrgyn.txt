@@ -1,0 +1,36 @@
+#2912 - Kagyrgyn
+
+culture = kamchatkan
+religion = shamanism
+capital = "Kagyrgyn"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = HOD
+discovered_by = CHU
+discovered_by = CHV
+discovered_by = KMC
+
+1300.1.1 = { owner = CHU controller = CHU add_core = CHU is_city = yes trade_goods = fish }
+
+1778.1.1 = {	discovered_by = RUS
+		owner = RUS
+		controller = RUS
+	   	religion = orthodox
+	   	culture = russian
+	   }
+1788.1.1 = {	add_core = RUS
+	  	   }
+
+1889.7.21  = { capital = "Novo-Mariinsk" }	
+1922.12.30 = { owner = SOV controller = SOV add_core = SOV }
+1923.8.5   = { capital = "Anadyr" }
+1991.12.25 = { owner = RUS controller = RUS remove_core = SOV }
+
+
+

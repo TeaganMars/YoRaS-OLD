@@ -1,0 +1,105 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = 1
+#quality_quantity = -1
+#serfdom_freesubjects = -3
+primary_culture = cosmopolitan_french
+religion = catholic
+technology_group = eastern
+capital = 377	# Antioch
+
+1098.1.1 = {
+	monarch = {
+		name = "Bohemond I"
+		dynasty = "d'Hauteville"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}	
+
+1111.3.3 = {
+	monarch = {
+		name = "Bohemond II"
+		dynasty = "d'Hauteville"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1130.6.1 = {
+	monarch = {
+		name = "Constance"
+		dynasty = "d'Hauteville"
+		adm = 2
+		dip = 4
+		mil = 3
+		female = yes
+	}
+}
+
+1163.6.1 = {
+	monarch = {
+		name = "Bohemond III"
+		dynasty = "d'Hauteville"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1201.6.1 = {
+	monarch = {
+		name = "Bohemond IV"
+		dynasty = "d'Hauteville"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1216.6.1 = {
+	monarch = {
+		name = "Raymond-Roupen"
+		dynasty = "d'Hauteville"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1219.6.1 = {
+	monarch = {
+		name = "Bohemond IV"
+		dynasty = "d'Hauteville"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+	
+1233.3.1 = {
+	monarch = {
+		name = "Bohemond V"
+		dynasty = "d'Hauteville"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+		
+1252.1.1 = {
+	monarch = {
+		name = "Bohemond VI"
+		dynasty = "d'Hauteville"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}

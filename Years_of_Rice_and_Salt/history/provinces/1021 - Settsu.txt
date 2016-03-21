@@ -1,0 +1,49 @@
+#1021 - Settsu
+
+owner = YAM
+controller = YAM
+culture = japanese
+religion = animism
+capital = "Naniwa"
+trade_goods = chinaware
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+add_core = YAM
+discovered_by = early_chinese
+discovered_by = chinese
+
+607.1.1 = { religion = mahayana }
+712.1.1 = { religion = shinto }
+794.1.1 = { owner = JAP controller = JAP add_core = JAP remove_core = YAM }
+800.1.1 = { base_tax = 6 base_production = 6 }
+1000.1.1 = { base_tax = 7 base_production = 7 }
+1338.2.23 = { owner = YAM controller = YAM add_core = YAM } #Southern Court
+1392.8.11 = { owner = HSK controller = HSK add_core = HSK remove_core = YAM remove_core = JAP } #Emperor Go-Kameyama surrenders
+
+1478.1.1 = { capital = "Sakai" }
+1542.1.1 = { discovered_by = POR }
+1561.1.1 = { fort_15th = yes } # Ishiyama Honganji
+1569.12.1 = { add_core = ODA owner = ODA controller = ODA }
+1573.7.3 = { add_core = JAP owner = JAP controller = JAP remove_core = ODA }
+1580.1.1 = { remove_core = HSK }
+1583.1.1 = { fort_16th = yes } # Osaka Castle
+1615.6.4 = { fort_16th = no } # Osaka Summer Campaign
+
+1750.1.1 = { base_tax = 13 base_production = 13 base_manpower = 9 }
+1775.1.1 = { base_tax = 19 base_production = 21 base_manpower = 14 }
+1800.1.1 = { base_tax = 25 base_production = 25 base_manpower = 23 }
+1825.1.1 = { base_tax = 28 base_production = 32 base_manpower = 31 }
+1850.1.1 = { base_tax = 34 base_production = 37 base_manpower = 39 }
+1875.1.1 = { base_tax = 40 base_production = 44 base_manpower = 45 }
+1889.1.1 = { capital = "Osaka" }
+
+
+
+1900.1.1 = { base_tax = 45 base_production = 48 base_manpower = 54 }
+1925.1.1 = { base_tax = 52 base_production = 56 base_manpower = 58 }
+1950.1.1 = { base_tax = 57 base_production = 63 base_manpower = 65 }
+1975.1.1 = { base_tax = 64 base_production = 69 base_manpower = 70 }
+2000.1.1 = { base_tax = 81 base_production = 81 base_manpower = 79 }

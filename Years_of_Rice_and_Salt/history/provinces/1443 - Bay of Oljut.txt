@@ -1,0 +1,6 @@
+#1443 - Bay of Oljut
+
+1647.1.1 = { discovered_by = RUS }
+
+
+

@@ -1,0 +1,17 @@
+#1350 - Coast of Aceh
+
+discovered_by = early_indian
+discovered_by = indian
+discovered_by = ATJ
+discovered_by = MLC
+discovered_by = AYU
+discovered_by = MAJ
+discovered_by = BLI
+discovered_by = MKS
+discovered_by = BEI
+
+1405.1.1 = { discovered_by = MNG }
+1509.1.1 = { discovered_by = POR }
+
+
+

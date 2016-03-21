@@ -1,0 +1,4 @@
+#1420 - King Sound
+
+1699.1.1   = { discovered_by = GBR } # William Dampier
+

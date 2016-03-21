@@ -1,0 +1,43 @@
+government = tribal_despotism
+mercantilism = 0.1
+primary_culture = madagasque
+religion = african
+technology_group = sub_saharan
+capital = 1193
+
+1690.1.1 = {
+	monarch = {
+		name = "Ranaimo"
+		dynasty = "Maroserana"
+		birth_date = 1670.1.1
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1750.1.1 = {
+	heir = {
+		name = "Ramitraho"
+		monarch_name = "Ramitraho"
+		dynasty = "Maroserana"
+		birth_date = 1750.1.1
+		death_date = 1834.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+}
+
+1760.1.1 = {
+	monarch = {
+		name = "Ramitraho"
+		dynasty = "Maroserana"
+		birth_date = 1730.1.1
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+}
+

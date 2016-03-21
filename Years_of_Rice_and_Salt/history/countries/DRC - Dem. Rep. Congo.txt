@@ -1,0 +1,52 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -5
+#centralization_decentralization = 5
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -5
+#quality_quantity = 2
+#serfdom_freesubjects = -5
+primary_culture = kongolese
+religion = catholic
+technology_group = muslim
+capital = 2037
+
+1910.1.1 = { religion = secularism }
+
+1960.7.1 = {
+	monarch = {
+		name = "Joseph Kasavubu"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1965.11.24 = {
+	monarch = {
+		name = "Mobutu Sese Seko"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1997.5.16 = {
+	monarch = {
+		name = "Laurent-Désiré Kabila"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+2001.1.17 = {
+	monarch = {
+		name = "Joseph Kabila"
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}

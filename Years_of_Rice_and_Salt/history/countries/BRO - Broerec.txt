@@ -1,0 +1,50 @@
+government = feudal_monarchy 
+government_rank = 1
+##aristocracy_plutocracy = -2
+##centralization_decentralization = 2
+##innovative_narrowminded = -2
+##mercantilism_freetrade = 3
+mercantilism = 0.1
+##offensive_defensive = 2
+##land_naval = 2
+##quality_quantity = 2
+##serfdom_freesubjects = -2
+primary_culture = briton
+religion = chalcedonism
+technology_group = western
+capital = 171
+
+570.1.1 = {
+	monarch = {
+		name = "Waroch"
+		dynasty = "Broërec"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+600.1.1 = { primary_culture = breton }
+
+780.1.1 = {
+	monarch = {
+		name = "Morman"
+		dynasty = "Breton"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+
+820.1.1 = {
+	monarch = {
+		name = "Wihomarc"
+		dynasty = "Breton"
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+

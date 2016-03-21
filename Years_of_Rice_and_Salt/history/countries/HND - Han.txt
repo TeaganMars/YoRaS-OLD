@@ -1,0 +1,225 @@
+government = celestial_empire
+government_rank = 3
+mercantilism = 0.1
+technology_group = early_chinese
+religion = confucianism
+primary_culture = chihan
+capital = 700	# Chang'an
+
+2.1.1 = {
+ 	monarch = {
+		name = "Ping"
+		dynasty = "Han"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+6.2.3 = {
+ 	monarch = {
+		name = "Ruzi"
+		dynasty = "Han"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+9.1.1 = {
+ 	monarch = {
+		name = "Wang Mang"
+		dynasty = "Xin"
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+}
+
+23.10.6 = {
+ 	monarch = {
+		name = "Gengshi"
+		dynasty = "Han"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+25.1.1 = { capital = 2492 } #Luoyang
+
+25.8.5 = {
+ 	monarch={
+		name= "Guangwu"
+		dynasty= "Han"
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+}
+
+57.3.29 = {
+ 	monarch={
+		name= "Ming"
+		dynasty= "Han"
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+}
+
+75.1.1 = {
+ 	monarch={
+		name= "Zhang"
+		dynasty= "Han"
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+}
+
+88.1.1 = {
+ 	monarch={
+		name= "He"
+		dynasty= "Han"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+105.2.13 = {
+ 	monarch={
+		name= "(regency council)"
+		regent = yes
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+106.9.1 = {
+ 	monarch={
+		name= "An"
+		dynasty= "Han"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+125.1.1 = {
+ 	monarch={
+		name= "Shun"
+		dynasty= "Han"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+144.1.1 = {
+	monarch = {
+		name = "(regency council)"
+		regent = yes
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+145.1.1 = {
+	monarch = {
+		name = "Zhi"
+		dynasty = "Han"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+146.1.1 = {
+	monarch = {
+		name = "Huan"
+		dynasty = "Han"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+168.1.1 = {
+	monarch = {
+		name = "Ling"
+		dynasty = "Han"
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+189.5.13 = {
+	monarch = {
+		name = "Lingsi"
+		dynasty = "Han"
+		adm = 3
+		dip = 4
+		mil = 2
+		female = yes
+	}
+}
+
+189.9.28 = {
+	monarch = {
+		name = "Xian"
+		dynasty = "Han"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+190.1.1 = { capital = 700 } #Chang'an
+
+750.1.1 = { technology_group = chinese }
+
+907.6.1 = {
+	monarch = {
+		name = "Liu Yan"
+		dynasty = "Han"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+941.1.1 = {
+	monarch = {
+		name = "Liu Bin"
+		dynasty = "Han"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+943.1.1 = {
+	monarch = {
+		name = "Liu Cheng"
+		dynasty = "Han"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+958.1.1 = {
+	monarch = {
+		name = "Liu Chang"
+		dynasty = "Han"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+

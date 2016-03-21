@@ -1,0 +1,94 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = persian
+religion = shiite
+technology_group = muslim
+capital = 2289	# Shiraz
+
+934.1.1 = {
+	monarch = {
+		name = "'Imad al-Dawla"
+		dynasty = "Buyid"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+949.12.1 = {
+	monarch = {
+		name = "'Adud al-Dawla"
+		dynasty = "Buyid"
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+}
+
+983.3.26 = {
+	monarch = {
+		name = "Sharaf al-Dwala"
+		dynasty = "Buyid"
+		adm = 3
+		mil = 3
+		dip = 5
+	}
+}
+
+989.9.6 = {
+	monarch = {
+		name = "Samsam al-Dawla"
+		dynasty = "Buyid"
+		adm = 2
+		mil = 2
+		dip = 4
+	}
+}
+
+998.12.1 = {
+	monarch = {
+		name = "Baha' al-Dawla"
+		dynasty = "Buyid"
+		adm = 3
+		mil = 5
+		dip = 3
+	}
+}
+
+1012.12.22 = {
+	monarch = {
+		name = "Sultan al-Dawla"
+		dynasty = "Buyid"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1024.12.1 = {
+	monarch = {
+		name = "Abu Kalijar"
+		dynasty = "Buyid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1048.10.1 = {
+	monarch = {
+		name = "Abu Mansur Fulad Sutun"
+		dynasty = "Buyid"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}

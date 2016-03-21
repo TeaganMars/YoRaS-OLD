@@ -1,0 +1,6 @@
+#1588 - New Georgia Islands
+
+1520.1.1 = { discovered_by = SPA }
+
+
+

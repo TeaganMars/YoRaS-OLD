@@ -1,0 +1,101 @@
+government = barbarian_tribe
+mercantilism = 0.1
+primary_culture = gepid
+religion = germanic
+technology_group = barbarian
+capital = 162
+
+51.1.1 = {
+	monarch = {
+		name = "Fastida"
+		dynasty = "Gepid"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+400.1.1 = {
+	religion = arianism
+	monarch = {
+		name = "Ardaric"
+		dynasty = "Ardariking"
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+454.1.1 = { capital = 156 government = feudal_monarchy } #Sirmium
+
+460.1.1 = {
+	monarch = {
+		name = "Gunderit"
+		dynasty = "Ardariking"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+480.1.1 = {
+	monarch = {
+		name = "Trapstila"
+		dynasty = "Ardariking"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+500.1.1 = {
+	monarch = {
+		name = "Trasericus"
+		dynasty = "Ardariking"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+520.1.1 = {
+	monarch = {
+		name = "Mundonus"
+		dynasty = "Ardariking"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+536.1.1 = { technology_group = western }
+
+540.1.1 = {
+	monarch = {
+		name = "Elemund"
+		dynasty = "Elemunding"
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+550.1.1 = {
+	monarch = {
+		name = "Thurismund"
+		dynasty = "Elemunding"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+560.1.1 = {
+	monarch = {
+		name = "Cunimund"
+		dynasty = "Elemunding"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}

@@ -1,0 +1,84 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = 3
+mercantilism = 0.1
+#offensive_defensive = -1
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -3
+primary_culture = berber
+religion = sunni
+technology_group = muslim
+capital = 344	# Marrakech
+
+1039.6.1={
+	monarch={
+		name="Abdallah ibn Yasin"
+		dynasty="Almoravid"
+		dip = 5
+		adm = 5
+		mil = 5
+		}
+	}
+
+1059.6.7={
+	monarch={
+		name="Abu Bakr ibn Umar"
+		dynasty="Almoravid"
+		dip = 5
+		adm = 5
+		mil = 6
+		}
+	}
+		
+1087.6.1={
+	monarch={
+		name="Yusuf ibn Tashfin"
+		dynasty="Almoravid"
+		dip = 5
+		adm = 4
+		mil = 5
+		}
+	}
+	
+1106.6.1={
+	monarch={
+		name="Ali ibn Yusuf"
+		dynasty="Almoravid"
+		dip = 5
+		adm = 4
+		mil = 4
+		}
+	}
+
+1143.1.26={
+	monarch={
+		name="Tashfin ibn Ali"
+		dynasty="Almoravid"
+		dip = 5
+		adm = 5
+		mil = 6
+		}
+	}
+		
+1145.6.1={
+	monarch={
+		name="Ibrahim ibn Tashfin"
+		dynasty="Almoravid"
+		dip = 5
+		adm = 5
+		mil = 5
+		}
+	}
+		
+1147.5.1={
+	monarch={
+		name="Ishaq ibn Ali"
+		dynasty="Almoravid"
+		dip = 5
+		adm = 5
+		mil = 5
+		}
+	}

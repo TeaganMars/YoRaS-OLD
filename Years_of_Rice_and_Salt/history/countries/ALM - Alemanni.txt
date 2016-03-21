@@ -1,0 +1,106 @@
+government = barbarian_tribe
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -3
+#land_naval = -4
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = swabian
+religion = germanic
+technology_group = barbarian
+capital = 69	# Konstanz
+
+51.1.1 = {
+	monarch = {
+		name = "Mannus"
+		dynasty = "Alamanni"
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+240.1.1 = {
+	monarch = {
+		name = "Chrocus"
+		dynasty = "Alamanni"
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+}
+
+330.1.1 = {
+	monarch = {
+		name = "Mederich"
+		dynasty = "Alamanni"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+350.1.1 = {
+	monarch = {
+		name = "Chnodomar"
+		dynasty = "Alamanni"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+354.1.1 = {
+	monarch = {
+		name = "Vadomar"
+		dynasty = "Alamanni"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+360.1.1 = {
+	monarch = {
+		name = "Vithicab"
+		dynasty = "Alamanni"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+368.1.1 = {
+	monarch = {
+		name = "Makrian"
+		dynasty = "Alamanni"
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+}
+
+371.1.1 = {
+	monarch = {
+		name = "Priarius"
+		dynasty = "Alamanni"
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+420.1.1 = {
+	monarch = {
+		name = "Gibuld"
+		dynasty = "Alamanni"
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+}
+
+600.1.1 = { government = feudal_monarchy technology_group = western }

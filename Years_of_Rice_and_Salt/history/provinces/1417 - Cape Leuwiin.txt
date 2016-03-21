@@ -1,0 +1,5 @@
+#1417 - Cape Leuwiin
+
+1792.1.1   = { discovered_by = FRA }
+1802.1.1   = { discovered_by = GBR }
+

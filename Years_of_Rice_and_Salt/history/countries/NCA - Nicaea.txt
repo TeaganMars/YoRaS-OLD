@@ -1,0 +1,55 @@
+government = despotic_monarchy
+government_rank = 3
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 0
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 2
+#land_naval = 1
+#quality_quantity = -1
+#serfdom_freesubjects = -2
+primary_culture = greek
+religion = orthodox
+technology_group = eastern
+capital = 316	# Nicaea
+
+1204.1.1 = {
+	monarch = {
+		name = "Theodore I"
+		dynasty = "Laskaris"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1221.12.15 = {
+	monarch = {
+		name = "John III"
+		dynasty = "Doukas"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1254.11.3 = {
+	monarch = {
+		name = "Theodore II"
+		dynasty = "Laskaris"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1258.8.18 = {
+	monarch = {
+		name = "Ioannes IV"
+		dynasty = "Laskaris"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}

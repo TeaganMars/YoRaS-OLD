@@ -1,0 +1,41 @@
+#2644 - Mixe
+
+owner = ZAP
+controller = ZAP
+culture = zapotek
+religion = nahuatl
+capital = "Mixe"
+trade_goods = fish
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_core = ZAP
+discovered_by = mesoamerican
+
+1555.1.1 = { 	discovered_by = SPA
+		owner = SPA 
+		controller = SPA
+		culture = castillian
+		religion = catholic	
+		capital = "Villa del Espiritu Santo"
+	   } #Peaceful takeover by the Dominican order
+1580.1.1 = { add_core = SPA }
+1752.1.1 = { base_production = 3 }
+1779.1.1 = { base_manpower = 2 }
+1806.1.1 = { base_manpower = 3 }
+1810.9.16  = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+
+1821.9.27  = { controller = MEX remove_core = SPA }
+1825.1.1   = { capital = "Coatzacoalcos" }
+1834.1.1 = { base_production = 4 }
+1861.1.1 = { base_production = 5 }
+1888.1.1 = { base_production = 6 }
+1915.1.1 = { base_tax = 3 }
+1943.1.1 = { base_manpower = 4 }
+1970.1.1 = { base_tax = 4 }
+2000.1.1 = { base_tax = 6 }
+
+
+

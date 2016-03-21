@@ -1,0 +1,34 @@
+#3046 - Nisga'a
+
+culture = chinook 		#sub-branch of Tsimshian, suspected Penutian language
+religion = totemism
+capital = "Nisga'a"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1741.1.1 = { discovered_by = RUS } # Vitus Bering
+1778.1.1 = { discovered_by = GBR } # James Cook
+#Russia only settled south of Sitka later on
+
+1871.1.1   = { 	owner = GBR
+		controller = GBR
+		citysize = 100
+		trade_goods = fish
+		religion = protestant
+		culture = english
+		capital = "Port Essington"
+	     }
+1871.7.20  = { owner = CAN add_core = CAN controller = CAN }
+1900.1.1   = { is_city = yes }
+1910.3.10  = { capital = "Prince Rupert" }
+
+
+
+

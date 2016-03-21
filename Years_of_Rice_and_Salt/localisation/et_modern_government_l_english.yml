@@ -1,0 +1,14 @@
+﻿l_english:
+ cb_spread_communism: "Spread Communism"
+ cb_spread_communism_desc: "Force the government to adopt a communist regime"
+ cb_spread_fascism: "Spread Fascism"
+ cb_spread_fascism_desc: "Force the government to adopt a fascist regime"
+ cb_spread_democracy: "Spread Democracy"
+ cb_spread_democracy_desc: "Force the government to adopt a democratic regime"
+ et_government_event.1.t: "Death of the [Root.Monarch.GetTitle]"
+ et_government_event.1.d: "In the event of [Root.Monarch.GetHerHis] death, our [Root.Monarch.GetTitle] intended for a successor to take [Root.Monarch.GetHerHis] place. However, the new [Root.Monarch.GetTitle] hardly has the same charisma [Root.Monarch.GetSheHe] had. Maybe being elected by a Senate would increase [Root.Monarch.GetHerHis] legitimacy?"
+ et_government_event.1.a: "We can always reestablish the monarchy"
+ et_government_event.1.b: "Gather an assembly"
+ et_government_event.1.c: "The [Root.Monarch.GetTitle] must have all the power!"
+ friendly_government: "Friendly government"
+ 

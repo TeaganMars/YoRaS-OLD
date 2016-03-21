@@ -1,0 +1,14 @@
+government = tribal_despotism
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 5
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 2
+#land_naval = -4
+#quality_quantity = 3
+#serfdom_freesubjects = -3
+primary_culture = afghani
+religion = zunism
+technology_group = muslim
+capital = 2303	# Zamindawar

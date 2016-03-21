@@ -1,0 +1,177 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -2
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+technology_group = early_indian
+religion = hinduism
+primary_culture = kanauji
+capital = 522	# Delhi
+
+750.1.1 = { technology_group = indian }
+
+1912.1.1 = { technology_group = asian }
+
+1947.8.15 = {
+	government = parliamentary_republic
+	monarch = {
+		name = "Jawaharlal Nehru"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1950.1.26 = {
+	government = constitutional_republic
+	monarch = {
+		name = "Rajendra Prasad"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1962.5.13 = {
+	monarch = {
+		name = "Sarvepalli Radhakrishnan"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1967.5.13 = {
+	monarch = {
+		name = "Zakir Hussain"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1969.5.3 = {
+	monarch = {
+		name = "Varahagiri Venkata Giri"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1969.7.20 = {
+	monarch = {
+		name = "Muhammad Hidayatullah"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+1969.8.24 = {
+	monarch = {
+		name = "Varahagiri Venkata Giri"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1974.8.24 = {
+	monarch = {
+		name = "Fakhruddin Ali Ahmed"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1976.1.1 = { religion = secularism }
+
+1977.2.11 = {
+	monarch = {
+		name = "Basappa Danappa Jatti"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1977.7.25 = {
+	monarch = {
+		name = "Neelam Sanjiva Reddy"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1982.7.25 = {
+	monarch = {
+		name = "Giani Zail Singh"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1987.7.25 = {
+	monarch = {
+		name = "Ramaswamy Venkataraman"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1992.7.25 = {
+	monarch = {
+		name = "Shankar Dayal Sharma"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1997.7.25 = {
+	monarch = {
+		name = "Kocheril Raman Narayanan"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+2002.7.25 = {
+	monarch = {
+		name = "Abdul Kalam"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+2007.7.25 = {
+	monarch = {
+		name = "Pratibha Patil"
+		adm = 3
+		dip = 4
+		mil = 1
+		female = yes
+	}
+}
+
+2012.7.25 = {
+	monarch = {
+		name = "Pranab Nukherjee"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+

@@ -1,0 +1,79 @@
+#134 - Wien
+
+owner = ROM
+controller = ROM
+add_core = ROM
+culture = noric
+religion = druidism
+base_tax = 2
+base_production = 2
+trade_goods = wine 
+base_manpower = 2
+capital = "Vindobona" 
+is_city = yes
+hre = no
+discovered_by = western
+discovered_by = barbarian
+discovered_by = eastern
+discovered_by = roman_group
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+
+2.1.1 = {
+	add_permanent_province_modifier = {
+		name = inland_center_of_trade_modifier
+		duration = -1
+	}
+}
+
+340.1.1 = { religion = chalcedonism }
+395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+400.1.1 = { base_tax = 3 base_production = 3 }
+420.1.1 = { culture = austrian religion = germanic }
+467.1.1 = { owner = RUG controller = RUG add_core = RUG remove_core = ROW }
+487.1.1 = { owner = ODO controller = ODO }
+489.1.1 = { owner = LOM controller = LOM add_core = LOM remove_core = RUG culture = langobardi }
+500.1.1 = { base_manpower = 3 }
+540.1.1 = { religion = arianism }
+568.1.1 = { owner = AVR controller = AVR add_core = AVR remove_core = LOM culture = austrian }
+570.1.1 = { religion = chalcedonism }
+600.1.1 = { base_tax = 4 base_production = 4 }
+623.1.1 = { owner = SAZ controller = SAZ add_core = SAZ remove_core = AVR }
+659.1.1 = { owner = NIT controller = NIT add_core = NIT remove_core = SAZ }
+700.1.1 = { base_manpower = 4 }
+790.1.1 = { owner = FRK controller = FRK add_core = FRK remove_core = NIT }
+799.1.1 = { capital = "Wien" }
+800.1.1 = { base_tax = 5 base_production = 5 }
+817.1.1 = { owner = BAV controller = BAV add_core = BAV remove_core = FRK }
+867.1.1 = { religion = catholic }
+880.3.22 = { owner = FRE controller = FRE add_core = FRE }
+900.1.1 = { base_manpower = 5 }
+911.11.10 = { owner = BAV controller = BAV add_core = BAV remove_core = FRE }
+962.2.2 = { hre = yes }
+976.1.1 = { owner = HAB controller = HAB add_core = HAB remove_core = BAV fort_15th = yes }
+1000.1.1 = { base_tax = 6 base_production = 6 }
+1100.1.1 = { base_manpower = 6 }
+1200.1.1 = { base_tax = 7 base_production = 7 }
+1260.7.1 = { owner = BOH controller = BOH add_core = BOH } #Battle of Kressenbrunn
+1278.8.26 = { owner = HAB controller = HAB remove_core = BOH } #Death of Ottokar II
+1300.1.1 = { base_manpower = 7 }
+
+1750.1.1 = { base_production = 9 }
+1775.1.1 = { base_tax = 9 base_manpower = 8 }
+1800.1.1 = { base_production = 11 }
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+
+1825.1.1 = { base_tax = 10 base_production = 13 }
+1851.1.1 = { base_production = 14 base_manpower = 9 }
+1875.1.1 = { base_production = 16 base_manpower = 10 }
+1901.1.1 = { base_tax = 12 base_production = 17 }
+1925.1.1 = { base_tax = 13 base_production = 18 }
+1938.3.12  = { owner = GER controller = GER add_core = GER } # Austria annexed by Nazi Germany
+1945.5.8   = { owner = HAB controller = HAB remove_core = GER }
+1950.1.1 = { base_tax = 15 base_manpower = 11 }
+1975.1.1 = { base_tax = 16 base_manpower = 12 }
+2000.1.1 = { base_tax = 18 base_manpower = 16 }
+
+
+

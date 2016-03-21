@@ -1,0 +1,6 @@
+#1498 - Northern Atlantic
+
+1453.1.1 = { discovered_by = western }
+
+
+

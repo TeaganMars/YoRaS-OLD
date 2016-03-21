@@ -1,0 +1,4 @@
+#1924 - Greenland Tip
+
+1453.1.1 = { discovered_by = western }
+

@@ -1,0 +1,62 @@
+#738 - Sakam
+
+culture = polynesian
+religion = animism
+capital = "Sakam"
+trade_goods = unknown
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+native_size = 60
+native_ferocity = 1
+native_hostileness = 5
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+
+1544.1.1 = { discovered_by = POR }
+1624.1.1 = {
+	owner = NED
+	controller = NED
+	is_city = yes
+	trade_goods = chinaware
+} # The Spanish settlers are driven out by the Dutch
+1626.1.1 = { controller = SPA } # Spanish occupation
+1642.1.1 = { controller = NED } # The Spanish settlers are driven out by the Dutch
+1662.1.1 = {
+	owner = MNG
+	controller = MNG
+	religion = confucianism
+} # Captured by Zheng Chenggong
+1683.1.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+	remove_core = MNG
+} # Submitted to Manchu control
+1720.1.1 = { culture = chimin }
+1751.1.1 = { base_tax = 7 base_production = 9 base_manpower = 6 }
+1775.1.1 = { base_tax = 9 base_production = 15 base_manpower = 10 }
+1786.1.1 = { unrest = 5 } # Rebellion
+1788.1.1 = { unrest = 0 }
+
+1801.1.1 = { base_tax = 12 base_production = 17 base_manpower = 17 }
+1825.1.1 = { base_tax = 19 base_production = 19 base_manpower = 20 }
+1851.1.1 = { base_tax = 22 base_production = 22 base_manpower = 26 }
+1875.1.1 = { base_tax = 24 base_production = 24 base_manpower = 35 }
+1895.4.17  = { owner = JAP controller = JAP add_core = JAP capital = "Takau" }
+1901.1.1 = { base_tax = 27 base_production = 27 base_manpower = 41 }
+1912.2.12  = { remove_core = QNG add_core = CHN }
+1925.1.1 = { base_tax = 31 base_production = 33 base_manpower = 43 }
+1945.8.15  = { owner = CHN controller = CHN remove_core = JAP capital = "Kaohsiung" }
+1949.10.1  = { owner = TWN controller = TWN add_core = TWN }
+1951.1.1 = { base_tax = 34 base_production = 38 base_manpower = 47 }
+1975.1.1 = { base_tax = 39 base_production = 42 base_manpower = 50 }
+2000.1.1 = { base_tax = 52 base_production = 52 base_manpower = 52 }
+
+
+

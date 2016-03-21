@@ -1,0 +1,31 @@
+#1175 - Namaqualand
+
+culture = bantu
+religion = african
+capital = "Lesser Namaqualand"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 2
+native_hostileness = 7
+
+1481.1.1 = { discovered_by = POR } # Bartolomeu Dias
+
+1835.1.1   = { 	owner = GBR 
+		controller = GBR 
+		add_core = GBR 
+		is_city = yes 
+		trade_goods = grain
+		religion = protestant
+		capital = "Rustenburg" 
+	     }
+1880.1.1   = { citysize = 20000 trade_goods = gold }
+1886.1.1   = { capital = "Johannesburg" }
+1910.3.31  = { add_core = RSA }
+1960.10.5  = { owner = RSA controller = RSA remove_core = GBR }
+
+
+

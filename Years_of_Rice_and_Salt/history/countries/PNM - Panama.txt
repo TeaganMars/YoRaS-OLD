@@ -1,0 +1,486 @@
+government = revolutionary_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = 0
+technology_group = western
+primary_culture = castillian
+religion = catholic
+capital = 835
+
+1903.11.3 = {
+	monarch = {
+		name = "Demetrio Brid"
+		adm = 2
+		mil = 2
+		dip = 3
+	}
+}
+
+1903.11.4 = {
+	monarch = {
+		name = "José Agustín Arango"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1904.2.20 = {
+	government = constitutional_republic
+	monarch = {
+		name = "Manuel Amador Guerrero"
+		adm = 5
+		mil = 3
+		dip = 2
+	}
+}
+
+1908.10.1 = {
+	monarch = {
+		name = "José Domingo de Obaldía"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1910.1.1 = { religion = secularism }
+
+1910.3.1 = {
+	monarch = {
+		name = "Carlos Antonio Mendoza"
+		adm = 3
+		mil = 2
+		dip = 2
+	}
+}
+
+1910.10.1 = {
+	monarch = {
+		name = "Federico Boyd"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1910.10.5 = {
+	monarch = {
+		name = "Pablo Arosemena"
+		adm = 3
+		mil = 3
+		dip = 2
+	}
+}
+
+1912.10.1 = {
+	monarch = {
+		name = "Belisario Porras Barahona"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1916.10.1 = {
+	monarch = {
+		name = "Ramón Maximiliano Valdés"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1918.6.3 = {
+	monarch = {
+		name = "Ciro Luis Urriola"
+		adm = 3
+		mil = 3
+		dip = 3
+	}
+}
+
+1918.10.1 = {
+	monarch = {
+		name = "Pedro Antonio Díaz"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+1918.10.12 = {
+	monarch = {
+		name = "Belisario Porras Barahona"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1920.1.30 = {
+	monarch = {
+		name = "Ernesto Tisdel Lefevre"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1920.10.1 = {
+	monarch = {
+		name = "Belisario Porras Barahona"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1924.10.1 = {
+	monarch = {
+		name = "Rodolfo Chiari"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+1928.10.1 = {
+	monarch = {
+		name = "Florencio Harmodio Arosemena"
+		adm = 3
+		mil = 4
+		dip = 3
+	}
+}
+
+1931.1.3 = {
+	monarch = {
+		name = "Harmodio Arias Madrid"
+		adm = 3
+		mil = 4
+		dip = 3
+	}
+}
+
+1931.1.16 = {
+	monarch = {
+		name = "Ricardo Joaquín Alfaro Jované"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1932.6.5 = {
+	monarch = {
+		name = "Harmodio Arias Madrid"
+		adm = 3
+		mil = 4
+		dip = 3
+	}
+}
+
+1936.10.1 = {
+	monarch = {
+		name = "Juan Demóstenes Arosemena"
+		adm = 3
+		mil = 2
+		dip = 3
+	}
+}
+
+1939.1.16 = {
+	monarch = {
+		name = "Ezequiel Fernández"
+		adm = 3
+		mil = 3
+		dip = 2
+	}
+}
+
+1939.1.18 = {
+	monarch = {
+		name = "Augusto Samuel Boyd"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1940.10.1 = {
+	monarch = {
+		name = "Arnulfo Arias"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1941.10.9 = {
+	monarch = {
+		name = "Ricardo Adolfo de la Guardia Arango"
+		adm = 4
+		mil = 2
+		dip = 2
+	}
+}
+
+1945.6.15 = {
+	monarch = {
+		name = "Enrique Adolfo Jiménez"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1948.8.7 = {
+	monarch = {
+		name = "Domingo Díaz Arosemena"
+		adm = 4
+		mil = 2
+		dip = 2
+	}
+}
+
+1949.7.28 = {
+	monarch = {
+		name = "Daniel Chanis Pinzón"
+		adm = 4
+		mil = 3
+		dip = 3
+	}
+}
+
+1949.11.20 = {
+	monarch = {
+		name = "Roberto Francisco Chiari Remón"
+		adm = 4
+		mil = 2
+		dip = 2
+	}
+}
+
+1949.11.24 = {
+	monarch = {
+		name = "Arnulfo Arias"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1951.5.9 = {
+	monarch = {
+		name = "Alcibíades Arosemena"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1952.10.1 = {
+	monarch = {
+		name = "José Antonio Remón Cantera"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1955.1.2 = {
+	monarch = {
+		name = "José Ramón Guizado"
+		adm = 2
+		mil = 3
+		dip = 5
+	}
+}
+
+1955.3.29 = {
+	monarch = {
+		name = "Ricardo Arias"
+		adm = 2
+		mil = 2
+		dip = 5
+	}
+}
+
+1956.10.1 = {
+	monarch = {
+		name = "Ernesto de la Guardia"
+		adm = 5
+		mil = 3
+		dip = 3
+	}
+}
+
+1960.10.1 = {
+	monarch = {
+		name = "Roberto Francisco Chiari Remón"
+		adm = 4
+		mil = 2
+		dip = 2
+	}
+}
+
+1964.10.1 = {
+	monarch = {
+		name = "Marco Aurelio Robles"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1968.10.1 = {
+	monarch = {
+		name = "Arnulfo Arias"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1968.10.12 = {
+	monarch = {
+		name = "José María Pinilla Fábrega"
+		adm = 3
+		mil = 2
+		dip = 4
+	}
+}
+
+1969.12.19 = {
+	monarch = {
+		name = "Demetrio Lakas"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+1978.10.11 = {
+	monarch = {
+		name = "Aristides Royo"
+		adm = 3
+		mil = 5
+		dip = 2
+	}
+}
+
+1982.7.31 = {
+	monarch = {
+		name = "Ricardo de la Espiella"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1984.2.13 = {
+	monarch = {
+		name = "Jorge Illueca"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+1984.10.11 = {
+	monarch = {
+		name = "Nicolás Ardito Barletta Vallarino"
+		adm = 4
+		mil = 1
+		dip = 2
+	}
+}
+
+1985.9.28 = {
+	monarch = {
+		name = "Eric Arturo Delvalle"
+		adm = 3
+		mil = 3
+		dip = 2
+	}
+}
+
+1988.2.26 = {
+	monarch = {
+		name = "Manuel Solís Palma"
+		adm = 4
+		mil = 2
+		dip = 2
+	}
+}
+
+1989.9.1 = {
+	monarch = {
+		name = "Francisco Rodríguez"
+		adm = 3
+		mil = 5
+		dip = 2
+	}
+}
+
+1989.12.20 = {
+	monarch = {
+		name = "Guillermo Endara"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+1994.9.1 = {
+	monarch = {
+		name = "Ernesto Pérez Balladares"
+		adm = 2
+		mil = 3
+		dip = 4
+	}
+}
+
+1999.9.1 = {
+	monarch = {
+		name = "Mireya Moscoso"
+		adm = 4
+		mil = 2
+		dip = 4
+		female = yes
+	}
+}
+
+2004.9.1 = {
+	monarch = {
+		name = "Martín Torrijos"
+		adm = 2
+		mil = 4
+		dip = 3
+	}
+}
+
+2009.7.1 = {
+	monarch = {
+		name = "Ricardo Martinelli"
+		adm = 3
+		mil = 3
+		dip = 5
+	}
+}
+
+2014.7.1 = {
+	monarch = {
+		name = "Juan Carlos Varela"
+		adm = 4
+		mil = 3
+		dip = 4
+	}
+}

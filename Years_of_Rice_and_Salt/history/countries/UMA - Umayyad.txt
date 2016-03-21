@@ -1,0 +1,290 @@
+government = caliphate
+mercantilism = 0.1
+primary_culture = al_suryah_arabic
+religion = sunni
+technology_group = muslim
+capital = 382	# Damascus
+
+661.1.1 = {
+	monarch = {
+		name="Muawiya I"
+		dynasty="Umayyad"
+		dip = 5
+		adm = 5
+		mil = 5
+	}
+}
+
+680.4.29 = {
+	monarch = {
+		name="Yazid I"
+		dynasty="Umayyad"
+		dip = 4
+		adm = 5
+		mil = 5
+	}
+}
+
+683.11.14 = {
+	monarch = {
+		name="Muawiya II"
+		dynasty="Umayyad"
+		dip = 4
+		adm = 4
+		mil = 4
+	}
+}
+
+684.2.1 = {
+	monarch = {
+		name="Marwan I"
+		dynasty="Umayyad"
+		dip = 4
+		adm = 4
+		mil = 4
+	}
+}
+
+685.5.7 = {
+	monarch = {
+		name="Abd al-Malik"
+		dynasty="Umayyad"
+		dip = 4
+		adm = 4
+		mil = 4
+	}
+}
+
+705.10.8 = {
+	monarch = {
+		name="Al-Walid I"
+		dynasty="Umayyad"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+		
+715.2.23 = {
+	monarch = {
+		name="Sulayman"
+		dynasty="Umayyad"
+		dip = 4
+		adm = 4
+		mil = 5
+	}
+}
+		
+717.3.1 = {
+	monarch = {
+		name="Umar II"
+		dynasty="Umayyad"
+		dip = 3
+		adm = 4
+		mil = 6
+	}
+}
+		
+720.1.31 = {
+	monarch = {
+		name="Yazid II"
+		dynasty="Umayyad"
+		dip = 4
+		adm = 4
+		mil = 6
+	}
+}
+		
+724.1.26 = {
+	monarch = {
+		name="Hisham I"
+		dynasty="Umayyad"
+		dip = 4
+		adm = 5
+		mil = 6
+	}
+}
+
+743.2.6 = {
+	monarch = {
+		name="Al-Walid II"
+		dynasty="Umayyad"
+		dip = 3
+		adm = 3
+		mil = 6
+	}
+}
+
+744.1.1 = { capital = 2269 } # Harran
+		
+744.4.17 = {
+	monarch = {
+		name="Yazid III"
+		dynasty="Umayyad"
+		dip = 3
+		adm = 2
+		mil = 5
+	}
+}
+		
+744.10.3 = {
+	monarch = {
+		name="Ibrahim I"
+		dynasty="Umayyad"
+		dip = 3
+		adm = 2
+		mil = 4
+	}
+}
+
+750.1.1 = { capital = 225 government = despotic_monarchy primary_culture = andalucian } # Cordoba
+		
+750.1.25 = {
+	monarch = {
+		name="Marwan II"
+		dynasty="Umayyad"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+750.8.6 = {
+	monarch = {
+		name="Abd al-Rahman I"
+		dynasty="Umayyad"
+		dip = 3
+		adm = 4
+		mil = 3
+	}
+}
+
+788.1.1 = {
+	monarch = {
+		name = "Hisham I"
+		dynasty = "Umayyad"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+796.1.1 = {
+	monarch = {
+		name = "Al-Hakam I"
+		dynasty = "Umayyad"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+822.5.21 = {
+	monarch = {
+		name = "Abd ar-Rahman II"
+		dynasty = "Umayyad"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+852.1.1 = {
+	monarch = {
+		name = "Muhammad I"
+		dynasty = "Umayyad"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+886.1.1 = {
+	monarch = {
+		name = "Al-Mundhir I"
+		dynasty = "Umayyad"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+888.1.1 = {
+	monarch = {
+		name = "Abdullah I"
+		dynasty = "Umayyad"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+912.10.15 = {
+	monarch = {
+		name = "Abd ar-Rahman III"
+		dynasty = "Umayyad"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+961.10.15 = {
+	monarch = {
+		name = "Al-Hakam II"
+		dynasty = "Umayyad"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+976.10.16 = {
+	monarch = {
+		name = "Hisham II"
+		dynasty = "Umayyad"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1013.1.1 = {
+	monarch = {
+		name = "Sulayman I"
+		dynasty = "Umayyad"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1016.1.1 = {
+	monarch = {
+		name = "Ali I"
+		dynasty = "Umayyad"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1018.3.22 = {
+	monarch = {
+		name = "Al-Qasim al-Ma'mun"
+		dynasty = "Umayyad"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1021.1.1 = {
+	monarch = {
+		name = "Yahya I"
+		dynasty = "Umayyad"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}

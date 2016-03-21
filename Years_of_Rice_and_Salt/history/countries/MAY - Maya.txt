@@ -1,0 +1,98 @@
+government = tribal_despotism
+mercantilism = 0.1
+technology_group = mesoamerican
+primary_culture = yucatec
+culture_group_union = maya
+religion = mesoamerican_religion
+capital = 2637	# Mayapan
+
+987.1.1 = {
+	monarch = {
+		name = "Ah Mekat Tutul"
+		dynasty = "Xiu"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1030.1.1 = {
+	monarch = {
+		name = "Hapay Can"
+		dynasty = "Xiu"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1080.1.1 = {
+	monarch = {
+		name = "Sac Xib Chac"
+		dynasty = "Xiu"
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+
+1130.1.1 = {
+	monarch = {
+		name = "Chac Xib Chac"
+		dynasty = "Xiu"
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+}
+
+1175.1.1 = {
+	monarch = {
+		name = "Hunac Ceel"
+		dynasty = "Cocom"
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}
+
+1250.1.1 = {
+	monarch = {
+		name = "Chac Ek Yuuan"
+		dynasty = "Cocom"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1300.1.1 = {
+	monarch = {
+		name = "Ix Zacbeliz"
+		dynasty = "Cocom"
+		adm = 2
+		dip = 1
+		mil = 2
+		female = yes
+	}
+}
+
+1350.1.1 = {
+	monarch = {
+		name = "Hun Yuuan Chac"
+		dynasty = "Xiu"
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}
+
+1399.1.1 = {
+	monarch = {
+		name = "Ah"
+		dynasty = "Xiu"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}

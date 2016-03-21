@@ -1,0 +1,44 @@
+government = steppe_horde
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 5
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = -1
+#land_naval = -4
+#quality_quantity = 3
+#serfdom_freesubjects = -4
+technology_group = muslim
+primary_culture = mongol
+religion = shiite
+capital = 2289	# Shiraz
+
+1335.1.1 = {
+ 	monarch = {
+		name = "Amir Ghiyas al-Din Kai-Khusrau"
+		dynasty = "Injuid"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1339.1.1 = {
+ 	monarch = {
+		name = "Amir Jalal al-Din Mas'us Shah"
+		dynasty = "Injuid"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1343.1.1 = {
+ 	monarch={
+		name= "Shaikh Abu Ishaq"
+		dynasty= "Injuid"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}

@@ -1,0 +1,49 @@
+#892 - Wichita
+
+culture = caddo
+religion = totemism
+capital = "Wichita"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 20
+native_ferocity = 3
+native_hostileness = 8
+discovered_by = north_american
+
+1200.1.1 = { owner = CAD controller = CAD add_core = CAD is_city = yes trade_goods = grain }
+1360.1.1 = {	owner = XXX
+		controller = XXX
+		remove_core = CAD
+		citysize = 0
+		native_size = 20
+		native_ferocity = 3
+		native_hostileness = 8
+		trade_goods = unknown
+}
+
+1541.1.1  = { discovered_by = SPA } # Francisco Coronado
+1750.1.1 = { base_tax = 2 base_production = 2 base_manpower = 2 }
+1760.1.1  = {	owner = WIC
+		controller = WIC
+		add_core = WIC
+		trade_goods = grain
+		is_city = yes } #Great Plain tribes spread over vast territories
+
+1834.6.30  = { owner = USA controller = USA add_core = USA }
+1850.1.1 = { base_tax = 5 base_production = 3 base_manpower = 5 }
+1875.1.1 = { base_tax = 6 base_production = 5 base_manpower = 7 }
+1887.1.1   = { capital = "Guthrie" }
+1890.5.2   = { culture = american religion = protestant remove_core = WIC }
+1900.1.1 = { base_tax = 11 base_production = 9 base_manpower = 8 }
+1907.11.16 = { capital = "Oklahoma City" }
+
+
+
+
+1925.1.1 = { base_tax = 15 base_production = 12 base_manpower = 12 }
+1950.1.1 = { base_tax = 18 base_production = 18 base_manpower = 13 }
+1975.1.1 = { base_production = 21 base_manpower = 15 }
+2000.1.1 = { base_tax = 22 base_production = 22 base_manpower = 21 }

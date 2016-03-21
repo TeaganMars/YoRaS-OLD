@@ -1,0 +1,23 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 2
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -1
+#quality_quantity = 1
+#serfdom_freesubjects = -5
+primary_culture = tigray
+religion = sunni
+technology_group = muslim
+capital = 2672
+
+1991.5.24 = { 
+	monarch = {
+		name = "Isaias Afewerki"
+		adm = 4
+		dip = 5
+		mil = 5
+		}
+	}

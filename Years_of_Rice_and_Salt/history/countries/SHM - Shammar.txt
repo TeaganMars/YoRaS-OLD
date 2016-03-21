@@ -1,0 +1,292 @@
+government = iqta
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+capital = 393 # Jabal Shammar
+
+
+#Amirs of ad-Dar'iya
+
+1444.1.1 = {
+	monarch = {
+		name = "Abdullah"
+		dynasty = "Rashid"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	add_piety = 0.1
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Muhammed"
+		monarch_name = "Muhammed I"
+		dynasty = "Rashid"
+		birth_date = 1444.1.1
+		death_date = 1505.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1832.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "al-Shammari"
+		birth_date = 1780.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1836.1.1 = {
+	monarch = {
+		name = "Abdullah I"
+		dynasty = "Rashid"
+		birth_date = 1806.1.1
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+}
+
+1836.1.1 = {
+	heir = {
+		name = "Talal"
+		monarch_name = "Talal"
+		dynasty = "Rashid"
+		birth_date = 1818.1.1
+		death_date = 1868.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1848.1.1 = {
+	monarch = {
+		name = "Talal"
+		dynasty = "Rashid"
+		birth_date = 1818.1.1
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1848.1.1 = {
+	heir = {
+		name = "Mut'ib"
+		monarch_name = "Mut'ib I"
+		dynasty = "Rashid"
+		birth_date = 1838.1.1
+		death_date = 1869.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+}
+
+1868.1.1 = {
+	monarch = {
+		name = "Mut'ib I"
+		dynasty = "Rashid"
+		birth_date = 1838.1.1
+		adm = 5
+		dip = 1
+		mil = 0
+	}
+}
+
+1868.1.1 = {
+	heir = {
+		name = "Bandar"
+		monarch_name = "Bandar"
+		dynasty = "Rashid"
+		birth_date = 1830.1.1
+		death_date = 1869.4.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1869.1.1 = {
+	monarch = {
+		name = "Bandar"
+		dynasty = "Rashid"
+		birth_date = 1830.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1869.4.1 = {
+	monarch = {
+		name = "Muhammed"
+		dynasty = "Rashid"
+		birth_date = 1839.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1869.4.1 = {
+	heir = {
+		name = "'Abd al-'Aziz"
+		monarch_name = "'Abd al-'Aziz"
+		dynasty = "Rashid"
+		birth_date = 1867.1.1
+		death_date = 1906.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+1897.1.1 = {
+	monarch = {
+		name = "'Abd al-'Aziz"
+		dynasty = "Rashid"
+		birth_date = 1867.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+1897.1.1 = {
+	heir = {
+		name = "Mut'ib"
+		monarch_name = "Mut'ib II"
+		dynasty = "Rashid"
+		birth_date = 1876.1.1
+		death_date = 1907.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1906.1.1 = {
+	monarch = {
+		name = "Mut'ib II"
+		dynasty = "Rashid"
+		birth_date = 1876.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1906.1.1 = {
+	heir = {
+		name = "Sultan"
+		monarch_name = "Sultan"
+		dynasty = "Rashid"
+		birth_date = 1877.1.1
+		death_date = 1908.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+1907.1.1 = {
+	monarch = {
+		name = "Sultan"
+		dynasty = "Rashid"
+		birth_date = 1877.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+1907.1.1 = {
+	heir = {
+		name = "Sa'ud"
+		monarch_name = "Sa'ud I"
+		dynasty = "Rashid"
+		birth_date = 1878.1.1
+		death_date = 1910.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+}
+
+1908.1.1 = {
+	monarch = {
+		name = "Sa'ud I"
+		dynasty = "Rashid"
+		birth_date = 1878.1.1
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+}
+
+1908.1.1 = {
+	heir = {
+		name = "Sa'ud"
+		monarch_name = "Sa'ud II"
+		dynasty = "Rashid"
+		birth_date = 1900.1.1
+		death_date = 1920.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+}
+
+1910.1.1 = {
+	monarch = {
+		name = "Sa'ud II"
+		dynasty = "Rashid"
+		birth_date = 1900.1.1
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+}
+
+1910.1.1 = {
+	heir = {
+		name = "Abdullah"
+		monarch_name = "Abdullah II"
+		dynasty = "Rashid"
+		birth_date = 1900.1.1
+		death_date = 1921.11.2
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}
+
+1920.1.1 = {
+	monarch = {
+		name = "Abdullah II"
+		dynasty = "Rashid"
+		birth_date = 1900.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}

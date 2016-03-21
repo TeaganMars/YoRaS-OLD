@@ -1,0 +1,79 @@
+government = steppe_horde
+mercantilism = 0.1
+primary_culture = uzbehk
+religion = mahayana
+technology_group = western_nomad_group
+capital = 578	# Kohistan
+
+420.1.1 = {
+	monarch = {
+		name = "Akshuwar"
+		dynasty = "Hephthalite"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+430.1.1 = {
+	monarch = {
+		name = "Khingila"
+		dynasty = "Hephthalite"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+490.1.1 = {
+	monarch = {
+		name = "Toramana"
+		dynasty = "Hephthalite"
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+515.1.1 = {
+	religion = hinduism
+	monarch = {
+		name = "Mihirakula"
+		dynasty = "Hephthalite"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+540.1.1 = {
+	monarch = {
+		name = "Lakhana"
+		dynasty = "Hephthalite"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+580.1.1 = {
+	monarch = {
+		name = "Khingala"
+		dynasty = "Hephthalite"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+620.1.1 = {
+	monarch = {
+		name = "Purvaditya"
+		dynasty = "Hephthalite"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+750.1.1 = { technology_group = nomad_group }

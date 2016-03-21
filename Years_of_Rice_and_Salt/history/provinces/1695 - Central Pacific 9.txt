@@ -1,0 +1,6 @@
+#1695 - Revilla Gigedo Islands
+
+1528.1.1 = { discovered_by = SPA }
+
+
+

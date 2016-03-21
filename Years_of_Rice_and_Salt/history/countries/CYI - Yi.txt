@@ -1,0 +1,8 @@
+government = despotic_monarchy
+primary_culture = yi
+religion = animism
+technology_group = early_chinese
+capital = 675	# Umung
+
+
+750.1.1 = { technology_group = chinese }

@@ -1,0 +1,73 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 118  240  85 }
+
+historical_idea_groups = {
+	early_adm_ideas
+	early_mil_ideas
+	early_religious_ideas
+	early_trade_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	mongol_bow
+	mongol_swarm
+	mongol_steppe
+}
+
+monarch_names = {
+	"Norovyn #0" = 20
+	"Sanjaagiin #0" = 20
+	"Losolyn #0" = 20
+	"Manduulun #0" = 20
+	"Tsakhiagiin #0" = 20
+	"Luvsangiin #0" = 20
+	"Jügderdemidiin #0" = 20
+	"Dumagiin #0" = 20
+	"Sod-Amar #0" = 20
+	"Byambyn #0" = 20
+	"Rinchen #0" = 20
+	"Altangerel #0" = 20
+	"Asashotyu #0" = 20
+	"Tömöriin #0" = 20
+	"Enkhbatyn #0" = 20
+	"Khorloogiin #0" = 20
+	"Namjilyn #0" = 20
+	"Chimedbazaryn #0" = 20
+	"Ravdangiin #0" = 20
+	"Danzandarjaagiin #0" = 20
+}
+
+leader_names = { 
+	Altankhuyag Bayar Byambajargal Elbegdorj Erdenechuluun
+	Gürragchaa Sodnom Davaajav Rinchen Barsbold Perle
+	Artag Bayanmönkh Damdinsharav Mönkhbayar Gündegmaa
+	Tsagaanbaatar Tüvshinbayar
+}
+
+ship_names = {
+	"Ariq Boke"
+	Chengzong
+	Güyük
+	Hoelun Hulagu
+	Kublai Kiyad Külüg
+	Mongke
+	Olkunut Ögedei
+	Qabul Qaidu
+	"Sorghaghtani Beki"
+	Tolui
+	Yesugei 
+}
+
+
+

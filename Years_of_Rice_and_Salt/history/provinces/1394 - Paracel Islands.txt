@@ -1,0 +1,8 @@
+#1394 - Paracel Islands
+
+discovered_by = early_chinese
+discovered_by = chinese
+1521.1.1 = { discovered_by = SPA }
+
+
+

@@ -1,0 +1,105 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = 4
+#centralization_decentralization = -2
+#innovative_narrowminded = -2
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 4
+#land_naval = -3
+#quality_quantity = 2
+#serfdom_freesubjects = -2
+primary_culture = andalucian
+religion = sunni
+add_accepted_culture = berber
+technology_group = muslim
+capital = 219	# Toledo
+
+1011.1.1 = {
+	monarch = {
+		name = "Muhammad ibn Ya'is"
+		dynasty = "Ya'isid"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1014.1.1 = {
+	monarch = {
+		name = "Sa'id ibn Qantir"
+		dynasty = "Banu Qantir"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1017.1.1 = {
+	monarch = {
+		name = "Abu 'Umar Ahmad ibn Sa'id"
+		dynasty = "Banu Qantir"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1020.1.1 = {
+	monarch = {
+		name = "'Abd ar-Rahman"
+		dynasty = "Matiyid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1024.1.1 = {
+	monarch = {
+		name = "'Abd al-Malik"
+		dynasty = "Matiyid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1028.1.1 = {
+	monarch = {
+		name = "Abu Bakr Ya'is ibn Muhammad"
+		dynasty = "Ya'isid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1031.1.1 = {
+	monarch = {
+		name = "Isma'il al-Zahir"
+		dynasty = "Dhunnudid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1034.1.1 = {
+	monarch = {
+		name = "Yahya I al-Ma'mun"
+		dynasty = "Dhunnudid"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1075.1.1 = {
+	monarch = {
+		name = "Yahya II al-Qadir"
+		dynasty = "Dhunnudid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}

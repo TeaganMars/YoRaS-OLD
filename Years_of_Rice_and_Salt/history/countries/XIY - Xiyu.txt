@@ -1,0 +1,9 @@
+government = steppe_horde
+mercantilism = 0.1
+technology_group = eastern_nomad_group
+religion = mahayana
+primary_culture = tocharian
+capital = 713 #Karasahr
+
+420.1.1 = { primary_culture = uyghur }
+750.1.1 = { technology_group = nomad_group }

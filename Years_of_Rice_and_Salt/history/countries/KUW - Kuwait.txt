@@ -1,0 +1,121 @@
+government = constitutional_monarchy
+government_rank = 1
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = bedouin_arabic
+religion = sunni
+technology_group = muslim
+capital = 2130	# Kuwait
+
+1961.6.19 = {
+	monarch = {
+		name = "Abdullah III"
+		dynasty = "Al-Sabah"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1961.6.19 = {
+	heir = {
+		name = "Sabah"
+		monarch_name = "Sabah III"
+		dynasty = "Al-Sabah"
+		birth_Date = 1913.1.1
+		death_date = 1977.12.31
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1965.11.24 = {
+	monarch = {
+		name = "Sabah III"
+		dynasty = "Al-Sabah"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1965.11.24 = {
+	heir = {
+		name = "Jaber"
+		monarch_name ="Jaber III"
+		dynasty = "Al-Sabah"
+		birth_Date = 1926.5.29
+		death_Date = 2006.1.15
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1977.12.31 = {
+	monarch = {
+		name = "Jaber III"
+		dynasty = "Al-Sabah"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1977.12.31 = {
+	heir = {
+		name = "Saad"
+		monarch_name = "Saad I"
+		dynasty = "Al-Sabah"
+		birth_Date = 1930.1.1
+		death_Date = 2008.5.13
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2006.1.15 = {
+	monarch = {
+		name = "Saad I"
+		dynasty = "Al-Sabah"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2006.1.29 = {
+	monarch = {
+		name = "Sabah IV"
+		dynasty = "Al-Sabah"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+2006.1.29 = {
+	heir = {
+		name = "Nawaf"
+		monarch_name = "Nawaf I"
+		dynasty = "Al-Sabah"
+		birth_Date = 1937.6.25
+		death_Date = 3000.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}

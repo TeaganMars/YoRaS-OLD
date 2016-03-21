@@ -1,0 +1,40 @@
+#3010 - Maliseet
+
+culture = abenaki
+religion = totemism
+capital = "Maliseet"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1535.1.1  = { discovered_by = FRA } # Jacques Cartier
+1629.1.1  = { discovered_by = ENG }
+1672.1.1  = {	owner = FRA
+		controller = FRA
+		culture = cosmopolitan_french
+		religion = catholic
+		trade_goods = fish
+		citysize = 255
+		capital = "Rivière-du-Loup"
+	    } # First seigneuries of the Bas-Saint-Laurent region
+1697.1.1  = { is_city = yes add_core = FRA }
+1763.2.10 = {	owner = GBR
+		controller = GBR
+		remove_core = FRA
+	    } # Treaty of Paris - ceded to Britain, France gave up its claim
+1788.2.10 = { add_core = GBR }
+
+1850.1.1   = { capital = "Fraserville" }
+1867.7.1   = { owner = CAN add_core = CAN controller = CAN remove_core = GBR }
+1919.1.1   = { capital = "Rivière-du-Loup" }
+1980.5.20  = { add_core = QUE } # Quebec referendum
+
+
+
+

@@ -1,0 +1,111 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = chimin
+religion = mahayana
+technology_group = early_chinese
+capital = 2008	# Singapore
+
+750.1.1 = { technology_group = chinese }
+1910.1.1 = { religion = secularism }
+1920.1.1 = { technology_group = asian }
+1950.1.1 = { government = constitutional_republic }
+
+1963.8.1 = {
+	monarch = {
+		name = "Council of State"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1965.8.9 = {
+	monarch = {
+		name = "Yusof bin Ishak"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1970.11.23 = {
+	monarch = {
+		name = "Yeoh Ghim Seng"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1975.4.9 = {
+	monarch = {
+		name = "Benjamin Henry Sheares"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1981.5.12 = {
+	monarch = {
+		name = "Yeoh Ghim Seng"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1981.10.23 = {
+	monarch = {
+		name = "Devan Nair"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1985.3.28 = {
+	monarch = {
+		name = "Yeoh Ghim Seng"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1985.9.2 = {
+	monarch = {
+		name = "Wee Kim Wee"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1993.9.1 = {
+	monarch = {
+		name = "Ong Teng Cheong"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1999.9.1 = {
+	monarch = {
+		name = "Sellapan Ramanathan"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2011.9.1 = {
+	monarch = {
+		name = "Tony Tan Keng Yam"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}

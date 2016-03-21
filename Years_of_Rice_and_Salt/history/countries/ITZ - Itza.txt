@@ -1,0 +1,19 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = yucatec
+religion = mesoamerican_religion
+technology_group = mesoamerican
+capital = 846	# Chichen Itza
+
+1000.1.1 = { primary_culture = putun capital = 842 } # Petén
+1100.1.1 = { government = tribal_despotism }
+
+1440.1.1 = {
+	monarch = {
+		name = "Ahkinxok Muluchtzekel" #Fictional
+		dynasty = "Itza"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+} #No known Itza rulers in-timeline

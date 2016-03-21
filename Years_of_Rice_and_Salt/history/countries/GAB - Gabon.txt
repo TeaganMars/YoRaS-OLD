@@ -1,0 +1,81 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = 3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = fang
+religion = sunni
+technology_group = muslim
+capital = 1165
+
+1910.1.1 = { religion = secularism }
+
+1960.8.17 = {
+	monarch = {
+		name = "Léon M'ba"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1964.2.17 = {
+	monarch = {
+		name = "Jean-Hilaire Aubame"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1964.2.19 = {
+	monarch = {
+		name = "Léon M'ba"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1967.12.2 = {
+	monarch = {
+		name = "Omar Bongo"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+2009.5.6 = {
+	monarch = {
+		name = "Didjob Divungi Di Ndinge"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+2009.6.10 = {
+	monarch = {
+		name = "Rose Francine Rogombé"
+		adm = 4
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+2009.10.16 = {
+	monarch = {
+		name = "Ali Bongo Ondimba"
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+

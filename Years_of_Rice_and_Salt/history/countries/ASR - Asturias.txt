@@ -1,0 +1,159 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -1
+#centralization_decentralization = 1
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -1
+mercantilism = 0.1
+#offensive_defensive = 2
+#land_naval = 0
+#quality_quantity = -1
+#serfdom_freesubjects = 1
+primary_culture = leonese
+religion = chalcedonism
+technology_group = western
+capital = 207	# Asturias
+
+
+718.1.1 = {
+	monarch = {
+		name = "Pelagius"
+		dynasty = "de Asturias"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+737.6.1 = {
+	monarch = {
+		name = "Favila"
+		dynasty = "de Asturias"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+739.6.1 = {
+	monarch = {
+		name = "Alfonso I"
+		dynasty = "de Beni Alfons"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+757.6.1 = {
+	monarch = {
+		name = "Fruela I"
+		dynasty = "de Beni Alfons"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+}
+
+768.6.1 = {
+	monarch = {
+		name = "Aurelius"
+		dynasty = "de Beni Alfons"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+774.6.1 = {
+	monarch = {
+		name = "Silo"
+		dynasty = "de Beni Alfons"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+783.6.1 = {
+	monarch = {
+		name = "Mauregatus"
+		dynasty = "de Beni Alfons"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+788.6.1 = {
+	monarch = {
+		name = "Bermudo I"
+		dynasty = "de Beni Alfons"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+
+791.6.1 = {
+	monarch = {
+		name = "Alfonso II"
+		dynasty = "de Beni Alfons"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+842.4.1 = {
+	monarch = {
+		name = "Nepotian"
+		dynasty = "de Asturias"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+842.8.1 = {
+	monarch = {
+		name = "Ramiro I"
+		dynasty = "de Beni Alfons"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+850.6.1 = {
+	monarch = {
+		name = "Ordoño I"
+		dynasty = "de Beni Alfons"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+866.5.27 = {
+	monarch = {
+		name = "Alfonso III"
+		dynasty = "de Beni Alfons"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+867.1.1 = { religion = catholic }
+
+910.12.10 = {
+	monarch = {
+		name = "Fruela II"
+		dynasty = "de Beni Alfons"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+

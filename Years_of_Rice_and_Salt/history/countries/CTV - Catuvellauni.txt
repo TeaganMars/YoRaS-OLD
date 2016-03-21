@@ -1,0 +1,46 @@
+government = barbarian_tribe
+mercantilism = 0.1
+technology_group = barbarian
+primary_culture = briton
+religion = druidism
+capital = 237
+
+2.1.1 = {
+	monarch = {
+		name = "Tasciovanus"
+		dynasty = "Catuvellauni"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+9.1.1 = {
+	monarch = {
+		name = "Cunobelinus"
+		dynasty = "Catuvellauni"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+40.1.1 = {
+	monarch = {
+		name = "Togodumnus"
+		dynasty = "Catuvellauni"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+43.1.1 = {
+	monarch = {
+		name = "Caratacus"
+		dynasty = "Catuvellauni"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}

@@ -1,0 +1,106 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = 0
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -3
+#land_naval = -4
+#quality_quantity = 1
+#serfdom_freesubjects = -4
+technology_group = early_chinese
+religion = mahayana
+primary_culture = manchu
+capital = 704
+
+750.1.1 = { technology_group = chinese }
+
+907.1.1 = {
+	monarch = {
+		name = "Taizu"
+		dynasty = "Liao"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+927.12.11 = {
+	monarch = {
+		name = "Taizong"
+		dynasty = "Liao"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+947.5.16 = {
+	monarch = {
+		name = "Shizong"
+		dynasty = "Liao"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+951.10.11 = {
+	monarch = {
+		name = "Muzong"
+		dynasty = "Liao"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+}
+
+969.3.13 = {
+	monarch = {
+		name = "Jingzong"
+		dynasty = "Liao"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+982.10.14 = {
+	monarch = {
+		name = "Shengzong"
+		dynasty = "Liao"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1031.6.25 = {
+	monarch = {
+		name = "Xingzong"
+		dynasty = "Liao"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+1055.8.28 = {
+	monarch = {
+		name = "Daozong"
+		dynasty = "Liao"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1101.2.12 = {
+	monarch = {
+		name = "Tianzuo"
+		dynasty = "Liao"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}

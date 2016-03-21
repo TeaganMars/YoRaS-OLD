@@ -1,0 +1,46 @@
+#467 - Borisoglebsk
+
+owner = SRM
+controller = SRM
+add_core = SRM
+is_city = yes
+culture = sarmatian
+religion = tengri_pagan_reformed
+capital = "Borisoglebsk"
+trade_goods = wool
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = western_nomad_group
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+
+350.1.1 = { owner = HNS controller = HNS add_core = HNS remove_core = SRM culture = hunnic }
+469.1.1 = { owner = BUL controller = BUL add_core = BUL remove_core = HNS culture = bulgarian }
+720.1.1 = { owner = KHZ controller = KHZ add_core = KHZ remove_core = BUL culture = khazar }
+800.1.1 = { discovered_by = eastern }
+900.1.1 = { base_tax = 2 base_production = 2 }
+930.1.1 = { owner = PEC controller = PEC add_core = PEC remove_core = KHZ culture = cuman }
+1000.1.1 = { religion = sunni }
+1055.1.1 = { owner = CUM controller = CUM add_core = CUM add_core = ZAZ remove_core = PEC }
+1100.1.1 = { base_manpower = 2 }
+1200.1.1 = { discovered_by = western }
+1237.1.1 = { owner = MGE controller = MGE add_core = MGE add_core = CRI remove_core = CUM citysize = 1000 culture = mishary }
+1260.1.1 = { owner = GOL controller = GOL add_core = GOL remove_core = MGE }
+
+1502.6.1  = { owner = CRI controller = CRI remove_core = GOL } # Golden Horde destroyed by Crimea
+1572.8.2  = {	owner = RUS controller = RUS add_core = RUS remove_core = CRI } # Battle of Molodi
+1600.1.1  = { citysize = 6775 culture = russian }
+1650.1.1  = { citysize = 7234 religion = orthodox }
+1773.9.13  = { revolt = { type = anti_tax_rebels size = 1 name = "Yemelyan Pugachev" } controller = REB unrest = 6 } # Pugachev rebellion
+1775.2.1 = { revolt = {} controller = RUS unrest = 0 } # Pugachev is captured
+
+1850.1.1   = { citysize = 20000 remove_core = CRI }
+1922.12.30 = { owner = SOV controller = SOV add_core = SOV }
+1942.9.1   = { controller = GER }
+1943.1.31  = { controller = SOV }
+1991.12.25 = { owner = RUS controller = RUS remove_core = SOV  }
+
+
+

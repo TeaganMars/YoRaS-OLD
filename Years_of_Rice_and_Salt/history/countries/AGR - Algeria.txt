@@ -1,0 +1,105 @@
+government = constitutional_republic
+mercantilism = 0.1
+technology_group = muslim
+religion = sunni
+primary_culture = algerian
+capital = 338	# Algiers
+
+1962.7.3 = {
+	monarch = {
+		name = "Abderrahmane Farés"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1962.9.25 = {
+	monarch = {
+		name = "Ferhat Abbas"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1963.9.15 = {
+	monarch = {
+		name = "Ahmed Ben Bella"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1965.6.19 = {
+	monarch = {
+		name = "Houari Boumediene"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1978.12.27 = {
+	monarch = {
+		name = "Rabah Bitat"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1979.2.9 = {
+	monarch = {
+		name = "Chadli Bendjedid"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1992.1.11 = {
+	monarch = {
+		name = "Abdelmalek Benhabyles"
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+1992.1.14 = {
+	monarch = {
+		name = "Mohamed Boudiaf"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1992.7.2 = {
+	monarch = {
+		name = "Ali Kafi"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1994.1.31 = {
+	monarch = {
+		name = "Liamine Zéroual"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1999.4.27 = {
+	monarch = {
+		name = "Abdelaziz Bouteflika"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}

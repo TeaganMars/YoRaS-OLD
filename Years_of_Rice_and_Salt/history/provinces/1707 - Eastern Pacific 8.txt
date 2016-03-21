@@ -1,0 +1,6 @@
+#1707 - Clipperton Island
+
+1528.1.1 = { discovered_by = SPA }
+
+
+

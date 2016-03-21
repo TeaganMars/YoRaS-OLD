@@ -1,0 +1,255 @@
+government = tribal_despotism
+mercantilism = 0.1
+primary_culture = madagascan
+religion = animism
+technology_group = sub_saharan
+capital = 1792
+
+1810.7.6 = { government = despotic_monarchy }
+
+1810.7.6 = {
+	monarch = {
+		name = "Radama I"
+		dynasty = "Merina"
+		birth_date = 1793.1.1
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+
+1810.7.6 = {
+	heir = {
+		name = "Ranavalona"
+		monarch_name = "Ranavalona I"
+		dynasty = "Merina"
+		birth_date = 1778.1.1
+		death_date = 1861.8.16
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1828.7.27 = {
+	monarch = {
+		name = "Ranavalona I"
+		dynasty = "Merina"
+		birth_date = 1778.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1829.9.23 = {
+	heir = {
+		name = "Radama"
+		monarch_name = "Radama II"
+		dynasty = "Merina"
+		birth_date = 1829.9.23
+		death_date = 1863.5.12
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+1861.8.16 = {
+	monarch = {
+		name = "Radama II"
+		dynasty = "Merina"
+		birth_date = 1829.9.23
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+1861.8.16 = {
+	heir = {
+		name = "Rasoherina"
+		monarch_name = "Rasoherina"
+		dynasty = "Merina"
+		birth_date = 1814.4.1
+		death_date = 1868.4.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 5
+		female = yes
+	}
+}
+
+1863.5.12 = {
+	monarch = {
+		name = "Rasoherina"
+		dynasty = "Merina"
+		birth_date = 1814.4.1
+		adm = 1
+		dip = 0
+		mil = 5
+		female = yes
+	}
+}
+
+1863.5.12 = {
+	heir = {
+		name = "Ranavalona"
+		monarch_name = "Ranavalona II"
+		dynasty = "Merina"
+		birth_date = 1829.1.1
+		death_date = 1883.7.30
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 1
+		female = yes
+	}
+}
+
+1868.4.1 = {
+	monarch = {
+		name = "Ranavalona II"
+		dynasty = "Merina"
+		birth_date = 1829.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+		female = yes
+	}
+}
+
+1868.4.1 = {
+	heir = {
+		name = "Ranavalona"
+		monarch_name = "Ranavalona III"
+		dynasty = "Merina"
+		birth_date = 1861.11.22
+		death_date = 1917.5.23
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+		female = yes
+	}
+}
+
+1883.7.30 = {
+	monarch = {
+		name = "Ranavalona III"
+		dynasty = "Merina"
+		birth_date = 1861.11.22
+		adm = 2
+		dip = 2
+		mil = 3
+		female = yes
+	}
+}
+
+1897.2.28 = { government = constitutional_republic technology_group = muslim }
+1960.6.26 = { capital = 1792 }
+
+1960.7.26 = {
+	religion = secularism
+	monarch = {
+		name = "Philibert Tsiranana"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1972.10.11 = {
+	monarch = {
+		name = "Gabriel Ramanantsoa"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+1975.2.5 = {
+	monarch = {
+		name = "Richard Ratsimandrava"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1975.2.12 = {
+	monarch = {
+		name = "Gilles Andriamahazo"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1975.6.15 = {
+	monarch = {
+		name = "Didier Ratsiraka"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1993.3.27 = {
+	monarch = {
+		name = "Albert Zafy"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1996.9.5 = {
+	monarch = {
+		name = "Norbert Ratsirahonana"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1997.2.9 = {
+	monarch = {
+		name = "Didier Ratsiraka"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+2002.2.22 = {
+	monarch = {
+		name = "Marc Ravalomanana"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+2009.3.17 = {
+	monarch = {
+		name = "Andry Rajoelina"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+2014.1.25 = {
+	monarch = {
+		name = "Hery Rajaonarimampianina"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}

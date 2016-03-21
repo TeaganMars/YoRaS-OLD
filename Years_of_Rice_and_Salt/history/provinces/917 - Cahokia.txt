@@ -1,0 +1,86 @@
+#917 - Cahokia
+
+owner = ILL
+controller = ILL
+add_core = ILL
+is_city = yes
+culture = illini
+religion = totemism
+capital = "Cahokia"
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostileness = 0
+discovered_by = north_american
+
+1000.1.1 = { owner = MIS controller = MIS add_core = MIS remove_core = ILL }
+1380.1.1 = {	owner = XXX
+		controller = XXX
+		remove_core = MIS
+		citysize = 0
+		native_size = 10
+		native_ferocity = 1
+		native_hostileness = 0
+		trade_goods = unknown
+		base_tax = 1
+}
+
+1650.1.1  = {	owner = ILL
+		controller = ILL
+		add_core = ILL
+		is_city = yes }
+1670.1.1  = { discovered_by = FRA } # Robert Cavelier de La Salle
+1680.1.1  = { 	owner = IRO
+		controller = IRO
+		citysize = 100
+		culture = iroquois } #Taken by Iroquois in Beaver Wars.
+1699.1.1  = {	owner = FRA
+		controller = FRA
+		culture = cosmopolitan_french
+		religion = catholic
+		citysize = 450
+		trade_goods = fur
+	    } # Construction of Cahokia
+
+1728.1.1  = { add_core = FRA }
+1750.1.1  = { citysize = 980 }
+1751.1.1 = { base_tax = 2 base_production = 2 }
+1763.2.10 = {	owner = GBR
+		controller = GBR
+		remove_core = FRA
+	    } # Treaty of Paris, France gave up its claim to New France
+1763.3.1  = { unrest = 6 } # Native discontent with the British rule
+1763.5.1  = { unrest = 0 revolt = { type = nationalist_rebels size = 2 } controller = REB } # Pontiac's war
+1763.10.9 = {	revolt = {}
+		owner = ILL
+		controller = ILL
+		add_core = ILL
+		is_city = yes
+		culture = illini
+		religion = totemism
+	    } # Royal proclamation, Britan recognize native lands (as protectorates)
+1775.1.1 = { base_production = 3 base_manpower = 3 }
+1801.1.1 = { base_manpower = 5 }
+1803.7.4  = {	add_core = USA }
+1813.10.5 = {	owner = USA
+		controller = USA
+		culture = american
+		religion = protestant } #The death of Tecumseh mark the end of organized native resistance east of teh Mississippi
+
+1825.1.1 = { base_tax = 3 base_production = 5 }
+1835.1.1   = { capital = "Peoria" }
+
+
+
+
+1850.1.1 = { base_production = 7 }
+1875.1.1 = { base_production = 8 base_manpower = 7 }
+1900.1.1 = { base_production = 10 base_manpower = 8 }
+1925.1.1 = { base_production = 12 }
+1950.1.1 = { base_manpower = 11 }
+1975.1.1 = { base_tax = 6 }
+2000.1.1 = { base_tax = 12 }

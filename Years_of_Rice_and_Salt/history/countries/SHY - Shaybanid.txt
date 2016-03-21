@@ -1,0 +1,50 @@
+government = steppe_horde
+mercantilism = 0.1
+technology_group = western_nomad_group
+religion = sunni
+primary_culture = uzbehk
+capital = 476	# Orda-Bazar
+
+750.1.1 = { technology_group = nomad_group }
+
+1425.1.1 = { 
+	monarch = { 
+		name = "Abu'l-Khayr" 
+		dynasty = "Shaybanid"
+		dip = 2 
+		adm = 4
+		mil = 5
+	}
+}
+
+1446.1.1 = { capital = 1970 } # moved to Syghnak
+
+1468.1.1 = { 
+	monarch = { 
+		name = "Yadgar" 
+		dynasty = "Shaybanid"
+		dip = 1 
+		adm = 1 
+		mil = 1
+	}	
+} 
+
+1469.1.1 = { 
+	monarch = { 
+		name = "Haydar" 
+		dynasty = "Shaybanid"
+		dip = 1 
+		adm = 1 
+		mil = 2 
+	}	
+} 
+
+1471.1.1 = { 
+	monarch = { 
+		name = "Muhammad"
+		dynasty = "Shaybanid"
+		dip = 3
+		adm = 3
+		mil = 6
+	}
+} 

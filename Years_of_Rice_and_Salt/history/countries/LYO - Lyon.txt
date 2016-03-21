@@ -1,0 +1,16 @@
+government = theocratic_government
+government_rank = 1
+#aristocracy_plutocracy = -4
+#centralization_decentralization = 3
+#innovative_narrowminded = 3
+#mercantilism_freetrade = -2
+mercantilism = 0.1
+#offensive_defensive = 2
+#land_naval = -2
+#quality_quantity = -1
+#serfdom_freesubjects = -2
+primary_culture = cosmopolitan_french
+religion = catholic
+technology_group = western
+capital = 203	# Lyon
+

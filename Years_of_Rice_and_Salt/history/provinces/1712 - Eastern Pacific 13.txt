@@ -1,0 +1,6 @@
+#1712 - South Equatorial Pacific Current
+
+1534.1.1 = { discovered_by = SPA }
+
+
+

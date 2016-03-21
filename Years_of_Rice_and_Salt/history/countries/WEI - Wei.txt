@@ -1,0 +1,292 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = -2
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -3
+#quality_quantity = 0
+#serfdom_freesubjects = -4
+technology_group = early_chinese
+religion = confucianism
+primary_culture = chihan
+capital = 694 # Luoyang
+
+220.1.1 = {
+	monarch = {
+		name = "Cao Cao"
+		dynasty = "Wei"
+		birth_date = 155.1.1
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+}
+
+220.1.1 = {
+	heir = {
+		name = "Cao Pi"
+		monarch_name = "Cao Pi"
+		dynasty = "Wei"
+		birth_date = 187.1.1
+		death_date = 226.6.29
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+220.3.16 = {
+	monarch = {
+		name = "Cao Pi"
+		dynasty = "Wei"
+		birth_date = 187.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+220.3.16 = {
+	heir = {
+		name = "Cao Rui"
+		monarch_name = "Cao Rui"
+		dynasty = "Wei"
+		birth_date = 205.1.1
+		death_date = 239.1.23
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+226.6.29 = {
+	monarch = {
+		name = "Cao Rui"
+		dynasty = "Wei"
+		birth_date = 205.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+232.1.1 = {
+	heir = {
+		name = "Cao Fang"
+		monarch_name = "Cao Fang"
+		dynasty = "Wei"
+		birth_date = 232.1.1
+		death_date = 255.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}
+
+239.1.23 = {
+	monarch = {
+		name = "Cao Fang"
+		dynasty = "Wei"
+		birth_date = 232.1.1
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}
+
+241.1.1 = {
+	heir = {
+		name = "Cao Mao"
+		monarch_name = "Cao Mao"
+		dynasty = "Wei"
+		birth_date = 241.1.1
+		death_date = 260.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+255.1.1 = {
+	monarch = {
+		name = "Cao Mao"
+		dynasty = "Wei"
+		birth_date = 241.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+255.1.1 = {
+	heir = {
+		name = "Cao Huan"
+		monarch_name = "Cao Huan"
+		dynasty = "Wei"
+		birth_date = 246.1.1
+		death_date = 303.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+260.1.1 = {
+	monarch = {
+		name = "Cao Huan"
+		dynasty = "Wei"
+		birth_date = 246.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+386.1.1 = {
+	monarch = {
+		name = "Daowu"
+		dynasty = "Wei"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+409.11.10 = {
+	monarch = {
+		name = "Mingyuan"
+		dynasty = "Wei"
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+}
+
+423.12.23 = {
+	monarch = {
+		name = "Taiwu"
+		dynasty = "Wei"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+452.3.11 = {
+	monarch = {
+		name = "Tuoba Yu"
+		dynasty = "Wei"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+452.10.31 = {
+	monarch = {
+		name = "Wencheng"
+		dynasty = "Wei"
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+465.6.20 = {
+	monarch = {
+		name = "Xianwen"
+		dynasty = "Wei"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+471.9.20 = {
+	monarch = {
+		name = "Xiaowen"
+		dynasty = "Wei"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+499.4.26 = {
+	monarch = {
+		name = "Xuanwu"
+		dynasty = "Wei"
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+}
+
+515.2.9 = {
+	monarch = {
+		name = "Xiaoming"
+		dynasty = "Wei"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+528.3.31 = {
+	monarch = {
+		name = "Yuan Zhao"
+		dynasty = "Wei"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+528.5.17 = {
+	monarch = {
+		name = "Xiaozhuang"
+		dynasty = "Wei"
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+530.1.1 = {
+	monarch = {
+		name = "Yuan Ye"
+		dynasty = "Wei"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+531.1.1 = {
+	monarch = {
+		name = "Jiemin"
+		dynasty = "Wei"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+532.6.21 = {
+	monarch = {
+		name = "Xiaowu"
+		dynasty = "Wei"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+750.1.1 = { technology_group = chinese }

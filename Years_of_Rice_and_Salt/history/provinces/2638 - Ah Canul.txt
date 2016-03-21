@@ -1,0 +1,37 @@
+#2638 - Ah Canul
+
+culture = yucatec
+owner = CAL
+controller = CAL
+add_core = CAL
+is_city = yes
+religion = mesoamerican_religion
+capital = "Jaina"
+trade_goods = cocoa
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+add_local_autonomy = 25
+discovered_by = mesoamerican
+
+800.1.1 = { owner = ITZ controller = ITZ add_core = ITZ remove_core = CAL }
+930.1.1 = { owner = TLT controller = TLT add_core = TLT }
+970.1.1 = { owner = ITZ controller = ITZ add_core = ITZ remove_core = TLT }
+987.1.1 = { owner = MAY controller = MAY add_core = MAY remove_core = ITZ capital = "Ah Canul" }
+1441.1.1 = { owner = XIU controller = XIU add_core = XIU }
+
+1542.1.23  = {	discovered_by = SPA
+		owner = SPA
+		controller = SPA
+		culture = castillian
+		religion = catholic
+	    } # the lord of Mani submits peacefully to the Spanish and converts
+1567.1.1  = { add_core = SPA }
+1810.9.16  = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+
+1821.9.27  = { controller = MEX remove_core = SPA }
+1850.1.1   = { capital = "Progreso" }
+
+
+

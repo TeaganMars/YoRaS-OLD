@@ -1,0 +1,7 @@
+#1512 - Yucatan Channel
+
+discovered_by = MAY
+1517.1.1 = { discovered_by = SPA }
+
+
+

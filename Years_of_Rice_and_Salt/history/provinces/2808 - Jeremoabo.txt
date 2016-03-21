@@ -1,0 +1,33 @@
+#2808 - Jeremoabo
+
+culture = ge
+religion = south_american
+capital = "Jeremoabo"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 3
+base_manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostileness = 7
+discovered_by = south_american
+
+1500.4.23 = { discovered_by = POR } # Pedro Álvares Cabral
+1625.1.1 = {
+	owner = POR
+	controller = POR
+	add_core = POR
+	citysize = 400
+	religion = catholic
+	culture = portugese
+	trade_goods = tropical_wood
+}
+1650.1.1  = { is_city = yes }
+
+1822.9.7   = { owner = BRZ add_core = BRZ controller = BRZ remove_core = POR }
+
+
+
+1825.1.1 = { base_manpower = 2 }
+2000.1.1 = { base_tax = 3 }

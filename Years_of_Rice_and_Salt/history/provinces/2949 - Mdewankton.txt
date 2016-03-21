@@ -1,0 +1,48 @@
+#2949 - Mdewakanton
+
+owner = SIO
+controller = SIO
+add_core = SIO
+is_city = yes
+culture = dakota
+religion = totemism
+capital = "Mdewakanton"
+trade_goods = fur
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1664.1.1  = { discovered_by = ENG }
+1710.1.1 = {	owner = OJI
+		controller = OJI
+		add_core = OJI
+		is_city = yes
+		culture = anishinabe } #Ojibwe push Sioux westward.
+1750.1.1 = { base_production = 2 base_manpower = 6 }
+1763.2.10 = { discovered_by = GBR }
+1775.1.1 = { base_production = 5 base_manpower = 9 }
+1800.1.1 = { base_tax = 2 base_production = 9 base_manpower = 10 }
+1813.10.5 = {	owner = USA
+		controller = USA
+		add_core = USA
+		culture = american
+		religion = protestant } #The death of Tecumseh mark the end of organized native resistance 
+
+1825.1.1 = { base_tax = 3 base_production = 13 base_manpower = 11 }
+1851.1.1 = { base_tax = 6 base_production = 14 base_manpower = 13 }
+1854.3.4   = { capital = "Saint Paul" }
+1875.1.1 = { base_tax = 8 base_production = 17 base_manpower = 14 }
+1901.1.1 = { base_tax = 9 base_production = 20 base_manpower = 16 }
+1925.1.1 = { base_production = 22 base_manpower = 20 }
+1951.1.1 = { base_tax = 12 base_production = 23 base_manpower = 22 }
+1975.1.1 = { base_production = 27 base_manpower = 25 }
+2000.1.1 = { base_tax = 26 base_manpower = 26 }
+
+
+
+

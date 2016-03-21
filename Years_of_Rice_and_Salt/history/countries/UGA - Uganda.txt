@@ -1,0 +1,126 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -5
+#centralization_decentralization = 5
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -5
+#quality_quantity = 2
+#serfdom_freesubjects = -5
+primary_culture = eastern_bantu
+religion = catholic
+technology_group = muslim
+capital = 2036
+
+1910.1.1 = { religion = secularism }
+
+1962.10.9 = {
+	monarch = {
+		name = "(vacant)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1963.10.9 = {
+	monarch = {
+		name = "Frederick Edward Mutesa II"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1966.4.15 = {
+	monarch = {
+		name = "Milton Obote"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1971.1.25 = {
+	monarch = {
+		name = "Idi Amin Dada"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1979.4.13 = {
+	monarch = {
+		name = "Yusuf Kironde Lule"
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+}
+
+1979.6.20 = {
+	monarch = {
+		name = "Godfrey Lukongwa Binaisa"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1980.5.12 = {
+	monarch = {
+		name = "Paulo Muwaga"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1980.5.22 = {
+	monarch = {
+		name = "Presidential Commission"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1980.12.17 = {
+	monarch = {
+		name = "Milton Obote"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1985.7.27 = {
+	monarch = {
+		name = "Bazilio Olara-Okello"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1985.7.29 = {
+	monarch = {
+		name = "Tito Okello"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1986.1.26 = {
+	monarch = {
+		name = "Yoweri Kaguta Museveni"
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+}

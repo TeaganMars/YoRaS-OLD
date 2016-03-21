@@ -1,0 +1,32 @@
+#3020 - Sikumiut
+
+culture = inuit
+religion = shamanism
+capital = "Sikumiut"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1771.1.1 = {
+	discovered_by = GBR
+	owner = GBR
+	controller = GBR
+	culture = english
+	religion = protestant
+	citysize = 100
+} #  Nain Mission
+1782.1.1 = { capital = "Hopedale" }
+1796.7.13 = { add_core = GBR citysize = 680 trade_goods = fish }
+1800.1.1 = { is_city = yes }
+
+1949.3.31  = { owner = CAN controller = CAN add_core = CAN remove_core = GBR }
+
+
+
+

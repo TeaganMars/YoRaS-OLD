@@ -1,0 +1,350 @@
+government = barbarian_tribe
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -3
+#land_naval = -3
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = swabian
+religion = germanic
+technology_group = barbarian
+capital = 67
+
+2.1.1 = {
+	monarch = {
+		name = "Adgandestrius"
+		dynasty = "Chatti"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+80.1.1 = {
+	monarch = {
+		name = "Masyus"
+		dynasty = "Semnone"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+160.1.1 = {
+	monarch = {
+		name = "(regency council)"
+		regent = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+409.6.1 = {
+	primary_culture = galician
+	capital = 231 #Bragara Augusta
+	monarch = {
+		name = "Hermeric"
+		dynasty = "Suebi"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+409.6.1 = {
+	heir = {
+		name = "Rechila"
+		monarch_name = "Rechila"
+		dynasty = "Suebi"
+		birth_date = 408.1.1
+		death_date = 448.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+438.1.1 = {
+	monarch = {
+		name = "Rechila"
+		dynasty = "Suebi"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+438.1.1 = {
+	heir = {
+		name = "Rechiar"
+		monarch_name = "Rechiar"
+		dynasty = "Suebi"
+		birth_date = 418.1.1
+		death_date = 456.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+448.1.1 = {
+	monarch = {
+		name = "Rechiar"
+		dynasty = "Suebi"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+448.1.1 = {
+	heir = {
+		name = "Aioulf"
+		monarch_name = "Aioulf"
+		dynasty = "Suebi"
+		birth_date = 426.1.1
+		death_date = 457.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+456.1.1 = {
+	monarch = {
+		name = "Aioulf"
+		dynasty = "Suebi"
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+456.1.1 = {
+	heir = {
+		name = "Richimund"
+		monarch_name = "Richimund"
+		dynasty = "Suebi"
+		birth_date = 427.1.1
+		death_date = 464.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+457.1.1 = {
+	monarch = {
+		name = "Richimund"
+		dynasty = "Suebi"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+457.1.1 = {
+	heir = {
+		name = "Hermeneric"
+		monarch_name = "Hermeneric"
+		dynasty = "Suebi"
+		birth_date = 434.1.1
+		death_date = 490.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+464.1.1 = {
+	monarch = {
+		name = "Hermeneric"
+		dynasty = "Suebi"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+464.1.1 = {
+	heir = {
+		name = "Veremund"
+		monarch_name = "Veremund"
+		dynasty = "Suebi"
+		birth_date = 460.1.1
+		death_date = 520.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+466.1.1 = { religion = arianism }
+
+477.1.1 = { government = feudal_monarchy }
+
+490.1.1 = {
+	monarch = {
+		name = "Veremund"
+		dynasty = "Suebi"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+490.1.1 = {
+	heir = {
+		name = "Theodemund"
+		monarch_name = "Theodemund"
+		dynasty = "Suebi"
+		birth_date = 490.1.1
+		death_date = 550.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+520.1.1 = {
+	monarch = {
+		name = "Theodemund"
+		dynasty = "Suebi"
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+520.1.1 = {
+	heir = {
+		name = "Chararic"
+		monarch_name = "Chararic"
+		dynasty = "Suebi"
+		birth_date = 520.1.1
+		death_date = 558.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+
+550.1.1 = {
+	monarch = {
+		name = "Chararic"
+		dynasty = "Suebi"
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+
+550.1.1 = {
+	heir = {
+		name = "Ariamir"
+		monarch_name = "Ariamir"
+		dynasty = "Suebi"
+		birth_date = 528.1.1
+		death_date = 561.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+}
+
+558.1.1 = {
+	monarch = {
+		name = "Ariamir"
+		dynasty = "Suebi"
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+}
+
+558.1.1 = {
+	heir = {
+		name = "Theodemar"
+		monarch_name = "Theodemar"
+		dynasty = "Suebi"
+		birth_date = 531.1.1
+		death_date = 570.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+561.1.1 = {
+	monarch = {
+		name = "Theodemar"
+		dynasty = "Suebi"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+561.1.1 = {
+	heir = {
+		name = "Miro"
+		monarch_name = "Miro"
+		dynasty = "Suebi"
+		birth_date = 540.1.1
+		death_date = 583.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+561.5.1 = { religion = chalcedonism }
+
+570.1.1 = {
+	monarch = {
+		name = "Miro"
+		dynasty = "Suebi"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+570.1.1 = {
+	heir = {
+		name = "Eboric"
+		monarch_name = "Eboric"
+		dynasty = "Suebi"
+		birth_date = 553.1.1
+		death_date = 584.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+583.1.1 = {
+	monarch = {
+		name = "Eboric"
+		dynasty = "Suebi"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

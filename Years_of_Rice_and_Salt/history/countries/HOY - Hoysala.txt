@@ -1,0 +1,126 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = kannada
+religion = hinduism
+technology_group = early_indian
+capital = 2214	# Halebidu
+
+750.1.1 = { technology_group = indian }
+
+1026.1.1 = {
+	monarch = {
+		name = "Nripa Kama II"
+		dynasty = "Hoysala"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1047.1.1 = {
+	monarch = {
+		name = "Hoysala Vinayaditya"
+		dynasty = "Hoysala"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1098.1.1 = {
+	monarch = {
+		name = "Ereyanga"
+		dynasty = "Hoysala"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1102.1.1 = {
+	monarch = {
+		name = "Veera Ballala I"
+		dynasty = "Hoysala"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1108.1.1 = {
+	monarch = {
+		name = "Vishnuvardhana"
+		dynasty = "Hoysala"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1152.1.1 = {
+	monarch = {
+		name = "Narasimha I"
+		dynasty = "Hoysala"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1173.1.1 = {
+	monarch = {
+		name = "Veera Ballala II"
+		dynasty = "Hoysala"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1220.1.1 = {
+	monarch = {
+		name = "Vira Narasimha II"
+		dynasty = "Hoysala"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1235.1.1 = {
+	monarch = {
+		name = "Vira Someshwara"
+		dynasty = "Hoysala"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1254.1.1 = {
+	monarch = {
+		name = "Narasimha III"
+		dynasty = "Hoysala"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1292.1.1 = {
+	monarch = {
+		name = "Veera Ballala III"
+		dynasty = "Hoysala"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}

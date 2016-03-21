@@ -1,0 +1,96 @@
+government = constitutional_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = bedouin_arabic
+religion = sunni
+technology_group = muslim
+capital = 381	# Amman
+
+1946.5.25 = {
+	monarch = {
+		name = "Abdullah I"
+		dynasty = "Hashemite"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1946.5.25 = {
+	heir = {
+		name = "Talal"
+		monarch_name = "Talal I"
+		dynasty = "Hashemite"
+		birth_Date = 1909.2.26
+		death_date = 1972.7.7
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1951.7.20 = {
+	monarch = {
+		name = "Talal I"
+		dynasty = "Hashemite"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1951.7.20 = {
+	heir = {
+		name = "Hussein"
+		monarch_name ="Hussein"
+		dynasty = "Hashemite"
+		birth_Date = 1935.11.14
+		death_Date = 1999.2.7
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1952.8.11 = {
+	monarch = {
+		name = "Hussein"
+		dynasty = "Hashemite"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1962.1.30 = {
+	heir = {
+		name = "Abdullah"
+		monarch_name = "Abdullah II"
+		dynasty = "Hashemite"
+		birth_Date = 1962.1.30
+		death_Date = 3000.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1999.2.7 = {
+	monarch = {
+		name = "Abdullah II"
+		dynasty = "Hashemite"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}

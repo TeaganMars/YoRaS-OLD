@@ -1,0 +1,36 @@
+government = tribal_federation
+mercantilism = 0.1
+technology_group = eastern
+religion = slavic
+primary_culture = ruthenian
+capital = 280
+
+700.1.1 = {
+	monarch = {
+		name = "Kyi"
+		dynasty = "Kyi"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+750.1.1 = {
+	monarch = {
+		name = "Oleg"
+		dynasty = "Kyi"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+800.1.1 = {
+	monarch = {
+		name = "Bravlin"
+		dynasty = "Kyi"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}

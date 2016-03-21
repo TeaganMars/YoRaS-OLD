@@ -1,0 +1,27 @@
+#3043 - Secwepemc
+
+culture = athabascan
+religion = totemism
+capital = "Secwepemc"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1811.1.1 = { 	discovered_by = GBR
+		owner = GBR
+		controller = GBR
+		citysize = 500
+		culture = english
+		religion = protestant 
+		trade_goods = grain } #"Boat Encampment", major resupply point on the canoe routes
+
+1862.1.1   = { capital = "100 Mile House" is_city = yes add_core = GBR }
+1871.7.20  = { owner = CAN add_core = CAN controller = CAN remove_core = GBR }
+
+

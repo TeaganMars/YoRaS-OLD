@@ -1,0 +1,20 @@
+name = "Ayyubid Conquest of Jerusalem"
+
+war_goal = {
+	type = superiority_crusade
+	casus_belli = cb_crusade
+}
+
+1182.9.29 = {
+	add_attacker = AYY
+	add_defender = KOJ
+	add_defender = TPL
+	add_defender = ANT
+}
+
+1187.10.2 = {
+	rem_attacker = AYY
+	rem_defender = KOJ
+	rem_defender = TPL
+	rem_defender = ANT
+}

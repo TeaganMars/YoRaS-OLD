@@ -1,0 +1,29 @@
+#2749 - Chubut
+
+culture = patagonian
+religion = south_american
+capital = "Chubut"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 2
+native_hostileness = 9
+discovered_by = south_american
+
+1561.3.2  = {	discovered_by = SPA }
+
+1884.1.1  = {	owner = LAP
+		controller = LAP
+		add_core = LAP 
+		is_city = yes
+		culture = castillian
+		religion = catholic
+		trade_goods = grain
+	    } # Conquista del desierto
+1906.2.25 = { capital = "Esquel" }
+
+
+

@@ -1,0 +1,115 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = 3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = senegambian
+religion = sunni
+technology_group = muslim
+capital = 1114
+
+1910.1.1 = { religion = secularism }
+
+1973.9.24 = {
+	monarch = {
+		name = "Luis Cabral"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1980.11.14 = {
+	monarch = {
+		name = "João Bernardo Vieira"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1999.5.14 = {
+	monarch = {
+		name = "Malam Bacai Sanhá"
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+
+2000.2.17 = {
+	monarch = {
+		name = "Kumba Ialá"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+2003.9.28 = {
+	monarch = {
+		name = "Henrique Rosa"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2005.10.1 = {
+	monarch = {
+		name = "João Bernardo Vieira"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+2009.9.8 = {
+	monarch = {
+		name = "Malam Bacai Sanhá"
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+
+2012.1.9 = {
+	monarch = {
+		name = "Raimundo Pereira"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+2012.4.12 = {
+	monarch = {
+		name = "Mamadu Ture Kuruma"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+2012.5.11 = {
+	monarch = {
+		name = "Manuel Serifo Nhamadjo"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+2014.6.23 = {
+	monarch = {
+		name = "José Mário Vaz"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}

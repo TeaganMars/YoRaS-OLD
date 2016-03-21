@@ -1,0 +1,54 @@
+#869 - Salinan
+
+culture = piman
+religion = totemism
+capital = "Salinan" 
+trade_goods = unknown 
+hre = no 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5 
+native_ferocity = 1 
+native_hostileness = 3 
+discovered_by = north_american
+
+1542.1.1   = { discovered_by = SPA } # Juan Rodríguez Cabrillo
+1579.6.16  = { discovered_by = ENG } # Sir Francis Drake
+1707.5.12  = { discovered_by = GBR }
+1750.1.1 = { base_tax = 2 base_manpower = 3 }
+1770.1.1 = {	owner = SPA
+	controller = SPA
+	citysize = 355
+	trade_goods = wool 
+	capital = "Salinas"
+} # Don Gaspar de Portolá
+1775.1.1 = { base_tax = 3 base_production = 2 base_manpower = 4 }
+1792.1.1 = { is_city = yes } # British settlement, Yerba Buena (San Francisco) founded by George Vancouver
+1795.1.1 = {
+	culture = castillian
+	religion = catholic
+	add_core = SPA
+}
+1801.1.1 = { base_production = 5 }
+1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+
+1821.9.27  = { controller = MEX remove_core = SPA }
+1825.1.1 = { base_tax = 4 base_production = 6 base_manpower = 5 }
+1846.8.13  = { controller = USA }
+1848.2.2   = { 	owner = USA 
+		add_core = USA 
+		remove_core = MEX 
+		culture = american
+	     } # Treaty of Guadalupe Hidalgo
+1851.1.1 = { base_production = 8 base_manpower = 6 }
+1875.1.1 = { base_tax = 5 base_production = 10 base_manpower = 7 }
+1901.1.1 = { base_tax = 6 base_production = 11 base_manpower = 8 }
+1925.1.1 = { base_tax = 7 base_production = 13 }
+1951.1.1 = { base_tax = 8 base_production = 14 base_manpower = 9 }
+1975.1.1 = { base_manpower = 12 }
+2000.1.1 = { base_tax = 14 base_manpower = 13 }
+
+
+
+

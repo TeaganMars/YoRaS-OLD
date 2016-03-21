@@ -1,0 +1,53 @@
+#609 - Angkor
+
+owner = FUN
+controller = FUN
+culture = khmer
+religion = mahayana
+trade_goods = tropical_wood
+capital = "Isanapura"
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+add_core = FUN
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = early_indian
+discovered_by = indian
+
+550.1.1 = { owner = CNA controller = CNA add_core = CNA remove_core = FUN }
+600.1.1 = { base_tax = 4 base_production = 4 }
+800.1.1 = { base_tax = 5 base_production = 5 capital = "Hariharalaya" }
+802.1.1 = { owner = KHM controller = KHM add_core = KHM remove_core = CNA }
+900.1.1 = { citysize = 9000 capital = "Yasodharapura" }
+1150.1.1 = { capital = "Angkor" } # Angkor Wat
+1295.1.1 = { religion = buddhism }
+
+1500.1.1 = { religion = mahayana }
+1535.1.1 = { discovered_by = POR }
+1594.1.1 = {
+	owner = AYU
+	controller = AYU
+	add_core = AYU
+}
+1600.1.1 = { capital = "Siem Riep" }
+1767.1.1 = {
+	owner = KHM
+	controller = KHM
+}
+1795.1.1 = {
+	owner = AYU
+	controller = AYU
+}
+1811.1.1 = { unrest = 5 } # The Siamese-Cambodian Rebellion
+1812.1.1 = { unrest = 0 }
+
+1907.1.1   = { owner = FR2 controller = FR2 add_core = FR2 add_core = CMB remove_core = KHM remove_core = AYU }
+1941.7.1   = { controller = JAP }
+1945.8.23  = { controller = FR2 }
+1953.11.9  = { owner = CMB controller = CMB remove_core = FR2 }
+
+
+

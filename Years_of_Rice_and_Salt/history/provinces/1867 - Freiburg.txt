@@ -1,0 +1,70 @@
+#1867 - Vaud
+
+owner = ROM
+controller = ROM
+culture = helvetian
+religion = druidism
+capital = "Geneva"
+trade_goods = wool
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = eastern
+discovered_by = roman_group
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+
+380.1.1 = { religion = chalcedonism }
+395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+443.1.1 = { owner = BUR controller = BUR add_core = BUR culture = burgundione }
+480.6.1 = { remove_core = ROW }
+486.6.1 = { culture = burgundian }
+500.1.1 = { base_tax = 2 base_production = 2 }
+534.1.1 = { owner = FRK controller = FRK add_core = FRK }
+700.1.1 = { base_manpower = 2 culture = arpitan }
+840.6.21 = { owner = FRM controller = FRM add_core = FRM remove_core = FRK }
+855.9.30 = { owner = LOT controller = LOT add_core = LOT remove_core = FRM }
+867.1.1 = { religion = catholic }
+870.8.8  = { owner = ITA controller = ITA add_core = ITA remove_core = LOT }
+888.1.1  = { owner = BUR controller = BUR add_core = BUR remove_core = ITA }
+900.1.1  = { base_tax = 3 base_production = 3 capital = "Lausanne" }
+1032.1.1 = { hre = yes }
+1050.1.1 = { base_manpower = 3 }
+1200.1.1 = { base_tax = 4 base_production = 4 }
+1218.1.1 = { owner = SAV controller = SAV add_core = SAV remove_core = BUR }
+
+1444.1.1  = { add_core = SWI }
+1499.1.1 = { owner = FRA controller = FRA add_core = FRA } 
+1513.7.3  = { unrest = 7 } # Luzern Peasant War
+1515.1.1  = { unrest = 0 }
+1529.1.1 = { owner = SAV controller = SAV } 
+1536.1.1  = { owner = SWI controller = SWI religion = reformed } #By 1536 the area was completely annexed. Calvin Debate in the Cathedral of Lausanne.
+1564.10.30 = { remove_core = SAV } # Savoy officially ceded Vaud to Bern in the treaty of Lausanne of 30 October 1564.
+1653.1.1  = { unrest = 5 } # Peasant rebellion against overtaxation
+1654.1.1  = { unrest = 0 }
+1656.1.1  = { unrest = 7 } # Protestants are expelled from Schwyz which lead to the First War of Villmergen
+1657.1.1  = { unrest = 2 } # An agreement is concluded at Villmergren but tensions remain
+1745.1.1  = {   }
+1751.1.1 = { base_tax = 5 base_manpower = 4 }
+1775.1.1 = { base_production = 5 base_manpower = 5 }
+1801.1.1 = { base_tax = 7 base_manpower = 6 }
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+
+1825.1.1 = { base_production = 6 base_manpower = 7 }
+1850.1.1 = { base_tax = 8 base_manpower = 9 }
+1860.1.1  = { culture = swiss }
+
+
+
+1875.1.1 = { base_manpower = 11 }
+1900.1.1 = { base_tax = 9 base_production = 7 }
+1925.1.1 = { base_tax = 10 base_production = 8 base_manpower = 12 }
+1950.1.1 = { base_tax = 12 }
+1975.1.1 = { base_tax = 14 base_production = 9 }
+2000.1.1 = { base_production = 14 }

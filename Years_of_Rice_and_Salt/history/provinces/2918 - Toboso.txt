@@ -1,0 +1,49 @@
+#2918 - Toboso
+
+owner = MOG
+controller = MOG
+add_core = MOG
+is_city = yes
+culture = piman
+religion = totemism
+capital = "Toboso"
+trade_goods = unknown 
+hre = no 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = north_american
+
+1370.1.1 = { 	owner = XXX
+		controller = XXX
+		remove_core = MOG
+		citysize = 0
+		trade_goods = unknown
+		native_size = 5 
+		native_ferocity = 1 
+		native_hostileness = 2
+	   }
+
+1540.1.1   = {	discovered_by = SPA    } # Francisco Vásquez de Coronado
+1567.1.1   = {
+		owner = SPA
+		controller = SPA
+		citysize = 400
+		religion = catholic 
+		culture = castillian
+		capital = "Santa Barbara"
+		trade_goods = wool 
+	     } # Francisco de Ibarra 
+1594.1.1   = { add_core = SPA is_city = yes }
+1800.1.1 = { base_production = 2 }
+1810.9.16  = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+
+1821.9.27  = { controller = MEX remove_core = SPA }
+1847.3.1   = { controller = USA }
+1848.2.2   = { controller = MEX } # Treaty of Guadalupe Hidalgo
+
+
+
+
+1875.1.1 = { base_tax = 2 }
+2000.1.1 = { base_tax = 3 base_manpower = 2 }

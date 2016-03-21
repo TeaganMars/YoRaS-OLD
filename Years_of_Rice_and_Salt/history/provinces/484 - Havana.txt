@@ -1,0 +1,59 @@
+#484 - Havana
+
+culture = arawak
+religion = animism
+capital = "Havana"
+trade_goods = unknown
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 5
+
+2.1.1 = {
+		add_permanent_province_modifier = {
+			name = center_of_trade_modifier
+			duration = -1
+		}
+}
+
+1492.10.24 = { discovered_by = CAS } # Christopher Columbus's arrival
+1515.1.1   = {	owner = CAS 
+		controller = CAS
+		culture = castillian
+		religion = catholic
+	   	citysize = 600
+		trade_goods = tobacco
+	     } # Founded by Diego Velázquez de Cuéllar
+1516.1.23  = {	discovered_by = SPA
+		owner = SPA
+		controller = SPA
+	     }
+1517.1.1   = { add_core = SPA }
+1522.1.1   = { unrest = 2 } # Guama lead a relatively small attack against the conquistadors 
+1532.1.1   = { unrest = 0 } # Guama is killed 
+1550.1.1   = { is_city = yes } 
+1751.1.1 = { base_tax = 6 base_manpower = 2 }
+1762.8.12  = { controller = GBR } # Seized by Great Britain in the Seven years' war 
+1763.1.1   = { citysize = 36400 } # Port opened to free trade, thousands of slaves was brought in 
+1763.2.10  = { controller = SPA } # Exchanged for Florida, made it the most heavily fortified city in the Americas 
+1775.1.1 = { base_tax = 7 base_manpower = 4 }
+
+1801.1.1 = { base_tax = 8 base_production = 6 }
+1825.1.1 = { base_tax = 9 base_manpower = 6 }
+1851.1.1 = { base_tax = 10 base_manpower = 7 }
+1868.10.10 = { add_core = CUB revolt = { type = nationalist_rebels size = 2 } controller = REB }
+1875.1.1 = { base_tax = 11 base_manpower = 9 }
+1878.1.1   = { revolt = {} controller = SPA }
+1898.4.25  = { owner = CUB controller = CUB }
+1898.8.12  = { remove_core = SPA }
+1901.1.1 = { base_tax = 12 base_production = 7 base_manpower = 10 }
+1925.1.1 = { base_production = 8 base_manpower = 11 }
+1950.1.1 = { base_production = 11 }
+1975.1.1 = { base_production = 12 base_manpower = 12 }
+2000.1.1 = { base_tax = 14 base_production = 13 base_manpower = 15 }
+
+
+

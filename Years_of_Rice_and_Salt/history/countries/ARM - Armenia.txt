@@ -1,0 +1,673 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = armenian
+religion = hellenism
+technology_group = middle_eastern
+capital = 419	# Yerevan
+
+2.1.1 = {
+	monarch = {
+		name = "Ariobarzanes"
+		dynasty = "Artaxiad"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+4.1.1 = {
+	monarch = {
+		name = "Artavasdes III"
+		dynasty = "Artaxiad"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+6.1.1 = {
+	monarch = {
+		name = "Tigranes V"
+		dynasty = "Artaxiad"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+12.1.1 = {
+	monarch = {
+		name = "Vonones I"
+		dynasty = "Arsacid"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+18.1.1 = {
+	monarch = {
+		name = "Artaxias III"
+		dynasty = "Pythodoros"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+35.1.1 = {
+	monarch = {
+		name = "Mithridates I"
+		dynasty = "Pharnavazid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+37.1.1 = {
+	monarch = {
+		name = "Orodes I"
+		dynasty = "Orodid"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+42.1.1 = {
+	monarch = {
+		name = "Mithridates I"
+		dynasty = "Pharnavazid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+51.1.1 = {
+	monarch = {
+		name = "Rhadamistus"
+		dynasty = "Pharnavazid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+53.1.1 = {
+	monarch = {
+		name = "Tiridates I"
+		dynasty = "Arsacid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+53.6.1 = {
+	monarch = {
+		name = "Rhadamistus"
+		dynasty = "Pharnavazid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+54.6.1 = {
+	monarch = {
+		name = "Tiridates I"
+		dynasty = "Arsacid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+75.1.1 = {
+	monarch = {
+		name = "Sanatruk"
+		dynasty = "Arsacid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+110.1.1 = {
+	monarch = {
+		name = "Axidares"
+		dynasty = "Arsacid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+110.8.1 = {
+	monarch = {
+		name = "Parthamasiris"
+		dynasty = "Arsacid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+300.1.1 = { religion = chalcedonism }
+600.1.1 = { technology_group = eastern }
+653.1.1 = { religion = sunni }
+
+653.1.1 = {
+	monarch = {
+		name = "Al-As'ath"
+		dynasty = "Kindid"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+680.1.1 = {
+	monarch = {
+		name = "Muhallab"
+		dynasty = "Kindid"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+695.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Umayyad"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+706.1.1 = {
+	monarch = {
+		name = "Abd al-Aziz"
+		dynasty = "Bahilid"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+709.1.1 = {
+	monarch = {
+		name = "Maslamah"
+		dynasty = "Umayyad"
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+721.1.1 = {
+	monarch = {
+		name = "Al-Djarrah"
+		dynasty = "Hakamid"
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+725.1.1 = {
+	monarch = {
+		name = "Maslamah"
+		dynasty = "Umayyad"
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+733.1.1 = {
+	monarch = {
+		name = "Sa'id"
+		dynasty = "Harashid"
+		dip = 1
+		adm = 1
+		mil = 4
+	}
+}
+
+735.1.1 = {
+	monarch = {
+		name = "Marwan"
+		dynasty = "Umayyad"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+744.1.1 = {
+	monarch = {
+		name = "Ishaq"
+		dynasty = "Uqaylid"
+		dip = 2
+		adm = 2
+		mil = 3
+	}
+}
+
+750.1.1 = {
+	monarch = {
+		name = "Al-Mansur"
+		dynasty = "Abbasid"
+		birth_date = 714.1.1
+		dip = 4
+		adm = 5
+		mil = 4
+	}
+}
+
+753.1.1 = {
+	monarch = {
+		name = "Yazid"
+		dynasty = "Sulaymid"
+		dip = 2
+		adm = 1
+		mil = 3
+	}
+}
+
+755.1.1 = {
+	monarch = {
+		name = "Sulayman"
+		dynasty = "Sulaymid"
+		dip = 2
+		adm = 1
+		mil = 1
+	}
+}
+
+760.1.1 = {
+	monarch = {
+		name = "Salih ben Subai"
+		dynasty = "Kindid"
+		dip = 1
+		adm = 0
+		mil = 2
+	}
+}
+
+769.1.1 = {
+	monarch = {
+		name = "Bakkar"
+		dynasty = "Uqaylid"
+		dip = 1
+		adm = 1
+		mil = 3
+	}
+}
+
+770.1.1 = {
+	monarch = {
+		name = "Al-Hasan"
+		dynasty = "Qahtabid"
+		dip = 1
+		adm = 1
+		mil = 5
+	}
+}
+
+774.1.1 = {
+	monarch = {
+		name = "Yazid"
+		dynasty = "Sulaymid"
+		dip = 2
+		adm = 1
+		mil = 4
+	}
+}
+
+778.1.1 = {
+	monarch = {
+		name = "Uthman"
+		dynasty = "Khuraymid"
+		dip = 1
+		adm = 2
+		mil = 1
+	}
+}
+
+785.1.1 = {
+	monarch = {
+		name = "Khuzayma"
+		dynasty = "Khazimid"
+		dip = 2
+		adm = 1
+		mil = 5
+	}
+}
+
+787.1.1 = {
+	monarch = {
+		name = "Yazid"
+		dynasty = "Shaybanid"
+		dip = 1
+		adm = 1
+		mil = 3
+	}
+}
+
+788.1.1 = {
+	monarch = {
+		name = "Sulayman"
+		dynasty = "Shaybanid"
+		dip = 0
+		adm = 2
+		mil = 2
+	}
+}
+
+799.1.1 = {
+	monarch = {
+		name = "Yazid"
+		dynasty = "Shaybanid"
+		dip = 1
+		adm = 1
+		mil = 3
+	}
+}
+
+799.1.1 = {
+	heir = {
+		name = "Asad"
+		monarch_name = "Asad"
+		dynasty = "Shaybanid"
+		birth_date = 771.1.1
+		death_date = 813.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+}
+
+801.1.1 = {
+	monarch = {
+		name = "Asad"
+		dynasty = "Shaybanid"
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+}
+
+803.1.1 = {
+	monarch = {
+		name = "Khuzayma"
+		dynasty = "Khazimid"
+		dip = 2
+		adm = 1
+		mil = 5
+	}
+}
+
+810.1.1 = {
+	monarch = {
+		name = "Asad"
+		dynasty = "Shaybanid"
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+}
+
+810.1.1 = {
+	heir = {
+		name = "Khalid"
+		monarch_name = "Khalid"
+		dynasty = "Shaybanid"
+		birth_date = 783.1.1
+		death_date = 842.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+}
+
+813.1.1 = {
+	monarch = {
+		name = "Khalid"
+		dynasty = "Shaybanid"
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+}
+
+813.1.1 = {
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Muhammad"
+		dynasty = "Shaybanid"
+		birth_date = 812.1.1
+		death_date = 3000.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+842.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Shaybanid"
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+862.1.1 = {
+	monarch = {
+		name = "Ali"
+		dynasty = "Armanid"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+870.1.1 = {
+	monarch = {
+		name = "Isa"
+		dynasty = "Shaybanid"
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+884.1.1 = { religion = orthodox }
+
+884.1.1 = {
+	monarch = {
+		name = "Ashot I"
+		dynasty = "Bagratuni"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+890.1.1 = {
+	monarch = {
+		name = "Smbat I"
+		dynasty = "Bagratuni"
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+914.1.1 = {
+	monarch = {
+		name = "Ashot II"
+		dynasty = "Bagratuni"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+928.1.1 = {
+	monarch = {
+		name = "Abas I"
+		dynasty = "Bagratuni"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+952.1.1 = {
+	monarch = {
+		name = "Ashot III"
+		dynasty = "Bagratuni"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+977.1.1 = {
+	monarch = {
+		name = "Smbat II"
+		dynasty = "Bagratuni"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+989.1.1 = {
+	monarch = {
+		name = "Gagik I"
+		dynasty = "Bagratuni"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1020.1.1 = {
+	monarch = {
+		name = "Hovhannes I"
+		dynasty = "Bagratuni"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1042.1.1 = {
+	monarch = {
+		name = "Gagik II"
+		dynasty = "Bagratuni"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1174.1.1 = {
+	monarch = {
+		name = "Hovhannes II"
+		dynasty = "Artsakh"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1214.1.1 = {
+	monarch = {
+		name = "Hasan-Jalal"
+		dynasty = "Artsakh"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1850.1.1 = { government = parliamentary_republic }
+1910.1.1 = { religion = secularism }
+
+1918.5.28 = {
+	monarch = {
+		name = "Hovhannes Katchaznouni"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1919.5.28 = {
+	monarch = {
+		name = "Alexander Khatisyan"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1920.5.5 = {
+	monarch = {
+		name = "Hamo Ohanjanyan"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1920.11.25 = {
+	monarch = {
+		name = "Simon Vratsian"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1930.1.1 = { government = constitutional_republic }
+
+1991.9.21 = {
+	monarch = {
+		name = "Levon Ter-Petrossian"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1998.2.4 = {
+	monarch = {
+		name = "Robert Kocharyan"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+2008.4.9 = {
+	monarch = {
+		name = "Serzh Sargsyan"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}

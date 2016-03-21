@@ -1,0 +1,304 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -3
+#quality_quantity = 3
+#serfdom_freesubjects = -4
+technology_group = early_chinese
+religion = confucianism
+primary_culture = jin
+capital = 688	# Luoyang
+
+265.1.1 = {
+	monarch = {
+		name = "Wu Di"
+		dynasty = "Jin"
+		dip = 4
+		adm = 2
+		mil = 2
+	}
+}
+
+290.5.17 = {
+	monarch = {
+		name = "Hui Di"
+		dynasty = "Jin"
+		dip = 2
+		adm = 3
+		mil = 2
+	}
+}
+
+307.1.8 = {
+	monarch = {
+		name = "Huai Di"
+		dynasty = "Jin"
+		dip = 3
+		adm = 3
+		mil = 4
+	}
+}
+
+313.3.14 = {
+	monarch = {
+		name = "Min Di"
+		dynasty = "Jin"
+		dip = 3
+		adm = 5
+		mil = 1
+	}
+}
+				
+318.2.7 = {
+	monarch = {
+		name = "Yuan Di"
+		dynasty = "Jin"
+		dip = 3
+		adm = 2
+		mil = 3
+	}
+}
+
+323.1.3 = {
+	monarch = {
+		name = "Ming Di"
+		dynasty = "Jin"
+		dip = 4
+		adm = 2
+		mil = 3
+	}
+}
+
+325.10.18 = {
+	monarch = {
+		name = "Cheng Di"
+		dynasty = "Jin"
+		dip = 4
+		adm = 2
+		mil = 1
+	}
+}
+
+342.7.26 = {
+	monarch = {
+		name = "Kang Di"
+		dynasty = "Jin"
+		dip = 2
+		adm = 3
+		mil = 4
+	}
+}
+
+344.11.17 = {
+	monarch = {
+		name = "Mu Di"
+		dynasty = "Jin"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+361.7.10 = {
+	monarch = {
+		name = "Ai Di"
+		dynasty = "Jin"
+		dip = 4
+		adm = 3
+		mil = 2
+	}
+}
+365.3.30 = {
+	monarch = {
+		name = "Fei Di"
+		dynasty = "Jin"
+		dip = 3
+		adm = 2
+		mil = 5
+	}
+}
+371.1.6 = {
+	monarch = {
+		name = "Jianwen Di"
+		dynasty = "Jin"
+		dip = 5
+		adm = 3
+		mil = 2
+	}
+}
+372.9.12 = {
+	monarch = {
+		name = "Xiaowu Di"
+		dynasty = "Jin"
+		dip = 3
+		adm = 4
+		mil = 3
+	}
+}
+
+396.1.1 = {
+	monarch = {
+		name = "An Di"
+		dynasty = "Jin"
+		dip = 3
+		adm = 3
+		mil = 4
+	}
+}
+
+419.1.28 = {
+	monarch = {
+		name = "Gong Di"
+		dynasty = "Sayfawa"
+		dip = 2
+		adm = 3
+		mil = 3
+	}
+}
+
+750.1.1 = { technology_group = chinese }
+
+907.6.1 = {
+	monarch = {
+		name = "Li Keyong"
+		dynasty = "Jin"
+		dip = 3
+		adm = 3
+		mil = 4
+	}
+}
+
+908.2.23 = {
+	monarch = {
+		name = "Li Cunxu"
+		dynasty = "Sayfawa"
+		dip = 2
+		adm = 3
+		mil = 3
+	}
+}
+
+936.1.11 = {
+	monarch = {
+		name = "Gaozu"
+		dynasty = "Jin"
+		dip = 3
+		adm = 3
+		mil = 4
+	}
+}
+
+942.1.1 = {
+	monarch = {
+		name = "Chudi"
+		dynasty = "Jin"
+		dip = 2
+		adm = 3
+		mil = 3
+	}
+}
+
+1115.1.28 = {
+	monarch = {
+		name = "Taizu"
+		dynasty = "Jin"
+		dip = 4
+		adm = 2
+		mil = 5
+	}
+}
+
+1123.9.19 = {
+	monarch = {
+		name = "Taizong"
+		dynasty = "Jin"
+		dip = 2
+		adm = 3
+		mil = 4
+	}
+}
+
+1135.2.10 = {
+	monarch = {
+		name = "Xizong"
+		dynasty = "Jin"
+		dip = 3
+		adm = 3
+		mil = 4
+	}
+}
+
+1150.1.9 = {
+	monarch = {
+		name = "Hailingwang"
+		dynasty = "Jin"
+		dip = 3
+		adm = 5
+		mil = 1
+	}
+}
+				
+1161.10.27 = {
+	monarch = {
+		name = "Shizong"
+		dynasty = "Jin"
+		dip = 3
+		adm = 2
+		mil = 3
+	}
+}
+
+1189.1.20 = {
+	monarch = {
+		name = "Zhangzong"
+		dynasty = "Jin"
+		dip = 4
+		adm = 2
+		mil = 3
+	}
+}
+
+1208.12.29 = {
+	monarch = {
+		name = "Weishaowang"
+		dynasty = "Jin"
+		dip = 4
+		adm = 2
+		mil = 1
+	}
+}
+
+1213.9.22 = {
+	monarch = {
+		name = "Xuanzong"
+		dynasty = "Jin"
+		dip = 2
+		adm = 3
+		mil = 4
+	}
+}
+
+1224.1.14 = {
+	monarch = {
+		name = "Aizong"
+		dynasty = "Jin"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
+
+1234.2.9 = {
+	monarch = {
+		name = "Modi"
+		dynasty = "Jin"
+		dip = 2
+		adm = 3
+		mil = 2
+	}
+}
+

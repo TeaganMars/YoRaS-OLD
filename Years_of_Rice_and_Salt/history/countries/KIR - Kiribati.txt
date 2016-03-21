@@ -1,0 +1,89 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = 0
+technology_group = western
+primary_culture = english
+religion = protestant
+capital = 1991
+
+1979.7.12 = {
+	monarch = {
+		name = "Ieremia Tabai"
+		adm = 4
+		mil = 2
+		dip = 3
+	}
+}
+
+1982.12.10 = {
+	monarch = {
+		name = "Council of State"
+		adm = 2
+		mil = 2
+		dip = 2
+		regent = yes
+	}
+}
+
+1983.2.18 = {
+	monarch = {
+		name = "Ieremia Tabai"
+		adm = 4
+		mil = 2
+		dip = 3
+	}
+}
+
+1991.7.4 = {
+	monarch = {
+		name = "Teatao Teannaki"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1994.5.24 = {
+	monarch = {
+		name = "Council of State"
+		adm = 2
+		mil = 2
+		dip = 2
+		regent = yes
+	}
+}
+
+1994.10.1 = {
+	monarch = {
+		name = "Teburoro Tito"
+		adm = 5
+		mil = 2
+		dip = 2
+	}
+}
+
+2003.3.28 = {
+	monarch = {
+		name = "Council of State"
+		adm = 2
+		mil = 2
+		dip = 2
+		regent = yes
+	}
+}
+
+2003.7.10 = {
+	monarch = {
+		name = "Anote Tong"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}

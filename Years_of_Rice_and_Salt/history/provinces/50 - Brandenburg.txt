@@ -1,0 +1,71 @@
+#50 - Berlin
+
+owner = LOM
+controller = LOM
+add_core = LOM
+is_city = yes
+culture = langobardi
+religion = germanic
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = cloth
+base_manpower = 2
+capital = "Brandenburg an der Havel"
+discovered_by = western
+discovered_by = barbarian
+
+400.1.1 = { owner = POM controller = POM add_core = POM remove_core = LOM culture = kashubian }
+454.1.1 = { owner = VEL controller = VEL add_core = VEL remove_core = POM culture = sorbian religion = slavic }
+500.1.1 = { discovered_by = eastern }
+800.1.1 = { base_tax = 2 base_production = 2 }
+900.1.1 = { discovered_by = muslim discovered_by = ottoman }
+929.1.1 = { owner = SAX controller = SAX add_core = SAX remove_core = VEL }
+940.1.1 = { culture = saxon }
+948.1.1 = { owner = BRA controller = BRA add_core = BRA remove_core = SAX religion = catholic }
+950.1.1 = { fort_15th = yes }
+962.2.2 = { hre = yes }
+#983 - c. 1150 controlled by Slavic peoples
+1000.1.1 = { base_tax = 3 base_production = 3 }
+1100.1.1 = { base_manpower = 3 }
+1200.1.1 = { base_tax = 4 base_production = 4 }
+1237.1.1 = { capital = "Berlin" }
+1300.1.1 = { base_manpower = 4 }
+
+1539.1.1 = { religion = protestant }
+1594.1.1 = { fort_15th = no fort_16th = yes } #Spandau
+1648.1.1 = { fort_16th = no fort_17th = yes } 
+1650.1.1 = { culture = prussian }
+1701.1.18 = {
+	owner = PRU
+	controller = PRU
+	add_core = PRU
+	remove_core = BRA
+	base_tax = 8 
+	base_production = 8
+	base_manpower = 7
+} # Friedrich III becomes king of Prussia
+1725.1.1 = {  base_tax = 10 base_production = 10 }
+1750.1.1 = { base_manpower = 12 }
+1775.1.1 = { base_tax = 16 base_production = 13 base_manpower = 13 }
+1800.1.1 = { base_tax = 19 base_production = 15 base_manpower = 19 }
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1806.10.27 = { controller = FRA }
+1807.7.9 = { controller = PRU } # The Second treaty of Tilsit
+
+1826.1.1 = { base_tax = 21 base_production = 23 base_manpower = 20 }
+1850.1.1 = { base_tax = 25 base_production = 26 base_manpower = 23 }
+1871.1.18  = { owner = GER controller = GER add_core = GER } # German unification
+1876.1.1 = { base_tax = 30 base_production = 28 base_manpower = 27 }
+1900.1.1   = { remove_core = PRU }
+1901.1.1 = { base_tax = 36 base_production = 30 base_manpower = 30 }
+1925.1.1 = { base_tax = 40 base_production = 34 base_manpower = 33 }
+1945.5.2   = { controller = SOV }
+1945.5.8   = { owner = EGE controller = EGE add_core = EGE }
+1950.1.1 = { base_tax = 45 base_production = 36 base_manpower = 36 }
+1975.1.1 = { base_tax = 49 base_production = 41 base_manpower = 38 }
+1990.10.3  = { owner = GER controller = GER remove_core = EGE }
+2000.1.1 = { base_tax = 53 base_production = 49 base_manpower = 46 }
+
+
+

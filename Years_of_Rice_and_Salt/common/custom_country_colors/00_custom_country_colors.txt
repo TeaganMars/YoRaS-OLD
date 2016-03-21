@@ -1,0 +1,91 @@
+num_symbols = 120
+
+color = { 235 235 235 }	# White
+color = { 40 40 40 }	# Dark Grey
+color = { 100 100 100 }	# Grey
+color = { 117 38 143 }	# Purple
+color = { 113 11 43 }	# Dark Red
+color = { 97 12 12 }	# Blood Red
+color = { 175 15 15 }	# Red
+color = { 188 90 27 }	# Orange
+color = { 255 125 49 }  # Bright Orange
+color = { 64 40 22 }	# Brown
+color = { 105 68 62 }	# Light Brown
+color = { 220 178 155 }	# Beige
+color = { 244 184 12 }	# Yellow
+color = { 17 53 13}	# Dark Green
+color = { 46 114 55 }	# Green
+color = { 73 147 29 }   # Deep Green
+color = { 77 183 87 }	# Light Green
+color = { 18 179 113 }	# Teal
+color = { 50 173 192 }	# Turqious
+color = { 32 30 65 }	# Dark Blue
+color = { 30 30 128 }	# Azure-blue
+color = { 60 60 215 }	# Blue
+color = { 116 198 240 }	# Skye Blue
+color = { 136 79 101 }  # Hungary red
+color = { 194 129 142 }	# Pale Pink
+color = { 217 84 84 }	# Pink
+color = { 139 117 96 }	# Light Gray
+color = { 180 179 100 }	# Yellow-Gray
+color = { 109 123 82 }	# Green-Gray
+color = { 47 172 74 }	# Blueish Green
+color = { 77 207 157 }	# Pale Teal
+color = { 44 130 117 }	# Grey-Green
+color = { 18 67 84 }	# Dark Grey-Blue
+color = { 46 110 176 }	# Pale Blue
+color = { 48 64 126 }   # Grey Blue
+
+
+
+# NB: 0-based in code.
+flag_color = { 255 255 255 }	#1   	White
+flag_color = { 10 10 10 }	#2   	Black
+flag_color = { 80 80 80 }	#3	Dark Grey
+flag_color = { 120 120 120 }	#4	Grey
+flag_color = { 160 160 160 }	#5	Light Grey
+flag_color = { 97 12 12 }	#6   	Blood Red
+flag_color = { 135 17 17 }	#7	Dark Red
+flag_color = { 175 15 15 } 	#8   	Red
+flag_color = { 230 30 30 } 	#9   	Bright Red
+flag_color = { 64 40 22 }	#10  	Dark Brown
+flag_color = { 105 68 62 }	#11 	Light Brown
+flag_color = { 204 157 134 }	#12 	Beige
+flag_color = { 188 90 27 }	#13  	Orange
+flag_color = { 255 125 49 }	#14  	Bright Orange
+flag_color = { 244 184 12 }	#15 	Gold
+flag_color = { 230 230 12 }	#16 	Yellow
+flag_color = { 17 53 13 }	#17  	Dark Green
+flag_color = { 46 114 55 }  	#18   	Green
+flag_color = { 77 183 87 }  	#19   	Light Green
+flag_color = { 18 179 113 }	#20  	Teal
+flag_color = { 38 128 128 }	#21  	Turqouise
+flag_color = { 50 173 192 }	#22  	Light Turqouise
+flag_color = { 30 30 128 } 	#23   	Azure Blue
+flag_color = { 0 68 131 }   	#24	Reflex Blue
+flag_color = { 15 55 170 }	#25	Navy Blue
+flag_color = { 30 50 240 }	#26	Blue
+flag_color = { 116 198 240 }	#27	Sky Blue
+flag_color = { 113 11 43 }	#28  	Burgundy
+flag_color = { 117 38 143 }	#29  	Purple
+flag_color = { 198 38 143 }	#30  	Pink
+flag_color = { 221 85 124 }	#31  	Rose
+
+
+
+
+# WHEN ADDING NEW, ALWAYS ADD AT THE END
+textures = {
+	texture = {
+		file = "gfx\\custom_flags\\pattern.tga"
+		size = { x = 10 y = 2 }
+		noOfFrames = 12
+		color = 2
+	}
+	texture = {
+		file = "gfx\\custom_flags\\pattern2.tga"
+		size = { x = 10 y = 4 }
+		noOfFrames = 38
+		color = 3
+	}
+}

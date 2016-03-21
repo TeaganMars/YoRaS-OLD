@@ -1,0 +1,6 @@
+#1433 - Nauru Island
+
+1798.1.1 = { discovered_by = GBR }
+
+
+

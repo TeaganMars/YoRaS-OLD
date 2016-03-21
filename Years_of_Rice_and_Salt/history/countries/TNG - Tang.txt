@@ -1,0 +1,313 @@
+government = celestial_empire
+government_rank = 3
+mercantilism = 0.1
+technology_group = early_chinese
+religion = confucianism
+primary_culture = chihan
+capital = 1821
+
+618.6.18 = {
+	monarch = {
+		name = "Gaozu"
+		dynasty = "Tang"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+626.9.4 = {
+	monarch = {
+		name = "Taizong"
+		dynasty = "Tang"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+649.7.15 = {
+	monarch = {
+		name = "Gaozong"
+		dynasty = "Tang"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+684.1.3 = {
+	monarch = {
+		name = "Zhongzong"
+		dynasty = "Tang"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+684.2.27 = {
+	monarch = {
+		name = "Ruizong"
+		dynasty = "Tang"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+690.10.8 = {
+	monarch = {
+		name = "Wu Zetian"
+		dynasty = "Zhou"
+		adm = 3
+		dip = 4
+		mil = 3
+		female = yes
+	}
+}
+
+705.2.23 = {
+	monarch = {
+		name = "Zhongzong"
+		dynasty = "Tang"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+710.7.8 = {
+	monarch = {
+		name = "Shang"
+		dynasty = "Tang"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+710.7.25 = {
+	monarch = {
+		name = "Ruizong"
+		dynasty = "Tang"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+712.9.8 = {
+	monarch = {
+		name = "Xuanzong"
+		dynasty = "Tang"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+750.1.1 = { technology_group = chinese }
+
+756.8.12 = {
+	monarch = {
+		name = "Suzong"
+		dynasty = "Tang"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+762.5.16 = {
+	monarch = {
+		name = "Daizong"
+		dynasty = "Tang"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+805.9.1 = {
+	monarch = {
+		name = "Shunzong"
+		dynasty = "Tang"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+806.1.25 = {
+	monarch = {
+		name = "Xianzong"
+		dynasty = "Tang"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+820.2.20 = {
+	monarch = {
+		name = "Muzong"
+		dynasty = "Tang"
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+}
+
+824.2.25 = {
+	monarch = {
+		name = "Jingzong"
+		dynasty = "Tang"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+827.1.13 = {
+	monarch = {
+		name = "Wenzong"
+		dynasty = "Tang"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+840.2.10 = {
+	monarch = {
+		name = "Wuzong"
+		dynasty = "Tang"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+846.4.25 = {
+	monarch = {
+		name = "Xuanzong"
+		dynasty = "Tang"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+859.9.7 = {
+	monarch = {
+		name = "Yizong"
+		dynasty = "Tang"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+873.8.16 = {
+	monarch = {
+		name = "Xizong"
+		dynasty = "Tang"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+888.4.20 = {
+	monarch = {
+		name = "Zhaozong"
+		dynasty = "Tang"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+904.9.26 = {
+	monarch = {
+		name = "Ai"
+		dynasty = "Tang"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+910.1.1 = { government = despotic_monarchy government_rank = 2 }
+
+923.1.1 = {
+	monarch = {
+		name = "Zhuangzong"
+		dynasty = "Tang"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+926.5.25 = {
+	monarch = {
+		name = "Mingzong"
+		dynasty = "Tang"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+933.12.15 = {
+	monarch = {
+		name = "Min"
+		dynasty = "Tang"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+934.1.1 = {
+	monarch = {
+		name = "Modi"
+		dynasty = "Tang"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+937.1.1 = {
+	monarch = {
+		name = "Liezu"
+		dynasty = "Tang"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+943.3.30 = {
+	monarch = {
+		name = "Yuanzong"
+		dynasty = "Tang"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+961.1.1 = {
+	monarch = {
+		name = "Houzhu"
+		dynasty = "Tang"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+

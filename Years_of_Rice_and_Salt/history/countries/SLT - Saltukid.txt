@@ -1,0 +1,85 @@
+government = tribal_despotism
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -2
+#quality_quantity = -1
+#serfdom_freesubjects = -1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 331	# Erserum
+
+1071.8.26 = {
+	monarch = {
+		name = "Saltuk I"
+		dynasty = "Saltukid"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1102.1.1 = {
+	monarch = {
+		name = "Ali"
+		dynasty = "Saltukid"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1124.1.1 = {
+	monarch = {
+		name = "Ziyaeddin"
+		dynasty = "Saltukid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1132.1.1 = {
+	monarch = {
+		name = "Izzeddin Saltuk II"
+		dynasty = "Saltukid"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1168.1.1 = {
+	monarch = {
+		name = "Nasiruddin Muhammed"
+		dynasty = "Saltukid"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1191.1.1 = {
+	monarch = {
+		name = "Melike Mama Hatun"
+		dynasty = "Saltukid"
+		adm = 1
+		mil = 3
+		dip = 5
+		female = yes
+	}
+}
+
+1200.1.1 = {
+	monarch = {
+		name = "Alaeddin Muhammed"
+		dynasty = "Saltukid"
+		adm = 2
+		mil = 2
+		dip = 4
+	}
+}

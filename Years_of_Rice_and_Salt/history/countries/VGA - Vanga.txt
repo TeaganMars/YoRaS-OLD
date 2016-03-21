@@ -1,0 +1,44 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = early_indian
+religion = hinduism
+primary_culture = bengali
+capital = 564
+
+580.1.1 = {
+	monarch = {
+		name = "Shashanka"
+		dynasty = "Shashanka"
+		birth_date = 560.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+600.1.1 = {
+	heir = {
+		name = "Manava"
+		monarch_name = "Manava"
+		dynasty = "Shashanka"
+		birth_date = 600.1.1
+		death_date = 626.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+625.1.1 = {
+	monarch = {
+		name = "Manava"
+		dynasty = "Shashanka"
+		birth_date = 600.1.1
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+750.1.1 = { technology_group = indian }

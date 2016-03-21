@@ -1,0 +1,36 @@
+#2647 - Coixtlahuacan
+
+culture = mixtec
+owner = MIX
+controller = MIX
+add_core = MIX
+is_city = yes
+religion = nahuatl
+capital = "Coixtlahuacan"
+trade_goods = grain 
+hre = no 
+base_tax = 3
+base_production = 3
+base_manpower = 1
+discovered_by = mesoamerican
+
+870.1.1 = { owner = TLT controller = TLT add_core = TLT }
+1100.1.1 = { owner = MIX controller = MIX add_core = MIX remove_core = TLT }
+
+1458.1.1 = { 	owner = AZT
+		controller = AZT } #Moctezuma I attack Coixtlahuaca on a pretext of Aztec merchants mistreatment.
+1518.1.1 = {	add_core = AZT }
+1521.8.13  = {	discovered_by = SPA
+		owner = SPA
+		controller = SPA
+		culture = castillian
+		religion = catholic
+	    } # Fall of Tenochtitlan
+1546.1.1  = { add_core = SPA }
+1712.1.6  = { capital = "Acatlán de Osorio" }
+1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence
+
+1821.9.27  = { controller = MEX remove_core = SPA }
+
+
+

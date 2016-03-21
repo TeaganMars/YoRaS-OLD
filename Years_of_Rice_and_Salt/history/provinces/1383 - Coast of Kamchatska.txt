@@ -1,0 +1,6 @@
+#1383 - Coast of Kamchatka
+
+1647.1.1 = { discovered_by = RUS }
+
+
+

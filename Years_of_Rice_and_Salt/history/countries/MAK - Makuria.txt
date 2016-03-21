@@ -1,0 +1,329 @@
+government = tribal_despotism
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -2
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = nubian
+religion = african
+technology_group = sub_saharan
+capital = 1228	# Dongola
+
+550.1.1 = { religion = coptic }
+
+640.1.1 = {
+	monarch = {
+		name = "Qalidurut"
+		dynasty = "Makurian"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+660.1.1 = {
+	monarch = {
+		name = "Zacharias"
+		dynasty = "Makurian"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+696.1.1 = {
+	monarch = {
+		name = "Merkourios"
+		dynasty = "Makurian"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+710.1.1 = {
+	monarch = {
+		name = "Simeon"
+		dynasty = "Makurian"
+		adm = 2
+		mil = 2
+		dip = 4
+	}
+}
+
+720.1.1 = {
+	monarch = {
+		name = "Abraham"
+		dynasty = "Makurian"
+		adm = 2
+		mil = 1
+		dip = 2
+	}
+}
+
+730.1.1 = {
+	monarch = {
+		name = "Markos"
+		dynasty = "Makurian"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+747.1.1 = {
+	monarch = {
+		name = "Kyriakos"
+		dynasty = "Makurian"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+780.1.1 = {
+	monarch = {
+		name = "Khael"
+		dynasty = "Makurian"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+810.1.1 = {
+	monarch = {
+		name = "Ioannes"
+		dynasty = "Makurian"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+835.1.1 = {
+	monarch = {
+		name = "Zakharias I"
+		dynasty = "Makurian"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+859.1.1 = {
+	monarch = {
+		name = "Georgios I"
+		dynasty = "Makurian"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+900.1.1 = {
+	monarch = {
+		name = "Zakharias II"
+		dynasty = "Makurian"
+		adm = 2
+		mil = 2
+		dip = 4
+	}
+}
+
+930.1.1 = {
+	monarch = {
+		name = "Kabil"
+		dynasty = "Makurian"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+969.1.1 = {
+	monarch = {
+		name = "Georgios II"
+		dynasty = "Makurian"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1002.1.1 = {
+	monarch = {
+		name = "Raphael"
+		dynasty = "Makurian"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1020.1.1 = {
+	monarch = {
+		name = "Stephanos"
+		dynasty = "Makurian"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1077.1.1 = {
+	monarch = {
+		name = "Solomon"
+		dynasty = "Makurian"
+		adm = 2
+		mil = 2
+		dip = 4
+	}
+}
+
+1080.1.1 = {
+	monarch = {
+		name = "Georgios III"
+		dynasty = "Makurian"
+		adm = 2
+		mil = 1
+		dip = 2
+	}
+}
+
+1089.1.1 = {
+	monarch = {
+		name = "Basileios"
+		dynasty = "Makurian"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1130.1.1 = {
+	monarch = {
+		name = "Georgios IV"
+		dynasty = "Makurian"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1158.1.1 = {
+	monarch = {
+		name = "Moses Georgios"
+		dynasty = "Makurian"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1210.1.1 = {
+	monarch = {
+		name = "Murtashkar"
+		dynasty = "Makurian"
+		adm = 1
+		mil = 2
+		dip = 4
+	}
+}
+
+1268.1.1 = {
+	monarch = {
+		name = "David"
+		dynasty = "Makurian"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+1272.1.1 = {
+	monarch = {
+		name = "Shekanda"
+		dynasty = "Makurian"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1286.1.1 = {
+	monarch = {
+		name = "Semamun"
+		dynasty = "Makurian"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+1295.1.1 = {
+	monarch = {
+		name = "Ayay"
+		dynasty = "Makurian"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+1312.1.1 = {
+	religion = sunni
+	monarch = {
+		name = "Sayf al-Din Abdullah"
+		dynasty = "Barshambu"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1317.1.1 = {
+	religion = coptic
+	monarch = {
+		name = "Kernabes"
+		dynasty = "Makurian"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1324.1.1 = {
+	religion = shiite
+	monarch = {
+		name = "Kanz ed-Dawla"
+		dynasty = "Banu Kanz"
+		adm = 4
+		mil = 3
+		dip = 3
+	}
+}
+
+1333.1.1 = {
+	monarch = {
+		name = "Al-Amir Abi Abdallah"
+		dynasty = "Banu Kanz"
+		adm = 4
+		mil = 2
+		dip = 2
+	}
+}
+
+1412.1.1 = {
+	monarch = {
+		name = "Awlad"
+		dynasty = "Banu Kanz"
+		adm = 3
+		dip = 4
+		mil = 5	
+	}
+}

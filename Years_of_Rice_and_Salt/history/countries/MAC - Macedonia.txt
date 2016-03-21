@@ -1,0 +1,90 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 2
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -1
+#quality_quantity = 1
+#serfdom_freesubjects = -5
+primary_culture = bulgarian
+religion = orthodox
+technology_group = eastern
+capital = 148	# Skopje
+
+1900.1.1 = { technology_group = western }
+1910.1.1 = { religion = secularism }
+1945.1.1 = { government = presidental_republic }
+
+1991.9.8 = {
+	monarch = {
+		name = "Kiro Gligorov"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1995.10.4 = {
+	monarch = {
+		name = "Stojan Andov"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1995.11.17 = {
+	monarch = {
+		name = "Kiro Gligorov"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1999.11.19 = {
+	monarch = {
+		name = "Savo Klimovski"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1999.12.15 = {
+	monarch = {
+		name = "Boris Trajkovski"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+2004.2.26 = {
+	monarch = {
+		name = "Ljupco Jordanovski"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+2004.5.12 = {
+	monarch = {
+		name = "Branko Crvenkovski"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+2009.5.12 = {
+	monarch = {
+		name = "Gjorge Ivanov"
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}

@@ -1,0 +1,38 @@
+government = barbarian_tribe
+mercantilism = 0.1
+primary_culture = hessian
+religion = germanic
+technology_group = barbarian
+capital = 265
+
+2.1.1 = {
+	monarch = {
+		name = "Vibilius"
+		dynasty = "Hermunduri"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+80.1.1 = {
+	monarch = {
+		name = "Vangio"
+		dynasty = "Hermunduri"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+150.1.1 = {
+	monarch = {
+		name = "Valao"
+		dynasty = "Naristi"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+600.1.1 = { government = feudal_monarchy technology_group = western }

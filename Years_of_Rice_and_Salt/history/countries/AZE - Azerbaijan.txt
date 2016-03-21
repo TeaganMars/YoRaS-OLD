@@ -1,0 +1,353 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -1
+#centralization_decentralization = 2
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -3
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = persian
+religion = sunni
+technology_group = muslim
+capital = 2281 # Maragha
+
+889.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Sajid"
+		birth_date = 859.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+889.1.1 = {
+	heir = {
+		name = "Yusuf"
+		monarch_name = "Yusuf"
+		dynasty = "Sajid"
+		birth_date = 871.1.1
+		death_date = 928.1.1
+		claim = 95
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+}
+
+901.1.1 = { capital = 424 } # Ardabil
+
+901.1.1 = {
+	monarch = {
+		name = "Yusuf"
+		dynasty = "Sajid"
+		birth_date = 871.1.1
+		adm = 5
+		dip = 0
+		mil = 2
+	}
+}
+
+901.1.1 = {
+	heir = {
+		name = "Abu'l-Musafir al-Fath"
+		monarch_name = "Abu'l-Musafir al-Fath"
+		dynasty = "Sajid"
+		birth_date = 898.1.1
+		death_date = 929.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+}
+
+928.1.1 = {
+	monarch = {
+		name = "Abu'l-Musafir al-Fath"
+		dynasty = "Sajid"
+		birth_date = 898.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+}
+
+929.1.1 = { capital = 2283 } # Tarom
+
+929.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Sallarid"
+		birth_date = 899.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+929.1.1 = {
+	heir = {
+		name = "Marzuban"
+		monarch_name = "Marzuban I"
+		dynasty = "Sallarid"
+		birth_date = 912.1.1
+		death_date = 957.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+942.1.1 = {
+	monarch = {
+		name = "Marzuban I"
+		dynasty = "Sallarid"
+		birth_date = 912.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+942.1.1 = {
+	heir = {
+		name = "Justan"
+		monarch_name = "Justan I"
+		dynasty = "Sallarid"
+		birth_date = 927.1.1
+		death_date = 960.1.1
+		claim = 95
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+}
+
+957.1.1 = {
+	monarch = {
+		name = "Justan I"
+		dynasty = "Sallarid"
+		birth_date = 927.1.1
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+}
+
+957.1.1 = {
+	heir = {
+		name = "Isma'il"
+		monarch_name = "Isma'il"
+		dynasty = "Sallarid"
+		birth_date = 930.1.1
+		death_date = 962.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+}
+
+960.1.1 = {
+	monarch = {
+		name = "Isma'il"
+		dynasty = "Sallarid"
+		birth_date = 930.1.1
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+}
+
+960.1.1 = {
+	heir = {
+		name = "Ibrahim"
+		monarch_name = "Ibrahim I"
+		dynasty = "Sallarid"
+		birth_date = 932.1.1
+		death_date = 979.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 0
+	}
+}
+
+962.1.1 = {
+	monarch = {
+		name = "Ibrahim I"
+		dynasty = "Sallarid"
+		birth_date = 932.1.1
+		adm = 4
+		dip = 0
+		mil = 0
+	}
+}
+
+962.1.1 = {
+	heir = {
+		name = "Marzuban"
+		monarch_name = "Marzuban II"
+		dynasty = "Sallarid"
+		birth_date = 949.1.1
+		death_date = 990.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+979.1.1 = {
+	monarch = {
+		name = "Marzuban II"
+		dynasty = "Sallarid"
+		birth_date = 949.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+979.1.1 = {
+	heir = {
+		name = "Ibrahim"
+		monarch_name = "Ibrahim II"
+		dynasty = "Sallarid"
+		birth_date = 960.1.1
+		death_date = 1020.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+990.1.1 = {
+	monarch = {
+		name = "Ibrahim II"
+		dynasty = "Sallarid"
+		birth_date = 960.1.1
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+990.1.1 = {
+	heir = {
+		name = "Justan"
+		monarch_name = "Justan II"
+		dynasty = "Sallarid"
+		birth_date = 990.1.1
+		death_date = 1050.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+1020.1.1 = {
+	monarch = {
+		name = "Justan II"
+		dynasty = "Sallarid"
+		birth_date = 990.1.1
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+
+1020.1.1 = {
+	heir = {
+		name = "Mustafir"
+		monarch_name = "Mustafir"
+		dynasty = "Sallarid"
+		birth_date = 1020.1.1
+		death_date = 1062.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1050.1.1 = {
+	monarch = {
+		name = "Mustafir"
+		dynasty = "Sallarid"
+		birth_date = 1020.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1200.1.1 = { primary_culture = azerbaijani }
+1800.1.1 = { capital = 421 }
+1900.1.1 = { technology_group = eastern }
+1910.1.1 = { religion = secularism }
+1918.5.28 = { government = parliamentary_republic }
+1918.5.28 = { capital = 421 } # Baku
+
+1918.5.28 = {
+	monarch = {
+		name = "Fath Ali Khan Khoyski"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1919.4.14 = {
+	monarch = {
+		name = "Nasib Yusifbeyli"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1991.8.30 = { government = constitutional_republic }
+
+1991.8.30 = {
+	monarch = {
+		name = "Ayaz Mutallibov"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1992.6.16 = {
+	monarch = {
+		name = "Abulfaz Alchibey"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+}
+
+1993.10.3 = {
+	monarch = {
+		name = "Heydar Aliyev"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+2003.10.31 = {
+	monarch = {
+		name = "Ilham Aliyev"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}

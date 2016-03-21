@@ -1,0 +1,118 @@
+government = elective_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+#mercantilism_freetrade = 2
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = 3
+#quality_quantity = -1
+#serfdom_freesubjects = -1
+primary_culture = malayan
+religion = sunni
+technology_group = early_chinese
+capital = 2398	# Kuala Lumpur
+
+750.1.1 = { technology_group = chinese }
+
+1950.1.1 = { technology_group = asian }
+
+1963.9.16 = {
+	monarch = {
+		name = "Syed Putra"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1970.9.21 = {
+	monarch = {
+		name = "Abdul Halim"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1975.9.21 = {
+	monarch = {
+		name = "Yahya Petra"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+}
+
+1979.3.29 = {
+	monarch = {
+		name = "Ahmad Shah al-Mustain Billah"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1984.4.26 = {
+	monarch = {
+		name = "Iskandar"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1989.4.26 = {
+	monarch = {
+		name = "Azlan Muhibbuddin Shah"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1994.4.26 = {
+	monarch = {
+		name = "Tuanku Jaafar"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1999.4.26 = {
+	monarch = {
+		name = "Salahuddin Abdul Aziz"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+2001.12.13 = {
+	monarch = {
+		name = "Syed Sirajuddin"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+2006.12.13 = {
+	monarch = {
+		name = "Mizan Zainal Abidin"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+
+2011.12.13 = {
+	monarch = {
+		name = "Abdul Halim"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}

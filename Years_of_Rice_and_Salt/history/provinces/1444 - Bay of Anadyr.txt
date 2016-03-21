@@ -1,0 +1,6 @@
+#1444 - Bay of Anadyr
+
+1741.1.1 = { discovered_by = RUS }
+
+
+

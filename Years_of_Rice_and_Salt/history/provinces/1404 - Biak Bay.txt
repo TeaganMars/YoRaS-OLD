@@ -1,0 +1,6 @@
+#1404 - Biak Bay
+
+discovered_by = early_chinese
+discovered_by = chinese
+1820.1.1   = { discovered_by = western }
+

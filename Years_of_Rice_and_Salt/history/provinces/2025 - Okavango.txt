@@ -1,0 +1,34 @@
+#2025 - Okavango
+
+culture = san
+religion = african
+capital = "Okavango"
+native_size = 90
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_ferocity = 4.5
+native_hostileness = 9 
+
+1870.1.1   = { discovered_by = NED discovered_by = GBR }
+1900.1.1   = { 	owner = GER
+		controller = GER
+		add_core = GER
+		is_city = yes 
+		trade_goods = grain
+		religion = protestant
+		capital = "Rundu"
+	     }
+1910.3.31  = { add_core = RSA }
+1919.6.28  = { owner = GBR controller = GBR add_core = GBR remove_core = GER }
+1940.1.1   = {  discovered_by = eastern
+		discovered_by = muslim
+		discovered_by = ottoman
+		discovered_by = asian
+	     }
+1960.10.5  = { owner = RSA controller = RSA remove_core = GBR }
+1990.3.21  = { owner = NMB controller = NMB add_core = NMB remove_core = RSA }
+
+

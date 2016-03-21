@@ -1,0 +1,17 @@
+name = "Lazic War"
+
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 462 #Mingrelia
+}
+
+541.1.1 = {
+	add_attacker = SAS
+	add_defender = BYZ
+}
+
+562.1.1 = {
+	rem_attacker = SAS
+	rem_defender = BYZ
+}

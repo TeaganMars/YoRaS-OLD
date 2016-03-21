@@ -1,0 +1,15 @@
+government = iqta
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 1
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -1
+#land_naval = -2
+#quality_quantity = -1
+#serfdom_freesubjects = -1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 323	# Konya
+

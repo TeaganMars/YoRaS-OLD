@@ -1,0 +1,19 @@
+#1457 - Coast of Natal
+
+900.1.1 = { 
+		discovered_by = ETH
+		discovered_by = ADA
+		discovered_by = NUB
+		discovered_by = ZAN
+		discovered_by = AJU
+		discovered_by = MBA
+		discovered_by = MDI
+		discovered_by = MLI
+		discovered_by = SFA
+		discovered_by = ZIM
+}
+1421.1.1  = { discovered_by = MNG }
+1498.1.15 = { discovered_by = POR }
+
+
+

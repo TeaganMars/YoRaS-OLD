@@ -1,0 +1,85 @@
+country_decisions = {
+	form_assyria = {
+
+		major = yes
+		potential = {
+			NOT = { exists = ASY }
+			primary_culture = assyrian
+			is_colonial_nation = no
+		}
+		allow = {
+			adm_tech = 10
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 2271
+			owns_core_province = 2272
+			owns_core_province = 2273
+			owns_core_province = 2274
+			owns_core_province = 411
+			owns_core_province = 415
+			owns_core_province = 410
+		}
+		effect = {
+			change_tag = ASY
+			add_prestige = 25
+			ASY = {
+				set_capital = 2274
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+	form_babylon = {
+
+		major = yes
+		potential = {
+			NOT = { exists = BAB }
+			primary_culture = babylonian
+			is_colonial_nation = no
+		}
+		allow = {
+			adm_tech = 10
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 410
+			owns_core_province = 409
+			owns_core_province = 2277
+			owns_core_province = 2276
+			owns_core_province = 408
+			owns_core_province = 2130
+		}
+		effect = {
+			change_tag = BAB
+			add_prestige = 25
+			BAB = {
+				set_capital = 409
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+	convert_to_babylonian = {
+
+		potential = {
+			primary_culture = assyrian
+			any_owned_province = {
+				culture = babylonian
+			}
+		}
+		allow = {
+			is_at_war = no
+		}
+		effect = {
+			change_primary_culture = babylonian
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 50
+	}
+}
+			

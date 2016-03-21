@@ -1,0 +1,1769 @@
+conquer_bombay = {
+
+	type = country
+	
+	category = MIL
+	ai_mission = yes
+	
+	allow = {
+		normal_or_historical_nations = yes
+		num_of_ports = 3
+		is_subject = no
+		religion_group = christian
+		OR = {
+			technology_group = western
+			AND = {
+				technology_group = eastern
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+			AND = {
+				technology_group = ottoman
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+		}
+		OR = {
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		NOT = {
+			west_india_region = {
+				owned_by = ROOT
+			}
+			deccan_region = {
+				owned_by = ROOT
+			}
+			bengal_region = {
+				owned_by = ROOT
+			}
+			coromandel_region = {
+				owned_by = ROOT
+			}
+		}
+		NOT = { has_country_flag = western_india_mission_completed }
+		NOT = { has_country_modifier = east_india_trade_rush }
+		529 = {
+			has_port = yes
+			range = ROOT
+			has_discovered = ROOT
+			NOT = { owned_by = ROOT }
+			owner = {
+				NOT = { is_subject_of = ROOT }
+				NOT = { truce_with = ROOT }
+				NOT = { alliance_with = ROOT }
+				NOT = { technology_group = western }
+			}
+		}
+	}
+	abort = {
+		OR = {
+			NOT = { num_of_ports = 1 }
+			is_subject = yes
+			529 = {
+				owner = {
+					alliance_with = ROOT
+					technology_group = western
+					is_subject_of = ROOT
+				}
+			}
+		}
+	}
+	success = {
+		529 = {
+			owned_by =  ROOT
+		}
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 2
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		modifier = {
+			factor = 5
+			OR = {
+				tag = POR
+				tag = ENG
+				tag = GBR
+			}
+		}
+		modifier = {
+			factor = 1.5
+			num_of_ports = 5
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = vice_roys
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = shrewd_commerce_practise
+		}
+		modifier = {
+			factor = 1.5
+			529 = {
+				owner = { 
+					NOT = { technology_group = western } 
+				}
+			}
+		}			
+	}
+	immediate = {
+		529 = {
+			add_claim = ROOT
+		}
+	}
+	abort_effect = {
+		529 = {
+			remove_claim = ROOT
+		}
+	}
+	effect = {
+		529 = {
+			remove_claim = ROOT
+		}
+		set_country_flag = western_india_mission_completed
+		add_country_modifier = {
+			name = "east_india_trade_rush"
+			duration = 3650
+		}
+	}
+}
+
+conquer_goa = {
+
+	type = country
+	
+	category = MIL
+	ai_mission = yes
+	
+	allow = {
+		normal_or_historical_nations = yes
+		num_of_ports = 3
+		is_subject = no
+		religion_group = christian
+		OR = {
+			technology_group = western
+			AND = {
+				technology_group = eastern
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+			AND = {
+				technology_group = ottoman
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+		}
+		OR = {
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		NOT = {
+			west_india_region = {
+				owned_by = ROOT
+			}
+			deccan_region = {
+				owned_by = ROOT
+			}
+			bengal_region = {
+				owned_by = ROOT
+			}
+			coromandel_region = {
+				owned_by = ROOT
+			}
+		}
+		NOT = { has_country_flag = western_india_mission_completed }
+		NOT = { has_country_modifier = east_india_trade_rush }
+		531 = {
+			has_port = yes
+			range = ROOT
+			has_discovered = ROOT
+			NOT = { owned_by = ROOT }
+			owner = {
+				NOT = { is_subject_of = ROOT }
+				NOT = { truce_with = ROOT }
+				NOT = { alliance_with = ROOT }
+				NOT = { technology_group = western }
+			}
+		}
+	}
+	abort = {
+		OR = {
+			NOT = { num_of_ports = 1 }
+			is_subject = yes
+			531 = {
+				owner = {
+					alliance_with = ROOT
+					technology_group = western
+					is_subject_of = ROOT
+				}
+			}
+		}
+	}
+	success = {
+		531 = {
+			owned_by =  ROOT
+		}
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 2
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		modifier = {
+			factor = 5
+			tag = POR
+		}
+		modifier = {
+			factor = 1.5
+			num_of_ports = 5
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = vice_roys
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = shrewd_commerce_practise
+		}
+		modifier = {
+			factor = 1.5
+			531 = {
+				owner = { 
+					NOT = { technology_group = western } 
+				}
+			}
+		}	
+	}
+	immediate = {
+		531 = {
+			add_claim = ROOT
+		}
+	}
+	abort_effect = {
+		531 = {
+			remove_claim = ROOT
+		}
+	}
+	effect = {
+		531 = {
+			remove_claim = ROOT
+		}
+		set_country_flag = western_india_mission_completed
+		add_country_modifier = {
+			name = "east_india_trade_rush"
+			duration = 3650
+		}
+	}
+}
+
+conquer_madras = {
+
+	type = country
+	
+	category = MIL
+	ai_mission = yes
+	
+	allow = {
+		normal_or_historical_nations = yes
+		num_of_ports = 3
+		is_subject = no
+		religion_group = christian
+		OR = {
+			technology_group = western
+			AND = {
+				technology_group = eastern
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+			AND = {
+				technology_group = ottoman
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+		}
+		OR = {
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		NOT = {
+			west_india_region = {
+				owned_by = ROOT
+			}
+			deccan_region = {
+				owned_by = ROOT
+			}
+			bengal_region = {
+				owned_by = ROOT
+			}
+			coromandel_region = {
+				owned_by = ROOT
+			}
+		}
+		NOT = { has_country_flag = western_india_mission_completed }
+		NOT = { has_country_modifier = east_india_trade_rush }
+		539 = {
+			has_port = yes
+			range = ROOT
+			has_discovered = ROOT
+			NOT = { owned_by = ROOT }
+			owner = {
+				NOT = { is_subject_of = ROOT }
+				NOT = { truce_with = ROOT }
+				NOT = { alliance_with = ROOT }
+				NOT = { technology_group = western }
+			}
+		}
+	}
+	abort = {
+		OR = {
+			NOT = { num_of_ports = 1 }
+			is_subject = yes
+			539 = {
+				owner = {
+					alliance_with = ROOT
+					technology_group = western
+					is_subject_of = ROOT
+				}
+			}
+		}
+	}
+	success = {
+		539 = {
+			owned_by =  ROOT
+		}
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 2
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		modifier = {
+			factor = 5
+			OR = {
+				tag = ENG
+				tag = GBR
+				tag = FRA
+			}
+		}
+		modifier = {
+			factor = 1.5
+			num_of_ports = 5
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = vice_roys
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = shrewd_commerce_practise
+		}
+		modifier = {
+			factor = 1.5
+			539 = {
+				owner = { 
+					NOT = { technology_group = western } 
+				}
+			}
+		}			
+	}
+	immediate = {
+		539 = {
+			add_claim = ROOT
+		}
+	}
+	abort_effect = {
+		539 = {
+			remove_claim = ROOT
+		}
+	}
+	effect = {
+		539 = {
+			remove_claim = ROOT
+		}
+		set_country_flag = western_india_mission_completed
+		add_country_modifier = {
+			name = "east_india_trade_rush"
+			duration = 3650
+		}
+	}
+}
+
+conquer_pondicherry = {
+
+	type = country
+	
+	category = MIL
+	ai_mission = yes
+	
+	allow = {
+		normal_or_historical_nations = yes
+		num_of_ports = 3
+		is_subject = no
+		religion_group = christian
+		OR = {
+			technology_group = western
+			AND = {
+				technology_group = eastern
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+			AND = {
+				technology_group = ottoman
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+		}
+		OR = {
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		NOT = {
+			west_india_region = {
+				owned_by = ROOT
+			}
+			deccan_region = {
+				owned_by = ROOT
+			}
+			bengal_region = {
+				owned_by = ROOT
+			}
+			coromandel_region = {
+				owned_by = ROOT
+			}
+		}
+		NOT = { has_country_flag = western_india_mission_completed }
+		NOT = { has_country_modifier = east_india_trade_rush }
+		540 = {
+			has_port = yes
+			range = ROOT
+			has_discovered = ROOT
+			NOT = { owned_by = ROOT }
+			owner = {
+				NOT = { is_subject_of = ROOT }
+				NOT = { truce_with = ROOT }
+				NOT = { alliance_with = ROOT }
+				NOT = { technology_group = western }
+			}
+		}
+	}
+	abort = {
+		OR = {
+			NOT = { num_of_ports = 1 }
+			is_subject = yes
+			540 = {
+				owner = {
+					alliance_with = ROOT
+					technology_group = western
+					is_subject_of = ROOT
+				}
+			}
+		}
+	}
+	success = {
+		540 = {
+			owned_by =  ROOT
+		}
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 2
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		modifier = {
+			factor = 5
+			OR = {
+				tag = ENG
+				tag = GBR
+				tag = FRA
+				tag = SWE
+				tag = DAN
+			}
+		}
+		modifier = {
+			factor = 1.5
+			num_of_ports = 5
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = vice_roys
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = shrewd_commerce_practise
+		}
+		modifier = {
+			factor = 1.5
+			540 = {
+				owner = { 
+					NOT = { technology_group = western } 
+				}
+			}
+		}			
+	}
+	immediate = {
+		540 = {
+			add_claim = ROOT
+		}
+	}
+	abort_effect = {
+		540 = {
+			remove_claim = ROOT
+		}
+	}
+	effect = {
+		540 = {
+			remove_claim = ROOT
+		}
+		set_country_flag = western_india_mission_completed
+		add_country_modifier = {
+			name = "east_india_trade_rush"
+			duration = 3650
+		}
+	}
+}
+
+conquer_diu = {
+
+	type = country
+	
+	category = MIL
+	ai_mission = yes
+	
+	allow = {
+		normal_or_historical_nations = yes
+		num_of_ports = 3
+		is_subject = no
+		religion_group = christian
+		OR = {
+			technology_group = western
+			AND = {
+				technology_group = eastern
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+			AND = {
+				technology_group = ottoman
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+		}
+		OR = {
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		NOT = {
+			west_india_region = {
+				owned_by = ROOT
+			}
+			deccan_region = {
+				owned_by = ROOT
+			}
+			bengal_region = {
+				owned_by = ROOT
+			}
+			coromandel_region = {
+				owned_by = ROOT
+			}
+		}
+		NOT = { has_country_flag = western_india_mission_completed }
+		NOT = { has_country_modifier = east_india_trade_rush }
+		515 = {
+			has_port = yes
+			range = ROOT
+			has_discovered = ROOT
+			NOT = { owned_by = ROOT }
+			owner = {
+				NOT = { is_subject_of = ROOT }
+				NOT = { truce_with = ROOT }
+				NOT = { alliance_with = ROOT }
+				NOT = { technology_group = western }
+			}
+		}
+	}
+	abort = {
+		OR = {
+			NOT = { num_of_ports = 1 }
+			is_subject = yes
+			515 = {
+				owner = {
+					alliance_with = ROOT
+					technology_group = western
+					is_subject_of = ROOT
+				}
+			}
+		}
+	}
+	success = {
+		515 = {
+			owned_by =  ROOT
+		}
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 2
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		modifier = {
+			factor = 5
+			tag = POR
+		}
+		modifier = {
+			factor = 1.5
+			num_of_ports = 5
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = vice_roys
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = shrewd_commerce_practise
+		}
+		modifier = {
+			factor = 1.5
+			515 = {
+				owner = { 
+					NOT = { technology_group = western } 
+				}
+			}
+		}			
+	}
+	immediate = {
+		515 = {
+			add_claim = ROOT
+		}
+	}
+	abort_effect = {
+		515 = {
+			remove_claim = ROOT
+		}
+	}
+	effect = {
+		515 = {
+			remove_claim = ROOT
+		}
+		set_country_flag = western_india_mission_completed
+		add_country_modifier = {
+			name = "east_india_trade_rush"
+			duration = 3650
+		}
+	}
+}
+
+conquer_calcutta = {
+
+	type = country
+	
+	category = MIL
+	ai_mission = yes
+	
+	allow = {
+		normal_or_historical_nations = yes
+		num_of_ports = 3
+		is_subject = no
+		religion_group = christian
+		OR = {
+			technology_group = western
+			AND = {
+				technology_group = eastern
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+			AND = {
+				technology_group = ottoman
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+		}
+		OR = {
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		NOT = {
+			west_india_region = {
+				owned_by = ROOT
+			}
+			deccan_region = {
+				owned_by = ROOT
+			}
+			bengal_region = {
+				owned_by = ROOT
+			}
+			coromandel_region = {
+				owned_by = ROOT
+			}
+		}
+		NOT = { has_country_flag = western_india_mission_completed }
+		NOT = { has_country_modifier = east_india_trade_rush }
+		561 = {
+			has_port = yes
+			range = ROOT
+			has_discovered = ROOT
+			NOT = { owned_by = ROOT }
+			owner = {
+				NOT = { is_subject_of = ROOT }
+				NOT = { truce_with = ROOT }
+				NOT = { alliance_with = ROOT }
+				NOT = { technology_group = western }
+			}
+		}
+	}
+	abort = {
+		OR = {
+			NOT = { num_of_ports = 1 }
+			is_subject = yes
+			561 = {
+				owner = {
+					alliance_with = ROOT
+					technology_group = western
+					is_subject_of = ROOT
+				}
+			}
+		}
+	}
+	success = {
+		561 = {
+			owned_by =  ROOT
+		}
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 2
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		modifier = {
+			factor = 5
+			OR = {
+				tag = ENG
+				tag = GBR
+			}
+		}
+		modifier = {
+			factor = 1.5
+			num_of_ports = 5
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = vice_roys
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = shrewd_commerce_practise
+		}
+		modifier = {
+			factor = 1.5
+			561 = {
+				owner = { 
+					NOT = { technology_group = western } 
+				}
+			}
+		}			
+	}
+	immediate = {
+		561 = {
+			add_claim = ROOT
+		}
+	}
+	abort_effect = {
+		561 = {
+			remove_claim = ROOT
+		}
+	}
+	effect = {
+		561 = {
+			remove_claim = ROOT
+		}
+		set_country_flag = western_india_mission_completed
+		add_country_modifier = {
+			name = "east_india_trade_rush"
+			duration = 3650
+		}
+	}
+}
+
+conquer_kotte = {
+
+	type = country
+	
+	category = MIL
+	ai_mission = yes
+	
+	allow = {
+		normal_or_historical_nations = yes
+		num_of_ports = 3
+		is_subject = no
+		religion_group = christian
+		OR = {
+			technology_group = western
+			AND = {
+				technology_group = eastern
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+			AND = {
+				technology_group = ottoman
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+		}
+		OR = {
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		NOT = {
+			west_india_region = {
+				owned_by = ROOT
+			}
+			deccan_region = {
+				owned_by = ROOT
+			}
+			bengal_region = {
+				owned_by = ROOT
+			}
+			coromandel_region = {
+				owned_by = ROOT
+			}
+		}
+		NOT = { has_country_flag = western_india_mission_completed }
+		NOT = { has_country_modifier = east_india_trade_rush }
+		572 = {
+			has_port = yes
+			range = ROOT
+			has_discovered = ROOT
+			NOT = { owned_by = ROOT }
+			owner = {
+				NOT = { is_subject_of = ROOT }
+				NOT = { truce_with = ROOT }
+				NOT = { alliance_with = ROOT }
+				NOT = { technology_group = western }
+			}
+		}
+	}
+	abort = {
+		OR = {
+			NOT = { num_of_ports = 1 }
+			is_subject = yes
+			572 = {
+				owner = {
+					alliance_with = ROOT
+					technology_group = western
+					is_subject_of = ROOT
+				}
+			}
+		}
+	}
+	success = {
+		572 = {
+			owned_by =  ROOT
+		}
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 2
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		modifier = {
+			factor = 5
+			OR = {
+				tag = ENG
+				tag = GBR
+				tag = NED
+				tag = POR
+			}
+		}
+		modifier = {
+			factor = 1.5
+			num_of_ports = 5
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = vice_roys
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = shrewd_commerce_practise
+		}
+		modifier = {
+			factor = 1.5
+			572 = {
+				owner = { 
+					NOT = { technology_group = western } 
+				}
+			}
+		}			
+	}
+	immediate = {
+		572 = {
+			add_claim = ROOT
+		}
+	}
+	abort_effect = {
+		572 = {
+			remove_claim = ROOT
+		}
+	}
+	effect = {
+		572 = {
+			remove_claim = ROOT
+		}
+		set_country_flag = western_india_mission_completed
+		add_country_modifier = {
+			name = "east_india_trade_rush"
+			duration = 3650
+		}
+	}
+}
+
+conquer_kochin = {
+
+	type = country
+	
+	category = MIL
+	ai_mission = yes
+	
+	allow = {
+		normal_or_historical_nations = yes
+		num_of_ports = 3
+		is_subject = no
+		religion_group = christian
+		OR = {
+			technology_group = western
+			AND = {
+				technology_group = eastern
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+			AND = {
+				technology_group = ottoman
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+		}
+		OR = {
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		NOT = {
+			west_india_region = {
+				owned_by = ROOT
+			}
+			deccan_region = {
+				owned_by = ROOT
+			}
+			bengal_region = {
+				owned_by = ROOT
+			}
+			coromandel_region = {
+				owned_by = ROOT
+			}
+		}
+		NOT = { has_country_flag = western_india_mission_completed }
+		NOT = { has_country_modifier = east_india_trade_rush }
+		535 = {
+			has_port = yes
+			range = ROOT
+			has_discovered = ROOT
+			NOT = { owned_by = ROOT }
+			owner = {
+				NOT = { is_subject_of = ROOT }
+				NOT = { truce_with = ROOT }
+				NOT = { alliance_with = ROOT }
+				NOT = { technology_group = western }
+			}
+		}
+	}
+	abort = {
+		OR = {
+			NOT = { num_of_ports = 1 }
+			is_subject = yes
+			535 = {
+				owner = {
+					alliance_with = ROOT
+					technology_group = western
+					is_subject_of = ROOT
+				}
+			}
+		}
+	}
+	success = {
+		535 = {
+			owned_by =  ROOT
+		}
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 2
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		modifier = {
+			factor = 5
+			tag = NED
+		}
+		modifier = {
+			factor = 1.5
+			num_of_ports = 5
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = vice_roys
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = shrewd_commerce_practise
+		}
+		modifier = {
+			factor = 1.5
+			535 = {
+				owner = { 
+					NOT = { technology_group = western } 
+				}
+			}
+		}			
+	}
+	immediate = {
+		535 = {
+			add_claim = ROOT
+		}
+	}
+	abort_effect = {
+		535 = {
+			remove_claim = ROOT
+		}
+	}
+	effect = {
+		535 = {
+			remove_claim = ROOT
+		}
+		set_country_flag = western_india_mission_completed
+		add_country_modifier = {
+			name = "east_india_trade_rush"
+			duration = 3650
+		}
+	}
+}
+
+make_base_on_spice_islands_jakarta = {
+
+	type = country
+	
+	category = DIP
+	ai_mission = yes
+	
+	allow = {
+		normal_or_historical_nations = yes
+		num_of_ports = 3
+		is_subject = no
+		religion_group = christian
+		OR = {
+			technology_group = western
+			AND = {
+				technology_group = eastern
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+			AND = {
+				technology_group = ottoman
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+		}
+		NOT = { has_country_flag = spice_islands_completed }
+		NOT = { has_country_modifier = east_india_trade_rush }
+		NOT = { tag = POR }
+		indonesia_region = {
+			has_discovered = ROOT
+			NOT = { owned_by = ROOT }
+		}
+		630 = {
+			has_discovered = ROOT
+			owner = {
+				NOT = { is_subject_of = ROOT }
+				NOT = { truce_with = ROOT }
+				NOT = { alliance_with = ROOT }
+				NOT = { technology_group = western }
+			}
+		}
+
+	}
+	abort = {
+		OR = {
+			NOT = { num_of_ports = 1 }
+			is_subject = yes
+		}
+	}
+	success = {
+		630 = {
+			owned_by =  ROOT
+		}
+	}
+	immediate = {
+		630 = {
+			add_claim = ROOT
+		}
+	}
+	abort_effect = {
+		630 = {
+			remove_claim = ROOT
+		}
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 2
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		modifier = {
+			factor = 1.5
+			num_of_ports = 5
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = vice_roys
+		}
+		modifier = {
+			factor = 2
+			num_of_colonists = 2
+		}
+		modifier = {
+			factor = 2
+			num_of_colonists = 3
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = quest_for_the_new_world
+		}
+	}
+	effect = {
+		set_country_flag = spice_islands_completed
+		add_country_modifier = {
+			name = "east_india_trade_rush"
+			duration = 3650
+		}
+	}
+}
+
+make_base_on_spice_islands_pasai = {
+
+	type = country
+	
+	category = DIP
+	ai_mission = yes
+	
+	allow = {
+		normal_or_historical_nations = yes
+		num_of_ports = 3
+		is_subject = no
+		religion_group = christian
+		OR = {
+			technology_group = western
+			AND = {
+				technology_group = eastern
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+			AND = {
+				technology_group = ottoman
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+		}
+		NOT = { has_country_flag = spice_islands_completed }
+		NOT = { has_country_modifier = east_india_trade_rush }
+		NOT = { tag = POR }
+		indonesia_region = {
+			has_discovered = ROOT
+			NOT = { owned_by = ROOT }
+		}
+		2399 = {
+			has_discovered = ROOT
+			owner = {
+				NOT = { is_subject_of = ROOT }
+				NOT = { truce_with = ROOT }
+				NOT = { alliance_with = ROOT }
+				NOT = { technology_group = western }
+			}
+		}
+
+	}
+	abort = {
+		OR = {
+			NOT = { num_of_ports = 1 }
+			is_subject = yes
+		}
+	}
+	success = {
+		2399 = {
+			owned_by =  ROOT
+		}
+	}
+	immediate = {
+		2399 = {
+			add_claim = ROOT
+		}
+	}
+	abort_effect = {
+		2399 = {
+			remove_claim = ROOT
+		}
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 2
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		modifier = {
+			factor = 1.5
+			num_of_ports = 5
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = vice_roys
+		}
+		modifier = {
+			factor = 2
+			num_of_colonists = 2
+		}
+		modifier = {
+			factor = 2
+			num_of_colonists = 3
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = quest_for_the_new_world
+		}
+	}
+	effect = {
+		set_country_flag = spice_islands_completed
+		add_country_modifier = {
+			name = "east_india_trade_rush"
+			duration = 3650
+		}
+	}
+}
+
+make_base_on_spice_islands_makassar = {
+
+	type = country
+	
+	category = DIP
+	ai_mission = yes
+	
+	allow = {
+		normal_or_historical_nations = yes
+		num_of_ports = 3
+		is_subject = no
+		religion_group = christian
+		OR = {
+			technology_group = western
+			AND = {
+				technology_group = eastern
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+			AND = {
+				technology_group = ottoman
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+		}
+		NOT = { has_country_flag = spice_islands_completed }
+		NOT = { has_country_modifier = east_india_trade_rush }
+		NOT = { tag = POR }
+		indonesia_region = {
+			has_discovered = ROOT
+			NOT = { owned_by = ROOT }
+		}
+		641 = {
+			has_discovered = ROOT
+			owner = {
+				NOT = { is_subject_of = ROOT }
+				NOT = { truce_with = ROOT }
+				NOT = { alliance_with = ROOT }
+				NOT = { technology_group = western }
+			}
+		}
+
+	}
+	abort = {
+		OR = {
+			NOT = { num_of_ports = 1 }
+			is_subject = yes
+		}
+	}
+	success = {
+		641 = {
+			owned_by =  ROOT
+		}
+	}
+	immediate = {
+		641 = {
+			add_claim = ROOT
+		}
+	}
+	abort_effect = {
+		641 = {
+			remove_claim = ROOT
+		}
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 2
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		modifier = {
+			factor = 1.5
+			num_of_ports = 5
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = vice_roys
+		}
+		modifier = {
+			factor = 2
+			num_of_colonists = 2
+		}
+		modifier = {
+			factor = 2
+			num_of_colonists = 3
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = quest_for_the_new_world
+		}
+	}
+	effect = {
+		set_country_flag = spice_islands_completed
+		add_country_modifier = {
+			name = "east_india_trade_rush"
+			duration = 3650
+		}
+	}
+}
+
+#Get Foothold in China:
+
+conquer_macau = {
+
+	type = country
+	
+	category = MIL
+	#ai_mission = yes
+	
+	allow = {
+		normal_or_historical_nations = yes
+		num_of_ports = 5
+		monthly_income = 100
+		is_subject = no
+		religion_group = christian
+		OR = {
+			technology_group = western
+			AND = {
+				technology_group = eastern
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+			AND = {
+				technology_group = ottoman
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+		}
+		OR = {
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		NOT = { has_country_flag = chinese_port_taken }
+		NOT = { has_country_modifier = east_india_trade_rush }
+		668 = {
+			has_port = yes
+			range = ROOT
+			has_discovered = ROOT
+			NOT = { owned_by = ROOT }
+			owner = {
+				NOT = { is_subject_of = ROOT }
+				NOT = { truce_with = ROOT }
+				NOT = { alliance_with = ROOT }
+				NOT = { technology_group = western }
+			}
+		}
+		NOT = {
+			668 = {
+				owned_by =  ROOT
+			}
+		}
+		OR = {
+			coromandel_region = {
+				owned_by =  ROOT
+			}
+			west_india_region = {
+				owned_by =  ROOT
+			}
+			deccan_region = {
+				owned_by =  ROOT
+			}
+			bengal_region = {
+				owned_by =  ROOT
+			}
+		}
+	}
+	abort = {
+		OR = {
+			NOT = { num_of_ports = 1 }
+			is_subject = yes
+		}
+	}
+	success = {
+		668 = {
+			owned_by =  ROOT
+		}
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 2
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}			
+		modifier = {
+			factor = 1.5
+			num_of_ports = 10
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = vice_roys
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = shrewd_commerce_practise
+		}
+		modifier = {
+			factor = 1.5
+			668 = {
+				owner = { 
+					NOT = { technology_group = western } 
+				}
+			}
+		}			
+	}
+	immediate = {
+		668 = {
+			add_claim = ROOT
+		}
+	}
+	abort_effect = {
+		668 = {
+			remove_claim = ROOT
+		}
+	}
+	effect = {
+		set_country_flag = chinese_port_taken
+		add_country_modifier = {
+			name = "east_india_trade_rush"
+			duration = 3650
+		}
+		668 = {
+			remove_claim = ROOT
+		}
+	}
+}
+
+conquer_ningbo = {
+
+	type = country
+	
+	category = MIL
+	#ai_mission = yes
+	
+	allow = {
+		normal_or_historical_nations = yes
+		num_of_ports = 5
+		monthly_income = 100
+		religion_group = christian
+		is_subject = no
+		OR = {
+			technology_group = western
+			AND = {
+				technology_group = eastern
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+			AND = {
+				technology_group = ottoman
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+		}
+		OR = {
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		NOT = { has_country_flag = chinese_port_taken }
+		NOT = { has_country_modifier = east_india_trade_rush }
+		2480 = {
+			has_port = yes
+			range = ROOT
+			has_discovered = ROOT
+			NOT = { owned_by = ROOT }
+			owner = {
+				NOT = { is_subject_of = ROOT }
+				NOT = { truce_with = ROOT }
+				NOT = { alliance_with = ROOT }
+				NOT = { technology_group = western }
+			}
+		}
+		NOT = {
+			2480 = {
+				owned_by =  ROOT
+			}
+		}
+		OR = {
+			coromandel_region = {
+				owned_by =  ROOT
+			}
+			west_india_region = {
+				owned_by =  ROOT
+			}
+			deccan_region = {
+				owned_by =  ROOT
+			}
+			bengal_region = {
+				owned_by =  ROOT
+			}
+		}
+	}
+	abort = {
+		OR = {
+			NOT = { num_of_ports = 1 }
+			is_subject = yes
+		}
+	}
+	success = {
+		2480 = {
+			owned_by =  ROOT
+		}
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 2
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}		
+		modifier = {
+			factor = 1.5
+			num_of_ports = 10
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = vice_roys
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = shrewd_commerce_practise
+		}
+		modifier = {
+			factor = 1.5
+			2480 = {
+				owner = { 
+					NOT = { technology_group = western } 
+				}
+			}
+		}			
+	}
+	immediate = {
+		2480 = {
+			add_claim = ROOT
+		}
+	}
+	abort_effect = {
+		2480 = {
+			remove_claim = ROOT
+		}
+	}
+	effect = {
+		set_country_flag = chinese_port_taken
+		add_country_modifier = {
+			name = "east_india_trade_rush"
+			duration = 3650
+		}
+		2480 = {
+			remove_claim = ROOT
+		}
+	}
+}
+	
+conquer_canton = {
+
+	type = country
+	
+	category = MIL
+	#ai_mission = yes
+	
+	allow = {
+		normal_or_historical_nations = yes
+		num_of_ports = 5
+		monthly_income = 100
+		religion_group = christian
+		is_subject = no
+		OR = {
+			technology_group = western
+			AND = {
+				technology_group = eastern
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+			AND = {
+				technology_group = ottoman
+				has_idea_group = expansion_ideas
+				has_idea_group = exploration_ideas
+				ai = no
+			}
+		}
+		OR = {
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}
+		NOT = { has_country_flag = chinese_port_taken }
+		NOT = { has_country_modifier = east_india_trade_rush }
+		667 = {
+			has_port = yes
+			range = ROOT
+			has_discovered = ROOT
+			NOT = { owned_by = ROOT }
+			owner = {
+				NOT = { is_subject_of = ROOT }
+				NOT = { truce_with = ROOT }
+				NOT = { alliance_with = ROOT }
+				NOT = { technology_group = western }
+			}
+		}
+		NOT = {
+			667 = {
+				owned_by =  ROOT
+			}
+		}
+		OR = {
+			coromandel_region = {
+				owned_by =  ROOT
+			}
+			west_india_region = {
+				owned_by =  ROOT
+			}
+			deccan_region = {
+				owned_by =  ROOT
+			}
+			bengal_region = {
+				owned_by =  ROOT
+			}
+		}
+	}
+	abort = {
+		OR = {
+			NOT = { num_of_ports = 1 }
+			is_subject = yes
+		}
+	}
+	success = {
+		667 = {
+			owned_by =  ROOT
+		}
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 5
+			has_idea_group = expansion_ideas
+			has_idea_group = exploration_ideas
+		}		
+		modifier = {
+			factor = 1.5
+			num_of_ports = 10
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = vice_roys
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = shrewd_commerce_practise
+		}
+		modifier = {
+			factor = 1.5
+			667 = {
+				owner = { 
+					NOT = { technology_group = western } 
+				}
+			}
+		}			
+	}
+	immediate = {
+		667 = {
+			add_claim = ROOT
+		}
+	}
+	abort_effect = {
+		667 = {
+			remove_claim = ROOT
+		}
+	}
+	effect = {
+		set_country_flag = chinese_port_taken
+		add_country_modifier = {
+			name = "east_india_trade_rush"
+			duration = 3650
+		}
+		667 = {
+			remove_claim = ROOT
+		}
+	}
+}	

@@ -1,0 +1,6 @@
+#1381 - Bay of Ayan
+
+1647.1.1 = { discovered_by = RUS }
+
+
+

@@ -1,0 +1,112 @@
+government = constitutional_republic
+mercantilism = 0.1
+primary_culture = filipino
+religion = catholic
+technology_group = early_chinese
+capital = 656
+
+750.1.1 = { technology_group = chinese }
+
+1910.1.1 = { religion = secularism }
+1920.1.1 = { technology_group = asian }
+
+1946.7.4 = {
+	monarch = {
+		name = "Manuel Roxas"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1948.4.17 = {
+	monarch = {
+		name = "Elpidio Quirino"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1953.12.30 = {
+	monarch = {
+		name = "Ramon Magsaysay"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1957.3.18 = {
+	monarch = {
+		name = "Carlos Garcia"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1961.12.30 = {
+	monarch = {
+		name = "Diosdado Macapagal"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1965.12.30 = {
+	monarch = {
+		name = "Ferdinand Marcos"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1986.2.25 = {
+	monarch = {
+		name = "Corazon Aquino"
+		adm = 4
+		dip = 3
+		mil = 2
+		female = yes
+	}
+}
+
+1992.6.30 = {
+	monarch = {
+		name = "Fidel Ramos"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1998.6.30 = {
+	monarch = {
+		name = "Jospeh Estrada"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+2001.1.20 = {
+	monarch = {
+		name = "Gloria Macapagal-Arroyo"
+		adm = 3
+		dip = 4
+		mil = 2
+		female = yes
+	}
+}
+
+2010.6.30 = {
+	monarch = {
+		name = "Benigno Aquino III"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}

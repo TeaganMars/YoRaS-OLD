@@ -1,0 +1,127 @@
+government = barbarian_tribe
+mercantilism = 0.1
+primary_culture = gothic
+religion = germanic
+technology_group = barbarian
+capital = 256
+
+2.1.1 = {
+	monarch = {
+		name = "Gothus"
+		dynasty = "Goth"
+		birth_date = -28.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+20.1.1 = {
+	heir = {
+		name = "Berig"
+		monarch_name = "Berig"
+		dynasty = "Goth"
+		birth_date = 20.1.1
+		death_date = 110.1.1
+		claim = 95
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+}
+
+50.1.1 = {
+	monarch = {
+		name = "Berig"
+		dynasty = "Goth"
+		birth_date = 20.1.1
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+}
+
+90.1.1 = {
+	heir = {
+		name = "Gadaric"
+		monarch_name = "Gadaric"
+		dynasty = "Goth"
+		birth_date = 90.1.1
+		death_date = 170.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+110.1.1 = {
+	monarch = {
+		name = "Gadaric"
+		dynasty = "Goth"
+		birth_date = 90.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+150.1.1 = {
+	heir = {
+		name = "Filimer"
+		monarch_name = "Filimer"
+		dynasty = "Goth"
+		birth_date = 150.1.1
+		death_date = 220.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+170.1.1 = {
+	monarch = {
+		name = "Filimer"
+		dynasty = "Goth"
+		birth_date = 150.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+250.1.1 = { capital = 284 } #Crimea
+
+370.1.1 = {
+	monarch = {
+		name = "(interregnum)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+480.1.1 = {
+	monarch = {
+		name = "Saldil"
+		dynasty = "Goth"
+		birth_date = 460.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+550.1.1 = {
+	monarch = {
+		name = "(interregnum)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+600.1.1 = { government = feudal_monarchy technology_group = western }

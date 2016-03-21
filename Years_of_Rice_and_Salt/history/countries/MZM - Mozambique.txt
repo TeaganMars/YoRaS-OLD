@@ -1,0 +1,56 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -5
+#centralization_decentralization = 5
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -5
+#quality_quantity = 2
+#serfdom_freesubjects = -5
+primary_culture = bantu
+religion = catholic
+technology_group = muslim
+capital = 1182
+
+1910.1.1 = { religion = secularism }
+
+1975.6.25 = {
+	monarch = {
+		name = "Samora Moisés Machel"
+		adm = 4
+		mil = 3
+		dip = 4
+	}
+}
+
+1986.10.19 = {
+	government = communist_dictatorship
+	monarch = {
+		name = "Joaquim Chissano"
+		adm = 5
+		mil = 1
+		dip = 4
+	}
+}
+
+1986.11.6 = { government = socialist_republic }
+1990.12.1 = { government = constitutional_republic }
+
+2005.2.2 = {
+	monarch = {
+		name = "Armando Guebuza"
+		adm = 3
+		mil = 4
+		dip = 4
+	}
+}
+
+2015.1.15 = {
+	monarch = {
+		name = "Filipe Nyusi"
+		adm = 3
+		mil = 3
+		dip = 4
+	}
+}

@@ -1,0 +1,147 @@
+government = feudal_monarchy
+government_rank = 1
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 0
+#serfdom_freesubjects = -4
+technology_group = western
+primary_culture = hannoverian
+religion = catholic
+capital = 1857	# Lauenburg
+
+
+# Dukes of Saxe-Lauenburg
+1296.1.1 = {
+	monarch = {
+		name = "Erich I"
+		dynasty = "Askanier"
+		dip = 4
+		adm = 4
+		mil = 3
+	}
+}
+
+1338.1.1 = {
+	monarch = {
+		name = "Erich II"
+		dynasty = "Askanier"
+		dip = 3
+		adm = 2
+		mil = 3
+	}
+}
+
+1368.1.1 = {
+	monarch = {
+		name = "Erich IV"
+		dynasty = "Askanier"
+		dip = 4
+		adm = 3
+		mil = 3
+	}
+}
+
+1411.6.21 = {
+	monarch = {
+		name = "Erich V"
+		dynasty = "Askanier"
+		dip = 2
+		mil = 0
+		adm = 4
+	}
+}
+
+1426.1.1 = {
+	monarch = {
+		name = "Bernhard II"
+		dynasty = "Askanier"
+		dip = 3
+		mil = 1
+		adm = 3
+	}
+}
+
+1463.1.1 = {
+	monarch = {
+		name = "Johann V"
+		dynasty = "Askanier"
+		dip = 1
+		mil = 2
+		adm = 2
+	}
+}
+
+1507.1.1 = {
+	monarch = {
+		name = "Magnus I"
+		dynasty = "Askanier"
+		dip = 2
+		mil = 1
+		adm = 3
+	}
+}
+
+1543.1.1 = {
+	monarch = {
+		name = "Franz I"
+		dynasty = "Askanier"
+		dip = 2
+		mil = 2
+		adm = 4
+	}
+}
+
+1586.1.1 = {
+	monarch = {
+		name = "Franz II"
+		dynasty = "Askanier"
+		dip = 1
+		mil = 1
+		adm = 3
+	}
+}
+	
+1619.1.1 = {
+	monarch = {
+		name = "August"
+		dynasty = "Askanier"
+		dip = 2
+		mil = 3
+		adm = 1
+	}
+}
+
+1656.1.1 = {
+	monarch = {
+		name = "Julius Heinrich"
+		dynasty = "Askanier"
+		dip = 2
+		mil = 3
+		adm = 1
+	}
+}
+
+1665.1.1 = {
+	monarch = {
+		name = "Francis Erdmann"
+		dynasty = "Askanier"
+		dip = 1
+		mil = 0
+		adm = 0
+	}
+}
+
+1666.1.1 = {
+	monarch = {
+		name = "Julius Franz"
+		dynasty = "Askanier"
+		dip = 2
+		mil = 2
+		adm = 0
+	}
+}

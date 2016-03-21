@@ -1,0 +1,64 @@
+government = tribal_despotism
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 4
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -3
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = shiite
+capital = 394
+
+899.1.1 = {
+	monarch = {
+		name = "Abu-Sa'id Jannabi"
+		dynasty = "Qarmatian"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+923.1.1 = {
+	monarch = {
+		name = "Abu-Tahir Al-Jannabi"
+		dynasty = "Qarmatian"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+944.1.1 = {
+	monarch = {
+		name = "Ahmad Abu Tahir"
+		dynasty = "Qarmatian"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+970.1.1 = {
+	monarch = {
+		name = "Abul Kassim Sa'id"
+		dynasty = "Qarmatian"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+972.1.1 = {
+	monarch = {
+		name = "Abu Yaqub Yousuf"
+		dynasty = "Qarmatian"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}

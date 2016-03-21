@@ -1,0 +1,180 @@
+government = barbarian_tribe
+mercantilism = 0.1
+primary_culture = vandal
+religion = germanic
+technology_group = barbarian
+capital = 264
+
+2.1.1 = {
+	monarch = {
+		name = "Aurvandil"
+		dynasty = "Vandal"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+70.1.1 = {
+	monarch = {
+		name = "Raus"
+		dynasty = "Vandal"
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+150.1.1 = {
+	monarch = {
+		name = "Rapt"
+		dynasty = "Vandal"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+180.1.1 = {
+	monarch = {
+		name = "Rag"
+		dynasty = "Vandal"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+230.1.1 = {
+	monarch = {
+		name = "Argait"
+		dynasty = "Asding"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+240.1.1 = {
+	monarch = {
+		name = "Gunteric"
+		dynasty = "Asding"
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+
+260.1.1 = {
+	monarch = {
+		name = "Crocus"
+		dynasty = "Asding"
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+
+300.1.1 = {
+	monarch = {
+		name = "Wisimar"
+		dynasty = "Asding"
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+}
+#died 335
+
+350.1.1 = { capital = 66 } #Central Germany
+
+359.1.1 = {
+	monarch = {
+		name = "Godigisel"
+		dynasty = "Asding"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+407.1.1 = {
+	religion = arianism
+	monarch = {
+		name = "Gunderic"
+		dynasty = "Asding"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+409.1.1 = { capital = 223 } #Southern Spain
+
+428.6.1 = {
+	monarch = {
+		name = "Genseric"
+		dynasty = "Asding"
+		adm = 5
+		dip = 4
+		mil = 3
+                leader = { name = "Genseric" type = general rank = 0 fire = 3 shock = 5	manuever = 3 siege = 0 }
+	}
+}
+
+432.1.1 = { capital = 1882 } #Hippo Regius
+439.1.1 = { capital = 431 } #Carthage
+
+477.1.1 = {
+	monarch = {
+		name = "Huneric"
+		dynasty = "Asding"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+480.1.1 = { government = feudal_monarchy }
+
+484.1.1 = {
+	monarch = {
+		name = "Gunthamund"
+		dynasty = "Asding"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+496.6.1 = {
+	monarch = {
+		name = "Tharasmund"
+		dynasty = "Asding"
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+}
+
+523.6.1 = {
+	monarch = {
+		name = "Hilderic"
+		dynasty = "Asding"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+530.6.1 = {
+	monarch = {
+		name = "Gelimer"
+		dynasty = "Asding"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+536.1.1 = { technology_group = western }

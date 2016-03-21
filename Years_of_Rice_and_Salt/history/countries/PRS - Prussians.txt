@@ -1,0 +1,61 @@
+government = barbarian_tribe
+government_rank = 1
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 1
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -2
+#quality_quantity = -1
+#serfdom_freesubjects = -3
+primary_culture = old_prussian
+religion = romuva
+technology_group = barbarian
+capital = 41
+
+400.1.1 = { government = tribal_despotism }
+600.1.1 = { technology_group = eastern }
+
+990.1.1 = {
+	monarch = {
+		name = "Auctume"
+		dynasty = "Prussian"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+1100.1.1 = {
+	monarch = {
+		name = "Diwanus"
+		dynasty = "Prussian"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1180.1.1 = {
+	monarch = {
+		name = "Herkus Monte"
+		dynasty = "Prussian"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+}
+
+1220.1.1 = {
+	monarch = {
+		name = "Glande"
+		dynasty = "Prussian"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1252.1.1 = { religion = catholic }
+1252.1.1 = { government = feudal_monarchy }

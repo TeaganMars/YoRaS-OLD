@@ -1,0 +1,116 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = muslim
+unit_type = sub_saharan
+religion = sunni
+primary_culture = somali
+capital = 1212	# Zeila
+
+1285.1.1 = {
+	monarch = {
+		name= "Ali I"
+		dynasty = "Walashma"
+		dip = 2
+		mil = 3
+		adm = 2
+	}
+}
+
+1310.1.1 = {
+	monarch = {
+		name= "Haqq ad-Din I"
+		dynasty = "Walashma"
+		dip = 3
+		mil = 3
+		adm = 3
+	}
+}
+
+1330.1.1 = {
+	monarch = {
+		name= "Sabr ad-Din I"
+		dynasty = "Walashma"
+		dip = 2
+		mil = 4
+		adm = 3
+	}
+}
+
+1344.1.1 = {
+	monarch = {
+		name= "Ali II"
+		dynasty = "Walashma"
+		dip = 2
+		mil = 2
+		adm = 4
+	}
+}
+
+1365.1.1 = {
+	monarch = {
+		name= "Ahmad"
+		dynasty = "Walashma"
+		dip = 3
+		mil = 3
+		adm = 1
+	}
+}
+
+1370.1.1 = {
+	monarch = {
+		name= "Haqq ad-Din II"
+		dynasty = "Walashma"
+		dip = 3
+		mil = 2
+		adm = 3
+	}
+}
+
+1386.1.1 = {
+	monarch = {
+		name= "Sa'ad al-Din"
+		dynasty = "Walashma"
+		dip = 3
+		mil = 3
+		adm = 1
+	}
+}
+
+1386.1.1 = {
+	heir = {
+		name = "Sabr al-Din"
+		monarch_name = "Sabr al-Din II"
+		dynasty = "Walashama"
+		birth_date = 1386.1.1
+		death_date = 1422.1.1
+		claim = 95
+		dip = 1
+		mil = 1
+		adm = 2
+	}
+}
+		
+
+1403.1.1 = {
+	monarch = {
+		name= "Sabr al-Din"
+		dynasty = "Walashma"
+		dip = 1
+		mil = 1
+		adm = 2
+	}
+}
+
+1403.1.1 = {
+	heir = {
+		name = "Mansur al-Din"
+		monarch_name = "Mansur al-Din"
+		dynasty = "Walashma"
+		birth_date = 1400.1.1
+		death_date = 1424.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}

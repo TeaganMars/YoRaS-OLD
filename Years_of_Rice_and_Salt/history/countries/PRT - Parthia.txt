@@ -1,0 +1,171 @@
+government = despotic_monarchy
+government_rank = 3
+mercantilism = 0.1
+primary_culture = parthian
+religion = zoroastrian
+technology_group = middle_eastern
+capital = 410 # Ctesiphon
+
+2.1.1 = {
+	monarch = {
+		name = "Phraates V"
+		dynasty = "Arsacid"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+4.1.1 = {
+	monarch = {
+		name = "Orodes III"
+		dynasty = "Arsacid"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+8.1.1 = {
+	monarch = {
+		name = "Vonones I"
+		dynasty = "Arsacid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+12.1.1 = {
+	monarch = {
+		name = "Artabanus III"
+		dynasty = "Arsacid"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+40.1.1 = {
+	monarch = {
+		name = "Gotarzes II"
+		dynasty = "Arsacid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+51.1.1 = {
+	monarch = {
+		name = "Vologases I"
+		dynasty = "Arsacid"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+77.1.1 = {
+	monarch = {
+		name = "Vologases II"
+		dynasty = "Arsacid"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+79.1.1 = {
+	monarch = {
+		name = "Pacorus II"
+		dynasty = "Arsacid"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+105.1.1 = {
+	monarch = {
+		name = "Osroes I"
+		dynasty = "Arsacid"
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+116.1.1 = { capital = 414 } # Ecbatana
+
+116.1.1 = {
+	monarch = {
+		name = "Parthamaspates"
+		dynasty = "Arsacid"
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+117.1.1 = {
+	monarch = {
+		name = "Osroes I"
+		dynasty = "Arsacid"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+118.1.1 = { capital = 410 } # Ctesiphon
+
+129.1.1 = {
+	monarch = {
+		name = "Mithridates IV"
+		dynasty = "Arsacid"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+140.1.1 = {
+	monarch = {
+		name = "Vologases III"
+		dynasty = "Arsacid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+147.1.1 = {
+	monarch = {
+		name = "Vologases IV"
+		dynasty = "Arsacid"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+191.1.1 = {
+	monarch = {
+		name = "Vologases V"
+		dynasty = "Arsacid"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+208.1.1 = {
+	monarch = {
+		name = "Vologases V"
+		dynasty = "Arsacid"
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}

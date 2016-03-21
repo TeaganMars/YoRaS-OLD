@@ -1,0 +1,309 @@
+government = revolutionary_republic
+government_rank = 3
+mercantilism = 0.1
+primary_culture = chihan
+culture_group_union = east_asian
+religion = confucianism
+technology_group = early_chinese
+capital = 1821	# Nanjing
+
+750.1.1 = { technology_group = chinese }
+
+1912.1.1 = {
+	monarch = {
+		name = "Sun Yat-sen"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+1912.2.12 = { religion = secularism technology_group = asian }
+
+1912.3.10 = {
+	capital = 1816	# Beijing
+	monarch = {
+		name = "Yuan Shikai"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+1915.12.22 = { government = absolute_monarchy }
+1916.3.22 = { government = revolutionary_republic }
+
+1916.6.7 = {
+	monarch = {
+		name = "Li Yuanhong"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+1917.7.1 = {
+	government = absolute_monarchy
+	monarch = {
+		name = "Puyi"
+		dynasty = "Qing"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1917.7.12 = {
+	government = constitutional_republic
+	government_rank = 2
+	monarch = {
+		name = "Li Yuanhong"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+1917.7.17 = {
+	monarch = {
+		name = "Feng Guozhang"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1918.10.10 = {
+	monarch = {
+		name = "Xu Shichang"
+		adm = 5
+		mil = 5
+		dip = 4
+	}
+}
+
+1922.6.2 = {
+	monarch = {
+		name = "Zhou Ziqi"
+		adm = 2
+		mil = 1
+		dip = 2
+	}
+}
+
+1922.6.11 = {
+	monarch = {
+		name = "Li Yuanhong"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+1923.6.13 = {
+	monarch = {
+		name = "Zhang Shaozeng"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1922.9.9 = {
+	monarch = {
+		name = "Gao Lingwei"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1923.10.10 = {
+	monarch = {
+		name = "Cao Kun"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1924.11.2 = {
+	monarch = {
+		name = "Huang Fu"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1924.11.24 = {
+	monarch = {
+		name = "Duan Qirui"
+		adm = 3
+		mil = 4
+		dip = 4
+	}
+}
+
+1926.4.20 = {
+	monarch = {
+		name = "Hu Weide"
+		adm = 1
+		mil = 1
+		dip = 4
+	}
+}
+
+1926.5.13 = {
+	monarch = {
+		name = "Yan Huiqing"
+		adm = 2
+		mil = 1
+		dip = 2
+	}
+}
+
+1926.6.22 = {
+	monarch = {
+		name = "Da Xigui"
+		adm = 3
+		mil = 1
+		dip = 1
+	}
+}
+
+1926.10.1 = {
+	monarch = {
+		name = "Wellington Koo"
+		adm = 1
+		mil = 2
+		dip = 2
+	}
+}
+
+1927.4.18 = {
+	capital = 1821
+	monarch = {
+		name = "Chiang Kai-shek"
+		adm = 3
+		mil = 5
+		dip = 2
+	}
+}
+
+1927.8.15 = {
+	monarch = {
+		name = "Tan Yankai"
+		adm = 3
+		mil = 4
+		dip = 2
+	}
+}
+
+1928.10.10 = {
+	capital = 682
+	monarch = {
+		name = "Chiang Kai-shek"
+		adm = 3
+		mil = 5
+		dip = 2
+	}
+}
+
+1931.12.15 = {
+	monarch = {
+		name = "Lin Sen"
+		adm = 4
+		mil = 3
+		dip = 2
+	}
+}
+
+1937.1.1 = { capital = 680 }
+
+1943.8.1 = {
+	monarch = {
+		name = "Chiang Kai-shek"
+		adm = 3
+		mil = 5
+		dip = 2
+	}
+}
+
+1948.5.20 = { capital = 1821 }
+
+1949.1.21 = {
+	monarch = {
+		name = "Li Zongren"
+		adm = 2
+		mil = 1
+		dip = 2
+	}
+}
+
+1949.10.1 = {
+	government = communist_dictatorship
+	capital = 1816
+	monarch = {
+		name = "Mao Zedong"
+		adm = 6
+		mil = 5
+		dip = 5
+	}
+}
+
+1976.10.7 = {
+	government = socialist_republic
+	monarch = {
+		name = "Hua Guofeng"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1981.6.28 = {
+	monarch = {
+		name = "Hu Yaobang"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+1987.1.15 = {
+	monarch = {
+		name = "Zhao Ziyang"
+		adm = 3
+		mil = 3
+		dip = 3
+	}
+}
+
+1989.6.23 = {
+	monarch = {
+		name = "Jiang Zemin"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+2002.11.15 = {
+	monarch = {
+		name = "Hu Jintao"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+2012.11.15 = {
+	monarch = {
+		name = "Xi Jinping"
+		adm = 3
+		mil = 3
+		dip = 5
+	}
+}
+

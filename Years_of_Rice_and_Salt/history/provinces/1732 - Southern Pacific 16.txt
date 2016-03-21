@@ -1,0 +1,6 @@
+#1732 - Kiribati Islands
+
+1568.1.1 = { discovered_by = SPA }
+
+
+

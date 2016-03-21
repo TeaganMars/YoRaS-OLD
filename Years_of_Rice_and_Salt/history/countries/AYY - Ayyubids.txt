@@ -1,0 +1,99 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = al_misr_arabic
+religion = sunni
+technology_group = muslim
+capital = 361	# Cairo
+
+1171.1.1={
+	monarch={
+		name="Saladin"
+		dynasty="Ayyubid"
+		dip = 6
+		adm = 5
+		mil = 6
+	}
+}
+		
+1193.3.4={
+	monarch={
+		name="Al-Aziz Uthman"
+		dynasty="Ayyubid"
+		dip = 4
+		adm = 5
+		mil = 4
+	}
+}
+
+1198.11.29={
+	monarch={
+		name="Al-Mansur Muhammad"
+		dynasty="Ayyubid"
+		dip = 4
+		adm = 5
+		mil = 4
+	}
+}
+
+1200.6.1={
+	monarch={
+		name="Al-Adil Sayf al-Din Abu Bakr I"
+		dynasty="Ayyubid"
+		dip = 4
+		adm = 5
+		mil = 4
+	}
+}
+
+1218.6.1={
+	monarch={
+		name="Al-Kamil"
+		dynasty="Ayyubid"
+		dip = 4
+		adm = 5
+		mil = 4
+	}
+}
+
+1238.6.1={
+	monarch={
+		name="Al-Adil Sayf al-Din Abu Bakr II"
+		dynasty="Ayyubid"
+		dip = 4
+		adm = 5
+		mil = 4
+	}
+}
+
+1240.6.1={
+	monarch={
+		name="As-Salih Ayyub"
+		dynasty="Ayyubid"
+		dip = 4
+		adm = 5
+		mil = 4
+	}
+}
+
+1249.11.22={
+	monarch={
+		name="Al-Mu'azzam Turan-Shah"
+		dynasty="Ayyubid"
+		dip = 4
+		adm = 5
+		mil = 4
+	}
+}
+
+1250.1.1 = { capital = 382 }
+
+1250.6.1={
+	monarch={
+		name="Al-Ashraf Musa"
+		dynasty="Ayyubids"
+		dip = 4
+		adm = 5
+		mil = 4
+	}
+}
+

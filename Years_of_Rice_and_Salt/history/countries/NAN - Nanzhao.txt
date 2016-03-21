@@ -1,0 +1,17 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -3
+#quality_quantity = 0
+#serfdom_freesubjects = -4
+technology_group = early_chinese
+religion = vajrayana
+primary_culture = cantonese
+capital = 662	# Yunnan
+
+
+750.1.1 = { technology_group = chinese }

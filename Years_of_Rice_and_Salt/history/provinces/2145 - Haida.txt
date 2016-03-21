@@ -1,0 +1,27 @@
+#2145 - Haida
+
+owner = HDA
+controller = HDA
+add_core = HDA
+is_city = yes
+culture = haida
+religion = totemism 
+capital = "Haida"
+trade_goods = fish
+hre = no 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = north_american
+
+1741.1.1 = { discovered_by = RUS } # Vitus Bering
+1778.1.1 = { discovered_by = GBR } # James Cook
+
+1908.1.1  = {	owner = CAN
+		controller = CAN
+		add_core = CAN
+		remove_core = HDA
+		culture = english
+		religion = protestant
+		capital = "Queen Charlotte"
+	      }

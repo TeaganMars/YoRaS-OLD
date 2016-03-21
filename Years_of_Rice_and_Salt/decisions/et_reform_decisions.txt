@@ -1,0 +1,313 @@
+country_decisions = {
+
+	barbarian_government_reform = {
+		major = yes
+		potential = {
+			government = barbarian_tribe
+		}
+		allow = {
+			is_at_war = no
+			adm_tech = 17
+			adm_power = 100
+			OR = {
+				adm_tech = 21
+				religion_group = christian
+				religion_group = muslim
+				religion = zoroastrian
+				religion = jewish
+			}
+		}
+		effect = {
+			add_adm_power = -100
+			add_stability = -1
+			change_government = feudal_monarchy
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	barbarian_technology_reform = {
+		major = yes
+		potential = {
+			technology_group = barbarian
+		}
+		allow = {
+			is_at_war = no
+			adm_tech = 19
+			adm_power = 100
+			NOT = { government = barbarian_tribe }
+			NOT = { government = tribal_despotism }
+			NOT = { government = tribal_democracy }
+			NOT = { government = tribal_federation }
+		}
+		effect = {
+			add_adm_power = -100
+			add_stability = -1
+			if = {
+				limit = { 
+					OR = {
+						culture_group = germanic
+						culture_group = scandinavian
+						culture_group = british
+						culture_group = gaelic
+						culture_group = latin
+						culture_group = iberian
+						culture_group = french
+						primary_culture = basque
+					}
+				}
+				change_technology_group = western
+				change_unit_type = western
+			}
+			if = {
+				limit = {
+					NOT = { culture_group = germanic }
+					NOT = { culture_group = scandinavian }
+					NOT = { culture_group = british }
+					NOT = { culture_group = gaelic }
+					NOT = { culture_group = latin }
+					NOT = { culture_group = iberian }
+					NOT = { culture_group = french }
+					NOT = { primary_culture = basque }
+				}
+				change_technology_group = eastern
+				change_unit_type = eastern
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	nomad_government_reform = {
+		major = yes
+		potential = {
+			government = steppe_horde
+			always = no
+		}
+		allow = {
+			always = no
+		}
+		effect = {
+			change_government = feudal_monarchy
+		}
+	}
+
+	barbarian_government_reform_2 = {
+		major = yes
+		potential = {
+			technology_group = barbarian
+			OR = {
+				government = tribal_despotism
+				government = tribal_democracy
+				government = tribal_federation
+			}
+		}
+		allow = {
+			is_at_war = no
+			adm_tech = 40
+			adm_power = 100
+		}
+		effect = {
+			add_adm_power = -100
+			add_stability = -1
+			change_government = feudal_monarchy
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	barbarian_unit_reform = {
+		major = yes
+		potential = {
+			technology_group = western
+			unit_type = barbarian
+		}
+		allow = {
+			is_at_war = no
+			mil_power = 100
+		}
+		effect = {
+			add_mil_power = -100
+			change_unit_type = western
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	muslim_technology_reform = {
+		major = yes
+		potential = {
+			technology_group = middle_eastern
+		}
+		allow = {
+			is_at_war = no
+			adm_power = 100
+			OR = {
+				religion_group = muslim
+				adm_tech = 26
+			}
+		}
+		effect = {
+			add_adm_power = -100
+			add_stability = -1
+			change_technology_group = muslim
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	muslim_unit_reform = {
+		major = yes
+		potential = {
+			technology_group = muslim
+			unit_type = middle_eastern
+		}
+		allow = {
+			is_at_war = no
+			mil_power = 100
+		}
+		effect = {
+			add_mil_power = -100
+			change_unit_type = muslim
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	eastern_technology_reform = {
+		major = yes
+		potential = {
+			technology_group = middle_eastern
+		}
+		allow = {
+			is_at_war = no
+			adm_power = 200
+			religion_group = christian
+			adm_tech = 21
+		}
+		effect = {
+			add_adm_power = -200
+			add_stability = -1
+			change_technology_group = eastern
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	eastern_unit_reform = {
+		major = yes
+		potential = {
+			technology_group = eastern
+			NOT = { unit_type = eastern }
+		}
+		allow = {
+			is_at_war = no
+			mil_power = 100
+		}
+		effect = {
+			add_mil_power = -100
+			change_unit_type = eastern
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	asian_technology_reform = {
+		major = yes
+		potential = {
+			adm_tech = 76
+			OR = {
+				technology_group = chinese
+				technology_group = indian
+			}
+		}
+		allow = {
+			is_at_war = no
+			adm_power = 200
+			adm_tech = 86
+		}
+		effect = {
+			add_adm_power = -200
+			add_stability = -1
+			change_technology_group = asian
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	chinese_technology_reform = {
+		major = yes
+		potential = {
+			technology_group = early_chinese
+		}
+		allow = {
+			is_at_war = no
+			adm_power = 200
+			adm_tech = 24
+		}
+		effect = {
+			add_adm_power = -200
+			add_stability = -1
+			change_technology_group = chinese
+			change_unit_type = chinese
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	indian_technology_reform = {
+		major = yes
+		potential = {
+			technology_group = early_indian
+		}
+		allow = {
+			is_at_war = no
+			adm_power = 200
+			adm_tech = 24
+		}
+		effect = {
+			add_adm_power = -200
+			add_stability = -1
+			change_technology_group = indian
+			change_unit_type = indian
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	nomad_technology_reform = {
+		major = yes
+		potential = {
+			OR = {
+				technology_group = western_nomad_group
+				technology_group = eastern_nomad_group
+			}
+		}
+		allow = {
+			is_at_war = no
+			adm_power = 200
+			adm_tech = 24
+			mil_tech = 24
+		}
+		effect = {
+			add_adm_power = -200
+			add_stability = -1
+			change_technology_group = nomad_group
+			change_unit_type = nomad_group
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

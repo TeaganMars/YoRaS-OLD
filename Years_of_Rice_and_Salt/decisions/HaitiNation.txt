@@ -1,0 +1,52 @@
+country_decisions = {
+
+	haiti_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = HAT }
+			NOT = { has_country_flag = changed_from_colonial_nation }
+			is_nomad = no
+			is_random_new_world = no
+			OR = {
+				is_former_colonial_nation = yes
+				is_colonial_nation = yes
+			}
+			colonial_the_carribean = {
+				owned_by = ROOT
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3	
+				}
+			}
+		}
+		allow = {
+			is_former_colonial_nation = yes
+			is_subject = no
+			is_at_war = no
+			owns_core_province = 489
+			owns_core_province = 488
+		}
+		effect = {
+			change_tag = HAT
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = changed_from_colonial_nation
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}

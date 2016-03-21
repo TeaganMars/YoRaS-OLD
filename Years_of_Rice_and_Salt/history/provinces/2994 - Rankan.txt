@@ -1,0 +1,67 @@
+#2994 - Raritan
+
+culture = delaware
+religion = totemism
+capital = "Raritan"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1629.1.1   = {	owner = NED
+		controller = NED
+		culture = dutch
+		religion = reformed
+		citysize = 410
+		trade_goods = fur
+	     } # Founding of Pavonia
+1654.1.1   = { add_core = NED is_city = yes }
+1665.6.1  = { controller = ENG } # English seize New Netherlands at outset of Second Anglo-Dutch war
+1667.7.31 = {	owner = ENG
+		culture = english
+		remove_core = NED
+	    } # Treaty of Breda
+1673.1.1  = {	owner = NED
+		controller = NED
+		culture = dutch
+	    } # Recaptured by the Dutch
+1674.11.1 = {	owner = ENG
+		controller = ENG
+		culture = english
+		religion = protestant
+	    } # Treaty of Westminster
+1693.10.31 = { capital = "Newark" }
+1707.5.12  = {
+	discovered_by = GBR
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = ENG
+}
+1750.1.1 = { base_tax = 3 base_production = 2 base_manpower = 3 }
+1764.7.1  = { culture = american }
+1775.1.1 = { base_tax = 4 base_production = 5 base_manpower = 5 }
+1776.7.4  = {	owner = USA
+		controller = USA
+		add_core = USA
+	    } # Declaration of independence
+1782.11.1 = {	remove_core = GBR unrest = 0   } # Preliminary articles of peace, the British recognized Amercian independence
+
+
+
+
+
+1800.1.1 = { base_tax = 5 base_production = 6 base_manpower = 9 }
+1825.1.1 = { base_tax = 7 base_production = 8 base_manpower = 11 }
+1850.1.1 = { base_tax = 9 base_production = 9 base_manpower = 14 }
+1875.1.1 = { base_tax = 11 base_production = 11 base_manpower = 16 }
+1900.1.1 = { base_tax = 13 base_production = 13 base_manpower = 18 }
+1925.1.1 = { base_tax = 15 base_production = 15 base_manpower = 20 }
+1950.1.1 = { base_production = 17 base_manpower = 24 }
+1975.1.1 = { base_tax = 21 }
+2000.1.1 = { base_tax = 25 base_production = 25 }

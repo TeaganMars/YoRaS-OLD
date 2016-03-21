@@ -1,0 +1,66 @@
+government = tribal_despotism
+mercantilism = 0.1
+primary_culture = bedouin_arabic
+religion = jewish
+technology_group = middle_eastern
+capital = 384	# Medina
+
+400.1.1 = {
+	monarch = {
+		name = "Abi Habib al-Nadir"
+		dynasty = "Banu Nadir"
+		adm = 1
+		mil = 2
+		dip = 4
+	}
+}
+
+440.1.1 = {
+	monarch = {
+		name = "al-Khazraj ibn Abi Habib"
+		dynasty = "Banu Nadir"
+		adm = 1
+		mil = 2
+		dip = 4
+	}
+}
+
+480.1.1 = {
+	monarch = {
+		name = "Ka'b ibn al-Khazraj"
+		dynasty = "Banu Nadir"
+		adm = 1
+		mil = 4
+		dip = 4
+	}
+}
+
+520.1.1 = {
+	monarch = {
+		name = "Sa'yah ibn Ka'b"
+		dynasty = "Banu Nadir"
+		adm = 3
+		mil = 1
+		dip = 4
+	}
+}
+
+560.1.1 = {
+	monarch = {
+		name = "Akhtab ibn Sa'yah"
+		dynasty = "Banu Nadir"
+		adm = 3
+		mil = 3
+		dip = 2
+	}
+}
+
+600.1.1 = {
+	monarch = {
+		name = "Huyayy ibn Akhtab"
+		dynasty = "Banu Nadir"
+		adm = 4
+		mil = 3
+		dip = 1
+	}
+}

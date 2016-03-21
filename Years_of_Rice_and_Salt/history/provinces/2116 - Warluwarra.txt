@@ -1,0 +1,28 @@
+#2116 - Warluwarra
+
+culture = aboriginal
+religion = animism
+capital = "Warluwarra"
+native_size = 90
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_ferocity = 4.5
+native_hostileness = 9
+
+1825.1.1 = { base_manpower = 2 }
+1862.1.1   = { discovered_by = GBR } # John McDouall
+1901.1.1   = { 	owner = GBR
+		controller = GBR
+		add_core = GBR
+		citysize = 100
+		culture = english
+		religion = protestant
+	     }
+1923.1.1   = { capital = "Mount Isa" trade_goods = copper is_city = yes }
+1942.10.9  = { owner = AUS controller = AUS add_core = AUS remove_core = GBR } #Statute of Westminster
+2000.1.1 = { base_tax = 2 base_production = 2 }
+
+

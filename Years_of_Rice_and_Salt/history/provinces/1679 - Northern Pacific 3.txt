@@ -1,0 +1,6 @@
+#1679 - Bowers Ridge
+
+1741.1.1 = { discovered_by = RUS }
+
+
+

@@ -1,0 +1,11 @@
+government = barbarian_tribe
+mercantilism = 0.1
+primary_culture = basque
+religion = animism
+technology_group = barbarian
+capital = 210	# Pamplona
+
+420.1.1 = { religion = chalcedonism }
+536.1.1 = { technology_group = western }
+600.1.1 = { government = feudal_monarchy }
+

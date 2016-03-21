@@ -1,0 +1,199 @@
+government = steppe_horde
+mercantilism = 0.1
+primary_culture = mongol
+religion = tengri_pagan_reformed
+technology_group = eastern_nomad_group
+capital = 2891 #Mumo
+
+330.1.1 = {
+	monarch = {
+		name = "Yujiulü Mugulü"
+		dynasty = "Rouran"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+340.1.1 = {
+	monarch = {
+		name = "Yujiulü Cheluhui"
+		dynasty = "Rouran"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+350.1.1 = {
+	monarch = {
+		name = "Yujiulü Tunugui"
+		dynasty = "Rouran"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+360.1.1 = {
+	monarch = {
+		name = "Yujiulü Bati"
+		dynasty = "Rouran"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+370.1.1 = {
+	monarch = {
+		name = "Yujiulü Disuyuan"
+		dynasty = "Rouran"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+380.1.1 = {
+	monarch = {
+		name = "Yujiulü Mangeti"
+		dynasty = "Rouran"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+390.1.1 = {
+	monarch = {
+		name = "Yujiulü Heduohan"
+		dynasty = "Rouran"
+		adm = 2
+		mil = 2
+		dip = 4
+	}
+}
+
+402.1.1 = {
+	monarch = {
+		name = "Qiudoufa"
+		dynasty = "Rouran"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+410.1.1 = {
+	monarch = {
+		name = "Aikugai"
+		dynasty = "Rouran"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+414.1.1 = {
+	monarch = {
+		name = "Mouhanheshenggai"
+		dynasty = "Rouran"
+		adm = 2
+		mil = 3
+		dip = 3
+	}
+}
+
+429.1.1 = {
+	monarch = {
+		name = "Chilian"
+		dynasty = "Rouran"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+444.1.1 = {
+	monarch = {
+		name = "Chu"
+		dynasty = "Rouran"
+		adm = 2
+		mil = 3
+		dip = 3
+	}
+}
+
+450.1.1 = {
+	monarch = {
+		name = "Shouluobuzhen"
+		dynasty = "Rouran"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+
+485.1.1 = {
+	monarch = {
+		name = "Fumingdun"
+		dynasty = "Rouran"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+492.1.1 = {
+	monarch = {
+		name = "Houqifudaikezhe"
+		dynasty = "Rouran"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+506.1.1 = {
+	monarch = {
+		name = "Tuohan"
+		dynasty = "Rouran"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+508.1.1 = {
+	monarch = {
+		name = "Douluofubadoufa"
+		dynasty = "Rouran"
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+520.1.1 = {
+	monarch = {
+		name = "Chiliantoubingdoufa"
+		dynasty = "Rouran"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+521.1.1 = {
+	monarch = {
+		name = "Mi'oukeshegou"
+		dynasty = "Rouran"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+750.1.1 = { technology_group = nomad_group }

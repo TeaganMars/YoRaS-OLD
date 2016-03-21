@@ -1,0 +1,173 @@
+government = parliamentary_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = 3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = dyola
+religion = sunni
+technology_group = muslim
+capital = 1118
+
+1910.1.1 = { religion = secularism }
+
+1961.4.27 = {
+	monarch = {
+		name = "Milton Margai"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1964.4.30 = {
+	monarch = {
+		name = "Albert Margai"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1967.3.21 = {
+	monarch = {
+		name = "David Lansana"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1967.3.23 = {
+	monarch = {
+		name = "Ambrose Patrick Genda"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1967.3.27 = {
+	monarch = {
+		name = "Andrew Juxon-Smith"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1968.4.18 = {
+	monarch = {
+		name = "Patrick Conteh"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1968.4.26 = {
+	monarch = {
+		name = "Siaka Stevens"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1971.4.19 = {
+	government = constitutional_republic
+	monarch = {
+		name = "Christopher Okoro Cole"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1971.4.21 = {
+	monarch = {
+		name = "Siaka Stevens"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1985.11.28 = {
+	monarch = {
+		name = "Joseph Saidu Momoh"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1992.4.30 = {
+	government = revolutionary_republic
+	monarch = {
+		name = "Yahya Kanu"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1992.5.1 = {
+	monarch = {
+		name = "Valentine Strasser"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1996.1.17 = {
+	monarch = {
+		name = "Julius Maada Bio"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1996.3.29 = {
+	government = constitutional_republic
+	monarch = {
+		name = "Ahmad Tejan Kabbah"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1997.5.26 = {
+	monarch = {
+		name = "Johnny Paul Koroma"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1998.3.10 = {
+	monarch = {
+		name = "Ahmad Tejan Kabbah"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+2007.9.17 = {
+	monarch = {
+		name = "Ernest Bai Koroma"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+

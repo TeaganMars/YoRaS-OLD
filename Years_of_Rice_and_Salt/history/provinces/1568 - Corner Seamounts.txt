@@ -1,0 +1,6 @@
+#1568 - Corner Seamounts
+
+1524.1.1 = { discovered_by = FRA } # Giovanni da Verrazzano
+
+
+

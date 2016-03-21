@@ -1,0 +1,23 @@
+actual_european_union = {
+	rank = {
+		1 = EUROUNION
+		2 = EUROUNION
+		3 = EUROUNION
+	}	
+
+	ruler_male = {
+		1 = THE
+		2 = THE
+		3 = THE
+	}
+
+	ruler_female = {
+		1 = THE
+		2 = THE
+		3 = THE
+	}
+	
+	trigger = {
+		government = eu_gov
+	}
+}

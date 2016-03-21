@@ -1,0 +1,8 @@
+government = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = suomenusko
+primary_culture = karelian
+capital = 32
+
+1400.1.1 = { religion = orthodox }

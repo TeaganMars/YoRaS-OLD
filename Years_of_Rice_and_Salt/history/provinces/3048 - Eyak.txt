@@ -1,0 +1,41 @@
+#3048 - Eyak
+
+culture = haida
+religion = shamanism
+capital = "Eyak"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+
+1741.1.1 = { discovered_by = RUS } # Vitus Bering
+1778.1.1 = { discovered_by = GBR } # James Cook
+1793.1.1 = {	owner = RUS
+		controller = RUS
+		citysize = 650
+		culture = russian
+		religion = orthodox
+		trade_goods = fur
+	   }
+1818.1.1 = { add_core = RUS }
+
+1850.1.1   = { citysize = 900 }
+1867.10.18 = { 	owner = USA 
+		controller = USA 
+		add_core = USA 
+		remove_core = RUS 
+		culture = american
+		religion = protestant
+	     } # Alaska purchase
+1880.1.1   = { is_city = yes }
+1909.7.8   = { capital = "Cordova" }
+
+
+
+

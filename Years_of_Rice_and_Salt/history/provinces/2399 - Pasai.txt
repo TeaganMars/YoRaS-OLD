@@ -1,0 +1,58 @@
+#2399 - Pasai
+
+culture = sumatran
+religion = animism
+capital = "Pasai"
+trade_goods = unknown
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 3
+native_size = 40
+native_ferocity = 2
+native_hostileness = 7
+discovered_by = early_indian
+discovered_by = indian
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = early_chinese
+discovered_by = chinese
+
+2.1.1 = {
+		add_permanent_province_modifier = {
+			name = center_of_trade_modifier
+			duration = -1
+		}
+}
+
+600.1.1 = { religion = mahayana }
+683.1.1 = { owner = SRI controller = SRI add_core = SRI is_city = yes trade_goods = spices }
+1220.1.1 = { owner = PSA controller = PSA add_core = PSA remove_core = SRI }
+1267.1.1 = { religion = sunni }
+
+1405.1.1 = { discovered_by = MNG }
+1471.1.1 = { add_core = ATJ }
+1509.1.1 = { discovered_by = POR }
+1521.1.1 = {
+	owner = POR
+	controller = POR
+	add_core = POR
+	remove_core = PSA
+} # Portugal conquered Pasai
+1531.1.1 = {
+	owner = ATJ
+	controller = ATJ
+	remove_core = POR
+}
+
+1903.1.10  = { owner = NED controller = NED add_core = NED capital = "Lhokseumawe" }
+1912.9.10  = { add_core = IDN remove_core = ATJ }
+1942.2.1   = { controller = JAP }
+1942.3.9   = { owner = JAP controller = JAP }
+1945.8.15  = { owner = NED revolt = { type = nationalist_rebels size = 1 } controller = REB }
+1945.8.17  = { owner = IDN revolt = {} controller = IDN }
+1949.12.27 = { remove_core = NED }
+
+
+

@@ -1,0 +1,5 @@
+#1416 - Great Australian Bight
+
+1792.1.1   = { discovered_by = FRA }
+1802.1.1   = { discovered_by = GBR }
+

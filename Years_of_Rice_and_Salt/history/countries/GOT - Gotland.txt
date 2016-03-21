@@ -1,0 +1,10 @@
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+religion = norse_pagan_reformed
+primary_culture = swedish
+technology_group = western
+capital = 25	#Gotland
+
+1000.1.1 = { religion = catholic }
+1300.1.1 = { government = merchant_republic }

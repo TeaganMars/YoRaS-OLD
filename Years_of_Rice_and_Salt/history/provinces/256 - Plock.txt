@@ -1,0 +1,76 @@
+#256 - Plock
+
+owner = GCR
+controller = GCR
+add_core = GCR
+is_city = yes
+capital = "Plock"
+culture = gothic
+religion = germanic
+trade_goods = cloth
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = GCR
+discovered_by = PRS
+discovered_by = VNE
+
+190.1.1 = { owner = PRS controller = PRS add_core = PRS remove_core = GCR culture = old_prussian religion = romuva }
+500.1.1 = { discovered_by = western discovered_by = eastern }
+650.1.1 = { owner = POL controller = POL add_core = POL remove_core = PRS culture = polish religion = slavic }
+700.1.1 = { base_tax = 2 base_production = 2 }
+900.1.1 = { base_manpower = 2 }
+1000.1.1 = { fort_15th = yes religion = catholic discovered_by = muslim discovered_by = ottoman }
+1100.1.1 = { base_tax = 3 base_production = 3 }
+1138.1.1 = { owner = MAZ controller = MAZ add_core = MAZ }
+1146.1.1 = { owner = POL controller = POL }
+1173.4.3 = { owner = MAZ controller = MAZ }
+1186.1.1 = { owner = POL controller = POL }
+1194.5.5 = { owner = MAZ controller = MAZ }
+1200.1.1 = { base_tax = 4 base_production = 4 }
+1229.1.1 = { owner = POL controller = POL }
+1232.1.1 = { owner = MAZ controller = MAZ }
+1241.4.9 = { owner = POL controller = POL }
+1243.1.1 = { owner = MAZ controller = MAZ remove_core = POL }
+
+1495.2.16  = { owner = POL 
+		controller = POL
+		add_core = POL
+		remove_core = MAZ } # death of Janusz II of Plock
+1550.1.1   = { citysize = 1600 } # Fires, epidemics...
+1569.7.1   = {	owner = PLC
+	     	controller = PLC
+			remove_core = POL
+	     	add_core = PLC
+	     } # Union of Lublin
+1580.1.1   = {   }
+1588.1.1   = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Civil war, Polish succession
+1589.1.1   = { revolt = {} controller = PLC } # Coronation of Sigismund III
+1655.1.1   = { controller = SWE } # The Deluge
+1660.1.1   = { controller = PLC }
+1793.1.23  = { controller = PRU owner = PRU add_core = PRU } # Second partition
+1801.1.1 = { base_tax = 5 }
+1806.11.3  = { revolt = { type = nationalist_rebels size = 0 } controller = REB } # Polish uprising instigated by Napoleon
+1807.7.9   = {	revolt = {}
+		owner = POL
+		controller = POL
+		add_core = POL
+		remove_core = PLC
+	     	remove_core = PRU
+	     } # The Duchy of Warsaw is established after the treaty of Tilsit, ruled by Frederick Augustus I of Saxony
+1812.12.12 = { controller = RUS }
+1814.4.11  = {	owner = RUS
+		add_core = RUS
+	     } # Napoleon abdicates. Congress Poland, under Russian control after the Congress of Vienna
+
+1875.1.1 = { base_production = 5 }
+1915.8.1   = { controller = GER }
+1918.3.3   = { owner = POL controller = POL remove_core = RUS }
+1939.10.6  = { owner = GER controller = GER }
+1945.1.17  = { controller = SOV }
+1945.5.8   = { owner = POL controller = POL }
+2000.1.1 = { base_manpower = 4 }
+
+
+

@@ -1,0 +1,6 @@
+#1557 - Coast of Oregon
+
+1543.1.1 = { discovered_by = SPA }
+
+
+

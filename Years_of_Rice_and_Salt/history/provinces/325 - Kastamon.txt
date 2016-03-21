@@ -1,0 +1,52 @@
+#325 - Kastamonu
+
+owner = ROM
+controller = ROM
+culture = pontic_greek
+religion = hellenism
+capital = "Paphlagonia"
+trade_goods = wine
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = eastern
+discovered_by = roman_group
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = western_nomad_group
+discovered_by = nomad_group
+discovered_by = ottoman
+
+395.1.17 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROM } # Final division of the empire
+430.1.1 = { religion = chalcedonism }
+867.1.1 = { religion = orthodox }
+1058.1.1 = { capital = "Kastra Komneni" }
+1204.4.13 = { owner = NCA controller = NCA add_core = NCA }
+1211.1.1 = { owner = RUM controller = RUM add_core = RUM remove_core = NCA capital = "Kastamonu" }
+1220.1.1 = { religion = sunni culture = turkish remove_core = BYZ }
+1292.1.1 = { owner = CND controller = CND add_core = CND remove_core = RUM }
+1350.1.1 = { add_core = TUR }
+
+1444.1.1 = { add_core = TUR }
+1458.1.1 = {
+	owner = TUR
+	controller = TUR	
+}
+1481.6.1 = { revolt = { type = pretender_rebels size = 0 } controller = REB } # Civil war, Bayezid & Jem
+1482.7.26 = { revolt = {} controller = TUR } # Jem escapes to Rhodes
+1509.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Civil war
+1513.1.1 = { revolt = {} controller = TUR }
+1740.1.1 = { base_tax = 5 base_production = 5 } # The decentralizing effect of the provincial system
+
+1825.1.1 = { base_production = 6 }
+1850.1.1   = { citysize = 50000 remove_core = CND }
+1922.11.1  = { owner = TKY controller = TKY add_core = TKY remove_core = TUR }
+2000.1.1 = { base_tax = 6 base_manpower = 4 }
+
+
+

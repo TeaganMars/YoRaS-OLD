@@ -1,0 +1,55 @@
+government = feudal_monarchy
+government_rank = 1
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 2
+#land_naval = -1
+#quality_quantity = -1
+#serfdom_freesubjects = -2
+primary_culture = cosmopolitan_french
+religion = catholic
+technology_group = eastern
+capital = 2269	# Edessa
+
+1098.1.1 = {
+	monarch = {
+		name = "Baldwin I"
+		dynasty = "de Boulogne"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1100.7.18 = {
+	monarch = {
+		name = "Baldwin II"
+		dynasty = "de Boulogne"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1118.4.2 = {
+	monarch = {
+		name = "Joscelin I"
+		dynasty = "de Courtenay"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1131.1.1 = {
+	monarch = {
+		name = "Joscelin II"
+		dynasty = "de Courtenay"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}

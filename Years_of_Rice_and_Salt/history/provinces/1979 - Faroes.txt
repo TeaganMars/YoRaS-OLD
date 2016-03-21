@@ -1,0 +1,26 @@
+#1979 - Färöarna
+
+culture = uninhabited
+religion = norse_pagan_reformed
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 0.5
+capital = "Torshavn"
+
+400.1.1 = { culture = norwegian }
+790.1.1 = { discovered_by = VES discovered_by = NOR discovered_by = ICE }
+800.1.1 = { owner = VES controller = VES add_core = VES is_city = yes trade_goods = fish }
+872.1.1 = { owner = NOR controller = NOR add_core = NOR remove_core = VES }
+1100.1.1 = { discovered_by = western }
+1060.1.1 = { religion = catholic }
+
+1536.1.1 = {	religion = protestant
+		owner = DAN
+		controller = DAN
+		add_core = DAN
+	   }
+
+
+

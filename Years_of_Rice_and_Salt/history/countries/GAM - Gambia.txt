@@ -1,0 +1,36 @@
+government = parliamentary_republic
+#aristocracy_plutocracy = 2
+#centralization_decentralization = -3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = 3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = 2
+primary_culture = senegambian
+religion = sunni
+technology_group = muslim
+capital = 2005
+
+1910.1.1 = { religion = secularism }
+
+1965.2.18 = {
+	monarch = {
+		name = "Dawda Jawara"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+1970.5.24 = { government = constitutional_republic }
+
+1994.7.22 = {
+	monarch = {
+		name = "Yahya Yammeh"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}

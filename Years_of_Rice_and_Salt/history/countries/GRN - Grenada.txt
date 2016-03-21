@@ -1,0 +1,124 @@
+government = parliamentary_republic
+#aristocracy_plutocracy = 2
+#centralization_decentralization = -2
+#innovative_narrowminded = 0
+#mercantilism_freetrade = 3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 2
+#quality_quantity = 2
+#serfdom_freesubjects = 1
+technology_group = western
+primary_culture = english
+religion = catholic
+capital = 1992
+
+1910.1.1 = { religion = secularism }
+
+1974.2.7 = {
+	monarch = {
+		name = "Eric Gairy"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1979.3.13 = {
+	monarch = {
+		name = "Maurice Bishop"
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}
+
+1983.10.14 = {
+	monarch = {
+		name = "Bernard Coard"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1983.10.19 = {
+	monarch = {
+		name = "Hudson Austin"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1983.12.9 = {
+	monarch = {
+		name = "Nicholas Brathwaite"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1984.12.4 = {
+	monarch = {
+		name = "Herbert Blaize"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1989.12.20 = {
+	monarch = {
+		name = "Ben Jones"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1990.3.16 = {
+	monarch = {
+		name = "Nicholas Brathwaite"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1995.2.1 = {
+	monarch = {
+		name = "George Brizan"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1995.6.22 = {
+	monarch = {
+		name = "Keith Mitchell"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+2008.7.9 = {
+	monarch = {
+		name = "Tillman Thomas"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+2013.2.20 = {
+	monarch = {
+		name = "Keith Mitchell"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}

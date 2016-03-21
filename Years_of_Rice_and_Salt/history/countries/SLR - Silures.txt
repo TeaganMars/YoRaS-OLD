@@ -1,0 +1,120 @@
+government = barbarian_tribe
+mercantilism = 0.1
+primary_culture = briton
+religion = druidism
+technology_group = barbarian
+capital = 241
+
+2.1.1 = {
+	monarch = {
+		name = "Bran"
+		dynasty = "Silure"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+2.1.1 = {
+	heir = {
+		name = "Caradoc"
+		monarch_name = "Caradoc"
+		dynasty = "Silure"
+		birth_date = 2.1.1
+		death_date = 22.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+}
+
+20.1.1 = {
+	monarch = {
+		name = "Caradoc"
+		dynasty = "Silure"
+		birth_date = 2.1.1
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+}
+
+20.1.1 = {
+	heir = {
+		name = "Alan"
+		monarch_name = "Alan"
+		dynasty = "Silure"
+		birth_date = 2.1.1
+		death_date = 24.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+22.1.1 = {
+	monarch = {
+		name = "Alan"
+		dynasty = "Silure"
+		birth_date = 2.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+22.1.1 = {
+	heir = {
+		name = "Sadwr"
+		monarch_name = "Sadwr"
+		dynasty = "Silure"
+		birth_date = 4.1.1
+		death_date = 44.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+}
+
+24.1.1 = {
+	monarch = {
+		name = "Sadwr"
+		dynasty = "Silure"
+		birth_date = 4.1.1
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+}
+
+24.1.1 = {
+	heir = {
+		name = "Arviragus"
+		monarch_name = "Arviragus"
+		dynasty = "Silure"
+		birth_date = 20.1.1
+		death_date = 74.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+}
+
+44.1.1 = {
+	monarch = {
+		name = "Arviragus"
+		dynasty = "Silure"
+		birth_date = 20.1.1
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+}
+
+410.1.1 = { government = feudal_monarchy }
+536.1.1 = { technology_group = western }
+680.1.1 = { religion = catholic }

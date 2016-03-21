@@ -1,0 +1,6 @@
+#1682 - Gulf of Alaska
+
+1741.1.1 = { discovered_by = RUS }
+
+
+

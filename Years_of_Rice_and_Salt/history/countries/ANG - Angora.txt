@@ -1,0 +1,16 @@
+government = despotic_monarchy
+government_rank = 1
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 0
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -1
+#land_naval = -3
+#quality_quantity = -1
+#serfdom_freesubjects = -2
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 326	# Angora
+

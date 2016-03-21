@@ -1,0 +1,21 @@
+name = "German-Polish War"
+
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 1763
+}
+
+1002.1.1 = {
+	add_attacker = POL
+	add_defender = FRC
+	add_defender = LUS
+	add_defender = MEI
+}
+
+1018.1.30 = {
+	rem_attacker = POL
+	rem_defender = FRC
+	rem_defender = LUS
+	rem_defender = MEI
+}

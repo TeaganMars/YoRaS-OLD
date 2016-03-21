@@ -1,0 +1,6 @@
+#1445 - Bering Sea
+
+1741.1.1 = { discovered_by = RUS }
+
+
+

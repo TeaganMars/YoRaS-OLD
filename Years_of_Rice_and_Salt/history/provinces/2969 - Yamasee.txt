@@ -1,0 +1,45 @@
+#2969 - Yamasee
+
+culture = creek
+religion = totemism
+capital = "Yamasee"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1524.1.1   = { discovered_by = POR } # Diego Gomez
+1650.1.1 = { owner = CRE
+		controller = CRE
+		is_city = yes
+		add_core = CRE
+		trade_goods = cotton } #Formation of the Creek confederacy
+1750.1.1 = { base_tax = 2 }
+1775.1.1 = { base_production = 2 base_manpower = 2 }
+1800.1.1 = { base_tax = 3 }
+1814.8.9  = {	owner = USA
+		controller = USA
+		add_core = USA
+		culture = american
+		religion = protestant 
+		capital = "Macon" } #Treaty of Fort Jackson ending the Creek War
+
+1825.1.1 = { base_tax = 4 base_manpower = 3 }
+1850.1.1 = { base_production = 3 }
+1861.1.19  = { owner = CSA controller = CSA add_core = CSA }
+1865.5.5   = { owner = USA controller = USA remove_core = CSA }
+
+
+
+
+1875.1.1 = { base_tax = 5 base_production = 4 }
+1900.1.1 = { base_tax = 6 }
+1925.1.1 = { base_production = 6 }
+1950.1.1 = { base_manpower = 4 }
+1975.1.1 = { base_production = 7 base_manpower = 5 }
+2000.1.1 = { base_tax = 8 base_manpower = 6 }

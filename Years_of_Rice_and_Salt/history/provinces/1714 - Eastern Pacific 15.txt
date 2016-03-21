@@ -1,0 +1,6 @@
+#1714 - North Equatorial Pacific Current
+
+1555.1.1 = { discovered_by = SPA }
+
+
+

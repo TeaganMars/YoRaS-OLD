@@ -1,0 +1,57 @@
+#2984 - Wabash
+
+owner = SHA
+controller = SHA
+add_core = SHA
+is_city = yes
+culture = shawnee
+religion = totemism
+capital = "Wabash"
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1659.1.1  = { discovered_by = FRA } # Médard Chouart Des Groseilliers
+1671.1.1  = { discovered_by = ENG } # Abraham Wood
+1680.1.1  = { 	owner = IRO
+		controller = IRO
+		citysize = 100
+		culture = iroquois } #Taken by Iroquois in Beaver Wars.
+1701.8.14 = {	owner = XXX
+		controller = XXX
+		citysize = 0
+		culture = shawnee } #Vast areas left deserted after the Beaver Wars and the Iroquois withdrawal
+1707.5.12 = { discovered_by = GBR }
+1750.1.1  = {	owner = SHA
+		controller = SHA
+		add_core = SHA
+		is_city = yes } #return of the Shawnee
+1751.1.1 = { base_tax = 3 base_production = 3 base_manpower = 4 }
+1775.1.1 = { base_tax = 5 base_production = 5 base_manpower = 7 }
+1800.1.1 = { base_tax = 6 base_manpower = 13 }
+1805.1.1  = { 	owner = USA
+		controller = USA
+		add_core = USA
+		culture = american
+		religion = protestant
+	    } # Treaty of Grouseland
+
+1821.1.1   = { capital = "Indianapolis" }
+1825.1.1 = { base_tax = 12 base_manpower = 14 }
+1851.1.1 = { base_tax = 13 base_production = 7 base_manpower = 18 }
+1875.1.1 = { base_tax = 18 base_production = 9 base_manpower = 19 }
+1901.1.1 = { base_tax = 22 base_production = 10 base_manpower = 21 }
+1925.1.1 = { base_tax = 23 base_production = 11 base_manpower = 26 }
+1951.1.1 = { base_tax = 26 base_production = 13 base_manpower = 28 }
+1975.1.1 = { base_tax = 28 base_production = 16 base_manpower = 30 }
+2000.1.1 = { base_tax = 30 base_production = 30 }
+
+
+
+

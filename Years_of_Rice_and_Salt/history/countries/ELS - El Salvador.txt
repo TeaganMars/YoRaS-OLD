@@ -1,0 +1,520 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = 0
+technology_group = western
+primary_culture = castillian
+religion = catholic
+capital = 839
+
+1841.2.22 = {
+	monarch = {
+		name = "Juan Lindo"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1842.2.1 = {
+	monarch = {
+		name = "José Escolástico Marín"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+
+1842.4.14 = {
+	monarch = {
+		name = "Juan José Guzmán"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1844.2.7 = {
+	monarch = {
+		name = "Francisco Malespín"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1845.2.15 = {
+	monarch = {
+		name = "Joaquín Eufrasio Guzmán"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1846.2.21 = {
+	monarch = {
+		name = "Eugenio Aguilar"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1848.2.7 = {
+	monarch = {
+		name = "Doroteo Vasconcelos"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1851.3.1 = {
+	monarch = {
+		name = "José Félix Quirós"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1851.5.13 = {
+	monarch = {
+		name = "Francisco Dueñas"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1854.2.15 = {
+	monarch = {
+		name = "José María San Martín"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1856.2.12 = {
+	monarch = {
+		name = "Rafael Campo"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1858.2.7 = {
+	monarch = {
+		name = "Miguel Santín del Castillo"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1859.3.12 = {
+	monarch = {
+		name = "Gerardo Barrios"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+
+1863.10.26 = {
+	monarch = {
+		name = "Francisco Cueñas"
+		dynasty = "Dinewfr"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1871.5.15 = {
+	monarch = {
+		name = "Santiago González"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1876.2.1 = {
+	monarch = {
+		name = "Andrés del Valle"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1876.5.1 = {
+	monarch = {
+		name = "Rafael Zaldívar"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1885.6.21 = {
+	monarch = {
+		name = "Francisco Menéndez"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1890.6.22 = {
+	monarch = {
+		name = "Carlos Ezeta"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1894.6.10 = {
+	monarch = {
+		name = "Rafael Antonio Gutiérrez"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1898.11.14 = {
+	monarch = {
+		name = "Tomás Regalado"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+
+1903.3.1 = {
+	monarch = {
+		name = "Pedro José Escalón"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1907.3.1 = {
+	monarch = {
+		name = "Fernando Figueroa"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1910.1.1 = { religion = secularism }
+
+1911.3.1 = {
+	monarch = {
+		name = "Manuel Enrique Araujo"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1913.2.9 = {
+	monarch = {
+		name = "Carlos Meléndez Ramirez"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1914.8.29 = {
+	monarch = {
+		name = "Alfonso Quiñónez Molina"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1915.3.1 = {
+	monarch = {
+		name = "Carlos Meléndez Ramirez"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1918.12.21 = {
+	monarch = {
+		name = "Alfonso Quiñónez Molina"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1919.3.1 = {
+	monarch = {
+		name = "Jorge Meléndez"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1923.3.1 = {
+	monarch = {
+		name = "Alfonso Quiñónez Molina"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1927.3.1 = {
+	monarch = {
+		name = "Pio Romero Bosque"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1931.3.1 = {
+	monarch = {
+		name = "Arturo Araujo"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1931.12.4 = {
+	monarch = {
+		name = "Maximiliano Hernández Martínez"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1934.8.29 = {
+	monarch = {
+		name = "Andrés Ignacio Menéndez"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1935.3.1 = {
+	monarch = {
+		name = "Maximiliano Hernández Martínez"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1944.5.9 = {
+	monarch = {
+		name = "Andrés Ignacio Menéndez"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+
+1944.10.21 = {
+	monarch = {
+		name = "Osmín Aguirre y Salinas"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+
+1945.3.1 = {
+	monarch = {
+		name = "Salvador Castaneda Castro"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1948.12.15 = {
+	monarch = {
+		name = "Revolutionary Council"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1950.9.14 = {
+	monarch = {
+		name = "José María Lemus"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1960.10.26 = {
+	monarch = {
+		name = "Civic-Military Directory"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1962.1.25 = {
+	monarch = {
+		name = "Eusebio Rodolfo Cordón Cea"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1962.7.1 = {
+	monarch = {
+		name = "Julio Adalberto Rivera Carballo"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1967.7.1 = {
+	monarch = {
+		name = "Fidel Sánchez Hernández"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1972.7.1 = {
+	monarch = {
+		name = "Arturo Armando Molina"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1977.7.1 = {
+	monarch = {
+		name = "Carlos Humberto Romero"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1979.10.15 = {
+	monarch = {
+		name = "Revolutionary Government Junta"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+
+1982.5.2 = {
+	monarch = {
+		name = "Álvaro Magaña"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1984.6.1 = {
+	monarch = {
+		name = "José Napoleón Duarte"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1989.6.1 = {
+	monarch = {
+		name = "Alfredo Cristiani"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1994.6.1 = {
+	monarch = {
+		name = "Armando Calderón Sol"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1999.6.1 = {
+	monarch = {
+		name = "Francisco Flores Pérez"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+2004.6.1 = {
+	monarch = {
+		name = "Antonio Saca"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+2009.6.1 = {
+	monarch = {
+		name = "Mauricio Funes"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+2014.6.1 = {
+	monarch = {
+		name = "Salvador Sánchez Cerén"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}

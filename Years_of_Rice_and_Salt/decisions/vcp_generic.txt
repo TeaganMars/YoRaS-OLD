@@ -1,0 +1,22 @@
+country_decisions = {
+	
+	#Give volkhvs more power in society (historical).
+	support_volkvs = {
+		potential = {
+			religion_group = slavic_pagan
+			NOT = { has_country_modifier = volkhvs_supproted }
+		}
+		
+		allow = {
+			years_of_income = 0.2
+		}
+		
+		effect = {
+			add_years_of_income = -0.2
+			add_country_modifier = {
+				name = "volkhvs_supproted"
+				duration = -1
+			}
+		}
+	}
+}

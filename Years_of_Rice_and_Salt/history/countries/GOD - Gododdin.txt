@@ -1,0 +1,38 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 5
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -1
+mercantilism = 0.1
+#offensive_defensive = -1
+#land_naval = -1
+#quality_quantity = 0
+#serfdom_freesubjects = -4
+primary_culture = welsh
+religion = druidism
+technology_group = barbarian
+capital = 248	# Lothian
+
+
+410.1.1 = {
+	monarch = {
+		name = "Manaw"
+		dynasty = "Gododdin"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+500.1.1 = { 
+	monarch = {
+		name = "Mynyddawc Mwynvawr"
+		dynasty = "Gododdin"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+589.1.1 = { religion = chalcedonism }
+600.1.1 = { government = feudal_monarchy technology_group = western }

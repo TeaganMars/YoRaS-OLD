@@ -1,0 +1,1697 @@
+government = administrative_republic
+government_rank = 1
+#aristocracy_plutocracy = 5
+#centralization_decentralization = 5
+#innovative_narrowminded = 0
+mercantilism = 0.2
+#offensive_defensive = -1
+#land_naval = -2
+#quality_quantity = -2
+#serfdom_freesubjects = 5
+technology_group = western
+religion = catholic
+primary_culture = swiss
+capital = 165 # Bern
+
+
+1399.1.1 = {
+	monarch = {
+		name = "Die Tagsatzung"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1528.1.1 = { religion = reformed }
+
+1798.1.1 = { government = constitutional_republic }
+
+1848.1.1 = {
+	monarch = {
+		name = "Jonas Furrer"
+		birth_date = 1805.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+1850.1.1 = {
+	monarch = {
+		name = "Henri Druey"
+		birth_date = 1799.1.1
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+}
+
+1851.1.1 = {
+	monarch = {
+		name = "Josef Munzinger"
+		birth_date = 1791.1.1
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1852.1.1 = {
+	monarch = {
+		name = "Jonas Furrer"
+		birth_date = 1805.1.1
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+
+1853.1.1 = {
+	monarch = {
+		name = "Wilhelm Matthias Naeff"
+		birth_date = 1802.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1854.1.1 = {
+	monarch = {
+		name = "Friedrich Frey-Herosé"
+		birth_date = 1801.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1855.1.1 = {
+	monarch = {
+		name = "Jonas Furrer"
+		birth_date = 1805.1.1
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+}
+
+1856.1.1 = {
+	monarch = {
+		name = "Jakob Stämpfli"
+		birth_date = 1820.1.1
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+}
+
+1857.1.1 = {
+	monarch = {
+		name = "Constant Fornerod"
+		birth_date = 1819.1.1
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+}
+
+1858.1.1 = {
+	monarch = {
+		name = "Jonas Furrer"
+		birth_date = 1805.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1859.1.1 = {
+	monarch = {
+		name = "Jakob Stämpfli"
+		birth_date = 1820.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+1860.1.1 = {
+	monarch = {
+		name = "Friedrich Frey-Herosé"
+		birth_date = 1801.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1861.1.1 = {
+	monarch = {
+		name = "Melchior Josef Martin Knüsel"
+		birth_date = 1813.1.1
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+}
+
+1862.1.1 = {
+	monarch = {
+		name = "Jakob Stämpfli"
+		birth_date = 1820.1.1
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+}
+
+1863.1.1 = {
+	monarch = {
+		name = "Constant Fornerod"
+		birth_date = 1819.1.1
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+}
+
+1864.1.1 = {
+	monarch = {
+		name = "Jakob Dubs"
+		birth_date = 1822.1.1
+		adm = 0
+		dip = 5
+		mil = 5
+	}
+}
+
+1865.1.1 = {
+	monarch = {
+		name = "Karl Schenk"
+		birth_date = 1823.1.1
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+1866.1.1 = {
+	monarch = {
+		name = "Melchior Josef Martin Knüsel"
+		birth_date = 1813.1.1
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+}
+
+1867.1.1 = {
+	monarch = {
+		name = "Constant Fornerod"
+		birth_date = 1819.1.1
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+}
+
+1868.1.1 = {
+	monarch = {
+		name = "Jakob Dubs"
+		birth_date = 1822.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+1869.1.1 = {
+	monarch = {
+		name = "Emil Welti"
+		birth_date = 1825.1.1
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+}
+
+1870.1.1 = {
+	monarch = {
+		name = "Jakob Dubs"
+		birth_date = 1822.1.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+1871.1.1 = {
+	monarch = {
+		name = "Karl Schenk"
+		birth_date = 1823.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+}
+
+1872.1.1 = {
+	monarch = {
+		name = "Emil Welti"
+		birth_date = 1825.1.1
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+}
+
+1873.1.1 = {
+	monarch = {
+		name = "Paul Ceresole"
+		birth_date = 1832.1.1
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+}
+
+1874.1.1 = {
+	monarch = {
+		name = "Karl Schenk"
+		birth_date = 1823.1.1
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+}
+
+1875.1.1 = {
+	monarch = {
+		name = "Johann Jakob Scherer"
+		birth_date = 1825.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1876.1.1 = {
+	monarch = {
+		name = "Emil Welti"
+		birth_date = 1825.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+1877.1.1 = {
+	monarch = {
+		name = "Joachim Heer"
+		birth_date = 1825.1.1
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+}
+
+1878.1.1 = {
+	monarch = {
+		name = "Karl Schenk"
+		birth_date = 1823.1.1
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+}
+
+1879.1.1 = {
+	monarch = {
+		name = "Bernhard Hammer"
+		birth_date = 1822.1.1
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+}
+
+1880.1.1 = {
+	monarch = {
+		name = "Emil Welti"
+		birth_date = 1825.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1881.1.1 = {
+	monarch = {
+		name = "Numa Droz"
+		birth_date = 1844.1.1
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+}
+
+1882.1.1 = {
+	monarch = {
+		name = "Simeon Bavier"
+		birth_date = 1825.1.1
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+}
+
+1883.1.1 = {
+	monarch = {
+		name = "Louis Ruchonnet"
+		birth_date = 1834.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+1884.1.1 = {
+	monarch = {
+		name = "Emil Welti"
+		birth_date = 1825.1.1
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+}
+
+1885.1.1 = {
+	monarch = {
+		name = "Karl Schenk"
+		birth_date = 1823.1.1
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+}
+
+1886.1.1 = {
+	monarch = {
+		name = "Adolf Deucher"
+		birth_date = 1831.1.1
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+}
+
+1887.1.1 = {
+	monarch = {
+		name = "Numa Droz"
+		birth_date = 1844.1.1
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+}
+
+1888.1.1 = {
+	monarch = {
+		name = "Wilhelm Hertenstein"
+		birth_date = 1825.1.1
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+}
+
+1888.11.27 = {
+	monarch = {
+		name = "Bernhard Hammer"
+		birth_date = 1822.1.1
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+}
+
+1890.1.1 = {
+	monarch = {
+		name = "Louis Ruchonnet"
+		birth_date = 1834.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1891.1.1 = {
+	monarch = {
+		name = "Emil Welti"
+		birth_date = 1825.1.1
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+}
+
+1892.1.1 = {
+	monarch = {
+		name = "Walter Hauser"
+		birth_date = 1837.1.1
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+}
+
+1893.1.1 = {
+	monarch = {
+		name = "Karl Schenk"
+		birth_date = 1823.1.1
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+}
+
+1894.1.1 = {
+	monarch = {
+		name = "Emil Frey"
+		birth_date = 1838.1.1
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+}
+
+1895.1.1 = {
+	monarch = {
+		name = "Josef Zemp"
+		birth_date = 1834.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1896.1.1 = {
+	monarch = {
+		name = "Adrin Lachenal"
+		birth_date = 1849.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1897.1.1 = {
+	monarch = {
+		name = "Adolf Deucher"
+		birth_date = 1831.1.1
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+}
+
+1898.1.1 = {
+	monarch = {
+		name = "Eugène Ruffy"
+		birth_date = 1854.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+1899.1.1 = {
+	monarch = {
+		name = "Eduard Müller"
+		birth_date = 1848.1.1
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+}
+
+1900.1.1 = {
+	monarch = {
+		name = "Walter Hauser"
+		birth_date = 1837.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1901.1.1 = {
+	monarch = {
+		name = "Ernst Brenner"
+		birth_date = 1856.1.1
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+}
+
+1902.1.1 = {
+	monarch = {
+		name = "Josef Zemp"
+		birth_date = 1834.1.1
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+}
+
+1903.1.1 = {
+	monarch = {
+		name = "Adolf Deucher"
+		birth_date = 1831.1.1
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+}
+
+1904.1.1 = {
+	monarch = {
+		name = "Robert Comtesse"
+		birth_date = 1847.1.1
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+}
+
+1905.1.1 = {
+	monarch = {
+		name = "Marc-Emile Ruchet"
+		birth_date = 1853.1.1
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+}
+
+1906.1.1 = {
+	monarch = {
+		name = "Ludwig Forrer"
+		birth_date = 1845.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1907.1.1 = {
+	monarch = {
+		name = "Eduard Müller"
+		birth_date = 1848.1.1
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+}
+
+1908.1.1 = {
+	monarch = {
+		name = "Ernst Brenner"
+		birth_date = 1856.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1909.1.1 = {
+	monarch = {
+		name = "Adolf Deucher"
+		birth_date = 1831.1.1
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+}
+
+1910.1.1 = { religion = secularism }
+
+1910.1.1 = {
+	monarch = {
+		name = "Robert Comtesse"
+		birth_date = 1847.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+1911.1.1 = {
+	monarch = {
+		name = "Marc-Emile Ruchet"
+		birth_date = 1853.1.1
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+}
+
+1912.1.1 = {
+	monarch = {
+		name = "Ludwig Forrer"
+		birth_date = 1845.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+1913.1.1 = {
+	monarch = {
+		name = "Eduard Müller"
+		birth_date = 1848.1.1
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1914.1.1 = {
+	monarch = {
+		name = "Arthur Hoffmann"
+		birth_date = 1857.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1915.1.1 = {
+	monarch = {
+		name = "Giuseppe Motta"
+		birth_date = 1871.1.1
+		adm = 6
+		dip = 6
+		mil = 3
+	}
+}
+
+1916.1.1 = {
+	monarch = {
+		name = "Camille Decoppet"
+		birth_date = 1862.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1917.1.1 = {
+	monarch = {
+		name = "Edmund Schulthess"
+		birth_date = 1868.1.1
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+1918.1.1 = {
+	monarch = {
+		name = "Felix Calonder"
+		birth_date = 1848.1.1
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+}
+
+1919.1.1 = {
+	monarch = {
+		name = "Gustave Ador"
+		birth_date = 1845.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1920.1.1 = {
+	monarch = {
+		name = "Giuseppe Motta"
+		birth_date = 1871.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1921.1.1 = {
+	monarch = {
+		name = "Edmund Schulthess"
+		birth_date = 1868.1.1
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1922.1.1 = {
+	monarch = {
+		name = "Robert Haab"
+		birth_date = 1865.1.1
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+}
+
+1923.1.1 = {
+	monarch = {
+		name = "Karl Scheurer"
+		birth_date = 1872.1.1
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+}
+
+1924.1.1 = {
+	monarch = {
+		name = "Ernst Chuard"
+		birth_date = 1857.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1925.1.1 = {
+	monarch = {
+		name = "Jean-Marie Musy"
+		birth_date = 1876.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1926.1.1 = {
+	monarch = {
+		name = "Heinrich Häberlin"
+		birth_date = 1868.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1927.1.1 = {
+	monarch = {
+		name = "Giuseppe Motta"
+		birth_date = 1871.1.1
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+}
+
+1928.1.1 = {
+	monarch = {
+		name = "Edmund Schulthess"
+		birth_date = 1868.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+1929.1.1 = {
+	monarch = {
+		name = "Robert Haab"
+		birth_date = 1865.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+1930.1.1 = {
+	monarch = {
+		name = "Jean-Marie Musy"
+		birth_date = 1876.1.1
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+1931.1.1 = {
+	monarch = {
+		name = "Heinrich Häberlin"
+		birth_date = 1868.1.1
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+}
+
+1932.1.1 = {
+	monarch = {
+		name = "Giuseppe Motta"
+		birth_date = 1871.1.1
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+}
+
+1933.1.1 = {
+	monarch = {
+		name = "Edmund Schulthess"
+		birth_date = 1868.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+1934.1.1 = {
+	monarch = {
+		name = "Marcel Pilet-Golaz"
+		birth_date = 1889.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1935.1.1 = {
+	monarch = {
+		name = "Rudolf Minger"
+		birth_date = 1881.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1936.1.1 = {
+	monarch = {
+		name = "Albert Meyer"
+		birth_date = 1870.1.1
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+}
+
+1937.1.1 = {
+	monarch = {
+		name = "Giuseppe Motta"
+		birth_date = 1871.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1938.1.1 = {
+	monarch = {
+		name = "Johannes Baumann"
+		birth_date = 1874.1.1
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+}
+
+1939.1.1 = {
+	government = presidental_republic
+	monarch = {
+		name = "Philipp Etter"
+		birth_date = 1891.1.1
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+}
+
+1940.1.1 = {
+	monarch = {
+		name = "Marcel Pilet-Golaz"
+		birth_date = 1889.1.1
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+1941.1.1 = {
+	monarch = {
+		name = "Ernst Wetter"
+		birth_date = 1877.1.1
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+1942.1.1 = {
+	monarch = {
+		name = "Philipp Etter"
+		birth_date = 1891.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1943.1.1 = {
+	monarch = {
+		name = "Enrico Celio"
+		birth_date = 1889.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+1944.1.1 = {
+	monarch = {
+		name = "Walter Stampfli"
+		birth_date = 1884.1.1
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+}
+
+1945.1.1 = {
+	monarch = {
+		name = "Eduard von Steiger"
+		birth_date = 1881.1.1
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+}
+
+1946.1.1 = {
+	monarch = {
+		name = "Karl Kobelt"
+		birth_date = 1891.1.1
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+}
+
+1947.1.1 = {
+	monarch = {
+		name = "Philipp Etter"
+		birth_date = 1891.1.1
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+}
+
+1948.1.1 = {
+	monarch = {
+		name = "Enrico Celio"
+		birth_date = 1889.1.1
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+}
+
+1949.1.1 = {
+	monarch = {
+		name = "Ernst Nobs"
+		birth_date = 1886.1.1
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+}
+
+1950.1.1 = {
+	monarch = {
+		name = "Max Petitpierre"
+		birth_date = 1899.1.1
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+}
+
+1951.1.1 = {
+	monarch = {
+		name = "Eduard von Steiger"
+		birth_date = 1881.1.1
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+}
+
+1952.1.1 = {
+	monarch = {
+		name = "Karl Kobelt"
+		birth_date = 1891.1.1
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+}
+
+1953.1.1 = {
+	monarch = {
+		name = "Philipp Etter"
+		birth_date = 1891.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+}
+
+1954.1.1 = {
+	monarch = {
+		name = "Rudolphe Rubattel"
+		birth_date = 1896.1.1
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+}
+
+1955.1.1 = {
+	monarch = {
+		name = "Max Petitpierre"
+		birth_date = 1899.1.1
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1956.1.1 = {
+	monarch = {
+		name = "Markus Feldmann"
+		birth_date = 1897.1.1
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+}
+
+1957.1.1 = {
+	monarch = {
+		name = "Hans Streuli"
+		birth_date = 1892.1.1
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+}
+
+1958.1.1 = {
+	monarch = {
+		name = "Thomas Holenstein"
+		birth_date = 1896.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+1959.1.1 = {
+	monarch = {
+		name = "Paul Chaudet"
+		birth_date = 1904.1.1
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+}
+
+1960.1.1 = {
+	monarch = {
+		name = "Max Petitpierre"
+		birth_date = 1899.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1961.1.1 = {
+	monarch = {
+		name = "Friedrich Traugott Wahlen"
+		birth_date = 1899.1.1
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}
+
+1962.1.1 = {
+	monarch = {
+		name = "Paul Chaudet"
+		birth_date = 1904.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+1963.1.1 = {
+	monarch = {
+		name = "Willy Spühler"
+		birth_date = 1902.1.1
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+}
+
+1964.1.1 = {
+	monarch = {
+		name = "Ludwig von Moos"
+		birth_date = 1910.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1965.1.1 = {
+	monarch = {
+		name = "Hans-Peter Tschudi"
+		birth_date = 1913.1.1
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+}
+
+1966.1.1 = {
+	monarch = {
+		name = "Hans Schaffner"
+		birth_date = 1908.1.1
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1967.1.1 = {
+	monarch = {
+		name = "Roger Bonvin"
+		birth_date = 1907.1.1
+		adm = 5
+		dip = 3
+		mil = 7
+	}
+}
+
+1968.1.1 = {
+	monarch = {
+		name = "Willy Spühler"
+		birth_date = 1902.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1969.1.1 = {
+	monarch = {
+		name = "Ludwig von Moos"
+		birth_date = 1910.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1970.1.1 = {
+	monarch = {
+		name = "Hans-Peter Tschudi"
+		birth_date = 1913.1.1
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+}
+
+1971.1.1 = {
+	monarch = {
+		name = "Rudolf Gnägi"
+		birth_date = 1917.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+1972.1.1 = {
+	monarch = {
+		name = "Nello Celio"
+		birth_date = 1914.1.1
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+}
+
+1973.1.1 = {
+	monarch = {
+		name = "Roger Bonvin"
+		birth_date = 1907.1.1
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+1974.1.1 = {
+	monarch = {
+		name = "Ernst Brugger"
+		birth_date = 1914.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+}
+
+1975.1.1 = {
+	monarch = {
+		name = "Pierre Graber"
+		birth_date = 1908.1.1
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+}
+
+1976.1.1 = {
+	monarch = {
+		name = "Rudolf Gnägi"
+		birth_date = 1917.1.1
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+}
+
+1977.1.1 = {
+	monarch = {
+		name = "Kurt Furgler"
+		birth_date = 1924.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1978.1.1 = {
+	monarch = {
+		name = "Willy Ritschard"
+		birth_date = 1918.1.1
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+1979.1.1 = {
+	monarch = {
+		name = "Hans Hürlimann"
+		birth_date = 1918.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1980.1.1 = {
+	monarch = {
+		name = "Georges-André Chevallaz"
+		birth_date = 1915.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1981.1.1 = {
+	monarch = {
+		name = "Kurt Furgler"
+		birth_date = 1924.1.1
+		adm = 6
+		dip = 4
+		mil = 5
+	}
+}
+
+1982.1.1 = {
+	monarch = {
+		name = "Fritz Honegger"
+		birth_date = 1917.1.1
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1983.1.1 = {
+	monarch = {
+		name = "Pierre Aubert"
+		birth_date = 1927.1.1
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+}
+
+1984.1.1 = {
+	monarch = {
+		name = "Leon Schlumpf"
+		birth_date = 1925.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1985.1.1 = {
+	monarch = {
+		name = "Kurt Furgler"
+		birth_date = 1924.1.1
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+}
+
+1986.1.1 = {
+	monarch = {
+		name = "Alphons Egli"
+		birth_date = 1924.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1987.1.1 = {
+	monarch = {
+		name = "Pierre Aubert"
+		birth_date = 1927.1.1
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+}
+
+1988.1.1 = {
+	monarch = {
+		name = "Otto Stich"
+		birth_date = 1927.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+}
+
+1989.1.1 = {
+	monarch = {
+		name = "Jean-Pascal Delamuraz"
+		birth_date = 1936.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1990.1.1 = {
+	monarch = {
+		name = "Arnold Koller"
+		birth_date = 1933.1.1
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+}
+
+1991.1.1 = {
+	monarch = {
+		name = "Flavio Cotti"
+		birth_date = 1939.1.1
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}
+
+1992.1.1 = {
+	monarch = {
+		name = "René Felber"
+		birth_date = 1933.1.1
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1993.1.1 = {
+	monarch = {
+		name = "Adolf Ogi"
+		birth_date = 1942.1.1
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+}
+
+1994.1.1 = {
+	monarch = {
+		name = "Otto Stich"
+		birth_date = 1927.1.1
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+}
+
+1995.1.1 = {
+	monarch = {
+		name = "Kaspar Villiger"
+		birth_date = 1941.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1996.1.1 = {
+	monarch = {
+		name = "Jean-Pascal Delamuraz"
+		birth_date = 1936.1.1
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+}
+
+1997.1.1 = {
+	monarch = {
+		name = "Arnold Koller"
+		birth_date = 1933.1.1
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+}
+
+1998.1.1 = {
+	monarch = {
+		name = "Flavio Cotti"
+		birth_date = 1939.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1999.1.1 = {
+	monarch = {
+		name = "Ruth Dreifuss"
+		birth_date = 1940.1.1
+		adm = 6
+		dip = 5
+		mil = 3
+		female = yes
+	}
+}
+
+2000.1.1 = {
+	monarch = {
+		name = "Adolf Ogi"
+		birth_date = 1942.1.1
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+2001.1.1 = {
+	monarch = {
+		name = "Moritz Leuenberger"
+		birth_date = 1946.1.1
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+}
+
+2002.1.1 = {
+	monarch = {
+		name = "Kaspar Villiger"
+		birth_date = 1941.1.1
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+}
+
+2003.1.1 = {
+	monarch = {
+		name = "Pascal Couchepin"
+		birth_date = 1942.1.1
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+}
+
+2004.1.1 = {
+	monarch = {
+		name = "Joseph Deiss"
+		birth_date = 1946.1.1
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+2005.1.1 = {
+	monarch = {
+		name = "Samuel Schmid"
+		birth_date = 1947.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+2006.1.1 = {
+	monarch = {
+		name = "Moritz Leuenberger"
+		birth_date = 1946.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+2007.1.1 = {
+	monarch = {
+		name = "Micheline Calmy-Rey"
+		birth_date = 1945.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+		female = yes
+	}
+}
+
+2008.1.1 = {
+	monarch = {
+		name = "Pascal Couchepin"
+		birth_date = 1942.1.1
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+}
+
+2009.1.1 = {
+	monarch = {
+		name = "Hans-Rudolf Merz"
+		birth_date = 1942.1.1
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+2010.1.1 = {
+	monarch = {
+		name = "Doris Leuthard"
+		birth_date = 1963.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+		female = yes
+	}
+}
+
+2011.1.1 = {
+	monarch = {
+		name = "Micheline Calmy-Rey"
+		birth_date = 1945.1.1
+		adm = 5
+		dip = 3
+		mil = 4
+		female = yes
+	}
+}
+
+2012.1.1 = {
+	monarch = {
+		name = "Eveline Widmer-Schlumpf"
+		birth_date = 1956.1.1
+		adm = 6
+		dip = 4
+		mil = 3
+		female = yes
+	}
+}
+
+2013.1.1 = {
+	monarch = {
+		name = "Ueli Maurer"
+		birth_date = 1950.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+2014.1.1 = {
+	monarch = {
+		name = "Didier Burkhalter"
+		birth_date = 1960.1.1
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+}

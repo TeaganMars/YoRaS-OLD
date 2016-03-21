@@ -1,0 +1,45 @@
+government = constitutional_republic
+mercantilism = 0.1
+primary_culture = palestinian
+religion = sunni
+technology_group = muslim
+historical_rival = ISR
+capital = 379	# Judea
+
+1988.11.15 = {
+	monarch = {
+		name = "(vacant)"
+		regent = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1989.4.2 = {
+	monarch = {
+		name = "Yasser Arafat"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+2004.11.11 = {
+	monarch = {
+		name = "(vacant)"
+		regent = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+2005.5.8 = {
+	monarch = {
+		name = "Mahmoud Abbas"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

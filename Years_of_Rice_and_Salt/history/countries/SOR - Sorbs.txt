@@ -1,0 +1,61 @@
+government = barbarian_tribe
+mercantilism = 0.1
+primary_culture = sorbian
+religion = slavic
+technology_group = barbarian
+capital = 60
+
+600.1.1 = { technology_group = western }
+
+610.1.1 = {
+	monarch = {
+		name = "Dervan"
+		dynasty = "Sorb"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+632.1.1 = {
+	monarch = {
+		name = "(regency council)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+790.1.1 = {
+	monarch = {
+		name = "Miliduch"
+		dynasty = "Sorb"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+820.1.1 = {
+	monarch = {
+		name = "Czimislav"
+		dynasty = "Colodici"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+831.1.1 = { government = tribal_federation government_rank = 1 }
+
+840.1.1 = {
+	monarch = {
+		name = "Cestibor"
+		dynasty = "Sorb"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+

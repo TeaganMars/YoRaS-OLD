@@ -1,0 +1,28 @@
+government = steppe_horde
+mercantilism = 0.1
+primary_culture = circassian
+religion = tengri_pagan_reformed
+technology_group = western_nomad_group
+capital = 2124
+
+2.1.1 = {
+	monarch = {
+		name = "Abeacus"
+		dynasty = "Siraces"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+41.1.1 = {
+	monarch = {
+		name = "Zorsines"
+		dynasty = "Siraces"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+750.1.1 = { technology_group = nomad_group }

@@ -1,0 +1,31 @@
+#1173 - Damaraland
+
+culture = khoi
+religion = african
+capital = "Damaraland"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 40
+native_ferocity = 2
+native_hostileness = 6
+
+1840.1.1   = { discovered_by = NED discovered_by = GBR }
+1886.5.1   = { 	owner = GER
+		controller = GER
+		add_core = GER 
+		is_city = yes 
+		trade_goods = grain
+		religion = protestant
+		capital = "Otjimbingwe"
+	     }
+1890.10.18 = { capital = "Windhoek" }
+1910.3.31  = { add_core = RSA }
+1919.6.28  = { owner = GBR controller = GBR add_core = GBR remove_core = GER }
+1960.10.5  = { owner = RSA controller = RSA remove_core = GBR }
+1990.3.21  = { owner = NMB controller = NMB add_core = NMB remove_core = RSA }
+
+
+

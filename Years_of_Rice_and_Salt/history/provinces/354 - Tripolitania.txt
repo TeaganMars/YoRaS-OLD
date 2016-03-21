@@ -1,0 +1,64 @@
+#354 - Tripoli
+
+owner = ROM
+controller = ROM
+culture = tunisian
+religion = african
+capital = "Leptis Magna"
+trade_goods = cloth
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = roman_group
+
+395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+420.1.1 = { religion = chalcedonism }
+439.1.1 = { owner = VAN controller = VAN add_core = VAN remove_core = ROW }
+543.1.1 = { owner = BYZ controller = BYZ add_core = BYZ remove_core = VAN }
+650.1.1 = { owner = RAS controller = RAS add_core = RAS remove_core = BYZ capital = "Tripoli" }
+661.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = RAS }
+700.1.1 = { religion = sunni }
+750.1.1 = { owner = ABB controller = ABB add_core = ABB remove_core = UMA }
+800.1.1 = { owner = TUN controller = TUN add_core = TUN remove_core = ABB }
+909.1.1 = { owner = FAT controller = FAT add_core = FAT }
+1048.1.1 = { owner = TUN controller = TUN add_core = TUN remove_core = FAT }
+1152.1.1 = { owner = AMH controller = AMH add_core = AMH }
+1229.1.1 = { owner = TUN controller = TUN add_core = TUN remove_core = AMH }
+
+1510.1.1  = { owner = CAS controller = CAS add_core = CAS }
+1516.1.23 = {	owner = SPA	
+		controller = SPA
+		add_core = SPA
+		remove_core = CAS
+	    }
+1528.1.1  = {	owner = KNI
+		controller = KNI
+		add_core = KNI
+		remove_core = SPA
+	    } # Ferdinand gave Tripoli to the Knights of St John
+1551.8.1  = {	owner = TRP
+		controller = TRP
+		add_core = TRP
+		remove_core = KNI
+		remove_core = TUN
+	    } # Turgut Reis takes Tripoli
+1609.1.1  = { revolt = { type = revolutionary_rebels size = 2 } controller = REB } # Janissary revolt
+1610.1.1  = { revolt = {} controller = TRP }
+1711.1.1  = { unrest = 6 } # The Ottoman governor is killed by Ahmad Karmanli
+1712.1.1  = { unrest = 0 } # Fortifications are restored
+
+1912.10.18 = { owner = ITA controller = ITA add_core = ITA add_core = LIB remove_core = TRP }
+1943.1.15  = { controller = GBR }
+1943.9.8   = { owner = GBR remove_core = ITA }
+1951.12.24 = { owner = LIB controller = LIB }
+2014.8.8   = { revolt = { type = pretender_rebels size = 1 } controller = REB } #New General National Congress
+

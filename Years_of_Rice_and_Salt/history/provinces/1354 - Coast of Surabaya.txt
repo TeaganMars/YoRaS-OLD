@@ -1,0 +1,15 @@
+#1354 - Coast of Surabaya
+
+discovered_by = ATJ
+discovered_by = MLC
+discovered_by = AYU
+discovered_by = MAJ
+discovered_by = BLI
+discovered_by = MKS
+discovered_by = BEI
+
+1405.1.1 = { discovered_by = MNG }
+1613.1.1 = { discovered_by = NED }
+
+
+

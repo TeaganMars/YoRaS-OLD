@@ -1,0 +1,6 @@
+#1725 - East of New Hebrides
+
+1643.1.1 = { discovered_by = NED }
+
+
+

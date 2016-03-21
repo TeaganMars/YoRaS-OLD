@@ -1,0 +1,24 @@
+government = tribal_despotism
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -2
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = bedouin_arabic
+religion = south_arabian
+technology_group = middle_eastern
+capital = 394 #Al Hasa
+
+51.1.1 = {
+	monarch = {
+		name = "Taym Al Lat"
+		dynasty = "Gerrha"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}

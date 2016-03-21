@@ -1,0 +1,6 @@
+#1423 - Cook Strait
+
+1642.1.1 = { discovered_by = NED } # Abel Tasman
+
+
+

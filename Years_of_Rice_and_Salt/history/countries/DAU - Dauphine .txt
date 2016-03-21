@@ -1,0 +1,294 @@
+government = feudal_monarchy
+government_rank = 1
+#aristocracy_plutocracy = -1
+#centralization_decentralization = 2
+#innovative_narrowminded = -1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 3
+#land_naval = -3
+#quality_quantity = 2
+#serfdom_freesubjects = -4
+technology_group = western
+religion = catholic
+primary_culture = occitain
+capital = 204	# Grenoble
+
+1040.1.1 = {
+	monarch = {
+		name = "Guigues I"
+		dynasty = "de Albon"
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+
+1040.1.1 = {
+	heir = {
+		name = "Guigues"
+		monarch_name = "Guigues II"
+		dynasty = "de Albon"
+		birth_date = 1020.1.1
+		death_date = 1079.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+1070.1.1 = {
+	monarch = {
+		name = "Guigues II"
+		dynasty = "de Albon"
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+1070.1.1 = {
+	heir = {
+		name = "Guigues"
+		monarch_name = "Guigues III"
+		dynasty = "de Albon"
+		birth_date = 1050.1.1
+		death_date = 1133.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1079.1.1 = {
+	monarch = {
+		name = "Guigues III"
+		dynasty = "de Albon"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1095.1.1 = {
+	heir = {
+		name = "Guigues"
+		monarch_name = "Guigues IV"
+		dynasty = "de Albon"
+		birth_date = 1095.1.1
+		death_date = 1142.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1133.1.1 = {
+	monarch = {
+		name = "Guigues IV"
+		dynasty = "de Albon"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1133.1.1 = {
+	heir = {
+		name = "Guigues"
+		monarch_name = "Guigues V"
+		dynasty = "de Albon"
+		birth_date = 1120.1.1
+		death_date = 1162.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+1142.1.1 = {
+	monarch = {
+		name = "Guigues V"
+		dynasty = "de Albon"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+1161.1.1 = {
+	heir = {
+		name = "Béatrice"
+		monarch_name = "Béatrice I"
+		dynasty = "de Albon"
+		birth_date = 1161.1.1
+		death_date = 1228.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 3
+		female = yes
+	}
+}
+
+1162.1.1 = {
+	monarch = {
+		name = "Béatrice I"
+		dynasty = "de Albon"
+		adm = 5
+		dip = 2
+		mil = 3
+		female = yes
+	}
+}
+
+1228.1.1 = {
+	monarch = {
+		name = "Guigues VI"
+		dynasty = "de Bourgogne"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1228.1.1 = {
+	heir = {
+		name = "Guigues"
+		monarch_name = "Guigues VII"
+		dynasty = "de Bourgogne"
+		birth_date = 1225.1.1
+		death_date = 1269.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+
+1237.1.1 = {
+	monarch = {
+		name = "Guigues VII"
+		dynasty = "de Bourgogne"
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+
+1263.1.1 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean I"
+		dynasty = "de Bourgogne"
+		birth_date = 1263.1.1
+		death_date = 1282.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+
+1269.1.1 = {
+	monarch = {
+		name = "Jean I"
+		dynasty = "de Bourgogne"
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+
+1282.1.1 = {
+	monarch = {
+		name = "Humbert I"
+		dynasty = "de La Tour-du-Pin"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1282.1.1 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean II"
+		dynasty = "de La Tour-du-Pin"
+		birth_date = 1280.1.1
+		death_date = 1318.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1307.1.1 = {
+	monarch = {
+		name = "Jean II"
+		dynasty = "de La Tour-du-Pin"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1309.1.1 = {
+	heir = {
+		name = "Guigues"
+		monarch_name = "Guigues VIII"
+		dynasty = "de La Tour-du-Pin"
+		birth_date = 1309.1.1
+		death_date = 1333.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+1318.1.1 = {
+	monarch = {
+		name = "Guigues VIII"
+		dynasty = "de La Tour-du-Pin"
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+1318.1.1 = {
+	heir = {
+		name = "Humbert"
+		monarch_name = "Humbert II"
+		dynasty = "de La Tour-du-Pin"
+		birth_date = 1312.1.1
+		death_date = 1355.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+1333.1.1 = {
+	monarch = {
+		name = "Humbert II"
+		dynasty = "de La Tour-du-Pin"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+1515.1.1 = { government = despotic_monarchy }
+
+1589.8.3 = { government = administrative_monarchy }
+
+1661.3.9 = { government = absolute_monarchy }
+

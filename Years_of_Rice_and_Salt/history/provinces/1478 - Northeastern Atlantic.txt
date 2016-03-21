@@ -1,0 +1,5 @@
+#1478 - Northeastern Atlantic
+
+830.1.1 = { discovered_by = NOR discovered_by = ICE }
+950.1.1 = { discovered_by = western discovered_by = eastern }
+

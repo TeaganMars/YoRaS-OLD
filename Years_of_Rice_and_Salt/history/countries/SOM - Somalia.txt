@@ -1,0 +1,135 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = somali
+religion = sunni
+technology_group = muslim
+capital = 1205
+
+1960.7.1 = {
+	monarch = {
+		name = "Aden Abdullah Osman Daar"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1967.6.10 = {
+	monarch = {
+		name = "Abdirashid Ali Shermarke"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1969.10.15 = {
+	monarch = {
+		name = "Sheikh Mukhtar Mohamed Hussein"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1969.10.21 = {
+	government = revolutionary_republic
+	monarch = {
+		name = "Mohamed Siad Barre"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+
+1976.7.1 = { government = constitutional_republic }
+
+1991.1.29 = {
+	monarch = {
+		name = "Ali Mahdi Muhammad"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1997.1.3 = {
+	monarch = {
+		name = "(vacant)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+2000.8.27 = {
+	monarch = {
+		name = "Abdiqasim Salad Hassan"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+2004.10.14 = {
+	monarch = {
+		name = "Abdullahi Yusuf Ahmed"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+2008.12.29 = {
+	monarch = {
+		name = "Adan Mohamed Nuur Madobe"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+2009.1.31 = {
+	monarch = {
+		name = "Sharif Sheikh Ahmed"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+2012.8.20 = {
+	monarch = {
+		name = "Muse Hassan Abdulle"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+2012.8.28 = {
+	monarch = {
+		name = "Mohamed Osman Jawari"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+2012.9.16 = {
+	monarch = {
+		name = "Hassan Sheikh Mohamud"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}

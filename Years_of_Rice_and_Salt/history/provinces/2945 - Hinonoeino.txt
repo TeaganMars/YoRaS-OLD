@@ -1,0 +1,46 @@
+#2945 - Hinonoeino
+
+culture = wichita
+religion = totemism
+capital = "Hinonoeino"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1541.1.1  = { discovered_by = SPA } # Francisco Vásquez de Coronado
+1750.1.1 = { base_manpower = 2 }
+1760.1.1  = {	owner = ARP
+		controller = ARP
+		add_core = ARP
+		culture = arapaho
+		trade_goods = grain
+		is_city = yes } #Great Plain tribes spread over vast territories
+
+1775.1.1 = { base_production = 2 base_manpower = 3 }
+1800.1.1 = { base_tax = 2 }
+1825.1.1 = { base_tax = 3 base_production = 3 }
+1850.1.1 = { base_production = 4 }
+1859.1.1   = {	owner = USA
+		controller = USA
+		add_core = USA
+		remove_core = ARP
+		culture = american
+		religion = protestant
+	     }
+1871.7.31  = { capital = "Colorado Springs" }
+
+
+
+
+1875.1.1 = { base_production = 5 base_manpower = 4 }
+1900.1.1 = { base_tax = 4 base_production = 6 }
+1925.1.1 = { base_production = 7 }
+1950.1.1 = { base_tax = 5 base_production = 8 }
+1975.1.1 = { base_tax = 6 }
+2000.1.1 = { base_tax = 8 base_manpower = 6 }

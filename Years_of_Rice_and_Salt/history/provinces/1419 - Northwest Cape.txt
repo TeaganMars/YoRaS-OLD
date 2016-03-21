@@ -1,0 +1,4 @@
+#1419 - Northwest Cape
+
+1697.1.10  = { discovered_by = NED } # Willem de Vlamingh
+

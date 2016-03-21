@@ -1,0 +1,89 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = 3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = mali
+religion = sunni
+technology_group = muslim
+capital = 2358
+
+1910.1.1 = { religion = secularism }
+
+1960.8.11 = {
+	monarch = {
+		name = "Francois Tombalbaye"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1973.8.30 = {
+	monarch = {
+		name = "N'Garta Tombalbaye"
+		dynasty = "Buyid"
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+}
+
+1975.4.15 = {
+	monarch = {
+		name = "Félix Malloum N'Gakoutou"
+		adm = 3
+		mil = 3
+		dip = 5
+	}
+}
+
+1979.3.23 = {
+	monarch = {
+		name = "Goukouni Oueddei"
+		adm = 2
+		mil = 2
+		dip = 4
+	}
+}
+
+1979.4.29 = {
+	monarch = {
+		name = "Lol Mahamat Choua"
+		adm = 3
+		mil = 5
+		dip = 3
+	}
+}
+
+1979.9.3 = {
+	monarch = {
+		name = "Goukouni Oueddei"
+		adm = 2
+		mil = 2
+		dip = 4
+	}
+}
+
+1982.6.7 = {
+	monarch = {
+		name = "Hissène Habré"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1990.12.2 = {
+	monarch = {
+		name = "Idriss Déby"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}

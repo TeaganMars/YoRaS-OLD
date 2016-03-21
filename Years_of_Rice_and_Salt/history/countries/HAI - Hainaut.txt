@@ -1,0 +1,290 @@
+government = feudal_monarchy
+government_rank = 1
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = 0
+technology_group = western
+religion = catholic
+primary_culture = wallonian
+capital = 91	# Mons
+
+1071.2.22 = {
+	monarch = {
+		name = "Baldwin II"
+		dynasty = "de Flanders"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1088.1.1 = {
+	heir = {
+		name = "Baldwin"
+		monarch_name = "Baldwin III"
+		dynasty = "de Flanders"
+		birth_date = 1088.1.1
+		death_date = 1120.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1098.1.1 = {
+	monarch = {
+		name = "Baldwin III"
+		dynasty = "de Flanders"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1108.1.1 = {
+	heir = {
+		name = "Baldwin"
+		monarch_name = "Baldwin IV"
+		dynasty = "de Flanders"
+		birth_date = 1108.1.1
+		death_date = 1171.11.8
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1120.1.1 = {
+	monarch = {
+		name = "Baldwin IV"
+		dynasty = "de Flanders"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1150.1.1 = {
+	heir = {
+		name = "Baldwin"
+		monarch_name = "Baldwin V"
+		dynasty = "de Flanders"
+		birth_date = 1150.1.1
+		death_date = 3000.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+
+1171.11.8 = {
+	monarch = {
+		name = "Baldwin V"
+		dynasty = "de Flanders"
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+
+1253.7.4 = {
+	monarch = {
+		name = "Jean I"
+		dynasty = "de Avesnes"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1280.2.10 = {
+	monarch = {
+		name = "Jean II"
+		dynasty = "de Flanders"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1286.1.1 = {
+	heir = {
+		name = "William"
+		monarch_name = "William I"
+		dynasty = "de Flanders"
+		birth_date = 1286.1.1
+		death_date = 1337.6.7
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1304.8.22 = {
+	monarch = {
+		name = "William I"
+		dynasty = "de Flanders"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1307.1.1 = {
+	heir = {
+		name = "William"
+		monarch_name = "William II"
+		dynasty = "de Flanders"
+		birth_date = 1307.1.1
+		death_date = 1345.9.26
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1337.6.7 = {
+	monarch = {
+		name = "William II"
+		dynasty = "de Flanders"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1337.6.7 = {
+	heir = {
+		name = "Margaret"
+		monarch_name = "Margaret II"
+		dynasty = "de Flanders"
+		birth_date = 1311.1.1
+		death_date = 1356.6.23
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 5
+		female = yes
+	}
+}
+
+1345.9.26 = {
+	monarch = {
+		name = "Margaret II"
+		dynasty = "de Flanders"
+		adm = 5
+		dip = 4
+		mil = 5
+		female = yes
+	}
+}
+
+1345.9.26 = {
+	heir = {
+		name = "William"
+		monarch_name = "William III"
+		dynasty = "von Wittelsbach"
+		birth_date = 1330.5.12
+		death_date = 1389.4.15
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1356.6.23 = {
+	monarch = {
+		name = "William III"
+		dynasty = "von Wittelsbach"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1356.6.23 = {
+	heir = {
+		name = "Albert"
+		monarch_name = "Albert I"
+		dynasty = "von Wittelsbach"
+		birth_date = 1336.6.25
+		death_date = 1404.12.13
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1389.4.15 = {
+	monarch = {
+		name = "Albert I"
+		dynasty = "von Wittelsbach"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1389.4.15 = {
+	heir = {
+		name = "William"
+		monarch_name = "William VI"
+		dynasty = "von Wittelsbach"
+		birth_date = 1365.4.5
+		death_date = 1417.5.31
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1404.12.13 = {
+	monarch = {
+		name = "William VI"
+		dynasty = "von Wittelsbach"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1404.12.13 = {
+	heir = {
+		name = "Jacquette"
+		monarch_name = "Jacquette"
+		dynasty = "von Wittelsbach"
+		birth_date = 1401.8.16
+		death_date = 1436.10.8
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1417.5.31 = {
+	monarch = {
+		name = "Jacquette"
+		dynasty = "von Wittelsbach"
+		adm = 3
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+

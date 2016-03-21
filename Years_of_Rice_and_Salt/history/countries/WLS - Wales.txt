@@ -1,0 +1,9 @@
+government = barbarian_tribe
+mercantilism = 0.1
+technology_group = barbarian
+primary_culture = welsh
+religion = druidism
+capital = 242	# Gwynedd
+
+400.1.1 = { government = feudal_monarchy religion = catholic }
+536.1.1 = { technology_group = western }

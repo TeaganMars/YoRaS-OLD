@@ -1,0 +1,116 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = 0
+technology_group = western
+primary_culture = english
+religion = protestant
+capital = 498
+
+1910.1.1 = { religion = secularism }
+
+1978.11.3 = {
+	monarch = {
+		name = "Louis Cools-Lartigue"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+1979.1.16 = {
+	monarch = {
+		name = "Fred Degazon"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1979.6.15 = {
+	monarch = {
+		name = "Louis Cools-Lartigue"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+1979.6.21 = {
+	monarch = {
+		name = "Jenner Armour"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+
+1980.2.25 = {
+	monarch = {
+		name = "Aurelius Marie"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1983.12.19 = {
+	monarch = {
+		name = "Clarence Seignoret"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1993.10.25 = {
+	monarch = {
+		name = "Crispin Sorhaindo"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1998.10.6 = {
+	monarch = {
+		name = "Vernon Shaw"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+2003.10.2 = {
+	monarch = {
+		name = "Nicholas Liverpool"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+2012.9.17 = {
+	monarch = {
+		name = "Eliud Williams"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+2013.10.2 = {
+	monarch = {
+		name = "Charles Savarin"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}

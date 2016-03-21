@@ -1,0 +1,20 @@
+#1451 - Western Arabian Sea
+
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = early_indian
+discovered_by = indian
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = ZIM
+
+1421.1.1 = { discovered_by = MNG }
+1488.1.1 = { discovered_by = POR }
+1550.1.1 = { discovered_by = TUR }
+
+
+
+

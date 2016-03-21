@@ -1,0 +1,63 @@
+government = barbarian_tribe
+mercantilism = 0.1
+technology_group = barbarian
+primary_culture = briton
+religion = druidism
+capital = 1861
+
+410.1.1 = { 	government = feudal_monarchy 
+		government_rank = 1
+		primary_culture = welsh
+}
+
+410.1.1 = {
+	monarch = {
+		name = "Masgwid Gloff"
+		dynasty = "Elmet"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+490.1.1 = {
+	monarch = {
+		name = "Llaennog"
+		dynasty = "Elmet"
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+}
+
+536.1.1 = { technology_group = western }
+
+540.1.1 = {
+	monarch = {
+		name = "Arthuis"
+		dynasty = "Elmet"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+560.1.1 = {
+	monarch = {
+		name = "Gwallog"
+		dynasty = "Elmet"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+590.1.1 = {
+	monarch = {
+		name = "Ceredig"
+		dynasty = "Elmet"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}

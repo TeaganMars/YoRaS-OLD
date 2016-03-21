@@ -1,0 +1,215 @@
+namespace = et
+
+# Plague
+province_event = {
+
+	id = et.69
+	title = "et.EVTNAME69"
+	desc = "et.EVTDESC69"
+	picture = PLAGUE_eventPicture
+
+	trigger = {
+		has_dlc = "Common Sense"
+		development = 15	
+		owner = { NOT = { adm_tech = 46 } }
+		base_tax = 4
+		base_production = 4
+		base_manpower = 4
+		NOT = { has_province_modifier = et_plague }
+	}
+	mean_time_to_happen = {
+		months = 3200
+
+		modifier = {
+			factor = 0.1
+			any_neighbor_province = { has_province_modifier = et_plague }
+		}
+		modifier = {
+			factor = 0.5
+			development = 20
+		}
+		modifier = {
+			factor = 0.5
+			development = 25
+		}
+		modifier = {
+			factor = 0.4
+			development = 30
+		}
+		modifier = {
+			factor = 0.3
+			development = 35
+		}
+		modifier = {
+			factor = 0.2
+			development = 40
+		}
+		modifier = {
+			factor = 1.2
+			owner = { adm_tech = 26 }
+		}
+		modifier = {
+			factor = 1.2
+			owner = { adm_tech = 36 }
+		}
+	}
+	
+	option = {
+		name = "et.EVTOPTA69"
+		add_base_tax = -3
+		add_base_production = -3
+		add_base_manpower = -3
+		add_province_modifier = {
+			name = et_plague
+			duration = 1825
+		}
+	}
+}
+
+#Famine
+province_event = {
+
+	id = et.70
+	title = "et.EVTNAME70"
+	desc = "et.EVTDESC70"
+	picture = FAMINE_eventPicture
+
+	trigger = {	
+		has_dlc = "Common Sense"
+		owner = { NOT = { adm_tech = 46 } }
+		base_tax = 3
+		base_production = 3
+		base_manpower = 3
+		NOT = { has_province_modifier = et_famine }
+	}
+	mean_time_to_happen = {
+		months = 3600
+
+		modifier = {
+			factor = 0.6
+			has_terrain = desert
+		}
+		modifier = {
+			factor = 0.8
+			has_terrain = steppe
+		}
+		modifier = {
+			factor = 0.8
+			has_terrain = savannah
+		}
+		modifier = {
+			factor = 0.8
+			has_terrain = mountain
+		}
+		modifier = {
+			factor = 0.8
+			development = 15
+		}
+		modifier = {
+			factor = 0.8
+			development = 20
+		}
+		modifier = {
+			factor = 0.8
+			development = 25
+		}
+		modifier = {
+			factor = 0.7
+			development = 30
+		}
+		modifier = {
+			factor = 0.6
+			development = 35
+		}
+		modifier = {
+			factor = 1.2
+			owner = { adm_tech = 26 }
+		}
+		modifier = {
+			factor = 1.2
+			owner = { adm_tech = 36 }
+		}
+	}
+	
+	option = {
+		name = "et.EVTOPTA70"
+		add_base_tax = -2
+		add_base_production = -2
+		add_base_manpower = -2
+		add_province_modifier = {
+			name = et_famine
+			duration = 1825
+		}
+	}
+}
+
+#Drought
+province_event = {
+
+	id = et.71
+	title = "et.EVTNAME71"
+	desc = "et.EVTDESC71"
+	picture = FAMINE_eventPicture
+
+	trigger = {	
+		has_dlc = "Common Sense"
+		owner = { NOT = { adm_tech = 46 } }
+		base_tax = 3
+		base_production = 3
+		base_manpower = 3
+		OR = {
+			has_terrain = desert
+			has_terrain = mountain
+			has_terrain = savannah
+			has_terrain = steppe
+		}
+		NOT = { has_province_modifier = et_drought }
+	}
+	mean_time_to_happen = {
+		months = 2400
+
+		modifier = {
+			factor = 0.6
+			has_terrain = desert
+		}
+		modifier = {
+			factor = 0.8
+			development = 15
+		}
+		modifier = {
+			factor = 0.8
+			development = 20
+		}
+		modifier = {
+			factor = 0.8
+			development = 25
+		}
+		modifier = {
+			factor = 0.7
+			development = 30
+		}
+		modifier = {
+			factor = 0.6
+			development = 35
+		}
+		modifier = {
+			factor = 1.2
+			owner = { adm_tech = 26 }
+		}
+		modifier = {
+			factor = 1.2
+			owner = { adm_tech = 36 }
+		}
+	}
+	
+	option = {
+		name = "et.EVTOPTA71"
+		add_base_tax = -2
+		add_base_production = -2
+		add_base_manpower = -2
+		add_province_modifier = {
+			name = et_drought
+			duration = 1825
+		}
+	}
+}

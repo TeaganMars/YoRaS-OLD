@@ -1,0 +1,31 @@
+#2787 - Vila Bela
+
+culture = guarani
+religion = south_american
+capital = "Vila Bela"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 1 
+native_hostileness = 1
+discovered_by = south_american
+
+1752.3.19 = {
+	discovered_by = POR
+	add_core = POR
+	owner = POR
+	controller = POR
+	citysize = 280
+	culture = portugese
+	religion = catholic
+	trade_goods = copper
+}
+1760.1.1 = { is_city = yes }
+
+1822.9.7   = { owner = BRZ controller = BRZ add_core = BRZ remove_core = POR }
+1979.12.29 = { capital = "Pontes e Lacerda" }
+
+

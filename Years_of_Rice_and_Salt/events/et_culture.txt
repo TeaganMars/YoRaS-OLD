@@ -1,0 +1,205 @@
+################
+#Culture Events#
+################
+
+namespace = culture
+
+#Aramaic into Syrian
+province_event = {
+	id = culture.1
+	title = culture.1.t
+	desc = culture.1.d
+	picture = RELIGIOUS_CONVERSION_eventPicture
+
+	trigger = {
+		culture = aramaic
+		owner = {
+			religion_group = muslim
+		}
+		religion_group = muslim
+	}
+
+	mean_time_to_happen = {
+		years = 50
+	}
+
+	option = {
+		name = culture.1.a
+		change_culture = al_suryah_arabic
+	}
+}
+
+#Israeli into Palestinian
+province_event = {
+	id = culture.2
+	title = culture.2.t
+	desc = culture.2.d
+	picture = RELIGIOUS_CONVERSION_eventPicture
+
+	trigger = {
+		culture = israeli
+		religion_group = muslim
+	}
+
+	mean_time_to_happen = {
+		years = 50
+	}
+
+	option = {
+		name = culture.2.a
+		change_culture = palestinian
+	}
+}
+
+#Palestinian into Israeli
+province_event = {
+	id = culture.3
+	title = culture.3.t
+	desc = culture.3.d
+	picture = RELIGIOUS_CONVERSION_eventPicture
+
+	trigger = {
+		culture = palestinian
+		religion = jewish
+	}
+
+	mean_time_to_happen = {
+		years = 50
+	}
+
+	option = {
+		name = culture.3.a
+		change_culture = israeli
+	}
+}
+
+#Assyrian into Mashriqi
+province_event = {
+	id = culture.4
+	title = culture.4.t
+	desc = culture.4.d
+	picture = STREET_SPEACH_eventPicture
+
+	trigger = {
+		culture = assyrian
+		owner = {
+			religion_group = muslim
+		}
+		religion_group = muslim
+	}
+
+	mean_time_to_happen = {
+		years = 50
+	}
+
+	option = {
+		name = culture.4.a
+		change_culture = al_iraqiya_arabic
+	}
+}
+
+#Birth of Sa'idi Culture
+province_event = {
+	id = culture.5
+	title = culture.5.t
+	desc = culture.5.d
+	picture = RELIGIOUS_CONVERSION_eventPicture
+
+	trigger = {
+		culture = al_misr_arabic 
+		owner = {
+			religion_group = muslim
+		}
+		OR = {
+			province_id = 2523
+			province_id = 1233
+			province_id = 1231
+			province_id = 360
+		}
+	}
+
+	mean_time_to_happen = {
+		years = 50
+	}
+
+	option = {
+		name = culture.5.a
+		change_culture = saidi
+	}
+}
+
+#Birth of Tunisian Culture
+province_event = {
+	id = culture.6
+	title = culture.6.t
+	desc = culture.6.d
+	picture = CULTURE_eventPicture
+
+	trigger = {
+		culture = berber
+		area = tunisia_area
+		owner = {
+			religion_group = muslim
+		}
+	}
+
+	mean_time_to_happen = {
+		years = 200
+	}
+
+	option = {
+		name = culture.6.a
+		change_culture = tunisian
+	}
+}
+	
+#Birth of Moroccan Culture
+province_event = {
+	id = culture.7
+	title = culture.7.t
+	desc = culture.7.d
+	picture = CULTURE_eventPicture
+
+	trigger = {
+		culture = berber
+		OR = {
+			area = fez_area
+			area = marrekesh_area
+			area = northern_morocco_area
+		}
+		owner = {
+			religion_group = muslim
+		}
+	}
+
+	mean_time_to_happen = {
+		years = 200
+	}
+
+	option = {
+		name = culture.7.a
+		change_culture = moroccan
+	}
+}
+
+#Parthian into Khorasani
+province_event = {
+	id = culture.8
+	title = culture.8.t
+	desc = culture.8.d
+	picture = STREET_SPEACH_eventPicture
+
+	trigger = {
+		culture = parthian
+		religion_group = muslim
+	}
+
+	mean_time_to_happen = {
+		years = 50
+	}
+
+	option = {
+		name = culture.8.a
+		change_culture = khorasani
+	}
+}

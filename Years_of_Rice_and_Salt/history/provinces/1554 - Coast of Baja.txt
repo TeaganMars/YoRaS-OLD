@@ -1,0 +1,6 @@
+#1554 - Coast of Baja
+
+1533.1.1 = { discovered_by = SPA }
+
+
+

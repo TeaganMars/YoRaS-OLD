@@ -1,0 +1,65 @@
+government = absolute_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = -2
+#mercantilism_freetrade = 3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 3
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = bedouin_arabic
+religion = ibadi
+technology_group = muslim
+capital = 1201
+
+1856.10.19 = {
+	monarch = {
+		name = "Majid"
+		dynasty = "al-Said"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1870.10.7 = {
+	monarch = {
+		name = "Barghash"
+		dynasty = "al-Said"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+
+1888.3.26 = {
+	monarch = {
+		name = "Khalifa"
+		dynasty = "al-Said"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1890.2.13 = {
+	monarch = {
+		name = "Ali"
+		dynasty = "al-Said"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1963.12.10 = {
+	monarch = {
+		name = "Jamshid bin Abdullah"
+		dynasty = "al-Said"
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}

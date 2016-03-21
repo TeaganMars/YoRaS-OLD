@@ -1,0 +1,20 @@
+name = "War of the Eight Saints"
+
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+1375.7.1 = {
+	add_attacker = TUS
+	add_attacker = MLO
+	add_attacker = SIE
+	add_defender = PAP
+}
+
+1378.7.1 = {
+	rem_attacker = TUS
+	rem_attacker = MLO
+	rem_attacker = SIE
+	rem_defender = PAP
+}

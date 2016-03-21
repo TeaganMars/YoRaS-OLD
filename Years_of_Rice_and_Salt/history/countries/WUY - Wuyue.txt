@@ -1,0 +1,58 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = early_chinese
+religion = confucianism
+primary_culture = chihan
+capital = 684	# Qiantang
+
+750.1.1 = { technology_group = chinese }
+
+907.1.1 = {
+	monarch = {
+		name = "Qian Lu"
+		dynasty = "Wuyue"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+932.5.6 = {
+	monarch = {
+		name = "Qian Yuanguan"
+		dynasty = "Wuyue"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+941.9.17 = {
+	monarch = {
+		name = "Qian Zuo"
+		dynasty = "Wuyue"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+947.1.1 = {
+	monarch = {
+		name = "Qian Zong"
+		dynasty = "Wuyue"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+947.8.1 = {
+	monarch = {
+		name = "Qian Chu"
+		dynasty = "Wuyue"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}

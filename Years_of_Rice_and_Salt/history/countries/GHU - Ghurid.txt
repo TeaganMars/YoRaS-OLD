@@ -1,0 +1,56 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -3
+#quality_quantity = 2
+#serfdom_freesubjects = -3
+primary_culture = persian
+religion = sunni
+technology_group = muslim
+capital = 446	# Herat
+
+1148.1.1 = {
+	monarch = {
+		name = "Ala-ud-din Jahan-Suz"
+		dynasty = "Ghurid"
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}
+
+1157.1.1 = {
+	monarch = {
+		name = "Ghiyasuddin"
+		dynasty = "Ghurid"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+1175.1.1 = { capital = 448 } #Ghazni
+
+1202.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Ghurid"
+		adm = 2
+		mil = 3
+		dip = 3
+	}
+}
+
+1206.1.1 = {
+	monarch = {
+		name = "Qutbuddin Albak"
+		dynasty = "Ghurid"
+		adm = 1
+		mil = 2
+		dip = 2
+	}
+}

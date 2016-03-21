@@ -1,0 +1,78 @@
+government = republican_dictatorship
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = 0
+technology_group = western
+religion = catholic
+primary_culture = castillian
+capital = 778	# Buenos Aires
+
+1852.9.11 = {
+	monarch = {
+		name = "Manuel Pinto"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+1852.10.31 = {
+	monarch = {
+		name = "Valentín Alsina"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1852.12.7 = {
+	monarch = {
+		name = "Manuel Pinto"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+1853.6.28 = {
+	monarch = {
+		name = "Pastor Obligado"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1858.12.21 = {
+	monarch = {
+		name = "Valentín Alsina"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1859.10.23 = {
+	monarch = {
+		name = "Felipe Llavallol"
+		dynasty = "Bosporan"
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+1860.5.3 = {
+	monarch = {
+		name = "Bartolomé Mitre"
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+}

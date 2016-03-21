@@ -1,0 +1,22 @@
+#1198 - Tabora
+
+culture = eastern_bantu
+religion = african
+capital = "Tabora"
+native_size = 60
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+native_ferocity = 4
+native_hostileness = 9 
+
+1858.1.1   = { discovered_by = GBR } # Richard Burton and John Speke
+1885.2.27  = { discovered_by = GER }
+1890.1.1   = { owner = GER controller = GER add_core = GER is_city = yes trade_goods = grain religion = catholic }
+1919.6.28  = { owner = GBR controller = GBR add_core = GBR remove_core = GER }
+1961.12.9  = { owner = TNZ controller = TNZ add_core = TNZ remove_core = GBR }
+
+
+

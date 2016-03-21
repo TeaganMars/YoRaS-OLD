@@ -1,0 +1,142 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = -2
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -2
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -1
+#quality_quantity = 0
+#serfdom_freesubjects = -4
+primary_culture = korean
+religion = confucianism
+technology_group = early_chinese
+historical_rival = NKO
+capital = 735	# Seoul
+
+750.1.1 = { technology_group = chinese }
+
+1900.1.1 = { government = constitutional_republic }
+1910.1.1 = { religion = secularism }
+1920.1.1 = { technology_group = asian }
+1948.9.9 = { capital = 735 }
+
+1948.9.9 = {
+	monarch = {
+		name = "Rhee Syng-man"
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+1960.4.27 = {
+	monarch = {
+		name = "Heo Jeong"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1960.8.12 = {
+	monarch = {
+		name = "Yun Bo-seon"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1962.3.24 = {
+	monarch = {
+		name = "Park Chung-hee"
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+}
+
+1979.10.26 = {
+	monarch = {
+		name = "Choi Kyu-hah"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1980.8.16 = {
+	monarch = {
+		name = "Pak Choong-hoon"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1980.9.1 = {
+	monarch = {
+		name = "Chun Doo-hwan"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1988.2.25 = {
+	monarch = {
+		name = "Roh Tae-woo"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1990.1.1 = { technology_group = western }
+
+1993.2.25 = {
+	monarch = {
+		name = "Kim Young-sam"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1998.2.25 = {
+	monarch = {
+		name = "Kim Dae-jung"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+2003.2.25 = {
+	monarch = {
+		name = "Roh Moo-hyun"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+2008.2.25 = {
+	monarch = {
+		name = "Lee Myung-bak"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+2013.2.25 = {
+	monarch = {
+		name = "Park Geun-hye"
+		adm = 2
+		dip = 5
+		mil = 2
+		female = yes
+	}
+}

@@ -1,0 +1,61 @@
+#876 - Yavapai
+
+owner = HOH
+controller = HOH
+add_core = HOH
+is_city = yes
+culture = piman
+religion = totemism
+capital = "Yavapai" 
+trade_goods = wool
+hre = no 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = north_american
+
+1375.1.1 = { 	owner = XXX
+		controller = XXX
+		remove_core = HOH
+		citysize = 0
+		trade_goods = unknown
+		native_size = 5 
+		native_ferocity = 2 
+		native_hostileness = 5 
+	   }
+
+1541.1.1   = { discovered_by = SPA } # Francisco Vásquez de Coronado
+1731.1.1   = { owner = PIM
+		controller = PIM
+		add_core = PIM
+		trade_goods = wool
+		is_city = yes }
+
+1750.1.1 = { base_tax = 3 base_production = 2 base_manpower = 2 }
+1775.1.1 = { base_tax = 5 base_production = 4 }
+1800.1.1 = { base_production = 6 base_manpower = 4 }
+1810.9.16  = {	owner = MEX
+		culture = castillian
+		religion = catholic
+		controller = SPA
+	     } # Mexican War of Independence
+
+1821.9.27  = { controller = MEX remove_core = SPA }
+1825.1.1 = { base_tax = 6 base_production = 7 base_manpower = 6 }
+1830.1.1   = { add_core = MEX remove_core = PIM }
+1846.8.1   = { controller = USA }
+1848.2.2   = { owner = USA add_core = USA remove_core = MEX } # Treaty of Guadalupe Hidalgo
+1850.1.1 = { base_production = 9 base_manpower = 8 }
+1863.1.1   = { capital = "Wickenburg" }
+1875.1.1 = { base_tax = 7 base_production = 10 base_manpower = 10 }
+1880.1.1   = { culture = american }
+1881.2.5   = { capital = "Phoenix" }
+
+
+
+
+1900.1.1 = { base_tax = 8 base_production = 12 base_manpower = 11 }
+1925.1.1 = { base_tax = 9 base_production = 13 base_manpower = 13 }
+1950.1.1 = { base_tax = 10 base_production = 15 base_manpower = 14 }
+1975.1.1 = { base_tax = 11 base_production = 16 base_manpower = 16 }
+2000.1.1 = { base_tax = 18 base_production = 18 }

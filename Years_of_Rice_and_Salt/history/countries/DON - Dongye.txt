@@ -1,0 +1,9 @@
+government = tribal_federation
+mercantilism = 0.1
+primary_culture = korean
+religion = muism
+technology_group = early_chinese
+capital = 734
+
+372.1.1 = { religion = mahayana }
+750.1.1 = { technology_group = chinese }

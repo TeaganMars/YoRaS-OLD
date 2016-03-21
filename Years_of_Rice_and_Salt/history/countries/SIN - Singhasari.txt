@@ -1,0 +1,66 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 2
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = 4
+#quality_quantity = 2
+#serfdom_freesubjects = -1
+primary_culture = javanese
+technology_group = early_chinese
+religion = hinduism
+capital = 2413	# Tumapel, later called Ktaraja Singhasari
+
+750.1.1 = { technology_group = chinese }
+
+1222.1.1 = {
+	monarch = {
+		name = "Ken Arok"
+		dynasty = "Singhasari"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1227.1.1 = {
+	monarch = {
+		name = "Anusapati"
+		dynasty = "Singhasari"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1248.1.1 = {
+	monarch = {
+		name = "Panji Tohjaya"
+		dynasty = "Singhasari"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1249.1.1 = {
+	monarch = {
+		name = "Wishnuwardhana"
+		dynasty = "Singhasari"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1268.1.1 = {
+	monarch = {
+		name = "Kertanegara"
+		dynasty = "Singhasari"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}

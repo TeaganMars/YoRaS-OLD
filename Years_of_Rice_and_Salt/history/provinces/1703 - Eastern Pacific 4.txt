@@ -1,0 +1,6 @@
+#1703 - Nazca Ridge
+
+1534.1.1 = { discovered_by = SPA }
+
+
+

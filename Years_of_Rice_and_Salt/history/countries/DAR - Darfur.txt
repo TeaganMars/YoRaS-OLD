@@ -1,0 +1,87 @@
+government = tribal_despotism
+mercantilism = 0.1
+primary_culture = nubian
+religion = shiite
+technology_group = muslim
+unit_type = sub_saharan
+capital = 2047	# Darfur
+
+1596.1.1 = {
+	monarch = {
+		name = "Sulayman Solon"
+		dynasty = "Keira"
+		adm = 2
+		dip = 2
+		mil = 4	
+	}
+}
+
+1637.1.1 = {
+	monarch = {
+		name = "Musa"
+		dynasty = "Keira"
+		adm = 1
+		dip = 1
+		mil = 0	
+	}
+}
+
+1682.1.1 = {
+	monarch = {
+		name = "Ahmed Bukr"
+		dynasty = "Keira"
+		adm = 3
+		dip = 2
+		mil = 1	
+	}
+}
+
+1722.1.1 = {
+	monarch = {
+		name = "Mohammed II Terab"
+		dynasty = "Keira"
+		adm = 3
+		dip = 2
+		mil = 4	
+	}
+}
+
+1790.1.1 = {
+	monarch = {
+		name = "Abd-er-Rahman"
+		dynasty = "Keira"
+		adm = 3
+		dip = 1
+		mil = 3	
+	}
+}
+
+1838.1.1 = {
+	monarch = {
+		name = "Mohammed Hassan"
+		dynasty = "Keira"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1873.1.1 = {
+	monarch = {
+		name = "Ibrahim"
+		dynasty = "Keira"
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1898.1.1 = {
+	monarch = {
+		name = "Ali Dinar"
+		dynasty = "Keira"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}

@@ -1,0 +1,55 @@
+#852 - Mexico
+
+owner = TEO
+controller = TEO
+add_core = TEO
+culture = aztek 
+religion = nahuatl
+capital = "Teotihuacan" 
+trade_goods = gold
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+discovered_by = mesoamerican
+
+650.1.1 = { capital = "Xochicalco" }
+800.1.1 = { owner = TLT controller = TLT add_core = TLT remove_core = TEO }
+1100.1.1 = { base_tax = 5 base_production = 5 }
+1200.1.1 = { base_tax = 6 base_production = 6 }
+1250.1.1 = { owner = AZT controller = AZT add_core = AZT remove_core = TLT }
+1300.1.1 = { base_tax = 7 base_production = 7 }
+1325.1.1 = { capital = "Tenochtitlan" fort_15th = yes }
+
+1519.1.1  = { discovered_by = SPA }
+1521.8.13 = {	owner = SPA 
+		controller = SPA 
+		religion = catholic
+		culture = castillian
+		capital = "Ciudad de México"
+	    } # The last Aztec emperor surrendered, Mexico city is founded on top of the ruins 
+1546.1.1  = { add_core = SPA } 
+1624.1.1  = { unrest = 5 } # Riots
+1626.1.1  = { unrest = 0 } 
+1720.1.1  = { citysize = 18000 } # Volcano eruption 
+1751.1.1 = { base_tax = 9 base_production = 13 base_manpower = 6 }
+1775.1.1 = { base_tax = 13 base_production = 17 base_manpower = 12 }
+1801.1.1 = { base_tax = 17 base_production = 23 base_manpower = 16 }
+1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence
+
+
+1821.9.27  = { controller = MEX remove_core = SPA }
+1825.1.1 = { base_tax = 20 base_production = 27 base_manpower = 23 }
+1847.8.7   = { controller = USA }
+1848.2.2   = { controller = MEX } # Treaty of Guadalupe Hidalgo
+1851.1.1 = { base_tax = 29 base_production = 31 base_manpower = 24 }
+1875.1.1 = { base_tax = 32 base_production = 36 base_manpower = 30 }
+1901.1.1 = { base_tax = 38 base_production = 38 base_manpower = 36 }
+1925.1.1 = { base_tax = 44 base_production = 43 base_manpower = 39 }
+1950.1.1 = { base_tax = 47 base_production = 45 base_manpower = 48 }
+1975.1.1 = { base_tax = 50 base_production = 49 base_manpower = 55 }
+2000.1.1 = { base_tax = 62 base_production = 62 base_manpower = 60 }
+
+
+

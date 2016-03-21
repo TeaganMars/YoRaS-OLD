@@ -1,0 +1,89 @@
+government = constitutional_monarchy 
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 2
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+technology_group = muslim
+religion = sunni
+primary_culture = tuareg
+capital = 354	# Tripoli
+
+1951.12.24 = {
+	monarch = {
+		name = "Idris I"
+		dynasty = "Senussi"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1969.9.1 = {
+	government = revolutionary_republic
+	monarch = {
+		name = "Muammar Gaddafi"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+2011.3.5 = {
+	government = constitutional_republic
+	monarch = {
+		name = "Mustafa Abdul Jalil"
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+}
+
+2012.8.8 = {
+	monarch = {
+		name = "Mohammed Ali Salim"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+2012.8.9 = {
+	monarch = {
+		name = "Mohammed Magariaf"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+2013.5.28 = {
+	monarch = {
+		name = "Giuma Ahmed Atigha"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+2013.6.25 = {
+	monarch = {
+		name = "Nouri Abusahmain"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+2014.8.5 = {
+	monarch = {
+		name = "Aguila Saleh Issa"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}

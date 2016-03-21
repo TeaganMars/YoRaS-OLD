@@ -1,0 +1,6 @@
+#1492 - Bay of Fundy
+
+1497.6.24 = { discovered_by = ENG } # John Cabbot
+
+
+

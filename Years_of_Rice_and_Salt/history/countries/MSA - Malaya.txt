@@ -1,0 +1,47 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+#mercantilism_freetrade = 2
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = 3
+#quality_quantity = -1
+#serfdom_freesubjects = -1
+primary_culture = malayan
+religion = sunni
+technology_group = early_chinese
+capital = 2398
+
+750.1.1 = { technology_group = chinese }
+
+1910.1.1 = { religion = secularism }
+1920.1.1 = { technology_group = asian }
+1957.8.31 = { government = elective_monarchy }
+
+1957.8.31 = {
+	monarch = {
+		name = "Tuanku Abdul Rahman"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1960.4.1 = {
+	monarch = {
+		name = "Hisamuddin Alam Shah"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1960.4.14 = {
+	monarch = {
+		name = "Syed Putra"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}

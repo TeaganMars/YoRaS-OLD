@@ -1,0 +1,61 @@
+#902 - Missouri
+
+culture = chiwere
+religion = totemism
+capital = "Missouri"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 25
+native_ferocity = 2
+native_hostileness = 9
+discovered_by = north_american
+
+1684.1.1  = { discovered_by = FRA } # Nicolas Perrot
+1744.1.1  = {	owner = FRA
+		controller = FRA
+		culture = cosmopolitan_french
+		religion = catholic
+		citysize = 100
+	    } # Construction of Fort Cavagnal
+1749.1.1  = { add_core = FRA }
+1750.1.1 = { base_production = 2 base_manpower = 4 }
+1762.1.1  = {	owner = SPA
+		controller = SPA
+		citysize = 400
+		remove_core = FRA
+		trade_goods = grain
+	    } # Treaty of Fontainebleau, secretely ceded to Spain
+1775.1.1 = { base_tax = 2 base_production = 3 base_manpower = 6 }
+1787.1.1  = { add_core = SPA }
+1800.1.1  = { is_city = yes }
+1800.10.1 = {	owner = FRA
+		controller = FRA
+		add_core = FRA
+		culture = cosmopolitan_french
+	    	remove_core = SPA
+	    } # Treaty of San Ildefonso
+1801.1.1 = { base_tax = 3 base_production = 6 base_manpower = 7 }
+1803.4.3  = {	owner = USA
+		controller = USA
+		add_core = USA
+		remove_core = FRA
+		culture = american
+		religion = protestant
+	    } # The Louisiana purchase
+
+1825.1.1 = { base_tax = 5 base_production = 7 base_manpower = 8 }
+1850.1.1 = { base_tax = 6 base_production = 11 }
+1853.3.28  = { capital = "Kansas City" }
+1875.1.1 = { base_tax = 7 base_production = 13 base_manpower = 9 }
+1901.1.1 = { base_tax = 8 base_manpower = 12 }
+1925.1.1 = { base_tax = 9 base_production = 14 base_manpower = 15 }
+1951.1.1 = { base_tax = 11 base_production = 16 }
+1975.1.1 = { base_tax = 13 base_production = 18 base_manpower = 16 }
+2000.1.1 = { base_tax = 19 base_production = 19 base_manpower = 18 }
+
+
+
+

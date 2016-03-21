@@ -1,0 +1,471 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = georgian
+religion = hellenism
+technology_group = middle_eastern
+capital = 423
+
+2.1.1 = {
+	monarch = {
+		name = "Pharasmanes I"
+		dynasty = "Pharnavazid"
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+58.6.1 = {
+	monarch = {
+		name = "Mihdrates I"
+		dynasty = "Pharnavazid"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+106.6.1 = {
+	monarch = {
+		name = "Amazasp I"
+		dynasty = "Pharnavazid"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+116.6.1 = {
+	monarch = {
+		name = "Pharasmanes II"
+		dynasty = "Pharnavazid"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+132.6.1 = {
+	monarch = {
+		name = "Ghadam"
+		dynasty = "Pharnavazid"
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+}
+
+135.6.1 = {
+	monarch = {
+		name = "Pharasmanes III"
+		dynasty = "Pharnavazid"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+185.6.1 = {
+	monarch = {
+		name = "Amazasp II"
+		dynasty = "Pharnavazid"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+
+189.6.1 = {
+	monarch = {
+		name = "Rev I"
+		dynasty = "Arsacid"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+216.6.1 = {
+	monarch = {
+		name = "Vache"
+		dynasty = "Arsacid"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+234.6.1 = {
+	monarch = {
+		name = "Bacurius I"
+		dynasty = "Arsacid"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+249.6.1 = {
+	monarch = {
+		name = "Mihrdat II"
+		dynasty = "Arsacid"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+265.6.1 = {
+	monarch = {
+		name = "Aspagur I"
+		dynasty = "Arsacid"
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+}
+
+270.1.1 = { religion = zoroastrian }
+
+284.6.1 = {
+	monarch = {
+		name = "Mirian III"
+		dynasty = "Chosroid"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+298.1.1 = { religion = hellenism }
+
+334.1.1 = { religion = chalcedonism } #Mirian III converts to christianity
+
+361.6.1 = {
+	monarch = {
+		name = "Sauromaces II"
+		dynasty = "Chosroid"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+365.6.1 = {
+	monarch = {
+		name = "Mihrdat III"
+		dynasty = "Chosroid"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+380.6.1 = {
+	monarch = {
+		name = "Aspacures III"
+		dynasty = "Chosroid"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+394.6.1 = {
+	monarch = {
+		name = "T'rdat"
+		dynasty = "Chosroid"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+406.6.1 = {
+	monarch = {
+		name = "Parsman IV"
+		dynasty = "Chosroid"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+409.6.1 = {
+	monarch = {
+		name = "Mihrdat IV"
+		dynasty = "Chosroid"
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+}
+
+411.6.1 = {
+	monarch = {
+		name = "Archil"
+		dynasty = "Chosroid"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+435.6.1 = {
+	monarch = {
+		name = "Mihrdat V"
+		dynasty = "Chosroid"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+
+443.6.1 = {
+	monarch = {
+		name = "Vakhtang I"
+		dynasty = "Chosroid"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+522.6.1 = {
+	monarch = {
+		name = "Dachi"
+		dynasty = "Chosroid"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+534.6.1 = {
+	monarch = {
+		name = "Bacurius II"
+		dynasty = "Chosroid"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+547.6.1 = {
+	monarch = {
+		name = "Parsman V"
+		dynasty = "Chosroid"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+561.6.1 = {
+	monarch = {
+		name = "Parsman VI"
+		dynasty = "Chosroid"
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+}
+
+570.6.1 = {
+	monarch = {
+		name = "Bacurius III"
+		dynasty = "Chosroid"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+# Died 580. Hormizd IV of Persia abolished kingship
+
+607.1.1 = {
+	monarch = {
+		name = "Stephanoz I"
+		dynasty = "Guaramid"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+# Caliphate vassal
+654.1.1 = { technology_group = eastern }
+
+654.1.1 = {
+	monarch = {
+		name = "Adarnase II"
+		dynasty = "Chosroid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+684.1.1 = {
+	monarch = {
+		name= "Guaram II"
+		dynasty = "Guaramid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+684.1.1 = {
+	heir = {
+		name = "Guaram"
+		monarch_name = "Guaram III"
+		dynasty = "Guaramid"
+		birth_date = 670.1.1
+		death_date = 748.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+693.1.1 = {
+	monarch = {
+		name= "Guaram III"
+		dynasty = "Guaramid"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+748.1.1 = {
+	monarch = {
+		name= "Adarnase III"
+		dynasty = "Nersianid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+748.1.1 = {
+	heir = {
+		name = "Nerse"
+		monarch_name = "Nerse I"
+		dynasty = "Nersianid"
+		birth_date = 740.1.1
+		death_date = 780.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+760.1.1 = {
+	monarch = {
+		name= "Nerse I"
+		dynasty = "Nersianid"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+780.1.1 = {
+	monarch = {
+		name = "Stephanoz III"
+		dynasty = "Guaramid"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+813.1.1 = {
+	monarch = {
+		name = "Ashot I"
+		dynasty = "Bagrationi"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+820.1.1 = {
+	heir = {
+		name = "Bagrat"
+		monarch_name = "Bagrat I"
+		dynasty = "Bagrationi"
+		birth_date = 820.1.1
+		death_date = 876.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+843.1.1 = {
+	monarch = {
+		name= "Bagrat I"
+		dynasty = "Bagrationi"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+850.1.1 = {
+	heir = {
+		name = "Davit"
+		monarch_name = "Davit I"
+		dynasty = "Bagrationi"
+		birth_date = 850.1.1
+		death_date = 876.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+867.1.1 = { religion = orthodox }
+
+876.1.1 = {
+	monarch = {
+		name= "Davit I"
+		dynasty = "Bagrationi"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+876.1.1 = {
+	heir = {
+		name = "Gurgen"
+		monarch_name = "Gurgen I"
+		dynasty = "Bagrationi"
+		birth_date = 855.1.1
+		death_date = 891.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+881.1.1 = {
+	monarch = {
+		name= "Gurgen I"
+		dynasty = "Bagrationi"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}

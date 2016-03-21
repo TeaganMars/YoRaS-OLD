@@ -1,0 +1,27 @@
+#2113 - Yirandali
+
+culture = aboriginal
+religion = animism
+capital = "Yirandali"
+native_size = 90
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+native_ferocity = 4.5
+native_hostileness = 9
+
+1850.1.1   = { discovered_by = GBR }
+1879.1.1   = { 	owner = GBR
+		controller = GBR
+		citysize = 200
+		culture = english
+		religion = protestant
+		trade_goods = cotton
+		capital = "Emerald"
+	     }
+1900.1.1   = { is_city = yes }
+1942.10.9  = { owner = AUS controller = AUS add_core = AUS remove_core = GBR } #Statute of Westminster
+
+

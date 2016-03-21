@@ -1,0 +1,16 @@
+government = tribal_kingdom
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = -2
+primary_culture = telegu
+religion = hinduism
+technology_group = early_indian
+capital = 561
+
+750.1.1 = { technology_group = indian }

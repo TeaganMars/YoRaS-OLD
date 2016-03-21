@@ -1,0 +1,17 @@
+name = "First Mongol Invasion of Song"
+
+war_goal = {
+	type = take_claim
+	casus_belli = cb_horde_vs_civ
+	province = 684
+}
+
+1235.1.1 = {
+	add_attacker = MGE
+	add_defender = SNG
+}
+
+1248.1.1 = {
+	rem_attacker = MGE
+	rem_defender = SNG
+}

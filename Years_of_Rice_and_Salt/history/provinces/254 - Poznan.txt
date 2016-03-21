@@ -1,0 +1,71 @@
+#254 - Poznan
+
+owner = VAN
+controller = VAN
+add_core = VAN
+is_city = yes
+capital = "Poznan"
+culture = vandal
+religion = germanic
+trade_goods = salt
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = western
+discovered_by = barbarian
+discovered_by = VNE
+
+340.1.1 = { owner = VNE controller = VNE add_core = VNE remove_core = VAN culture = polish religion = slavic }
+500.1.1 = { base_tax = 2 base_production = 2 discovered_by = eastern }
+550.1.1 = { owner = POL controller = POL add_core = POL remove_core = VNE }
+600.1.1 = { base_manpower = 2 }
+700.1.1 = { base_tax = 3 base_production = 3 }
+800.1.1 = { base_manpower = 3 }
+900.1.1 = { base_tax = 4 base_production = 4 }
+966.1.1 = { religion = catholic } # Cathedral Basilica of St. Peter and St. Paul
+1000.1.1 = { base_manpower = 4 discovered_by = muslim discovered_by = ottoman }
+1100.1.1 = { base_tax = 5 base_production = 5 }
+1200.1.1 = { base_manpower = 5 }
+1300.1.1 = { base_tax = 6 base_production = 6 }
+
+1569.7.1   = {	owner = PLC
+	     	controller = PLC
+		remove_core = POL
+	     	add_core = PLC
+	     } # Union of Lublin
+1588.1.1   = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Civil war, Polish succession
+1589.1.1   = { revolt = {} controller = PLC } # Coronation of Sigismund III
+1655.1.1   = { controller = SWE } # Swedish invasion
+1660.1.1   = { controller = PLC } # End of Northern war
+1733.1.1   = { revolt = { type = revolutionary_rebels size = 2 } controller = REB } # The war of the Polish succession
+1735.1.1   = { revolt = {} controller = PLC   }
+1772.2.17  = { add_core = PRU } # First partition of Poland, only lost the northern part
+1785.1.1 = { base_tax = 7 }
+1793.1.23  = { owner = PRU controller = PRU } # Second partition of Poland, the remaining part came under Prussian control
+1794.3.24  = { revolt = { type = nationalist_rebels size = 2 leader = "Tadeusz Kosciuszko" } controller = REB } # Kosciuszko uprising, Prussia lost control briefly
+1794.11.16 = { revolt = {} controller = PRU } # The end of the uprising
+1806.11.3  = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Polish uprising instigated by Napoleon
+1807.7.9   = {	revolt = {}
+		owner = POL
+		controller = POL
+		add_core = POL
+	     	remove_core = PRU
+		remove_core = PLC
+	     } # The Duchy of Warsaw is established after the treaty of Tilsit, ruled by Frederick Augustus I of Saxony
+1813.3.17  = { controller = PRU }
+1814.4.11  = {	owner = PRU
+		add_core = PRU
+	     } # Actually returned to Prussia after the Congress of Vienna
+
+1845.1.1 = { base_tax = 8 }
+1871.1.18  = { owner = GER controller = GER add_core = GER remove_core = PRU } # German unification
+1905.1.1 = { base_manpower = 6 }
+1919.6.28  = { owner = POL controller = POL remove_core = GER }
+1939.10.6  = { owner = GER controller = GER }
+1945.2.23  = { controller = SOV }
+1945.5.8   = { owner = POL controller = POL }
+2000.1.1 = { base_production = 8 }
+
+
+

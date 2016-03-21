@@ -1,0 +1,8 @@
+#Trireme
+type = galley
+
+hull_size = 6
+base_cannons = 8
+sail_speed = 4
+
+sprite_level = 1

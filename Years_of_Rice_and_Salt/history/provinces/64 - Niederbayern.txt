@@ -1,0 +1,62 @@
+#64 - Regensburg
+
+owner = EAL
+controller = EAL
+add_core = EAL
+is_city = yes
+culture = swabian
+religion = germanic
+base_tax = 2
+base_production = 2
+trade_goods = grain
+base_manpower = 1
+capital	= "Regensburg" 
+hre = no
+discovered_by = eastern
+discovered_by = roman_group
+discovered_by = western
+discovered_by = barbarian
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+
+350.1.1 = { religion = chalcedonism }
+409.1.1 = { owner = MRM controller = MRM add_core = MRM remove_core = EAL }
+451.1.1 = { owner = RUG controller = RUG add_core = RUG remove_core = MRM }
+454.1.1 = { owner = LOM controller = LOM add_core = LOM remove_core = RUG culture = langobardi }
+550.1.1 = { owner = FRK controller = FRK add_core = FRK remove_core = LOM culture = bavarian }
+555.1.1 = { owner = BAV controller = BAV add_core = BAV remove_core = FRK }
+788.1.1 = { owner = FRK controller = FRK add_core = FRK }
+817.1.1 = { owner = BAV controller = BAV add_core = BAV remove_core = FRK }
+800.1.1 = { base_tax = 3 base_production = 3 }
+867.1.1 = { religion = catholic }
+880.3.22 = { owner = FRE controller = FRE add_core = FRE }
+911.11.10 = { owner = BAV controller = BAV add_core = BAV remove_core = FRE }
+962.2.2 = { hre = yes }
+1000.1.1 = { base_tax = 4 base_production = 4 }
+1100.1.1 = { base_tax = 5 base_production = 5 }
+1200.1.1 = { base_tax = 6 base_production = 6 }
+
+1704.8.13 = {
+	owner = HAB
+	controller = HAB
+} # Bavaria is conquered by the Emperor, is however later restored for the balance of power
+1714.9.7 = { owner = BAV controller = BAV }
+1758.1.1 = { base_tax = 7 }
+1791.1.1 = { base_tax = 8 }
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+
+1824.1.1 = { base_production = 7 }
+1858.1.1 = { base_manpower = 2 }
+1871.1.18  = { owner = GER controller = GER add_core = GER } # German unification
+1891.1.1 = { base_manpower = 3 }
+1900.1.1   = { remove_core = BAV }
+1924.1.1 = { base_manpower = 4 }
+1945.5.3   = { controller = GBR }
+1945.5.8   = { owner = WGE controller = WGE add_core = WGE }
+1958.1.1 = { base_production = 8 }
+1990.10.3  = { owner = GER controller = GER remove_core = WGE }
+2000.1.1 = { base_manpower = 6 }
+
+
+

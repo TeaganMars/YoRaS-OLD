@@ -1,0 +1,8 @@
+#1660 - Lake Erie
+
+discovered_by = HUR
+discovered_by = IRO
+1679.1.1 = { discovered_by = FRA }
+
+
+

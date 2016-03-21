@@ -1,0 +1,37 @@
+#1806 - Weagamow
+
+culture = cree
+religion = totemism
+capital = "Weagamow"
+native_size = 30
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_ferocity = 4.5
+native_hostileness = 9 
+
+1870.1.1   = { discovered_by = CAN discovered_by = GBR }
+1880.1.1   = { base_tax = 1 }
+1928.1.1   = {	owner = CAN
+		controller = CAN
+		add_core = CAN
+		culture = english
+		religion = protestant
+		citysize = 100
+		trade_goods = gold
+		capital = "Pickle Lake"
+	      }
+1940.1.1   = {  discovered_by = eastern
+		discovered_by = muslim
+		discovered_by = ottoman
+		discovered_by = asian
+	     }
+1950.1.1   = { citysize = 200 }
+1991.1.1   = { citysize = 654 }
+1995.1.1   = { trade_goods = fur }
+2011.1.1   = { citysize = 425 }
+
+
+

@@ -1,0 +1,30 @@
+#1779 - Rub' al Khali
+
+culture = bedouin_arabic
+religion = south_arabian
+capital = "Rub al Khali"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+
+640.1.1    = { religion = sunni }
+
+1800.1.1 = { base_production = 2 }
+1875.1.1 = { base_production = 3 }
+1932.9.23  = { 	owner = SAU 
+		controller = SAU
+		add_core = SAU
+		trade_goods = grain
+		capital = "Shaybah"
+		is_city = yes
+	     }
+1990.1.1   = { trade_goods = oil } #Shaybah oil field
+2000.1.1 = { base_production = 5 }
+
+
+

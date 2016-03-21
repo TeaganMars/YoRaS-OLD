@@ -1,0 +1,58 @@
+government = steppe_horde
+mercantilism = 0.1
+technology_group = eastern_nomad_group
+religion = tengri_pagan_reformed
+primary_culture = mongol
+capital = 717
+
+2.1.1 = {
+	monarch = {
+		name = "Uchjulu"
+		dynasty = "Xiongnu"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+13.1.1 = {
+	monarch = {
+		name = "Ulei Hyan"
+		dynasty = "Xiongnu"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+18.1.1 = {
+	monarch = {
+		name = "Huduershi"
+		dynasty = "Xiongnu"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+46.1.1 = {
+	monarch = {
+		name = "Punu"
+		dynasty = "Xiongnu"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+89.1.1 = {
+	monarch = {
+		name = "Pei"
+		dynasty = "Xiongnu"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+750.1.1 = { technology_group = nomad_group }

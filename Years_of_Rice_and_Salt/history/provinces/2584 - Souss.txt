@@ -1,0 +1,68 @@
+#2584 - Souss
+
+owner = ROM
+controller = ROM  
+culture = tunisian
+religion = hellenism
+capital = "Hadrumetum"
+trade_goods = grain
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = yes
+add_core = ROM
+discovered_by = western
+discovered_by = barbarian
+discovered_by = eastern
+discovered_by = roman_group
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+
+240.1.1 = { religion = chalcedonism }
+395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+439.1.1 = { owner = VAN controller = VAN add_core = VAN remove_core = ROW culture = vandal religion = arianism }
+533.10.15 = { controller = BYZ add_core = BYZ }
+534.3.1 = { owner = BYZ remove_core = VAN }
+540.1.1 = { religion = chalcedonism culture = tunisian }
+698.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = BYZ capital = "Kairouan" }
+730.1.1 = { religion = sunni }
+750.1.1 = { owner = ABB controller = ABB add_core = ABB remove_core = UMA }
+800.1.1 = { citysize = 53200 owner = TUN controller = TUN add_core = TUN remove_core = ABB }
+909.1.1 = { owner = FAT controller = FAT add_core = FAT }
+948.1.1 = { capital = "Al-Mansuriya" }
+1048.1.1 = { owner = TUN controller = TUN add_core = TUN remove_core = FAT capital = "Kairouan" }
+1057.1.1 = { capital = "Mahdia" }
+1152.1.1 = { owner = AMH controller = AMH add_core = AMH capital = "Susa" }
+1229.1.1 = { owner = TUN controller = TUN add_core = TUN remove_core = AMH }
+
+1534.8.16 = {
+	owner = ALG
+	controller = ALG
+	add_core = ALG
+} #Conquered by Barbarossa
+1535.6.11 = {
+	owner = TUN
+	controller = TUN
+	remove_core = ALG
+} #Spain reinstate Hafsids
+1546.1.1 = {
+	owner = TRP
+	controller = TRP
+	add_core = TRP
+} #Turgut Reis
+1593.1.1 = {
+	owner = TUN
+	controller = TUN
+	remove_core = TRP
+}#Tunisian Pashalik created
+
+1881.5.12 = { owner = FR2 controller = FR2 add_core = FR2 remove_core = ALG remove_core = TUR capital = "Sousse" }
+1940.6.14 = { owner = FRV controller = FRV add_core = FRV } # Vichy France
+1942.11.16 = { owner = GER controller = GER }
+1943.5.7  = { owner = FR2 controller = FR2 remove_core = FRV } # Liberated by Free France
+1956.3.20 = { owner = TUN controller = TUN remove_core = FR2 }
+
+
+

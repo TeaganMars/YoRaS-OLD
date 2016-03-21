@@ -1,0 +1,6 @@
+government = caliphate
+mercantilism = 0.1
+primary_culture = al_iraqiya_arabic
+religion = sunni
+technology_group = muslim
+capital = 407	# Ar-Raqqah

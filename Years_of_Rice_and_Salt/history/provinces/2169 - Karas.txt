@@ -1,0 +1,32 @@
+#2169 - Karas
+
+culture = khoi
+religion = african
+capital = "Karas"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 40
+native_ferocity = 2
+native_hostileness = 6
+
+1481.1.1 = { discovered_by = POR } # Bartolomeu Dias
+
+1866.4.14  = { 	owner = PRU
+		controller = PRU
+		add_core = PRU
+		is_city = yes 
+		trade_goods = wool
+		religion = protestant 
+		capital = "Keetmanshoop"
+	     }
+1871.1.18  = { owner = GER controller = GER add_core = GER remove_core = PRU } # German unification
+1910.3.31  = { add_core = RSA }
+1919.6.28  = { owner = GBR controller = GBR add_core = GBR remove_core = GER }
+1960.10.5  = { owner = RSA controller = RSA remove_core = GBR }
+1990.3.21  = { owner = NMB controller = NMB add_core = NMB remove_core = RSA }
+
+
+

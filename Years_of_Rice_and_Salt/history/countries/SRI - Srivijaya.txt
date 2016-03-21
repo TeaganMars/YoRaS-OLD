@@ -1,0 +1,187 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = 3
+#quality_quantity = 2
+#serfdom_freesubjects = -3
+primary_culture = sumatran
+technology_group = early_chinese
+religion = mahayana
+capital = 622	# Palembang
+
+683.1.1 = {
+	monarch = {
+		name = "Dapunta Hyang Sri Jayanasa"
+		dynasty = "Srivijaya"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+702.1.1 = {
+	monarch = {
+		name = "Indravarman"
+		dynasty = "Srivijaya"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+728.1.1 = {
+	monarch = {
+		name = "Rudra Vikraman"
+		dynasty = "Srivijaya"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+750.1.1 = { technology_group = chinese }
+
+750.1.1 = {
+	monarch = {
+		name = "Dharmasetu"
+		dynasty = "Srivijaya"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+775.1.1 = {
+	monarch = {
+		name = "Dharanindra"
+		dynasty = "Srivijaya"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+782.1.1 = {
+	monarch = {
+		name = "Samaragrawira"
+		dynasty = "Srivijaya"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+792.1.1 = {
+	monarch = {
+		name = "Samaratungga"
+		dynasty = "Srivijaya"
+		adm = 2
+		mil = 2
+		dip = 4
+	}
+}
+
+835.1.1 = {
+	monarch = {
+		name = "Bulaputradewa"
+		dynasty = "Srivijaya"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+910.1.1 = {
+	monarch = {
+		name = "Cri Udayadityavarman"
+		dynasty = "Srivijaya"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+965.1.1 = {
+	monarch = {
+		name = "Haji"
+		dynasty = "Srivijaya"
+		adm = 2
+		mil = 3
+		dip = 3
+	}
+}
+
+988.1.1 = {
+	monarch = {
+		name = "Sri Culamanivarmadeva"
+		dynasty = "Srivijaya"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1008.1.1 = {
+	monarch = {
+		name = "Sri Maravijayottungga"
+		dynasty = "Srivijaya"
+		adm = 2
+		mil = 3
+		dip = 3
+	}
+}
+
+1017.1.1 = {
+	monarch = {
+		name = "Sumatrabhumi"
+		dynasty = "Srivijaya"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+
+1025.1.1 = {
+	monarch = {
+		name = "Sangramavijayottungga"
+		dynasty = "Srivijaya"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1028.1.1 = {
+	monarch = {
+		name = "Sri Deva"
+		dynasty = "Srivijaya"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1180.1.1 = {
+	monarch = {
+		name = "Srimat Trailokyaraja Maulibhusana Warmadewa"
+		dynasty = "Dharmasraya"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1240.1.1 = {
+	monarch = {
+		name = "Srimat Tribhuwanaraja Mauli Warmadewa"
+		dynasty = "Dharmasraya"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}

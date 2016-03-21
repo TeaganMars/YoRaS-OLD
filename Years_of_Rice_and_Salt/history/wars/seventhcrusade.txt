@@ -1,0 +1,29 @@
+name = "Seventh Crusade"
+
+war_goal = {
+	type = superiority_crusade
+	casus_belli = cb_crusade
+}
+
+1248.1.1 = {
+	add_attacker = FRA
+	add_attacker = AMG
+	add_attacker = AUV
+	add_attacker = FOI
+	add_attacker = TOU
+	add_defender = AYY
+}
+
+1250.1.1 = {
+	add_defender = MAM
+}
+
+1254.1.1 = {
+	rem_attacker = FRA
+	rem_attacker = AMG
+	rem_attacker = AUV
+	rem_attacker = FOI
+	rem_attacker = TOU
+	rem_defender = AYY
+	rem_defender = MAM
+}

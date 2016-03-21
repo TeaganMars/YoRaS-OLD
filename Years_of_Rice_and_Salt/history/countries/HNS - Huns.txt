@@ -1,0 +1,143 @@
+government = steppe_horde
+mercantilism = 0.1
+primary_culture = hunnic
+religion = tengri_pagan_reformed
+technology_group = western_nomad_group
+capital = 2437
+
+330.1.1 = {
+	monarch = {
+		name = "Vund"
+		dynasty = "Hun"
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+350.1.1 = { capital = 467 }
+
+360.6.1 = {
+	monarch = {
+		name = "Balamber"
+		dynasty = "Hun"
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+}
+
+378.6.1 = {
+	monarch = {
+		name = "Baltazar"
+		dynasty = "Hun"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+390.6.1 = {
+	monarch = {
+		name = "Uldin"
+		dynasty = "Hun"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+410.6.1 = {
+	monarch = {
+		name = "Donatus"
+		dynasty = "Hun"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+412.6.1 = {
+	monarch = {
+		name = "Charaton"
+		dynasty = "Hun"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+422.6.1 = {
+	monarch = {
+		name = "Octar"
+		dynasty = "Hun"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+432.6.1 = {
+	monarch = {
+		name = "Rugila"
+		dynasty = "Hun"
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+}
+
+434.6.1 = {
+	monarch = {
+		name = "Attila"
+		dynasty = "Hun"
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+}
+
+453.6.1 = {
+	monarch = {
+		name = "Ellac"
+		dynasty = "Hun"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+455.6.1 = {
+	monarch = {
+		name = "Tuldila"
+		dynasty = "Hun"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+
+457.6.1 = {
+	monarch = {
+		name = "Dangizich"
+		dynasty = "Hun"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+469.1.1 = { capital = 268 }
+
+469.6.1 = {
+	monarch = {
+		name = "Hernach"
+		dynasty = "Hun"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+750.1.1 = { technology_group = nomad_group }

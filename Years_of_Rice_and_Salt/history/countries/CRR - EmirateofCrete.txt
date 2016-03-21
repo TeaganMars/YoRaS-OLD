@@ -1,0 +1,116 @@
+government = despotic_monarchy
+government_rank = 1
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 3
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = al_misr_arabic
+religion = sunni
+technology_group = muslim
+capital = 163	# Chandax
+
+
+824.1.1 = {
+	monarch = {
+		name = "Abû Hafs Umar I"
+		dynasty = "al-Ikritishi"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+855.6.1 = {
+	monarch = {
+		name = "Shuayb I"
+		dynasty = "al-Ikritishi"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+880.6.1 = {
+	monarch = {
+		name = "Abû Abdallah Umar II"
+		dynasty = "al-Ikritishi"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+895.6.1 = {
+	monarch = {
+		name = "Muhammad I"
+		dynasty = "al-Ikritishi"
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+910.6.1 = {
+	monarch = {
+		name = "Yusuf I"
+		dynasty = "al-Ikritishi"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+915.6.1 = {
+	monarch = {
+		name = "Ali I"
+		dynasty = "al-Ikritishi"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+925.6.1 = {
+	monarch = {
+		name = "Ahmad I"
+		dynasty = "al-Ikritishi"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+940.6.1 = {
+	monarch = {
+		name = "Shuyab II"
+		dynasty = "al-Ikritishi"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+943.6.1 = {
+	monarch = {
+		name = "Ali II"
+		dynasty = "al-Ikritishi"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+949.6.1 = {
+	monarch = {
+		name = "Abd al-Aziz I"
+		dynasty = "al-Ikritishi"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

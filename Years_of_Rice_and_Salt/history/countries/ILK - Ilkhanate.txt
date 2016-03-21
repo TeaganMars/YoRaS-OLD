@@ -1,0 +1,103 @@
+government = steppe_horde
+mercantilism = 0.1
+technology_group = western_nomad_group
+religion = vajrayana
+primary_culture = persian
+capital = 2281 # Maragha
+
+750.1.1 = { technology_group = nomad_group }
+
+1256.1.1 = {
+	monarch = {
+		name = "Hulagu"
+		dynasty = "Toluid"
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+}
+
+1265.1.1 = { capital = 416 } # Tabriz
+
+1265.1.1 = {
+	monarch = {
+		name = "Aqaba"
+		dynasty = "Toluid"
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+1282.1.1 = {
+	monarch = {
+		name = "Tekuder"
+		dynasty = "Toluid"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1284.1.1 = {
+	monarch = {
+		name = "Arghun"
+		dynasty = "Toluid"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+1291.1.1 = {
+	monarch = {
+		name = "Gaukhatu"
+		dynasty = "Toluid"
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+}
+
+1295.1.1 = {
+	monarch = {
+		name = "Baydu"
+		dynasty = "Toluid"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1295.6.1 = {
+	monarch = {
+		name = "Ghazan"
+		dynasty = "Toluid"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1296.1.1 = { religion = shiite }
+
+1304.5.11 = {
+	monarch = {
+		name = "Öljaitü"
+		dynasty = "Toluid"
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+1306.1.1 = { capital = 2283 } # Soltaniyeh
+
+1316.12.16 = {
+	monarch = {
+		name = "Abu Sa'id Bahadur"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}

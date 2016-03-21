@@ -1,0 +1,123 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = -1
+#innovative_narrowminded = -2
+#mercantilism_freetrade = -2
+mercantilism = 0.1
+#offensive_defensive = 2
+#land_naval = -1
+#quality_quantity = 0
+#serfdom_freesubjects = 3
+technology_group = eastern
+primary_culture = latvian
+religion = catholic
+capital = 38
+
+1900.1.1 = { government = constitutional_republic }
+1900.1.1 = { technology_group = western }
+1910.1.1 = { religion = secularism }
+
+1918.11.18 = {
+	monarch = {
+		name = "Janis Cakste"
+		adm = 4
+		mil = 3
+		dip = 4
+	}
+}
+
+1927.3.14 = {
+	monarch = {
+		name = "Paul Kalnins"
+		adm = 2
+		mil = 1
+		dip = 4
+	}
+}
+
+1927.8.4 = {
+	monarch = {
+		name = "Gustavs Zemgals"
+		adm = 3
+		mil = 4
+		dip = 4
+	}
+}
+
+1930.9.4 = {
+	monarch = {
+		name = "Alberts Kviesis"
+		adm = 5
+		mil = 1
+		dip = 4
+	}
+}
+
+1936.11.4 = {
+	monarch = {
+		name = "Karlis Ulmanis"
+		adm = 3
+		mil = 2
+		dip = 5
+	}
+}
+
+1991.9.6 = {
+	government = presidental_republic
+	monarch = {
+		name = "Anatolijs Gorbunovs"
+		adm = 3
+		mil = 4
+		dip = 3
+	}
+}
+
+1993.7.8 = {
+	monarch = {
+		name = "Guntis Ulmanis"
+		adm = 1
+		mil = 3
+		dip = 4
+	}
+}
+
+1999.7.8 = {
+	monarch = {
+		name = "Vaira Vike-Freiberga"
+		adm = 5
+		mil = 1
+		dip = 4
+		female = yes
+	}
+}
+
+2004.1.1 = { decision = join_european_union }
+
+2007.7.8 = {
+	monarch = {
+		name = "Valdis Zatlers"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+2011.7.8 = {
+	monarch = {
+		name = "Andris Berzinš"
+		adm = 2
+		mil = 3
+		dip = 5
+	}
+}
+
+2014.1.1 = { decision = adopt_the_euro }
+
+2015.7.8 = {
+	monarch = {
+		name = "Raimonds Vejonis"
+		adm = 3
+		mil = 2
+		dip = 4
+	}
+}

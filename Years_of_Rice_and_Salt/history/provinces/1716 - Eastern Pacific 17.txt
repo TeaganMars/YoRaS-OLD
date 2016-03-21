@@ -1,0 +1,6 @@
+#1716 - Clipperton Fracture Zone
+
+1528.1.1 = { discovered_by = SPA }
+
+
+

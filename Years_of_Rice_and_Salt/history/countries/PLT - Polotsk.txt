@@ -1,0 +1,260 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = 1
+#centralization_decentralization = 2
+#innovative_narrowminded = 0
+#mercantilism_freetrade = 2
+mercantilism = 0.1
+#offensive_defensive = 3
+#land_naval = -3
+#quality_quantity = 0
+#serfdom_freesubjects = -3
+primary_culture = byelorussian
+religion = orthodox
+technology_group = eastern
+capital = 275	# Polotsk
+
+1054.2.20 = {
+	monarch = {
+		name = "Vseslav II"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1071.1.1 = {
+	heir = {
+		name = "Davyd"
+		monarch_name = "Davyd I"
+		dynasty = "Rurikovich"
+		birth_date = 1071.1.1
+		death_date = 1129.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+}
+
+1101.4.24 = {
+	monarch = {
+		name = "Davyd I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+}
+
+1101.4.24 = {
+	heir = {
+		name = "Iziaslav"
+		monarch_name = "Iziaslav II"
+		dynasty = "Rurikovich"
+		birth_date = 1099.1.1
+		death_date = 1132.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1129.1.1 = {
+	monarch = {
+		name = "Iziaslav II"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1132.1.1 = {
+	monarch = {
+		name = "Vasilko I"
+		dynasty = "Vseslavich"
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+}
+
+1132.1.1 = {
+	heir = {
+		name = "Rogvolod"
+		monarch_name = "Rogvolod I"
+		dynasty = "Vseslavich"
+		birth_date = 1114.1.1
+		death_date = 1162.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1144.1.1 = {
+	monarch = {
+		name = "Rogvolod I"
+		dynasty = "Vseslavich"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1144.1.1 = {
+	heir = {
+		name = "Rostislav"
+		monarch_name = "Rostislav I"
+		dynasty = "Vseslavich"
+		birth_date = 1121.1.1
+		death_date = 1159.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1151.1.1 = {
+	monarch = {
+		name = "Rostislav I"
+		dynasty = "Vseslavich"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1159.1.1 = {
+	monarch = {
+		name = "Rogvolod I"
+		dynasty = "Vseslavich"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1159.1.1 = {
+	heir = {
+		name = "Vseslav"
+		monarch_name = "Vseslav III"
+		dynasty = "Vseslavich"
+		birth_date = 1132.1.1
+		death_date = 1186.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1162.1.1 = {
+	monarch = {
+		name = "Vseslav III"
+		dynasty = "Vseslavich"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1162.1.1 = {
+	heir = {
+		name = "Vladimir"
+		monarch_name = "Vladimir I"
+		dynasty = "Vseslavich"
+		birth_date = 1156.1.1
+		death_date = 1215.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+}
+
+1186.1.1 = {
+	monarch = {
+		name = "Vladimir I"
+		dynasty = "Vseslavich"
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+}
+
+1186.1.1 = {
+	heir = {
+		name = "Boris"
+		monarch_name = "Boris II"
+		dynasty = "Vseslavich"
+		birth_date = 1185.1.1
+		death_date = 1222.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1215.1.1 = {
+	monarch = {
+		name = "Boris II"
+		dynasty = "Vseslavich"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1215.1.1 = {
+	heir = {
+		name = "Sviatoslav"
+		monarch_name = "Sviatoslav I"
+		dynasty = "Vseslavich"
+		birth_date = 1192.1.1
+		death_date = 1232.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+}
+
+1222.1.1 = {
+	monarch = {
+		name = "Sviatoslav I"
+		dynasty = "Vseslavich"
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+}
+
+1222.1.1 = {
+	heir = {
+		name = "Bryachislav"
+		monarch_name = "Bryachislav II"
+		dynasty = "Vseslavich"
+		birth_date = 1202.1.1
+		death_date = 1252.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+}
+
+1232.1.1 = {
+	monarch = {
+		name = "Bryachislav II"
+		dynasty = "Vseslavich"
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+}

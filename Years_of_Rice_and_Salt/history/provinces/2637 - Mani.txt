@@ -1,0 +1,44 @@
+#2637 - Mani
+
+culture = yucatec
+owner = ITZ
+controller = ITZ
+add_core = ITZ
+is_city = yes
+religion = mesoamerican_religion
+capital = "Uxmal"
+trade_goods = cocoa
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 1
+add_local_autonomy = 25
+discovered_by = mesoamerican
+
+930.1.1 = { owner = TLT controller = TLT add_core = TLT }
+940.1.1 = {   } #Kukulcan temple
+970.1.1 = { owner = ITZ controller = ITZ add_core = ITZ remove_core = TLT }
+987.1.1 = { owner = MAY controller = MAY add_core = MAY remove_core = ITZ capital = "Mayapan" }
+1441.1.1 = { owner = XIU controller = XIU add_core = XIU capital = "Mani" }
+
+1542.1.23  = {	discovered_by = SPA
+		owner = SPA
+		controller = SPA
+		culture = castillian
+		religion = catholic
+		capital = "Merida"
+	    } # the lord of Mani submits peacefully to the Spanish and converts
+1567.1.1  = { add_core = SPA }
+1762.1.1 = { base_production = 5 }
+1800.1.1 = { base_manpower = 2 }
+1810.9.16  = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+
+1821.9.27  = { controller = MEX remove_core = SPA }
+1837.1.1 = { base_production = 6 }
+1875.1.1 = { base_manpower = 3 }
+1912.1.1 = { base_manpower = 4 }
+1951.1.1 = { base_manpower = 5 }
+2000.1.1 = { base_tax = 6 }
+
+
+

@@ -1,0 +1,6 @@
+#1442 - Bay of Uka
+
+1647.1.1 = { discovered_by = RUS }
+
+
+

@@ -1,0 +1,36 @@
+#2108 - Biri
+
+culture = aboriginal
+religion = animism
+capital = "Biri"
+native_size = 90
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+native_ferocity = 4.5
+native_hostileness = 9
+
+1758.1.1 = { base_tax = 4 }
+1791.1.1 = { base_manpower = 3 }
+1819.1.1   = { discovered_by = GBR }
+1824.1.1 = { base_production = 4 }
+1858.1.1 = { base_production = 5 }
+1865.1.1   = { 	owner = GBR
+		controller = GBR
+		citysize = 500
+		culture = english
+		religion = protestant
+		trade_goods = wool
+		capital = "Townsville"
+	     }
+1890.1.1   = { add_core = GBR }
+1891.1.1 = { base_tax = 5 }
+1900.1.1   = { is_city = yes }
+1924.1.1 = { base_production = 6 }
+1942.10.9  = { owner = AUS controller = AUS add_core = AUS remove_core = GBR } #Statute of Westminster
+1958.1.1 = { base_manpower = 4 }
+2000.1.1 = { base_tax = 6 base_manpower = 5 }
+
+

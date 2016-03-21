@@ -1,0 +1,1351 @@
+
+#Roman vassals
+union = {
+	first = ARM
+	second = ATR
+	start_date = 2.1.1
+	end_date = 6.1.1
+}
+vassal = {
+	first = ROM
+	second = JUD
+	start_date = 2.1.1
+	end_date = 6.1.1
+}
+vassal = {
+	first = ROM
+	second = CAP
+	start_date = 2.1.1
+	end_date = 18.1.1
+}
+vassal = {
+	first = ROM
+	second = MRN
+	start_date = 2.1.1
+	end_date = 40.1.1
+}
+vassal = {
+	first = ROM
+	second = ODR
+	start_date = 2.1.1
+	end_date = 46.1.1
+}
+vassal = {
+	first = ROM
+	second = IBE
+	start_date = 2.1.1
+	end_date = 117.1.1
+}
+vassal = {
+	first = ROM
+	second = PON
+	start_date = 2.1.1
+	end_date = 62.1.1
+}
+vassal = {
+	first = ROM
+	second = BSP
+	start_date = 2.1.1
+	end_date = 63.1.1
+}
+vassal = {
+	first = ROM
+	second = ARM
+	start_date = 6.1.1
+	end_date = 51.1.1
+}
+vassal = {
+	first = ROM
+	second = ARM
+	start_date = 63.6.1
+	end_date = 114.12.31
+}
+vassal = {
+	first = ROM
+	second = BSP
+	start_date = 68.1.1
+	end_date = 370.1.1
+}
+vassal = {
+	first = ROM
+	second = OSR
+	start_date = 114.1.1
+	end_date = 116.1.1
+}
+vassal = {
+	first = ROM
+	second = OSR
+	start_date = 118.1.1
+	end_date = 244.1.1
+}
+vassal = {
+	first = ROM
+	second = IBE
+	start_date = 298.1.1
+	end_date = 363.1.1
+}
+
+#Barbarians
+vassal = {
+	first = HNS
+	second = ALA
+	start_date = 370.1.1
+	end_date = 469.1.1
+}
+vassal = {
+	first = HNS
+	second = GEP
+	start_date = 375.1.1
+	end_date = 454.1.1
+}
+vassal = {
+	first = HNS
+	second = HER
+	start_date = 375.1.1
+	end_date = 454.1.1
+}
+vassal = {
+	first = HNS
+	second = GOS
+	start_date = 447.1.1
+	end_date = 454.1.1
+}
+vassal = {
+	first = HNS
+	second = RUG
+	start_date = 451.1.1
+	end_date = 454.1.1
+}
+vassal = {
+	first = HNS
+	second = LOM
+	start_date = 451.1.1
+	end_date = 454.1.1
+}
+vassal = {
+	first = HNS
+	second = THU
+	start_date = 451.1.1
+	end_date = 454.1.1
+}
+union = {
+	first = GOS
+	second = GVI
+	start_date = 511.6.1
+	end_date = 526.6.1
+}
+
+union = {
+	first = VAN
+	second = EAL
+	start_date = 418.1.1
+	end_date = 425.1.1
+}
+
+#Franks
+vassal = {
+	first = FRK
+	second = BAV
+	start_date = 555.1.1
+	end_date = 717.1.1
+}
+
+vassal = {
+	first = FRK
+	second = AQT
+	start_date = 555.1.1
+	end_date = 561.1.1
+}
+
+union = {
+	first = FRK
+	second = AQT
+	start_date = 561.1.1
+	end_date = 583.1.1
+}
+
+vassal = {
+	first = FRK
+	second = AQT
+	start_date = 583.1.1
+	end_date = 592.1.1
+}
+
+union = {
+	first = FRK
+	second = AQT
+	start_date = 592.1.1
+	end_date = 629.10.18
+}
+
+vassal = {
+	first = FRK
+	second = AQT
+	start_date = 629.10.18
+	end_date = 768.1.1
+}
+
+vassal = {
+	first = FRK
+	second = AQT
+	start_date = 781.1.1
+	end_date = 840.6.21
+}
+
+vassal = {
+	first = FRK
+	second = PNN
+	start_date = 790.1.1
+	end_date = 827.1.1
+}
+
+vassal = {
+	first = FRK
+	second = CAT
+	start_date = 801.1.1
+	end_date = 840.6.21
+}
+
+vassal = {
+	first = FRK
+	second = BAV
+	start_date = 817.1.1
+	end_date = 840.6.21
+}
+
+vassal = {
+	first = FRW
+	second = AQT
+	start_date = 840.6.21
+	end_date = 849.1.1
+}
+
+union = {
+	first = FRE
+	second = BAV
+	start_date = 840.6.21
+	end_date = 876.8.28
+}
+
+vassal = {
+	first = FRW
+	second = CAT
+	start_date = 840.6.21
+	end_date = 890.1.1
+}
+
+union = {
+	first = ITA
+	second = BAV
+	start_date = 877.10.6
+	end_date = 880.3.22
+}
+
+union = {
+	first = FRE
+	second = ITA
+	start_date = 879.1.1
+	end_date = 887.11.17
+}
+
+union = {
+	first = FRE
+	second = FRW
+	start_date = 884.12.12
+	end_date = 887.11.17
+}
+
+union = {
+	first = ITA
+	second = FRW
+	start_date = 887.11.17
+	end_date = 887.12.26
+}
+
+union = {
+	first = FRE
+	second = ITA
+	start_date = 894.12.12
+	end_date = 899.12.8
+}
+
+vassal = {
+	first = FRW
+	second = ANJ
+	start_date = 898.1.1
+	end_date = 987.7.3
+}
+
+union = {
+	first = PRO
+	second = ITA
+	start_date = 924.4.7
+	end_date = 933.1.1
+}
+
+vassal = {
+	first = FRW
+	second = NRM
+	start_date = 933.1.1
+	end_date = 987.7.3
+}
+
+vassal = {
+	first = FRA
+	second = NRM
+	start_date = 987.7.3
+	end_date = 1035.7.3
+}
+
+vassal = {
+	first = FRA
+	second = ANJ
+	start_date = 987.7.3
+	end_date = 1154.12.19
+}
+
+vassal = {
+	first = FRA
+	second = ANJ
+	start_date = 1290.8.16
+	end_date = 1328.4.1
+}
+
+union = {
+	first = FRA
+	second = NAV
+	start_date = 1305.4.4
+	end_date = 1328.2.1
+}
+
+# Italy
+vassal = { 
+	first = LOM
+	second = BNV
+	start_date = 571.6.1
+	end_date = 774.1.1
+}
+
+vassal = { 
+	first = BYZ
+	second = NAP
+	start_date = 661.1.1
+	end_date = 840.1.1
+}
+
+union = {
+	first = BNV
+	second = SLN
+	start_date = 977.12.1
+	end_date = 981.3.1
+}
+
+union = {
+	first = SIC
+	second = PRO
+	start_date = 1266.2.26
+	end_date = 1282.1.1
+}
+
+union = {
+	first = SIC
+	second = ACH
+	start_date = 1278.1.1
+	end_date = 1282.1.1
+}
+
+union = {
+	first = NAP
+	second = ACH
+	start_date = 1282.1.1
+	end_date = 1289.1.1
+}
+
+union = {
+	first = NAP
+	second = PRO
+	start_date = 1282.1.1
+	end_date = 1382.7.27
+}
+
+union = {
+	first = NAP
+	second = ACH
+	start_date = 1332.1.1
+	end_date = 1364.9.10
+}
+
+union = {
+	first = NAP
+	second = ACH
+	start_date = 1374.11.25
+	end_date = 1382.5.12
+}
+
+union = {
+	first = NAP
+	second = ACH
+	start_date = 1383.7.7
+	end_date = 1386.2.24
+}
+
+union = {
+	first = NAP
+	second = HUN
+	start_date = 1385.12.1
+	end_date = 1386.2.24
+}
+
+#Crusader States
+union = {
+	first = LAT
+	second = FLA
+	start_date = 1204.4.13
+	end_date = 1205.1.1
+}
+
+union = {
+	first = ANT
+	second = TPL
+	start_date = 1219.6.1
+	end_date = 1268.1.1
+}
+
+union = {
+	first = KOJ
+	second = SIC
+	start_date = 1250.12.13
+	end_date = 1258.1.1
+}
+
+union = {
+	first = CYP
+	second = KOJ
+	start_date = 1268.10.29
+	end_date = 1291.1.1
+}
+
+#HRE
+union = {
+	first = SAX
+	second = FRC
+	start_date = 938.10.23
+	end_date = 973.5.7
+}
+
+union = {
+	first = BAV
+	second = CAR
+	start_date = 989.10.5
+	end_date = 1002.1.1
+}
+
+union = {
+	first = FRC
+	second = BAV
+	start_date = 995.1.1
+	end_date = 1004.1.1
+}
+
+union = {
+	first = LUX
+	second = BAV
+	start_date = 1004.1.1
+	end_date = 1026.1.1
+}
+
+union = {
+	first = FRC
+	second = BAV
+	start_date = 1026.1.1
+	end_date = 1041.1.1
+}
+
+union = {
+	first = LOT
+	second = LOR
+	start_date = 1033.1.1
+	end_date = 1046.1.1
+}
+
+union = {
+	first = FRC
+	second = SWA
+	start_date = 1038.1.1
+	end_date = 1045.1.1
+}
+
+union = {
+	first = FRC
+	second = CAR
+	start_date = 1039.7.20
+	end_date = 1047.1.1
+}
+
+union = {
+	first = LUX
+	second = BAV
+	start_date = 1041.1.1
+	end_date = 1047.10.16
+}
+
+union = {
+	first = FRC
+	second = BAV
+	start_date = 1053.1.1
+	end_date = 1061.1.1
+}
+
+union = {
+	first = FRC
+	second = BAV
+	start_date = 1077.1.1
+	end_date = 1096.1.1
+}
+
+union = {
+	first = MEI
+	second = LUS
+	start_date = 1090.7.3
+	end_date = 1124.5.22
+}
+
+union = {
+	first = SAX
+	second = FRC
+	start_date = 1125.5.23
+	end_date = 1137.12.4
+}
+
+union = {
+	first = MEI
+	second = LUS
+	start_date = 1135.12.31
+	end_date = 1156.11.30
+}
+
+union = {
+	first = BAV
+	second = SAX
+	start_date = 1137.12.4
+	end_date = 1139.10.20
+}
+
+union = {
+	first = BAV
+	second = TUS
+	start_date = 1137.12.4
+	end_date = 1139.10.20
+}
+
+union = {
+	first = HAB
+	second = BAV
+	start_date = 1139.10.20
+	end_date = 1156.1.1
+}
+
+union = {
+	first = FRC
+	second = SWA
+	start_date = 1147.4.6
+	end_date = 1152.1.1
+}
+
+union = {
+	first = SAX
+	second = BAV
+	start_date = 1156.1.1
+	end_date = 1180.1.1
+}
+
+union = {
+	first = FRC
+	second = BUR
+	start_date = 1156.6.9
+	end_date = 1190.6.10
+}
+
+vassal = {
+	first = SAX
+	second = POM
+	start_date = 1164.1.1
+	end_date = 1181.1.1
+}
+
+union = {
+	first = FRC
+	second = TUS
+	start_date = 1185.1.1
+	end_date = 1197.1.1
+}
+
+union = {
+	first = ITA
+	second = MEI
+	start_date = 1195.6.24
+	end_date = 1197.9.28
+}
+
+union = {
+	first = FRC
+	second = SWA
+	start_date = 1208.6.21
+	end_date = 1216.1.1
+}
+
+union = {
+	first = MEI
+	second = LUS
+	start_date = 1210.5.6
+	end_date = 1288.2.15
+}
+
+union = {
+	first = BAV
+	second = PAL
+	start_date = 1214.4.1
+	end_date = 1329.1.1
+}
+
+union = {
+	first = FRC
+	second = SIC
+	start_date = 1218.6.21
+	end_date = 1250.12.13
+}
+
+union = {
+	first = MEI
+	second = THU
+	start_date = 1247.2.16
+	end_date = 1293.1.1
+}
+
+union = {
+	first = BOH
+	second = CAR
+	start_date = 1269.1.1
+	end_date = 1276.1.1
+}
+
+union = {
+	first = HAB
+	second = CAR
+	start_date = 1276.1.1
+	end_date = 1286.1.1
+}
+
+vassal = {
+	first = BUR
+	second = NEV
+	start_date = 1280.6.2
+	end_date = 1322.7.21
+}
+
+union = {
+	first = CAR
+	second = TIR
+	start_date = 1286.1.1
+	end_date = 1306.8.4
+}
+
+union = {
+	first = BOH
+	second = POL
+	start_date = 1291.1.1
+	end_date = 1306.8.4
+}
+
+union = {
+	first = MEI
+	second = THU
+	start_date = 1298.7.2
+	end_date = 1381.5.21
+}
+
+union = {
+	first = BOH
+	second = HUN
+	start_date = 1305.6.21
+	end_date = 1306.8.4
+}
+
+union = {
+	first = BOH
+	second = CAR
+	start_date = 1306.8.4
+	end_date = 1310.1.1
+}
+
+union = {
+	first = BOH
+	second = TIR
+	start_date = 1306.8.4
+	end_date = 1310.1.1
+}
+
+union = {
+	first = BAV
+	second = HUN
+	start_date = 1306.8.4
+	end_date = 1312.7.12
+}
+
+union = {
+	first = CAR
+	second = TIR
+	start_date = 1310.1.1
+	end_date = 1335.4.2
+}
+
+union = {
+	first = BOH
+	second = LUX
+	start_date = 1313.8.24
+	end_date = 1378.11.29
+}
+
+union = {
+	first = BAV
+	second = BRA
+	start_date = 1320.7.1
+	end_date = 1373.10.2
+}
+
+vassal = {
+	first = FLA
+	second = NEV
+	start_date = 1322.7.22
+	end_date = 1384.1.29
+}
+
+union = {
+	first = SAX
+	second = LUN
+	start_date = 1370.12.6
+	end_date = 1388.5.15
+}
+
+union = {
+	first = BOH
+	second = BRA
+	start_date = 1373.10.2
+	end_date = 1388.1.1
+}
+
+union = {
+	first = BOH
+	second = LUX
+	start_date = 1383.12.7
+	end_date = 1388.1.1
+}
+
+union = {
+	first = BUR
+	second = FLA
+	start_date = 1384.1.30
+	end_date = 1443.12.31
+}
+
+vassal = {
+	first = BUR
+	second = NEV
+	start_date = 1384.1.30
+	end_date = 1443.12.31
+}
+
+union = {
+	first = BRA
+	second = NUM
+	start_date = 1415.1.1
+	end_date = 1427.1.1
+}
+
+union = {
+	first = BUR
+	second = HOL
+	start_date = 1428.7.3
+	end_date = 1443.12.31
+}
+
+union = {
+	first = BUR
+	second = BRB
+	start_date = 1430.8.14
+	end_date = 1443.12.31
+}
+
+#Scandinavia
+vassal = {
+	first = DAN
+	second = NOL
+	start_date = 867.3.23
+	end_date = 910.1.1
+}
+
+union = {
+	first = DAN
+	second = NOR
+	start_date = 961.1.1
+	end_date = 995.1.1
+}
+
+union = {
+	first = DAN
+	second = NOR
+	start_date = 999.1.1
+	end_date = 1014.2.3
+}
+
+union = {
+	first = DAN
+	second = ENG
+	start_date = 1013.12.25
+	end_date = 1014.2.3
+}
+
+union = {
+	first = DAN
+	second = ENG
+	start_date = 1018.1.1
+	end_date = 1035.11.12
+}
+
+union = {
+	first = DAN
+	second = NOR
+	start_date = 1030.7.29
+	end_date = 1035.11.12
+}
+
+union = {
+	first = NOR
+	second = DAN
+	start_date = 1042.6.8
+	end_date = 1047.10.25
+}
+
+union = {
+	first = SWE
+	second = NOR
+	start_date = 1319.7.8
+	end_date = 1343.8.15
+}
+
+#England
+union = {
+	first = ENG
+	second = GUY
+	start_date = 1154.12.19
+	end_date = 1204.4.1
+}
+
+#Spain
+vassal = {
+	first = LON
+	second = CAS
+	start_date = 931.1.1
+	end_date = 1037.9.4
+}
+
+union = {
+	first = CAS
+	second = LON
+	start_date = 1037.9.4
+	end_date = 1065.12.24
+}
+
+union = {
+	first = CAS
+	second = LON
+	start_date = 1072.1.12
+	end_date = 1072.10.7
+}
+
+union = {
+	first = LON
+	second = CAS
+	start_date = 1072.10.7
+	end_date = 1157.8.21
+}
+
+union = {
+	first = ARA
+	second = NAV
+	start_date = 1076.6.4
+	end_date = 1134.9.8
+}
+
+union = {
+	first = CAT
+	second = PRO
+	start_date = 1127.1.1
+	end_date = 1131.1.1
+}
+
+union = {
+	first = ARA
+	second = PRO
+	start_date = 1166.6.1
+	end_date = 1173.1.1
+}
+
+union = {
+	first = ARA
+	second = MLL
+	start_date = 1231.1.1
+	end_date = 1276.7.27
+}
+
+vassal = {
+	first = ARA
+	second = MLL
+	start_date = 1279.1.1
+	end_date = 1286.1.1
+}
+
+union = {
+	first = ARA
+	second = SIC
+	start_date = 1282.1.1
+	end_date = 1285.11.2
+}
+
+union = {
+	first = ARA
+	second = SIC
+	start_date = 1291.6.18
+	end_date = 1296.12.11
+}
+
+#Balkans
+vassal = {
+	first = BUL
+	second = PNN
+	start_date = 827.1.1
+	end_date = 846.1.1
+}
+
+#East Europe
+union = {
+	first = POL
+	second = BOH
+	start_date = 1003.1.1
+	end_date = 1004.1.1
+}
+
+union = {
+	first = KIE
+	second = VLA
+	start_date = 1054.2.20
+	end_date = 1157.5.15
+}
+
+union = {
+	first = CHR
+	second = SMO
+	start_date = 1060.1.1
+	end_date = 1073.1.1
+}
+
+vassal = {
+	first = POL
+	second = POM
+	start_date = 1121.1.1
+	end_date = 1135.1.1
+}
+
+vassal = {
+	first = POL
+	second = MAZ
+	start_date = 1138.1.1
+	end_date = 1241.4.9
+}
+
+vassal = {
+	first = POL
+	second = SIL
+	start_date = 1163.1.1
+	end_date = 1232.1.1
+}
+
+vassal = {
+	first = SMO
+	second = PSK
+	start_date = 1178.1.1
+	end_date = 1242.1.1
+}
+
+vassal = {
+	first = HUN
+	second = VOL
+	start_date = 1214.1.1
+	end_date = 1232.1.1
+}
+
+vassal = {
+	first = TEU
+	second = LIV
+	start_date = 1237.1.1
+	end_date = 1435.1.1
+}
+
+vassal = {
+	first = POL
+	second = SIL
+	start_date = 1241.4.9
+	end_date = 1288.9.30
+}
+
+union = {
+	first = TVE
+	second = VLA
+	start_date = 1263.11.14
+	end_date = 1272.1.1
+}
+
+vassal = {
+	first = LIT
+	second = PSK
+	start_date = 1266.1.1
+	end_date = 1323.1.1
+}
+
+union = {
+	first = TVE
+	second = VLA
+	start_date = 1304.10.1
+	end_date = 1318.11.22
+}
+
+union = {
+	first = MOS
+	second = VLA
+	start_date = 1318.11.22
+	end_date = 1322.11.2
+}
+
+union = {
+	first = TVE
+	second = VLA
+	start_date = 1322.11.2
+	end_date = 1328.1.1
+}
+
+union = {
+	first = MOS
+	second = VLA
+	start_date = 1328.1.1
+	end_date = 1359.1.1
+}
+
+union = {
+	first = MOS
+	second = VLA
+	start_date = 1362.1.1
+	end_date = 1389.1.1
+}
+
+union = {
+	first = HUN
+	second = POL
+	start_date = 1370.11.5
+	end_date = 1382.9.10
+}
+
+# Persia
+vassal = {
+	first = PRT
+	second = ATR
+	start_date = 6.1.1
+	end_date = 78.1.1
+}
+vassal = {
+	first = PRT
+	second = ADB
+	start_date = 2.1.1
+	end_date = 117.1.1
+}
+vassal = {
+	first = PRT
+	second = OSR
+	start_date = 2.1.1
+	end_date = 91.1.1
+}
+vassal = {
+	first = PRT
+	second = ARM
+	start_date = 58.1.1
+	end_date = 63.6.1
+}
+vassal = {
+	first = PRT
+	second = OSR
+	start_date = 109.1.1
+	end_date = 114.1.1
+}
+vassal = {
+	first = PRT
+	second = SAS
+	start_date = 200.1.1
+	end_date = 224.4.24
+}
+vassal = {
+	first = SAS
+	second = CLB
+	start_date = 253.1.1
+	end_date = 639.1.1
+}
+vassal = {
+	first = SAS
+	second = IBE
+	start_date = 363.1.1
+	end_date = 526.1.1
+}
+vassal = {
+	first = HEP
+	second = KHW
+	start_date = 480.1.1
+	end_date = 567.1.1
+}
+vassal = {
+	first = SAS
+	second = IBE
+	start_date = 532.1.1
+	end_date = 580.1.1
+}
+vassal = {
+	first = GOK
+	second = KHW
+	start_date = 567.1.1
+	end_date = 593.1.1
+}
+vassal = {
+	first = WGO
+	second = KHW
+	start_date = 593.1.1
+	end_date = 659.1.1
+}
+vassal = {
+	first = WGO
+	second = HEP
+	start_date = 600.1.1
+	end_date = 647.1.1
+}
+vassal = {
+	first = SAM
+	second = KHW
+	start_date = 819.1.1
+	end_date = 999.1.1
+}
+vassal = {
+	first = SEL
+	second = AZE
+	start_date = 1043.1.1
+	end_date = 1062.1.1
+}
+vassal = {
+	first = JAI
+	second = ARD
+	start_date = 1335.1.1
+	end_date = 1393.1.1
+}
+vassal = {
+	first = TIM
+	second = ARD
+	start_date = 1393.1.1
+	end_date = 1443.12.31
+}
+vassal = {
+	first = TIM
+	second = MUL
+	start_date = 1398.1.1
+	end_date = 1414.1.1
+}
+
+#Middle East
+union = {
+	first = HIM
+	second = SAA
+	start_date = 2.1.1
+	end_date = 160.1.1
+}
+vassal = {
+	first = RAS
+	second = ARM
+	start_date = 653.1.1
+	end_date = 661.1.1
+}
+vassal = {
+	first = RAS
+	second = IBE
+	start_date = 654.1.1
+	end_date = 661.1.1
+}
+vassal = {
+	first = UMA
+	second = ARM
+	start_date = 661.1.1
+	end_date = 750.1.1
+}
+vassal = {
+	first = UMA
+	second = IBE
+	start_date = 661.1.1
+	end_date = 750.1.1
+}
+vassal = {
+	first = UMA
+	second = KHW
+	start_date = 680.1.1
+	end_date = 750.1.1
+}
+vassal = {
+	first = ABB
+	second = KHW
+	start_date = 750.1.1
+	end_date = 819.1.1
+}
+vassal = {
+	first = ABB
+	second = ARM
+	start_date = 750.1.1
+	end_date = 884.1.1
+}
+vassal = {
+	first = ABB
+	second = IBE
+	start_date = 750.1.1
+	end_date = 888.1.1
+}
+vassal = {
+	first = ABB
+	second = TAB
+	start_date = 760.1.1
+	end_date = 864.1.1
+}
+vassal = {
+	first = ABB
+	second = TAH
+	start_date = 850.1.1
+	end_date = 873.1.1
+}
+vassal = {
+	first = SEL
+	second = ZNG
+	start_date = 1124.1.1
+	end_date = 1156.1.1
+}
+vassal = {
+	first = ORM
+	second = ALH
+	start_date = 1330.1.1
+	end_date = 1420.1.1
+}
+
+#India
+vassal = {
+	first = RSH
+	second = KNK
+	start_date = 800.1.1
+	end_date = 950.1.1
+}
+vassal = {
+	first = CLY
+	second = KAD
+	start_date = 973.1.1
+	end_date = 1100.1.1
+}
+vassal = {
+	first = MLW
+	second = KNK
+	start_date = 1020.1.1
+	end_date = 1120.1.1
+}
+
+# Far east
+vassal = {
+	first = XIO
+	second = XIY
+	start_date = 2.1.1
+	end_date = 70.1.1
+}
+vassal = {
+	first = HND
+	second = SXI
+	start_date = 50.1.1
+	end_date = 220.1.1
+}
+vassal = {
+	first = TNG
+	second = GOG
+	start_date = 668.1.1
+	end_date = 698.1.1
+}
+vassal = {
+	first = SRI
+	second = SUN
+	start_date = 739.1.1
+	end_date = 1035.1.1
+}
+vassal = {
+	first = TIB
+	second = NAN
+	start_date = 750.1.1
+	end_date = 794.1.1
+}
+union = {
+	first = CLS
+	second = SRI
+	start_date = 1080.1.1
+	end_date = 1180.1.1
+}
+union = {
+	first = CHA
+	second = KHM
+	start_date = 1177.1.1
+	end_date = 1181.1.1
+}
+vassal = {
+	first = KHM
+	second = CHA
+	start_date = 1190.1.1
+	end_date = 1220.1.1
+}
+vassal = {
+	first = PAG
+	second = TAU
+	start_date = 1279.4.21
+	end_date = 1287.1.1
+}
+vassal = {
+	first = SUK
+	second = LIG
+	start_date = 1285.1.1
+	end_date = 1320.1.1
+}
+vassal = {
+	first = SUK
+	second = PAT
+	start_date = 1300.1.1
+	end_date = 1320.1.1
+}
+vassal = {
+	first = MYI
+	second = TAU
+	start_date = 1322.1.1
+	end_date = 1358.1.1
+}
+vassal = {
+	first = AVA
+	second = TAU
+	start_date = 1367.3.29
+	end_date = 1397.1.1
+}
+union = {
+	first = AYU
+	second = KHM
+	start_date = 1352.1.1
+	end_date = 1357.1.1
+}

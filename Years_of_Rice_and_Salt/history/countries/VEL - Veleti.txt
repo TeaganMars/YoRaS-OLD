@@ -1,0 +1,20 @@
+government = barbarian_tribe
+mercantilism = 0.1
+primary_culture = sorbian
+religion = slavic
+technology_group = barbarian
+capital = 59
+
+600.1.1 = { technology_group = western }
+
+740.1.1 = {
+	monarch = {
+		name = "Dragowit"
+		dynasty = "Veleti"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+831.1.1 = { government = tribal_federation government_rank = 1 }

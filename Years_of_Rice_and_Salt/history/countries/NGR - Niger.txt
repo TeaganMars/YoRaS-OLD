@@ -1,0 +1,97 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = 3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = mali
+religion = sunni
+technology_group = muslim
+capital = 1142 #Niamey
+
+1910.1.1 = { religion = secularism }
+
+1960.8.3 = {
+	monarch = {
+		name = "Hamani Diori"
+		adm = 5
+		mil = 3
+		dip = 3
+	}
+}
+
+1974.4.17 = {
+	monarch = {
+		name = "Seyni Kountché"
+		adm = 2
+		mil = 3
+		dip = 5
+	}
+}
+
+1987.11.10 = {
+	monarch = {
+		name = "Ali Saibou"
+		adm = 3
+		mil = 4
+		dip = 2
+	}
+}
+
+1993.4.16 = {
+	monarch = {
+		name = "Mahamane Ousmane"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+1996.1.27 = {
+	monarch = {
+		name = "Ibrahim Baré Maïnassara"
+		adm = 3
+		mil = 5
+		dip = 2
+	}
+}
+
+1999.4.11 = {
+	monarch = {
+		name = "Daouda Malam Wanké"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1999.12.22 = {
+	monarch = {
+		name = "Mamadou Tandja"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+2010.2.18 = {
+	monarch = {
+		name = "Salou Djibo"
+		adm = 4
+		mil = 1
+		dip = 2
+	}
+}
+
+2011.4.7 = {
+	monarch = {
+		name = "Mahamadou Issoufou"
+		adm = 3
+		mil = 3
+		dip = 4
+	}
+}

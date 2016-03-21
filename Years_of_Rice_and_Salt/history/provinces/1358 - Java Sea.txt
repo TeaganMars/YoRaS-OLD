@@ -1,0 +1,8 @@
+#1358 - Java Sea
+
+discovered_by = early_chinese
+discovered_by = chinese
+1521.1.1 = { discovered_by = POR }
+
+
+

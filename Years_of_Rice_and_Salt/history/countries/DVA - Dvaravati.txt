@@ -1,0 +1,26 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 3
+#serfdom_freesubjects = -3
+primary_culture = central_thai
+religion = mahayana
+technology_group = early_chinese
+capital = 589
+
+430.1.1 = {
+	monarch = {
+		name = "Phraya Kalavarnadit"
+		dynasty = "Dvaravati"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+750.1.1 = { technology_group = chinese }

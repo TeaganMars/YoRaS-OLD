@@ -1,0 +1,54 @@
+#736 - East Gyeongsang
+
+owner = SLL
+controller = SLL
+culture = korean
+religion = muism
+capital = "Seorabeol"
+trade_goods = chinaware
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+add_core = SLL
+discovered_by = early_chinese
+discovered_by = chinese
+
+2.1.1 = {
+	add_permanent_province_modifier = {
+		name = center_of_trade_modifier
+		duration = -1
+	}
+}
+
+372.1.1 = { religion = mahayana }
+935.1.1 = { owner = KOR controller = KOR add_core = KOR remove_core = SLL capital = "Gyeongju" }
+1050.1.1 = { fort_15th = yes }
+1392.1.1 = { religion = confucianism }
+
+1542.1.1 = { discovered_by = POR }
+1592.5.25 = { controller = JAP } # Japanese invasion - Siege of Busan
+1598.12.24 = { controller = KOR }
+1637.1.1 = { add_core = MNG } # Tributary of Qing China
+1644.1.1 = { add_core = MCH remove_core = MNG } # Part of the Manchu empire
+1645.7.1 = { add_core = QNG remove_core = MCH }
+1653.1.1 = { discovered_by = NED } # Hendrick Hamel
+
+1750.1.1 = { base_tax = 4 base_production = 7 base_manpower = 6 }
+1775.1.1 = { base_tax = 5 base_production = 11 base_manpower = 13 }
+1800.1.1 = { base_tax = 9 base_production = 15 base_manpower = 16 }
+1825.1.1 = { base_tax = 11 base_production = 21 base_manpower = 20 }
+1850.1.1   = { capital = "Busan" }
+1851.1.1 = { base_tax = 16 base_production = 23 base_manpower = 24 }
+1875.1.1 = { base_tax = 20 base_production = 25 base_manpower = 30 }
+1900.1.1 = { base_tax = 25 base_production = 29 base_manpower = 33 }
+1910.8.20  = { owner = JAP controller = JAP add_core = JAP }
+1912.2.12  = { remove_core = QNG }
+1925.1.1 = { base_tax = 32 base_production = 31 base_manpower = 35 }
+1945.8.15  = { owner = KOR controller = KOR add_core = SKO remove_core = JAP }
+1948.9.9   = { owner = SKO controller = SKO add_core = NKO remove_core = KOR }
+1950.1.1 = { base_tax = 36 base_production = 37 base_manpower = 37 }
+1960.1.1 = { religion = mahayana }
+1975.1.1 = { base_tax = 39 base_production = 41 base_manpower = 41 }
+2000.1.1 = { base_tax = 49 base_production = 49 base_manpower = 47 }

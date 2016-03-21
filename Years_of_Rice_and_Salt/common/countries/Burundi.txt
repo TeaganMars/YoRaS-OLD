@@ -1,0 +1,77 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 111  181  85 }
+
+historical_idea_groups = {
+	early_adm_ideas
+	early_mil_ideas
+	early_religious_ideas
+	early_trade_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+monarch_names = {
+	"Ntare #0" = 10  
+	"Mwezi #0" = 10  
+	"Mutaga #0" = 10 
+	"Mwambutsa #0" = 10
+	"Jean-Paul #0" = 10  
+	"Jean #0" = 10  
+	"Christophe #0" = 10  
+	"Augustin #0" = 10
+	"Pasteur #0" = 10
+	"Juvénal #0" = 10
+	"Paul #0" = 10
+	"Grégoire #0" = 10
+	"Kigeri #0" = 10
+	"Bernard #0" = 10
+	"Dominique #0" = 10
+	"Ignace #0" = 10
+	"Mutara #0" = 10
+	"Lando #0" = 10
+	"André #0" = 10
+	"Théodore #0" = 10
+	"Faustin #0" = 10
+	"Agathe #0" = -10
+	"Yuhi #0" = 10
+	"Protais #0" = 10
+}
+
+leader_names = {
+	Akayesu Barayagwiza Bazivamo Bizimana Bizimungu Gasana Habyarimana Kagame Kambanda Kayibanda
+	Makuza Mbonyumutwa Murwanashyaka Rwogera Ndasingwa Ntagerura Ntiruhungwa Sindikubwabo
+	Twagiramungu Uwilingiyimana Higiro Zigiranyirazo
+}
+
+ship_names = {
+	Mlima Moto Moshi Homu Ukungu Nyota
+	Jua Maji Mwezi Mnyama Samaki Ndege
+	Mbwa Nyoka Ua Damu
+}
+
+
+

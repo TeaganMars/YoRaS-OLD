@@ -1,0 +1,6 @@
+#1592 - Western South Atlantic Current
+
+1520.1.1 = { discovered_by = SPA }
+
+
+

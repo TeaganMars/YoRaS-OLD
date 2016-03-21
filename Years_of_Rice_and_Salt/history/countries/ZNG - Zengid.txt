@@ -1,0 +1,115 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -1
+#land_naval = -2
+#quality_quantity = 3
+#serfdom_freesubjects = -3
+primary_culture = al_iraqiya_arabic
+religion = shiite
+technology_group = muslim
+capital = 411	# Mosul
+
+1127.1.1 = {
+	monarch = {
+		name = "Imad ad-Din Zengi I"
+		dynasty = "Zengid"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1146.1.1 = {
+	monarch = {
+		name = "Saif ad-Din Ghazi I"
+		dynasty = "Zengid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+
+1149.1.1 = {
+	monarch = {
+		name = "Qutb ad-Din Mawdud I"
+		dynasty = "Zengid"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1170.1.1 = {
+	monarch = {
+		name = "Saif ad-Din Ghazi II"
+		dynasty = "Zengid"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1180.1.1 = {
+	monarch = {
+		name = "Izz ad-Din Mas'ud I"
+		dynasty = "Zengid"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1193.1.1 = {
+	monarch = {
+		name = "Nur ad-Din Arslan Shah I"
+		dynasty = "Zengid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1211.1.1 = {
+	monarch = {
+		name = "Izz ad-Din Mas'ud II"
+		dynasty = "Zengid"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1218.1.1 = {
+	monarch = {
+		name = "Nur ad-Din Arslan Shah II"
+		dynasty = "Zengid"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1219.1.1 = {
+	monarch = {
+		name = "Nasir ad-Din Mahmud I"
+		dynasty = "Zengid"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1234.1.1 = {
+	monarch = {
+		name = "Badr al-Din Lu'lu"
+		dynasty = "Zengid"
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}

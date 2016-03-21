@@ -1,0 +1,26 @@
+government = tribal_federation
+mercantilism = 0.1
+technology_group = eastern
+religion = slavic
+primary_culture = russian
+capital = 310
+
+750.1.1 = {
+	monarch = {
+		name = "Burivoi"
+		dynasty = "Ilmen"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+800.1.1 = {
+	monarch = {
+		name = "Gostomysl"
+		dynasty = "Ilmen"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}

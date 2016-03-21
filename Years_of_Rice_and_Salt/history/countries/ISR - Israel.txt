@@ -1,0 +1,109 @@
+government = constitutional_republic
+mercantilism = 0.1
+primary_culture = israeli
+religion = jewish
+historical_rival = PLS
+technology_group = muslim
+capital = 2151	# Jerusalem
+
+1920.1.1 = { technology_group = western }
+1922.1.1 = { religion = secularism }
+
+1948.5.14 = {
+	monarch = {
+		name = "David Ben-Gurion"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1948.5.16 = {
+	monarch = {
+		name = "Chaim Weizmann"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1952.12.16 = {
+	monarch = {
+		name = "Yitzhak Ben-Zvi"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+1963.5.21 = {
+	monarch = {
+		name = "Zalman Shazar"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1973.5.24 = {
+	monarch = {
+		name = "Ephraim Katzir"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1978.5.29 = {
+	monarch = {
+		name = "Yitzhak Navon"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1983.5.5 = {
+	monarch = {
+		name = "Chaim Herzog"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1993.5.13 = {
+	monarch = {
+		name = "Ezer Weizman"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+2000.8.1 = {
+	monarch = {
+		name = "Moshe Katsav"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+2007.7.15 = {
+	monarch = {
+		name = "Shimon Peres"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+2014.7.24 = {
+	monarch = {
+		name = "Reuven Rivlin"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

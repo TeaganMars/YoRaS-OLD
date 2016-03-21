@@ -1,0 +1,118 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = -2
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -3
+#quality_quantity = 0
+#serfdom_freesubjects = -4
+technology_group = early_chinese
+religion = confucianism
+primary_culture = cantonese
+capital = 685	# Jiankang
+
+220.1.1 = {
+	monarch = {
+		name = "Sun Quan"
+		dynasty = "Wu"
+		birth_date = 182.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+243.1.1 = {
+	heir = {
+		name = "Sun Liang"
+		monarch_name = "Sun Liang"
+		dynasty = "Wu"
+		birth_date = 243.1.1
+		death_date = 260.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+252.1.1 = {
+	monarch = {
+		name = "Sun Liang"
+		dynasty = "Wu"
+		birth_date = 243.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+258.1.1 = {
+	monarch = {
+		name = "Sun Xiu"
+		dynasty = "Wu"
+		birth_date = 235.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+258.1.1 = {
+	heir = {
+		name = "Sun Hao"
+		monarch_name = "Sun Hao"
+		dynasty = "Wu"
+		birth_date = 242.1.1
+		death_date = 284.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+264.9.3 = {
+	monarch = {
+		name = "Sun Hao"
+		dynasty = "Wu"
+		birth_date = 242.1.1
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+750.1.1 = { technology_group = chinese }
+
+907.6.1 = {
+	monarch = {
+		name = "Yang Wo"
+		dynasty = "Wu"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+908.6.9 = {
+	monarch = {
+		name = "Yang Longyan"
+		dynasty = "Wu"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+920.6.17 = {
+	monarch = {
+		name = "Yang Pu"
+		dynasty = "Wu"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

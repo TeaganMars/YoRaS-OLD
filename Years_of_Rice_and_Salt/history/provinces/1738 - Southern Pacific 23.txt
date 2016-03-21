@@ -1,0 +1,6 @@
+#1738 - Carolina and Flint islands
+
+1606.1.1 = { discovered_by = SPA }
+
+
+

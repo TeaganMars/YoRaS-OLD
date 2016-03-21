@@ -1,0 +1,148 @@
+government = despotic_monarchy 
+mercantilism = 0.1
+primary_culture = georgian
+religion = zoroastrian
+technology_group = middle_eastern
+capital = 420
+
+200.1.1 = {
+	monarch = {
+		name = "Vachagan I"
+		dynasty = "Arsacid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+250.1.1 = {
+	monarch = {
+		name = "Vache I"
+		dynasty = "Arsacid"
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+}
+
+300.1.1 = {
+	monarch = {
+		name = "Urnayr"
+		dynasty = "Arsacid"
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+
+314.1.1 = { religion = chalcedonism }
+
+330.1.1 = {
+	monarch = {
+		name = "Vachagan II"
+		dynasty = "Arsacid"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+360.1.1 = {
+	monarch = {
+		name = "Mirhavan"
+		dynasty = "Arsacid"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+390.1.1 = {
+	monarch = {
+		name = "Satoy"
+		dynasty = "Arsacid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+420.1.1 = {
+	monarch = {
+		name = "Asay"
+		dynasty = "Arsacid"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+450.1.1 = {
+	monarch = {
+		name = "Aswagen"
+		dynasty = "Arsacid"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+470.1.1 = {
+	monarch = {
+		name = "Vache II"
+		dynasty = "Arsacid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+490.1.1 = {
+	monarch = {
+		name = "Vachagan III"
+		dynasty = "Arsacid"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+
+600.1.1 = {
+	monarch = {
+		name = "Varaz-Grigor"
+		dynasty = "Mihranid"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+633.1.1 = {
+	monarch = {
+		name = "Javanshir"
+		dynasty = "Mihranid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+669.1.1 = {
+	monarch = {
+		name = "Varaz-Trdat I"
+		dynasty = "Mihranid"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+790.1.1 = {
+	monarch = {
+		name = "Varaz-Trdat II"
+		dynasty = "Mihranid"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+} #Assassinated 822 or 823

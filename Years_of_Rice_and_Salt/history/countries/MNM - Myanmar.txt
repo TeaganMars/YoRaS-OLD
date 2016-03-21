@@ -1,0 +1,48 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = burmese
+religion = buddhism
+technology_group = early_chinese
+capital = 586	# Rangoon
+
+750.1.1 = { technology_group = chinese }
+
+1915.1.1 = { technology_group = asian }
+1920.1.1 = { government = military_junta }
+
+1988.9.18 = {
+	monarch = {
+		name = "Saw Maung"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1992.4.23 = {
+	monarch = {
+		name = "Tan Shwe"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+2011.3.30 = { government = constitutional_republic }
+
+2011.3.30 = {
+	monarch = {
+		name = "Thein Sein"
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+}

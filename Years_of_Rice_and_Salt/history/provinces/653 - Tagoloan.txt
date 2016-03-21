@@ -1,0 +1,52 @@
+#653 - Lanao
+
+culture = filipino
+religion = animism
+capital = "Marawi"
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+native_size = 30
+native_ferocity = 4
+native_hostileness = 5
+discovered_by = early_chinese
+discovered_by = chinese
+
+1450.1.1 = { religion = sunni }
+1520.1.1 = {
+		owner = MGD
+		controller = MGD
+		add_core = MGD
+		is_city = yes
+		trade_goods = spices
+	   } # Sultanate of Maguindanao
+1521.1.1 = { discovered_by = SPA }
+1640.1.1 = {
+		owner = LNO
+		controller = LNO
+		add_core = LNO
+		remove_core = MGD
+	   } # Sultanate of Lanao
+1751.1.1 = { base_tax = 4 }
+1775.1.1 = { base_tax = 5 }
+
+1801.1.1 = { base_tax = 6 }
+1825.1.1 = { base_tax = 7 base_production = 4 }
+1851.1.1 = { base_production = 5 }
+1875.1.1 = { base_production = 6 }
+1895.3.10  = { owner = SPA controller = SPA add_core = SPA add_core = PHI }
+1898.8.12  = { owner = USA controller = USA add_core = USA remove_core = SPA }
+1901.1.1 = { base_production = 7 }
+1917.1.1   = { remove_core = LNO }
+1925.1.1 = { base_production = 8 base_manpower = 3 }
+1942.1.2   = { controller = JAP }
+1945.3.1   = { controller = USA }
+1946.7.4   = { owner = PHI controller = PHI remove_core = USA }
+1951.1.1 = { base_tax = 8 }
+1975.1.1 = { base_manpower = 4 }
+2000.1.1 = { base_manpower = 7 }
+
+
+

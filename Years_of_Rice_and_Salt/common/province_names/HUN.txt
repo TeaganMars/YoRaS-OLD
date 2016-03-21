@@ -1,0 +1,104 @@
+#Czechia
+265 = "Morávia"
+266 = "Prága"
+#Slovakia
+154 = "Érsekújvár"
+162 = "Zemplén"
+1772 = "Pozsony"
+1952 = "Máramaros"
+3111 = "Szepes"
+#Poland
+257 = "Varsó"
+262 = "Krakkó"
+3112 = "Újszandec"
+#Austria
+73 = "Tirol"
+128 = "Karintia"
+132 = "Stájerország"
+134 = "Bécs"
+1770 = "Alsó-Ausztria"
+1863 = "Grác"
+#Slovenia
+129 = "Krajna"
+#Croatia
+130 = "Isztria"
+131 = "Zágráb"
+136 = "Dalmácia"
+137 = "Raguza"
+1767 = "Szlavónia"
+#Bosnia
+140 = "Bosznia"
+1828 = "Olfeld"
+#Serbia
+141 = "Szerbia"
+1766 = "Koszovó"
+1954 = "Torontál"
+#Albania
+143 = "Albánia"
+#Macedonia
+148 = "Macedónia"
+#Bulgaria
+1764 = "Burgasz"
+1765 = "Szófia"
+#Greece
+142 = "Korfu"
+146 = "Athén"
+147 = "Thesszália"
+163 = "Kréta"
+321 = "Ciprusi"
+2125 = "Leszbosz"
+2156 = "Évia"
+#Romania
+160 = "Olténia"
+161 = "Munténia"
+268 = "Moldávia"
+2006 = "Szucsáva"
+3116 = "Bodzavásár"
+#Ukraine
+261 = "Vörösoroszország"
+268 = "Besszarábia"
+280 = "Kijev"
+281 = "Podólia"
+282 = "Odessza"
+283 = "Zaporizzsja"
+285 = "Feodoszija"
+291 = "Harkov"
+1944 = "Cserkaszi"
+1974 = "Herszon"
+2606 = "Perejaszlavs"
+2607 = "Mikolajiv"
+2608 = "Szevasztopol"
+2609 = "Mariupol"
+2610 = "Dnyipropetrovszk"
+2611 = "Luhanszk"
+2612 = "Doneck"
+3114 = "Ilyvó"
+#Belarus
+276 = "Minszk"
+#Russia
+41 = "Királyhegye"
+284 = "Krím"
+295 = "Moszkva"
+298 = "Kurszk"
+299 = "Voronyezs"
+301 = "Rjazany"
+2613 = "Lipeck"
+#Italy
+104 = "Milánó"
+112 = "Velence"
+118 = "Róma"
+121 = "Nápoly"
+#France
+183 = "Párizs"
+#Germany
+61 = "Drezda"
+62 = "Lipcse"
+63 = "Türingia"
+1874 = "Bréma"
+#Asia
+379 = "Jeruzsálem"
+382 = "Damaszkusz"
+385 = "Mekka"
+1020 = "Kiotó"
+1028 = "Tokió"
+1816 = "Peking"

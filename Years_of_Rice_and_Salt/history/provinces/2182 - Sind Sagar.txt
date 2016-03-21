@@ -1,0 +1,103 @@
+#2182 - Sind Sagar
+
+owner = IPA
+controller = IPA
+culture = panjabi
+religion = hinduism
+capital = "Karor"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = IPA
+discovered_by = early_indian
+discovered_by = indian
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = western_nomad_group
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+discovered_by = early_chinese
+discovered_by = chinese
+
+76.1.1 = { owner = KUS controller = KUS add_core = KUS remove_core = IPA }
+375.1.1 = { owner = HEP controller = HEP add_core = HEP remove_core = KUS }
+550.1.1 = { owner = SHH controller = SHH add_core = SHH remove_core = HEP }
+870.1.1 = { owner = SAF controller = SAF add_core = SAF remove_core = SHH }
+900.1.1 = { owner = SAM controller = SAM add_core = SAM remove_core = SAF }
+1000.1.1 = { base_tax = 4 }
+1002.1.1 = { owner = GHZ controller = GHZ add_core = GHZ remove_core = SAM }
+1100.1.1 = { base_tax = 5 }
+1175.1.1 = { owner = GHU controller = GHU add_core = GHU remove_core = GHZ }
+1215.1.1 = { owner = DLH controller = DLH add_core = DLH add_core = PUN remove_core = GHU }
+1398.1.1 = { owner = MUL controller = MUL add_core = MUL remove_core = DLH }
+
+1414.1.1 = {
+	owner = DLH
+	controller = DLH
+}
+1437.1.1 = {
+	owner = MUL
+	controller = MUL
+} # Captured by Langas and separated from Sultanate
+1526.1.1 = {
+	owner = SND
+	controller = SND
+} # Conquered by Arguns
+1527.1.1 = {
+	owner = MUG
+	controller = MUG
+	add_core = MUG
+} # Turned over to Babur
+1544.1.1 = {
+	owner = BNG
+	controller = BNG
+	add_core = BNG
+} # Sur expansion
+1553.1.1 = {
+	owner = MUL
+	controller = MUL
+	capital = "Dera Ismail Khan"
+	remove_core = BNG
+} # Independent
+1557.7.1 = {
+	controller = MUG
+	owner = MUG
+	add_core = MUG
+} #Bairam Khan occupies Multan
+1600.1.1 = { citysize = 25000 discovered_by = TUR }
+1690.1.1  = { discovered_by = ENG }
+1707.5.12 = { discovered_by = GBR }
+1738.1.1 = { controller = PER } # Captured by Persia, Nadir Shah
+1739.5.1 = {
+	owner = PER
+	add_core = PER
+} # Captured by Persia, Nadir Shah
+1747.10.1 = {
+	owner = AFG
+	controller = AFG
+	add_core = AFG
+	remove_core = MUG
+} # Ahmad Shah established the Durrani empire
+1751.1.1 = { base_tax = 6 }
+1775.1.1 = { base_manpower = 4 }
+
+1801.1.1 = { base_manpower = 5 }
+1825.1.1 = { base_tax = 7 base_manpower = 6 }
+1834.1.1   = { owner = PUN controller = PUN add_core = PUN remove_core = AFG }
+1849.1.1   = { owner = GBR controller = GBR add_core = GBR }
+1851.1.1 = { base_manpower = 7 }
+1875.1.1 = { base_tax = 8 base_production = 4 }
+1901.1.1 = { base_tax = 9 base_production = 5 }
+1925.1.1 = { base_tax = 10 }
+1930.12.29 = { add_core = PAK remove_core = PUN }
+1947.8.14  = { owner = PAK controller = PAK remove_core = GBR }
+1950.1.1 = { base_production = 6 base_manpower = 8 }
+1975.1.1 = { base_production = 7 }
+2000.1.1 = { base_production = 10 base_manpower = 9 }
+
+
+

@@ -1,0 +1,50 @@
+#1209 - Berbera
+
+culture = somali
+religion = african
+capital = "Berbera"
+base_manpower = 2
+trade_goods = unknown
+native_size = 30
+native_ferocity = 4.5
+native_hostileness = 9
+hre = no
+base_tax = 4
+base_production = 4
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = ZIM
+discovered_by = AJU
+discovered_by = MBA
+discovered_by = MDI
+discovered_by = MLI
+discovered_by = SFA
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = early_indian
+discovered_by = indian
+
+1100.1.1 = { religion = sunni }
+1218.1.1 = {	owner = WAR
+		controller = WAR
+		add_core = WAR
+		is_city = yes
+		trade_goods = slaves
+	   }
+
+1499.1.1 = { discovered_by = POR }
+1526.1.1 = { owner = ADA controller = ADA } #Ahmad Gran secures control over Marehan
+1550.1.1 = { discovered_by = TUR }
+1555.1.1 = { owner = WAR controller = WAR } #Northern part of province no longer conrolled by ADA
+
+1886.1.1  = { owner = GBR controller = GBR add_core = GBR }
+1900.1.1  = { citysize = 10000 trade_goods = fish }
+1940.8.1  = { controller = ITA }
+1941.3.1  = { controller = GBR }
+1960.7.1  = { owner = SOM controller = SOM add_core = SOM remove_core = GBR remove_core = WAR }
+2009.1.31 = { revolt = { type = nationalist_rebels size = 1 } controller = REB }
+
+

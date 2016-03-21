@@ -1,0 +1,107 @@
+#2248 - Midnapore
+
+owner = KAL
+controller = KAL
+culture = bengali
+religion = jainism
+capital = "Midnapore"
+trade_goods = spices #Opium
+hre = no
+base_tax = 5
+base_production = 6
+base_manpower = 3
+is_city = yes
+add_core = KAL
+discovered_by = early_indian
+discovered_by = indian
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+discovered_by = early_chinese
+discovered_by = chinese
+
+320.1.1 = { owner = GUP controller = GUP add_core = GUP }
+600.1.1 = { owner = KAL controller = KAL add_core = KAL remove_core = GUP }
+770.1.1 = { owner = PAA controller = PAA add_core = PAA remove_core = KAL religion = mahayana }
+800.1.1 = { discovered_by = nomad_group }
+1174.1.1 = { owner = ORI controller = ORI add_core = ORI remove_core = PAA }
+1200.1.1 = { religion = hinduism }
+
+1500.1.1 = {
+	discovered_by = POR
+}
+1568.1.1 = {
+	owner = BNG
+	controller = BNG
+	add_core = BNG
+} # Annexed to Bengal
+1576.1.1 = {
+	owner = ORI
+	controller = ORI
+} # Orissa resurgent after Akbar's defeat of Bengal
+1591.1.1 = { controller = MUG } # The Mughal Empire
+1592.1.1 = {
+	owner = MUG
+	add_core = MUG
+} # The Mughal Empire
+1622.10.1 = {
+	controller = REB
+	revolt = {
+		type = pretender_rebels
+		size = 0
+		name = "Khurrams Faction"
+		leader = "Shah Jahan Timurid"
+	}
+} #With some aid from Golconda Khurrams rebelion against his father continues
+1623.5.1 = {
+	revolt = {
+		type = pretender_rebels
+		size = 0
+		name = "Khurrams Faction"
+		leader = "Shah Jahan Timurid"
+	}
+} #Defeated, retreats into Bengal
+1624.1.1 = {
+	controller = MUG
+	revolt = { }
+} #Khurram is defeated and is chased away by Mughal forces and rebelious Zamindars. Takes refuge in Ahmednagar and eventually surrenders on terms dictated by Nur Jahan
+1657.9.14 = {
+	controller = REB
+	revolt = {
+		type = pretender_rebels
+		size = 0
+		name = "Muhammed Shuja's Faction"
+		leader = "Muhammed Shuja Timurid"
+	}
+} # Shah Jahan falls ill, his sons starts civil war
+1658.12.28 = {
+	controller = MUG
+	revolt = { }
+} # Muhammed Shuja defeated by Aurangzeb
+1707.3.15 = {
+	owner = BNG
+	controller = BNG
+}
+1751.1.1 = { base_production = 7 base_manpower = 5 }
+1760.1.1 = {
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = MUG
+} # Given to GBR by Mir Qasim
+1775.1.1 = { base_tax = 8 base_manpower = 6 }
+
+1801.1.1 = { base_production = 10 base_manpower = 7 }
+1825.1.1 = { base_tax = 10 base_production = 11 base_manpower = 8 }
+1851.1.1 = { base_tax = 11 base_production = 14 }
+1875.1.1 = { base_tax = 14 base_production = 15 }
+1901.1.1 = { base_tax = 15 base_manpower = 11 }
+1925.1.1 = { base_tax = 17 base_production = 16 base_manpower = 12 }
+1930.1.1  = { add_core = IND remove_core = BNG }
+1947.8.15 = { owner = IND controller = IND remove_core = GBR }
+
+
+
+1950.1.1 = { base_tax = 19 base_production = 18 }
+1975.1.1 = { base_tax = 20 base_production = 19 base_manpower = 14 }
+2000.1.1 = { base_tax = 21 base_production = 21 base_manpower = 19 }

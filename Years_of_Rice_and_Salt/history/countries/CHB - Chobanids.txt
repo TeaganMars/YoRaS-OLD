@@ -1,0 +1,34 @@
+government = steppe_horde
+#aristocracy_plutocracy = -4
+#centralization_decentralization = 5
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = -1
+#land_naval = -4
+#quality_quantity = 3
+#serfdom_freesubjects = -5
+technology_group = muslim
+primary_culture = mongol
+religion = shiite
+capital = 416	# Tabriz
+
+1335.1.1 = {
+	monarch = {
+		name = "Hassan Kuchak"
+		dynasty = "Chobanid"
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}
+
+1343.12.15 = {
+	monarch = {
+		name = "Malek Ashraf"
+		dynasty = "Chobanid"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}

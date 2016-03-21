@@ -1,0 +1,94 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = -3
+primary_culture = persian
+religion = sunni
+technology_group = muslim
+capital = 435	# Zaranj
+
+867.1.1 = {
+	monarch = {
+		name = "Ya'qub ibn Layth"
+		dynasty = Saffarid
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+879.1.1 = {
+	monarch = {
+		name = "Amr ibn al-Layth"
+		dynasty = Saffarid
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+901.1.1 = {
+	monarch = {
+		name = "Tahir ibn Muhammad"
+		dynasty = Saffarid
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+	
+908.1.1 = {
+	monarch = {
+		name = "Al-Layth ibn 'Ali"
+		dynasty = Saffarid
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+910.1.1 = {
+	monarch = {
+		name = "Muhammad ibn 'Ali"
+		dynasty = Saffarid
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+912.1.1 = {
+	monarch = {
+		name = "Amru ibn Ya'qub"
+		dynasty = Saffarid
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+922.1.1 = {
+	monarch = {
+		name = "Ahmed ibn Muhammad"
+		dynasty = Saffarid
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+963.1.1 = {
+	monarch = {
+		name = "Khalaf ibn Ahmed"
+		dynasty = Saffarid
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}

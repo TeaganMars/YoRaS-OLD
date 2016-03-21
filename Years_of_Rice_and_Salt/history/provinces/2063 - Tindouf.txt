@@ -1,0 +1,47 @@
+#2063 - Tindouf
+
+culture = tuareg
+religion = african
+capital = "Tindouf"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 30
+native_ferocity = 4.5
+native_hostileness = 9
+discovered_by = muslim
+discovered_by = middle_eastern
+discovered_by = ottoman
+
+1054.1.1 = { 	owner = AMR 
+		controller = AMR 
+		add_core = AMR 
+		is_city = yes 
+		trade_goods = grain 
+	   }
+1121.1.1 = { 	owner = XXX 
+		controller = XXX 
+		remove_core = AMR 
+		citysize = 0 
+		trade_goods = unknown
+		native_size = 30
+		native_ferocity = 4.5
+		native_hostileness = 9
+	   }
+1200.1.1   = { religion = sunni }
+
+1850.1.1   = { discovered_by = FRA }
+1901.1.1   = { 	owner = FR2 
+		controller = FR2 
+		add_core = FR2 
+		add_core = AGR 
+		is_city = yes
+		trade_goods = grain
+	     }
+1940.6.14  = { owner = FRV controller = FRV add_core = FRV } # Vichy France
+1942.11.16 = { owner = FR2 controller = FR2 remove_core = FRV } # Under Free French control after Operation Torch
+1962.7.3   = { owner = AGR controller = AGR remove_core = FR2 }
+
+

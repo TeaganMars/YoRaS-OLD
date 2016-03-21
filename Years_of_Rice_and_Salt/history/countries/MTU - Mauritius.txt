@@ -1,0 +1,100 @@
+government = parliamentary_republic
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -5
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = 0
+technology_group = western
+religion = protestant
+primary_culture = english
+capital = 1102
+
+1910.1.1 = { religion = secularism }
+
+1968.3.12 = {
+	monarch = {
+		name = "Seewoosagur Ramgoolam"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1982.6.30 = {
+	monarch = {
+		name = "Anerood Jugnauth"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1992.3.12 = {
+	government = constitutional_republic
+	monarch = {
+		name = "Veerasamy Ringadoo"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1992.6.30 = {
+	monarch = {
+		name = "Cassam Uteem"
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+}
+
+2002.2.25 = {
+	monarch = {
+		name = "Karl Offmann"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2003.10.7 = {
+	monarch = {
+		name = "Anerood Jugnauth"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+2012.3.31 = {
+	monarch = {
+		name = "Monique Ohsan Bellepau"
+		adm = 3
+		dip = 2
+		mil = 3
+		female = yes
+	}
+}
+
+2012.7.21 = {
+	monarch = {
+		name = "Kailash Purryag"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+2015.6.5 = {
+	monarch = {
+		name = "Ameenah Gurib"
+		adm = 5
+		dip = 4
+		mil = 1
+		female = yes
+	}
+}

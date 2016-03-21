@@ -1,0 +1,48 @@
+#2708 - Pate
+
+culture = swahili
+religion = african
+capital = "Siyu"
+base_manpower = 2
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+native_size = 40
+native_ferocity = 4.5
+native_hostileness = 9
+
+900.1.1 = { 
+		discovered_by = ETH
+		discovered_by = ADA
+		discovered_by = NUB
+		discovered_by = ZAN
+		discovered_by = AJU
+		discovered_by = MBA
+		discovered_by = MDI
+		discovered_by = MLI
+		discovered_by = SFA
+		discovered_by = ZIM
+		discovered_by = indian
+		discovered_by = muslim
+		discovered_by = ottoman
+		owner = ZAN
+		controller = ZAN
+		add_core = ZAN
+		add_core = PTE
+		is_city = yes 
+		trade_goods = cloth
+	  }
+1000.1.1 = { citysize = 2500 religion = sunni }
+1204.1.1 = { owner = PTE controller = PTE add_core = PTE remove_core = ZAN }
+
+1498.4.16 = { discovered_by = POR } # Vasco Da Gama
+1600.1.1  = { discovered_by = TUR }
+
+1870.1.1   = { owner = ZZB controller = ZZB add_core = ZZB remove_core = PTE }
+1895.7.1   = { owner = GBR controller = GBR add_core = GBR remove_core = ZZB }
+1920.1.1   = { base_tax = 1 base_production = 1 base_manpower = 1 }
+1963.12.12 = { owner = KEY controller = KEY add_core = KEY remove_core = GBR remove_core = MLI }
+
+
+

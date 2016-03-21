@@ -1,0 +1,9 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = malvi
+religion = hinduism
+technology_group = early_indian
+capital = 526	# Mandu
+
+
+750.1.1 = { technology_group = indian }

@@ -1,0 +1,32 @@
+#2643 - Tehuantepec
+
+owner = ZAP
+controller = ZAP
+culture = zapotek
+religion = nahuatl
+capital = "Tehuantepec"
+trade_goods = cocoa
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_core = ZAP
+discovered_by = mesoamerican
+
+1524.1.1   = {	discovered_by = SPA 
+		owner = SPA 
+		controller = SPA }
+1529.1.1   = {	culture = castillian
+		religion = catholic
+	     } # First settlers
+1549.1.1   = { add_core = SPA }
+1810.9.16  = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+
+1821.9.27  = { controller = MEX remove_core = SPA }
+1825.1.1 = { base_manpower = 2 }
+1848.1.1   = { capital = "Tuxtla Gutiérrez" }
+2000.1.1 = { base_tax = 3 base_production = 3 }
+
+
+

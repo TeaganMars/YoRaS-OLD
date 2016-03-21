@@ -1,0 +1,27 @@
+government = tribal_despotism
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 1
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -2
+mercantilism = 0.1
+#offensive_defensive = -3
+#land_naval = -3
+#quality_quantity = 0
+#serfdom_freesubjects = -3
+technology_group = eastern
+primary_culture = old_prussian
+religion = romuva
+capital = 39
+
+990.1.1 = {
+	monarch = {
+		name = "Lammechinus"
+		dynasty = "Curonian"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+1252.1.1 = { religion = catholic }
+1252.1.1 = { government = feudal_monarchy }

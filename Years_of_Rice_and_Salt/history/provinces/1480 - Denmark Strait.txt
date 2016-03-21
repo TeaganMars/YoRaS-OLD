@@ -1,0 +1,6 @@
+#1480 - Denmark Strait
+
+870.1.1 = { discovered_by = NOR }
+
+
+

@@ -1,0 +1,37 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = middle_eastern
+religion = nabataean
+primary_culture = bedouin_arabic
+capital = 2528	# Petra
+
+2.1.1 = {
+	monarch = {
+		name = "Aretas IV"
+		dynasty = "Nabataean"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+40.1.1 = {
+	monarch = {
+		name = "Malichus II"
+		dynasty = "Nabataean"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}
+
+71.1.1 = {
+	monarch = {
+		name = "Rabbel II Soter"
+		dynasty = "Nabataean"
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+

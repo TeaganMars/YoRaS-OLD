@@ -1,0 +1,18 @@
+government = tribal_despotism
+government_rank = 1
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -2
+#quality_quantity = 3
+#serfdom_freesubjects = -3
+primary_culture = avadhi
+religion = mahayana
+technology_group = early_indian
+capital = 555
+
+
+750.1.1 = { technology_group = indian }

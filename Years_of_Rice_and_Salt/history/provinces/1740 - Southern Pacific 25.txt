@@ -1,0 +1,6 @@
+#1740 - Marquises Islands
+
+1643.1.1 = { discovered_by = NED }
+
+
+

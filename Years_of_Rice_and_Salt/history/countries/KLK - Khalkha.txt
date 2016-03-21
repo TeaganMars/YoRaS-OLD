@@ -1,0 +1,19 @@
+government = steppe_horde
+mercantilism = 0.1
+technology_group = eastern_nomad_group
+religion = vajrayana
+primary_culture = khalkha
+capital = 2893	# In Huree
+
+750.1.1 = { technology_group = nomad_group }
+
+1634.1.1 = {
+	monarch = {
+		name = "Tushiyetu"
+		dynasty = "Chakhundorji"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+

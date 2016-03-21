@@ -1,0 +1,89 @@
+government = tribal_despotism
+mercantilism = 0.1
+primary_culture = polynesian
+religion = animism
+technology_group = north_american
+capital = 1240
+
+1775.5.1 = {
+	monarch = {
+		name = "Kamehameha I"
+		dynasty = "Kamehameha"
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1819.5.20 = {
+	monarch = {
+		name = "Kamehameha II"
+		dynasty = "Kamehameha"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1825.6.6 = {
+	monarch = {
+		name = "Kamehameha III"
+		dynasty = "Kamehameha"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1855.1.11 = {
+	monarch = {
+		name = "Kamehameha IV"
+		dynasty = "Kamehameha"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1862.1.1 = { religion = protestant }
+
+1863.11.30 = {
+	monarch = {
+		name = "Kamehameha V"
+		dynasty = "Kamehameha"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1872.12.11 = {
+	monarch = {
+		name = "Lunalilo"
+		dynasty = "Keoua Nui"
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+}
+
+1874.2.12 = {
+	monarch = {
+		name = "Kalakaua"
+		dynasty = "Kalakaua"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1891.1.29 = {
+	monarch = {
+		name = "Liliuokalani"
+		dynasty = "Kalakaua"
+		adm = 4
+		dip = 3
+		mil = 1
+		female = yes
+	}
+}

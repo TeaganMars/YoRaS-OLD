@@ -1,0 +1,33 @@
+government = barbarian_tribe
+mercantilism = 0.1
+primary_culture = pommeranian
+religion = germanic
+technology_group = barbarian
+capital = 3121
+
+395.1.1 = { primary_culture = bavarian capital = 266 }
+454.1.1 = { religion = arianism }
+
+454.1.1 = {
+	monarch = {
+		name = "Flaccitheus"
+		dynasty = "Rugii"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+467.1.1 = { government = feudal_monarchy primary_culture = austrian capital = 134 }
+
+475.1.1 = {
+	monarch = {
+		name = "Feletheus"
+		dynasty = "Rugii"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+550.1.1 = { technology_group = western }

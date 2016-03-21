@@ -1,0 +1,21 @@
+#3148 - Jan Mayen
+
+owner = JMN
+controller = JMN
+add_core = JMN
+is_city = yes
+capital = "Jan Mayen"
+trade_goods = unknown
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+962.2.2 = { 	
+	hre = no 
+	owner = XXX
+	controller = XXX
+	remove_core = JMN
+	is_city = no
+}

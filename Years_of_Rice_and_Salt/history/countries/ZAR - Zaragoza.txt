@@ -1,0 +1,118 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = 4
+#centralization_decentralization = -3
+#innovative_narrowminded = -2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 5
+#land_naval = -3
+#quality_quantity = 2
+#serfdom_freesubjects = -2
+primary_culture = andalucian
+religion = sunni
+add_accepted_culture = berber
+technology_group = muslim
+capital = 214	# Zaragoza
+
+
+1013.1.1 = {
+	monarch = {
+		name = "Mundir I al-Mansur"
+		dynasty = "al-Tuybi"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1022.1.1 = {
+	monarch = {
+		name = "Yahya"
+		dynasty = "al-Tuybi"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1036.6.1 = {
+	monarch = {
+		name = "Mundir II"
+		dynasty = "al-Tuybi"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+
+
+1039.1.1 = {
+	monarch = {
+		name = "Suleiman Al-Mustain I"
+		dynasty = "ibn Hud"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1047.1.1 = {
+	monarch = {
+		name = "Muhammad al-Hayib Adud ad-Dawla"
+		dynasty = "ibn Hud"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1067.1.1 = {
+	monarch = {
+		name = "Abu Ya'far Ahman al-Muqtadir"
+		dynasty = "ibn Hud"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1081.6.1 = {
+	monarch = {
+		name = "Yusuf al-Mu'tamin"
+		dynasty = "ibn Hud"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1085.6.1 = {
+	monarch = {
+		name = "Ahmad II al-Musta'in"
+		dynasty = "ibn Hud"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1110.6.1 = {
+	monarch = {
+		name = "'Abd al-Malik Imad ad-Dawla"
+		dynasty = "ibn Hud"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1130.6.1 = {
+	monarch = {
+		name = "Abu Dja'far Ahmad Zafadola"
+		dynasty = "ibn Hud"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}

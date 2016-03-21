@@ -1,0 +1,144 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = khmer
+religion = buddhism
+technology_group = early_chinese
+capital = 2391	# Phnom Penh
+
+750.1.1 = { technology_group = chinese }
+
+1900.1.1 = { government = constitutional_monarchy }
+1950.1.1 = { technology_group = asian }
+
+1953.11.9 = {
+	monarch = {
+		name = "Norodom Sihanouk"
+		dynasty = "Norodom"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1955.3.3 = {
+	monarch = {
+		name = "Norodom Suramarit"
+		dynasty = "Norodom"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1960.4.3 = {
+	monarch = {
+		name = "Norodom Sihanouk"
+		dynasty = "Norodom"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1970.3.21 = {
+	government = constitutional_republic
+	monarch = {
+		name = "Cheng Heng"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+1972.3.10 = {
+	monarch = {
+		name = "Lon Nol"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1975.4.1 = {
+	monarch = {
+		name = "Saukam Khoy"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1975.4.12 = {
+	monarch = {
+		name = "Sak Sutsakhan"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1975.4.17 = {
+	monarch = {
+		name = "Norodom Sihanouk"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1976.4.11 = {
+	monarch = {
+		name = "Khieu Samphan"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1979.1.7 = {
+	government = socialist_republic
+	monarch = {
+		name = "Heng Samrin"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1992.4.6 = {
+	monarch = {
+		name = "Chea Sim"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1993.7.14 = {
+	government = constitutional_monarchy
+	monarch = {
+		name = "Norodom Sihanouk"
+		dynasty = "Norodom"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+2004.10.14 = {
+	monarch = {
+		name = "Norodom Sihamoni"
+		dynasty = "Norodom"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}

@@ -1,0 +1,20 @@
+alliance = {
+	first = SAS
+	second = LAK
+	start_date = 330.1.1
+	end_date = 602.1.1
+}
+
+alliance = {
+	first = ROW
+	second = BYZ
+	start_date = 395.1.17
+	end_date = 476.9.4
+}
+
+alliance = {
+	first = BYZ
+	second = GHS
+	start_date = 510.1.1
+	end_date = 630.10.1
+}

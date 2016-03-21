@@ -1,0 +1,49 @@
+#3002 - Androscoggin
+
+culture = abenaki
+religion = totemism
+capital = "Kennebec"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 15
+native_ferocity = 3
+native_hostileness = 8
+discovered_by = north_american
+
+1604.1.1  = { discovered_by = FRA } # Samuel de Champlain
+1605.1.1  = { discovered_by = ENG } # George Waymouth
+1632.1.1  = {	owner = ENG
+		controller = ENG
+		citysize = 150	
+		culture = english
+		religion = protestant
+	    } # Founding of Casco
+1650.1.1  = { citysize = 300 trade_goods = naval_supplies }
+1657.1.1  = { add_core = ENG }
+1700.1.1  = { citysize = 650 }
+1707.5.12 = {	discovered_by = GBR
+		owner = GBR
+		controller = GBR
+		add_core = GBR
+		remove_core = ENG
+	    } 
+1750.1.1  = { is_city = yes }
+1764.7.1  = {	culture = american
+		unrest = 6
+	    } # Growing unrest
+1776.7.4  = {	owner = USA
+		controller = USA
+		add_core = USA
+	    } # Declaration of independence
+1782.11.1 = {	remove_core = GBR 
+		unrest = 0
+	    } # Preliminary articles of peace, the British recognized Amercian independence
+1785.1.1 = { base_production = 2 }
+1797.2.20 = { capital = "Augusta" }
+
+1845.1.1 = { base_tax = 2 }
+1905.1.1 = { base_tax = 3 }
+2000.1.1 = { base_production = 3 base_manpower = 2 }

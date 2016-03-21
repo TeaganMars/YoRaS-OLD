@@ -1,0 +1,31 @@
+#2118 - Nenets
+
+culture = samoyed
+religion = suomenusko
+capital = "Nenets"
+native_size = 10
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_ferocity = 4.5
+native_hostileness = 8 
+
+1400.1.1   = { discovered_by = NOV }
+1499.1.1   = {  discovered_by = MOS
+		discovered_by = RUS
+		owner = MOS
+		controller = MOS
+		add_core = MOS
+		citysize = 100
+		capital = "Pustozyorsk"
+	     }
+1503.4.1   = {	owner = RUS controller = RUS add_core = RUS remove_core = MOS }
+1550.1.1   = { trade_goods = fur citysize = 500 }
+1600.1.1   = { religion = orthodox culture = russian is_city = yes }
+1922.12.30 = { owner = SOV controller = SOV add_core = SOV }
+1930.1.1   = { capital = "Naryan-Mar" }
+1991.12.25 = { owner = RUS controller = RUS remove_core = SOV }
+
+

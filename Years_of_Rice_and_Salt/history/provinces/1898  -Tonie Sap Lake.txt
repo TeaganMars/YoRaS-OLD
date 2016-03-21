@@ -1,0 +1,9 @@
+#1898 - Tonie Sap Lake
+
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = early_indian
+discovered_by = indian
+
+
+

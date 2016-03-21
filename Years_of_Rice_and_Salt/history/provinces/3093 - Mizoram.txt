@@ -1,0 +1,67 @@
+#3093 - Mizoram
+
+owner = MLB
+controller = MLB
+culture = chin
+religion = animism
+capital = "Aizawl"
+trade_goods = tropical_wood
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = MLB
+discovered_by = early_indian
+discovered_by = indian
+discovered_by = early_chinese
+discovered_by = chinese
+
+800.1.1 = { discovered_by = nomad_group }
+950.1.1 = { owner = PAG controller = PAG add_core = PAG remove_core = MLB }
+1297.12.17 = { owner = MYI controller = MYI add_core = MYI add_core = SAG remove_core = PAG }
+1315.6.16 = { owner = SAG controller = SAG remove_core = MYI }
+1364.4.1 = { owner = AVA controller = AVA add_core = AVA remove_core = SAG }
+
+1527.1.1 = {
+	owner = SST
+	controller = SST
+	add_core = SST
+	remove_core = AVA
+}
+1554.1.1 = { add_core = TAU }
+1563.4.1 = {	
+	owner = TAU
+	controller = TAU
+	remove_core = SST
+}
+1758.1.1 = {
+	owner = TAU
+	controller = TAU
+	add_core = TAU
+}
+1760.1.1 = { discovered_by = GBR }
+1769.1.1 = { revolt_risk = 6 }
+1773.1.1 = { revolt_risk = 0 }
+1782.1.1 = {
+	owner = MLB
+	controller = MLB
+	add_core = MLB
+	remove_core = TAU
+}
+1785.1.1 = { base_manpower = 2 }
+1819.1.1 = {
+	owner = TAU
+	controller = TAU
+	add_core = TAU
+}
+
+1825.6.26  = { owner = MLB controller = MLB add_core = MLB remove_core = TAU }
+1845.1.1 = { base_production = 2 }
+1850.1.1   = { owner = GBR controller = GBR add_core = GBR }
+1905.1.1 = { base_tax = 2 }
+1920.1.1   = { religion = protestant }
+1930.1.1   = { add_core = IND remove_core = MLB }
+1947.8.15  = { owner = IND controller = IND remove_core = GBR }
+2000.1.1 = { base_tax = 3 base_production = 3 }
+
