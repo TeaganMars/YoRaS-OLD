@@ -41,56 +41,8 @@ discovered_by = ottoman
 961.1.1  = { owner = PRO controller = PRO remove_core = BUR }
 1000.1.1 = { owner = NIC controller = NIC add_core = NIC remove_core = BUR }
 1100.1.1 = { base_tax = 4 base_production = 4 }
-1388.1.1 = { owner = SAV controller = SAV add_core = SAV hre = yes }
 
-1706.1.1 = { controller = FRA } # Louis XIV occupied the city
-1713.4.12 = {
-	owner = SIC
-	controller = SIC
-	add_core = SIC
-} # Treaty of Utrecht(2) gave Sicily to House of Savoy 
-1720.1.1 = {
-	owner = SPI
-	controller = SPI
-	add_core = SPI
-	remove_core = SIC
-} # Kingdom of Piedmont-Sardinia
-1751.1.1 = { base_production = 5 }
-1775.1.1 = { base_tax = 5 base_manpower = 3 }
-1792.4.20 = { controller = FRA } # Conquered by the French
-1797.10.17 = { owner = FRA add_core = FRA } # Treaty of Campo Formio
-1801.1.1 = { base_tax = 6 base_production = 6 }
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
-1814.4.11 = {
-	owner = SPI
-	controller = SPI
-	remove_core = FRA
-} # Treaty of Fontainebleau, Napoleon abdicates unconditionally
-
-1825.1.1 = { base_manpower = 5 }
-1850.1.1 = { base_tax = 7 base_manpower = 6 }
-1860.3.24  = {	owner = FRA
-		controller = FRA
-		add_core = FRA
-		remove_core = SPI
-		remove_core = NIC
-		remove_core = SAV
-	     } # Treaty of Turin
-1870.9.4   = {  owner = FR2
-		controller = FR2
-		add_core = FR2
-		remove_core = FRA
-	     } # Republic proclaimed
-1875.1.1 = { base_production = 7 base_manpower = 7 }
-1900.1.1 = { base_tax = 8 base_production = 8 }
-1925.1.1 = { base_tax = 9 base_manpower = 8 }
-1940.6.10 = { controller = ITA }
-1940.6.14 = { owner = ITA add_core = FRV }
-1943.9.8  = { owner = FRV controller = FRV }
-1944.8.25 = { owner = FR2 controller = FR2 remove_core = FRV } # France liberated by allied forces
-1950.1.1 = { base_tax = 10 base_production = 9 }
-1975.1.1 = { base_production = 10 base_manpower = 9 }
-2000.1.1 = { base_tax = 12 base_production = 11 base_manpower = 10 }
-
-
-
+#Black Death
+1347.10.1 = {	owner = XXX
+ 		controller = XXX
+ 		citysize = 0 }
