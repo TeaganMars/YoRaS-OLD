@@ -43,56 +43,7 @@ discovered_by = ottoman
 1200.1.1 = { base_manpower = 5 }
 1300.1.1 = { base_tax = 6 base_production = 6 }
 
-1409.7.25 = {
-	owner = ARA
-	controller = ARA
-	add_core = ARA
-} # Martin I inherits Sicily from his son
-1516.1.23 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = ARA
-} # Unification of Spain
-1583.1.1 = { fort_15th = no fort_16th = yes }
-1648.1.1 = { fort_16th = no fort_17th = yes } 
-1706.7.1 = { controller = SAV }
-1713.4.11 = { owner = NAP controller = NAP remove_core = SPA }
-1715.1.1 = { fort_17th = no fort_18th = yes }
-1718.8.2 = {
-	owner = HAB
-	controller = HAB
-	add_core = HAB
-}
-1734.6.2 = {
-	owner = NAP
-	controller = NAP
-	remove_core = HAB
-}
-1750.1.1 = { base_production = 7 }
-1775.1.1 = { base_production = 8 }
-1800.1.1 = { base_production = 9 }
-1806.3.11 = {
-	owner = SIC
-	controller = SIC
-} # Ferdinand flees to Sicily
-1815.5.3 = {
-	owner = NAP
-	controller = NAP
-} # The Kingdom is restored to Ferdinand
-
-1825.1.1 = { base_tax = 7 base_production = 10 }
-1851.1.1 = { base_manpower = 6 }
-1861.2.12 = { owner = SPI controller = SPI add_core = SPI remove_core = NAP }
-1861.3.17 = { owner = ITA controller = ITA add_core = ITA remove_core = SPI remove_core = SIC }
-1875.1.1 = { base_tax = 8 }
-1901.1.1 = { base_production = 11 }
-1925.1.1 = { base_manpower = 8 }
-1943.8.16 = { controller = GBR }
-1943.9.8  = { controller = ITA }
-1951.1.1 = { base_manpower = 9 }
-1975.1.1 = { base_tax = 9 }
-2000.1.1 = { base_tax = 12 }
-
-
-
+#Black Death
+1347.10.1 = {	owner = XXX
+ 		controller = XXX
+ 		citysize = 0 }
