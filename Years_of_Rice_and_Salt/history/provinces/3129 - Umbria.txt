@@ -34,25 +34,8 @@ discovered_by = ottoman
 754.6.1 = { owner = PAP controller = PAP add_core = PAP remove_core = BYZ }
 867.1.1 = { religion = catholic }
 
-1408.1.1 = { owner = NAP controller = NAP add_core = NAP } # Ladislas takes control of Ancona
-1414.8.6 = { owner = PAP controller = PAP remove_core = NAP }
-1750.1.1 = { add_core = ITA } 
-1775.1.1 = { base_manpower = 2 }
-1809.4.10 = { controller = FRA } # Occupied by French troops
-1809.10.14 = { owner = FRA add_core = FRA } # Treaty of Schönbrunn
-1814.4.11 = {
-	owner = PAP
-	controller = PAP
-	remove_core = FRA
-} # Treaty of Fontainebleau, Napoleon abdicates unconditionally
+#Black Death
+1348.4.1 = {	owner = XXX
+ 		controller = XXX
+   		citysize = 0 }
 
-1825.1.1 = { base_tax = 7 }
-1861.3.17 = { add_core = ITA }
-1870.9.20 = { controller = ITA }
-1870.10.2 = { owner = ITA }
-
-
-
-1875.1.1 = { base_production = 7 }
-1925.1.1 = { base_manpower = 3 }
-2000.1.1 = { base_manpower = 5 }
