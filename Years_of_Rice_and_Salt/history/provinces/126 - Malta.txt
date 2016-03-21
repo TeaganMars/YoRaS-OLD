@@ -37,39 +37,10 @@ discovered_by = ottoman
 1122.1.1 = { revolt = { type = nationalist_rebels size = 1 } controller = REB }
 1127.1.1 = { revolt = {} controller = SIC religion = catholic }
 
-1409.7.25 = {
-	owner = ARA
-	controller = ARA
-	add_core = ARA
-} # Martin I inherits Sicily from his son
-1516.1.23 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = ARA
-} # Unification of Spain
-1530.1.1 = {
-	owner = KNI
-	controller = KNI
-	add_core = KNI
-	capital = "Birgu"
-	remove_core = SPA
-	fort_16th = yes
-} # Malta given to the Knights
-1566.3.28 = { capital = "Valletta" }
-1775.1.1 = { unrest = 4 } # Revolt headed by priest Gaetano Mannarino failed.
-1776.1.1 = { unrest = 0 }
-1798.6.9 = { controller = FRA } # Occupied by French troops
-1800.1.1 = { controller = KNI } # British protectorate
-1814.5.30 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-} # Treaty of Paris
-
-1921.1.1  = { add_core = MLT remove_core = KNI }
-1964.9.21 = { owner = MLT controller = MLT remove_core = GBR }
-2000.1.1 = { base_tax = 4 base_production = 4 }
+#Black Death
+1347.10.1 = {	owner = XXX
+ 		controller = XXX
+ 		citysize = 0 }
 
 
 
