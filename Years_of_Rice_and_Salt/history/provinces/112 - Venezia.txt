@@ -49,23 +49,7 @@ discovered_by = ottoman
 1200.1.1 = { base_tax = 9 base_production = 11 }
 1300.1.1 = { base_tax = 10 base_production = 12 }
 
-1797.10.17 = {
-	owner = HAB
-	controller = HAB
-	add_core = HAB
-} # Treaty of Campo Formio
-1805.12.26 = {	owner = ITA
-	controller = ITA
-	add_core = ITA
-	remove_core = HAB
-} # Treaty of Pressburg
-1806.7.12  = { hre = no } # The Holy Roman Empire is dissolved
-1814.4.11  = {	owner = HAB
-	controller = HAB
-	add_core = HAB
-	remove_core = ITA
-} # Treaty of Fontainebleau, Napoleon abdicates unconditionally
-
-1861.3.17  = { add_core = ITA }
-1866.10.3  = { owner = ITA controller = ITA remove_core = HAB remove_core = VEN }
-
+#Black Death
+1348.1.1 = {	owner = XXX
+ 		controller = XXX
+ 		citysize = 0 }
