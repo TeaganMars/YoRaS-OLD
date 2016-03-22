@@ -1,4 +1,4 @@
-#220 - ValÃ¨ncia
+#220 - ValÃƒÂ¨ncia
 
 owner = ROM
 controller = ROM
@@ -36,8 +36,8 @@ discovered_by = ottoman
 800.1.1 = { fort_15th = yes }
 850.1.1 = { culture = andalucian }
 900.1.1 = { base_tax = 4 base_production = 4 }
-1000.1.1 = { base_manpower = 3 } # València was the center of peninsular trade with the Mediterranean, surpassing Barcelona
-1010.1.1 = { owner = VAL controller = VAL add_core = VAL remove_core = UMA capital = "València" }
+1000.1.1 = { base_manpower = 3 } # ValÃ¨ncia was the center of peninsular trade with the Mediterranean, surpassing Barcelona
+1010.1.1 = { owner = VAL controller = VAL add_core = VAL remove_core = UMA capital = "ValÃ¨ncia" }
 1065.1.1 = { owner = AMR controller = AMR add_core = AMR }
 1077.1.1 = { owner = VAL controller = VAL remove_core = AMR }
 1094.6.15 = { add_core = AMR }
@@ -49,35 +49,8 @@ discovered_by = ottoman
 1238.9.28 = { owner = ARA controller = ARA add_core = ARA remove_core = VAL remove_core = AMH culture = catalan }
 1280.1.1 = { religion = catholic }
 
-1516.1.23 = {
-	controller = SPA
-	owner = SPA
-	add_core = SPA
-} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
-1519.7.1 = { unrest = 2 } # Revolt of the Germanies, which is at first moderate and appeased by the King
-1521.5.1 = { unrest = 0 revolt = { type = revolutionary_rebels size = 2 } controller = REB } # The revolt radicalizes and the Agermanats organize an army 
-1521.9.11 = { revolt = {} controller = SPA } # The Agermanats are soundly defeated in Oriola, València capitulates alongside most revolted towns.
-1609.9.22 = { unrest = 2 } # Decree for the expulsion of the morisques in Valencia. Morisque mutiny in the Alicante harbour.
-1609.11.1 = { unrest = 0 } # The morisque mutiny is finally controlled. (economic consequences should be added)
-1705.12.16 = { controller = HAB } # València joins the Austrian side in the War of the Spanish Succession
-1707.5.8 = { controller = SPA } # València falls to the Borbonic troops
-1713.7.13 = { remove_core = ARA }
-1750.1.1 = { base_manpower = 4 }
-1775.1.1 = { base_tax = 7 base_production = 6 }
-1800.1.1 = { base_tax = 8 base_manpower = 5 }
-1808.6.6 = { revolt = { type = pretender_rebels size = 2 } controller = REB }
-1812.1.1 = { revolt = {} controller = SPA }
-1813.3.19 = { revolt = { type = pretender_rebels size = 2 } controller = REB }
-1813.12.11 = { revolt = {} controller = SPA }
-
-1825.1.1 = { base_production = 8 }
-1851.1.1 = { base_production = 10 }
-1875.1.1 = { base_tax = 9 base_manpower = 6 }
-1901.1.1 = { base_tax = 10 base_manpower = 7 }
-1925.1.1 = { base_tax = 11 base_production = 11 }
-1951.1.1 = { base_tax = 12 base_manpower = 8 }
-1975.1.1 = { base_production = 12 base_manpower = 9 }
-2000.1.1 = { base_tax = 14 base_production = 13 base_manpower = 10 }
-
-
+#Black Death
+1348.5.1 = {	owner = XXX
+ 		controller = XXX
+ 		citysize = 0 }
 
