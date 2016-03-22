@@ -33,32 +33,9 @@ discovered_by = ottoman
 962.2.2 = { hre = yes }
 1000.1.1 = { base_tax = 3 base_production = 3 }
 
-1537.1.1 = { fort_16th = yes } #Landesfestung Ingolstadt
-1546.1.1 = { trade_goods = grain } #Beer
-1654.1.1 = { fort_16th = no fort_17th = yes } #Modernized
-1704.8.13 = {
-	owner = HAB
-	controller = HAB
-} # Bavaria is conquered by the Emperor, is however later restored for the balance of power
-1714.9.7 = { owner = BAV controller = BAV }
-1750.1.1 = { base_tax = 4 }
-1775.1.1 = { base_tax = 5 }
-1800.1.1 = { base_tax = 6 }
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+#Black Death
+1348.6.1 = {	owner = XXX
+ 		controller = XXX
+   		citysize = 0 }
 
-1825.1.1 = { base_production = 4 }
-1851.1.1 = { base_production = 5 }
-1871.1.18  = { owner = GER controller = GER add_core = GER } # German unification
-1875.1.1 = { base_production = 6 }
-1900.1.1   = { citysize = 35000 remove_core = BAV }
-1901.1.1 = { base_production = 7 }
-1925.1.1 = { base_manpower = 2 }
-1945.5.3   = { controller = GBR }
-1945.5.8   = { owner = WGE controller = WGE add_core = WGE }
-1951.1.1 = { base_manpower = 3 }
-1975.1.1 = { base_tax = 7 }
-1990.10.3  = { owner = GER controller = GER remove_core = WGE }
-2000.1.1 = { base_manpower = 5 }
-
-
-
+#1546.1.1 = { trade_goods = grain } #Beer
