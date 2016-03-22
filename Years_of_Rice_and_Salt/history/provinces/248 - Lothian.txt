@@ -43,32 +43,10 @@ discovered_by = roman_group
 1314.1.1 = { controller = SCO }
 1334.1.1 = { controller = ENG }
 1341.1.1 = { controller = SCO }
-1350.1.1 = { base_tax = 7 base_production = 7 }
 
-1482.8.1 = { controller = ENG }
-1483.3.1 = { controller = SCO }
-1547.10.1 = { controller = ENG } # Rough Wooing
-1550.1.1 = { controller = SCO } # Scots Evict English with French Aid
-1560.8.1 = { religion = reformed reformation_center = reformed }
-1650.12.24 = { controller = ENG } # Cromwell Captures Edinburgh Castle
-1652.4.21 = { controller = SCO } # Union of Scotland and the Commonwealth
-1707.5.12 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-}
-
-1750.1.1 = { base_production = 8 }
-1775.1.1 = { base_tax = 8 }
-1800.1.1 = { base_production = 9 base_manpower = 4 }
-1825.1.1 = { base_production = 10 }
-1851.1.1 = { base_tax = 9 base_production = 11 }
-1875.1.1 = { base_production = 12 }
-1901.1.1 = { base_manpower = 5 }
-1925.1.1 = { base_manpower = 7 }
-1951.1.1 = { base_manpower = 8 }
-1975.1.1 = { base_tax = 10 base_manpower = 9 }
-2000.1.1 = { base_tax = 13 }
-
+#Black Death
+1350.3.1 = {	owner = XXX
+ 		controller = XXX
+   		citysize = 0 }
 
 
