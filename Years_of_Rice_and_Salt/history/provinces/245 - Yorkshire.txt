@@ -38,42 +38,10 @@ discovered_by = roman_group
 1066.12.25 = { culture = english }
 1150.1.1 = { base_tax = 5 base_production = 5 }
 1250.1.1 = { base_tax = 6 base_production = 6 }
-1350.1.1 = { base_production = 7 }
 
-1453.1.1   = { unrest = 5 } # Start of the War of the Roses
-1459.9.23  = { unrest = 0 revolt = { type = pretender_rebels size = 3 leader = "Edward of York" } controller = REB } # The Battle of Blore Heath
-1459.10.12 = { revolt = {} unrest = 5 } # The Lancastrians are back in control after the battle of Ludford Bridge
-1461.4.1   = { unrest = 0 revolt = { type = pretender_rebels size = 3 leader = "Edward of York" } controller = REB } # Capture of York after Battle of Towton
-1461.6.28  = { revolt = {} unrest = 2 controller = ENG } # Coronation of Edward IV
-1467.1.1   = { unrest = 5 } # Rivalry between Edward IV & Warwick
-1470.3.1   = { unrest = 0 revolt = { type = revolutionary_rebels size = 2 leader = "Richard Neville" } controller = REB }
-1470.10.6  = { revolt = {} controller = ENG } # Readeption of Henry VI
-1471.1.1   = { unrest = 8 } # Unpopularity of Warwick & War with Burgundy
-1471.3.1   = { unrest = 0 revolt = { type = revolutionary_rebels size = 2 leader = "Edward of York" } controller = REB }
-1471.5.4   = { revolt = {} unrest = 2 controller = ENG } # Murder of Henry VI & Restoration of Edward IV
-1483.6.26  = { unrest = 8 } # Revulsion at Supposed Murder of the Princes in the Tower
-1485.8.23  = { unrest = 0 } # Battle of Bosworth Field & the End of the War of the Roses
-1600.1.1   = { religion = protestant } # Constable Estimated
-1644.7.2   = { revolt = { type = revolutionary_rebels size = 2 } controller = REB } # Battle of Marston Moor
-1646.5.5   = { revolt = {} controller = ENG } # End of First English Civil War
-1707.5.12  = {	owner = GBR
-		controller = GBR
-		add_core = GBR
-	    	remove_core = ENG
-	     }
-1750.1.1   = { capital = "Leeds" } # Tax Assessor Estimated
-1751.1.1 = { base_tax = 9 base_production = 8 }
-1775.1.1 = { base_tax = 12 base_manpower = 4 }
-
-1801.1.1 = { base_tax = 14 base_production = 9 base_manpower = 5 }
-1825.1.1 = { base_tax = 16 base_production = 12 }
-1850.1.1 = { base_tax = 17 base_production = 13 base_manpower = 7 }
-1875.1.1 = { base_tax = 18 base_manpower = 10 }
-1900.1.1 = { base_tax = 19 base_manpower = 13 }
-1925.1.1 = { base_tax = 22 base_production = 15 }
-1950.1.1 = { base_production = 17 base_manpower = 15 }
-1975.1.1 = { base_production = 18 base_manpower = 18 }
-2000.1.1 = { base_tax = 23 base_production = 23 base_manpower = 21 }
-
+#Black Death
+1349.8.1 = {	owner = XXX
+ 		controller = XXX
+   		citysize = 0 }
 
 
