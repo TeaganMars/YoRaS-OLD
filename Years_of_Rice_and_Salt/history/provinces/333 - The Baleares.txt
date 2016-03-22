@@ -41,7 +41,7 @@ discovered_by = ottoman
 1349.10.25 = { owner = ARA controller = ARA }
 
 #Black Death
-1348.1.1 = {	owner = XXX
+1348.4.1 = {	owner = XXX
  		controller = XXX
  		citysize = 0 }
 
