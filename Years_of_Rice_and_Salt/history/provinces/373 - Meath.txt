@@ -33,34 +33,8 @@ discovered_by = roman_group
 1150.1.1 = { base_tax = 4 base_production = 4 }
 1171.1.1 = { owner = ENG controller = ENG add_core = ENG }
 1191.1.1 = {   } # St. Patrick's Cathedral, Dublin
-1350.1.1 = { base_tax = 5 base_production = 5 }
 
-1641.12.3 = { revolt = { type = nationalist_rebels size = 2 } controller = REB }
-1642.4.15 = { revolt = {} controller = ENG }
-1642.6.7 = { add_core = IRE } # Confederation of Kilkenny
-1689.3.12 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # James II Lands in Ireland
-1690.1.1 = { revolt = {} controller = ENG } # Battle of the Boyne
-1707.5.12 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = ENG
-}
-1750.1.1 = { base_tax = 8 }
-1775.1.1 = { base_tax = 11 }
-1798.8.27 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Republic of Connaught
-1798.9.8 = { revolt = {} controller = GBR }
-1800.1.1 = { base_tax = 13 base_production = 6 }
-1803.7.23 = { revolt = { type = nationalist_rebels size = 2 name = "Emmet's Rebellion" } controller = REB } # Emmet's rebellion
-1803.8.25 = { revolt = {} controller = GBR }
-
-1825.1.1 = { base_production = 7 base_manpower = 6 }
-1851.1.1 = { base_tax = 15 base_production = 8 }
-1875.1.1 = { base_tax = 16 base_production = 10 }
-1901.1.1 = { base_tax = 19 base_manpower = 7 }
-1919.1.21  = { owner = IRE controller = IRE }
-1922.12.7  = { remove_core = GBR remove_core = MTH }
-1925.1.1 = { base_production = 13 base_manpower = 8 }
-1951.1.1 = { base_production = 14 base_manpower = 10 }
-1975.1.1 = { base_production = 16 base_manpower = 11 }
-2001.1.1 = { base_production = 18 base_manpower = 16 }
+#Black Death
+1349.7.1 = {	owner = XXX
+ 		controller = XXX
+   		citysize = 0 }
