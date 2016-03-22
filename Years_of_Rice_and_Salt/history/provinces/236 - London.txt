@@ -55,42 +55,7 @@ discovered_by = roman_group
 1200.1.1 = { base_manpower = 6 }
 1300.1.1 = { base_tax = 8 base_production = 8 }
 
-1453.1.1 = { unrest = 5 } # Start of the War of the Roses
-1459.1.1 = { unrest = 7 } # Increasing Popularity of Warwick in London
-1460.1.1 = { unrest = 0 revolt = { type = revolutionary_rebels size = 1 } controller = REB }
-1461.6.1 = { revolt = {} unrest = 2 controller = ENG } # Coronation of Edward IV
-1467.1.1 = { unrest = 5 } # Rivalry between Edward IV & Warwick
-1471.1.1 = { unrest = 8 } # Unpopularity of Warwick & War with Burgundy
-1471.5.4 = { unrest = 2 } # Murder of Henry VI & Restoration of Edward IV
-1483.6.26 = { unrest = 8 } # Revulsion at Supposed Murder of the Princes in the Tower
-1485.8.23 = { unrest = 0 } # Battle of Bosworth Field & the End of the War of the Roses
-1534.11.1 = {
-	religion = protestant
-	reformation_center = protestant
-}
-1580.1.1 = { base_tax = 13 base_production = 13 }
-1583.1.1 = { fort_15th = no fort_16th = yes }
-1642.8.22 = { revolt = { type = revolutionary_rebels size = 2 leader = "Oliver Cromwell" } controller = REB } # Start of First English Civil War
-1646.5.5 = { revolt = {} controller = ENG } # End of First English Civil War
-1648.1.1 = { fort_16th = no fort_17th = yes }
-1650.1.1 = {  base_tax = 15 base_production = 15 }
-1707.5.12 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = ENG
-	base_tax = 16 
-	base_production = 16
-}
-1741.1.1 = { base_tax = 18 base_production = 18 } # Royal Military Academy, Woolwich
-
-1758.1.1 = { base_tax = 24 base_production = 19 base_manpower = 7 }
-1785.1.1 = { base_tax = 26 base_production = 22 base_manpower = 10 }
-1811.1.1 = { base_tax = 30 base_production = 25 base_manpower = 12 }
-1838.1.1 = { base_tax = 36 base_manpower = 14 }
-1865.1.1 = { base_tax = 39 base_production = 29 base_manpower = 16 }
-1891.1.1 = { base_tax = 43 base_production = 31 base_manpower = 18 }
-1918.1.1 = { base_tax = 44 base_production = 34 base_manpower = 23 }
-1945.1.1 = { base_tax = 46 base_production = 39 base_manpower = 24 }
-1971.1.1 = { base_tax = 51 base_production = 41 base_manpower = 26 }
-2000.1.1 = { base_production = 45 base_manpower = 40 }
+#Black Death
+1349.1.1 = {	owner = XXX
+ 		controller = XXX
+   		citysize = 0 }
