@@ -35,6 +35,11 @@ discovered_by = roman_group
 1066.12.25 = { culture = english }
 1150.1.1 = { base_manpower = 2 }
 
+#Black Death
+1349.1.1 = {	owner = XXX
+ 		controller = XXX
+   		citysize = 0 }
+
 1453.1.1   = { unrest = 5 } # Start of the War of the Roses
 1461.3.1   = { unrest = 0 revolt = { type = pretender_rebels size = 1 } controller = REB } # Coventry's Switch to the Yorkists
 1461.6.28  = { revolt = {} unrest = 2 controller = ENG } # Coronation of Edward IV
