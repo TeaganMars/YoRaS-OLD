@@ -49,47 +49,9 @@ discovered_by = ottoman
 1250.1.1 = { base_tax = 7 base_production = 7 }
 1300.1.1 = { fort_15th = yes base_manpower = 5 }
 1327.1.1 = { capital = "Amsterdam" }
-1350.1.1 = { base_tax = 8 base_production = 8 }
 
-1477.1.5 = { owner = NED controller = NED add_core = NED }
-1572.1.1 = { religion = reformed }
-1583.1.1 = { fort_15th = no fort_16th = yes }
-1585.9.1 = { base_production = 10 } # Amsterdam becomes the beacon of the Lowlands
-1590.1.1 = { base_manpower = 7 } # Professionalisation of the Army
-1648.1.1 = { fort_16th = no fort_17th = yes }
-1648.10.24 = { hre = no } # The Peace of Westphalia
-1681.1.1 = { base_tax = 14 base_production = 14 } # Protestants expelled from France
-1715.1.1 = { fort_17th = no fort_18th = yes } 
-1750.1.1 = { base_tax = 18 base_production = 17 base_manpower = 10 }
-1775.1.1 = { base_tax = 20 base_production = 21 base_manpower = 15 }
-1786.1.1 = { unrest = 7 } # Unrest in the Netherlands
-1786.5.1 = { unrest = 0 revolt = { type = nationalist_rebels size = 2 } controller = REB } # 'The Patriots' rout the Dutch army and capture Amsterdam & Rotterdam
-1786.10.13 = { revolt = {} controller = NED } # With the help of 20,000 Prussians, the Dutch government regains control
-1800.1.1 = { base_production = 27 base_manpower = 20 }
-1810.7.10 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-} # Annexed by France
-1813.11.30 = {
-	owner = NED
-	controller = NED
-	remove_core = FRA
-} # William returns to the Netherlands
-
-1825.1.1 = { base_tax = 23 base_production = 32 base_manpower = 23 }
-1851.1.1 = { base_tax = 27 base_production = 38 }
-1875.1.1 = { base_tax = 32 base_production = 42 base_manpower = 25 }
-1900.1.1   = { citysize = 523577 remove_core = HOL }
-1901.1.1 = { base_tax = 34 base_production = 45 base_manpower = 31 }
-1925.1.1 = { base_tax = 41 base_production = 46 base_manpower = 34 }
-1940.5.14  = { controller = GER }
-1940.5.17  = { owner = GER } # Netherlands surrendered to Nazi Germany
-1944.10.29 = { controller = GBR }
-1945.5.5   = { owner = NED controller = NED }
-1950.1.1 = { base_tax = 43 base_production = 51 base_manpower = 37 }
-1975.1.1 = { base_tax = 47 base_production = 53 base_manpower = 42 }
-2000.1.1 = { base_tax = 59 base_production = 59 base_manpower = 48 }
-
-
+#Black Death
+1349.5.1 = {	owner = XXX
+ 		controller = XXX
+   		citysize = 0 }
 
