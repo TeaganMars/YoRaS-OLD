@@ -37,23 +37,10 @@ discovered_by = ottoman
 1000.1.1 = { base_tax = 4 base_production = 4 }
 1200.1.1 = { base_tax = 5 base_production = 5 }
 
-1704.8.13 = {
-	owner = HAB
-	controller = HAB
-} # Bavaria is conquered by the Emperor, is however later restored for the balance of power
-1714.9.7 = { owner = BAV controller = BAV }
-1775.1.1 = { base_tax = 6 }
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
-
-1825.1.1 = { base_manpower = 2 }
-1871.1.18  = { owner = GER controller = GER add_core = GER } # German unification
-1875.1.1 = { base_manpower = 3 }
-1900.1.1   = { citysize = 35000 remove_core = BAV }
-1925.1.1 = { base_manpower = 4 }
-1945.5.3   = { controller = GBR }
-1945.5.8   = { owner = WGE controller = WGE add_core = WGE }
-1990.10.3  = { owner = GER controller = GER remove_core = WGE }
-2000.1.1 = { base_tax = 7 base_production = 6 }
+#Black Death
+1348.6.1 = {	owner = XXX
+ 		controller = XXX
+   		citysize = 0 }
 
 
 
