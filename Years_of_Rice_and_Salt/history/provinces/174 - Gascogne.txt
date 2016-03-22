@@ -55,6 +55,6 @@ discovered_by = ottoman
 1300.1.1 = { base_manpower = 5 }
 
 #Black Death
-1348.7.1 = {	owner = XXX
+1348.8.1 = {	owner = XXX
  		controller = XXX
    		citysize = 0 }
