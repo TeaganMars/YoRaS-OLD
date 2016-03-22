@@ -64,21 +64,3 @@ discovered_by = ottoman
  		controller = XXX
    		citysize = 0 }
 
-1750.1.1 = { base_production = 9 }
-1775.1.1 = { base_tax = 9 base_manpower = 8 }
-1800.1.1 = { base_production = 11 }
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
-
-1825.1.1 = { base_tax = 10 base_production = 13 }
-1851.1.1 = { base_production = 14 base_manpower = 9 }
-1875.1.1 = { base_production = 16 base_manpower = 10 }
-1901.1.1 = { base_tax = 12 base_production = 17 }
-1925.1.1 = { base_tax = 13 base_production = 18 }
-1938.3.12  = { owner = GER controller = GER add_core = GER } # Austria annexed by Nazi Germany
-1945.5.8   = { owner = HAB controller = HAB remove_core = GER }
-1950.1.1 = { base_tax = 15 base_manpower = 11 }
-1975.1.1 = { base_tax = 16 base_manpower = 12 }
-2000.1.1 = { base_tax = 18 base_manpower = 16 }
-
-
-
