@@ -37,7 +37,7 @@ discovered_by = roman_group
 1250.1.1 = { base_tax = 5 base_production = 5 }
 
 #Black Death
-1348.3.1 = {	owner = XXX
- 		controller = XXX
-   		citysize = 0 }
+1349.1.1 = {	owner = XXX
+            controller = XXX
+ 		         citysize = 0 }
    		
