@@ -59,6 +59,11 @@ discovered_by = ottoman
 1278.8.26 = { owner = HAB controller = HAB remove_core = BOH } #Death of Ottokar II
 1300.1.1 = { base_manpower = 7 }
 
+#Black Death
+1349.3.1 = {	owner = XXX
+ 		controller = XXX
+   		citysize = 0 }
+
 1750.1.1 = { base_production = 9 }
 1775.1.1 = { base_tax = 9 base_manpower = 8 }
 1800.1.1 = { base_production = 11 }
