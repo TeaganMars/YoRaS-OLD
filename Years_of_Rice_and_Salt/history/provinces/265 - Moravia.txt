@@ -39,9 +39,20 @@ discovered_by = ottoman
 1100.1.1 = { base_manpower = 5 }
 1200.1.1 = { base_tax = 6 base_production = 6 }
 
-# Black Death
-1404.11.1 = {	owner = XXX
-		controller = XXX
-		citysize = 0 }
 
-#1405.2.1 = {} #Timur's scouts arrive 
+1348.1.1 = {} # Black Death Arrives
+1358.1.1 = {	base_manpower = 4 
+		base_tax = 4
+		base_production = 4} # 10 years into 1st Plague 
+1368.1.1 = { 	base_manpower = 2 
+		base_tax = 2
+		base_production = 2} # End of 20 year Plague
+1404.1.1 = {} # Final Death Arrives
+1405.1.1 = {	owner = XXX
+		controller = XXX
+		citysize = 0 
+		base_tax = 1 
+		base_production = 1
+		base_manpower = 1} # Final Death is complete
+
+#1405.2.1 = {} #Timur's scouts arrive at Moravian Gate
