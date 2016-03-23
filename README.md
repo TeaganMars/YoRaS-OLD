@@ -6,13 +6,17 @@ current (3.26.2016) Split plague effected prov into 6 groups based on this chart
   add event for each group:
 
 1347.1.1 = {} # Black Death Arrives
+
 1357.1.1 = {	base_manpower = 4 
 		base_tax = 7
 		base_production = 7} # 10 years into 1st Plague 
+		
 1367.1.1 = { 	base_manpower = 3 
 		base_tax = 5
 		base_production = 5} # End of 20 year Plague
+		
 1404.1.1 = {} # Final Death Arrives
+
 1405.1.1 = {	owner = XXX
 		controller = XXX
 		citysize = 0 
