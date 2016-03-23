@@ -40,6 +40,8 @@ discovered_by = ottoman
 1200.1.1 = { base_tax = 6 base_production = 6 }
 
 # Black Death
-1349.11.1 = {	owner = XXX
+1404.11.1 = {	owner = XXX
 		controller = XXX
 		citysize = 0 }
+
+#1405.2.1 = {} #Timur's scouts arrive 
