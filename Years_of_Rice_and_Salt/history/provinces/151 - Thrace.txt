@@ -44,40 +44,19 @@ discovered_by = ottoman
 1204.4.13 = { owner = LAT controller = LAT add_core = LAT }
 1261.1.1 = { owner = BYZ controller = BYZ remove_core = LAT }
 
-1453.5.29 = {
-	owner = TUR
-	controller = TUR
-	add_core = TUR
-} # The fall of the Byzantine Empire
-1459.1.1 = { culture = turkish religion = sunni }
-1481.6.1 = { unrest = 6 } # Civil war, Bayezid & Jem
-1482.7.26 = { unrest = 0 } # Jem escapes to Rhodes
-1502.1.1 = { remove_core = BYZ }
-1509.1.1 = { unrest = 7 } # Civil war
-1513.1.1 = { unrest = 0 }
-1621.1.1 = { unrest = 6 } # Osman II's reforms against the Janissaries
-1622.5.20 = { unrest = 7 } # Osman II is murdered
-1622.6.1 = { controller = TUR unrest = 0 } # Mustafa I, estimated
-1623.1.1 = { unrest = 10 } # The empire fell into anarchy, Janissaries stormed the palace
-1625.1.1 = { unrest = 0 } # Murad tries to quell the corruption
-1651.1.1 = { unrest = 5 } # The murder of Kösem Sultana
-1652.1.1 = { unrest = 0 }
-1690.1.1 = { base_tax = 10 base_production = 10 } #The Decentralizing Effect of the Provincial System
-1718.1.1 = { unrest = 3 base_tax = 12 base_production = 12 } # Lale Devri (the tulip age), not appreciated by everyone 
-1720.1.1 = { unrest = 0 }
-1768.1.1 = { base_tax = 13 base_production = 13 base_manpower = 7 }
-1794.1.1 = { base_tax = 15 base_production = 15 base_manpower = 8 }
-1795.1.1 = { unrest = 6 } # Reforms by Sultan Selim III, tried to replace th Janissary corps
+1347.1.1 = {} # Black Death Arrives
+1357.1.1 = {	base_manpower = 4 
+		base_tax = 7
+		base_production = 7} # 10 years into 1st Plague 
+1367.1.1 = { 	base_manpower = 3 
+		base_tax = 5
+		base_production = 5} # End of 20 year Plague
+1404.1.1 = {} # Final Death Arrives
+1405.1.1 = {	owner = XXX
+		controller = XXX
+		citysize = 0 
+		base_tax = 1 
+		base_production = 1
+		base_manpower = 1} # Final Death is complete
 
-1819.1.1 = { base_tax = 17 base_production = 16 base_manpower = 9 }
-1845.1.1 = { base_production = 19 base_manpower = 11 }
-1871.1.1 = { base_tax = 20 base_manpower = 12 }
-1896.1.1 = { base_production = 23 base_manpower = 13 }
-1922.11.1 = { owner = TKY controller = TKY add_core = TKY remove_core = TUR }
-1923.1.1 = { base_tax = 21 base_production = 25 base_manpower = 14 }
-1948.1.1 = { base_tax = 24 base_production = 26 base_manpower = 15 }
-1973.1.1 = { base_production = 29 base_manpower = 17 }
-2000.1.1 = { base_tax = 29 base_manpower = 26 }
-
-
-
+1405.5.1 = {} # Bold is captured by slavers
