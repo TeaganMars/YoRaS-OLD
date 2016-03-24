@@ -55,7 +55,18 @@ discovered_by = roman_group
 1200.1.1 = { base_manpower = 6 }
 1300.1.1 = { base_tax = 8 base_production = 8 }
 
-#Black Death
-1349.1.1 = {	owner = XXX
- 		controller = XXX
-   		citysize = 0 }
+1347.1.1 = {} # Black Death Arrives
+		
+1370.1.1 = { 	base_manpower = 2 
+		base_tax = 3
+		base_production = 3} # End of 20 year Plague
+		
+1404.1.1 = {} # Final Death Arrives
+
+
+1405.1.1 = {	owner = XXX
+		controller = XXX
+		citysize = 0 
+		base_tax = 1 
+		base_production = 1
+		base_manpower = 1} # Final Death is complete
