@@ -30,24 +30,18 @@ discovered_by = roman_group
 1296.1.1 = { controller = ENG }
 1314.1.1 = { controller = SCO }
 
-1560.8.1  = { religion = reformed }
-1644.1.1  = { revolt = { type = revolutionary_rebels size = 2 } controller = REB }
-1647.1.1  = { revolt = {} controller = SCO } # Estimated
-1689.3.1  = { revolt = { type = revolutionary_rebels size = 2 } controller = REB } # Jacobite Rising
-1689.11.1 = { revolt = {} controller = SCO }
-1707.5.12 = {	owner = GBR
-		controller = GBR
-		add_core = GBR
-	    }
-1750.1.1  = { citysize = 10000     } # Marketplace, Regimental Camp Estimated
-1762.1.1 = { base_tax = 3 }
-
-1801.1.1 = { base_manpower = 3 }
-1837.1.1 = { base_production = 3 }
-1875.1.1 = { base_tax = 4 }
-1912.1.1 = { base_tax = 5 }
-1951.1.1 = { base_tax = 6 }
+1347.1.1 = {} # Black Death Arrives
+		
+1370.1.1 = { 	base_manpower = 1 
+		base_tax = 1
+		base_production = 1} # End of 20 year Plague
+		
+1404.1.1 = {} # Final Death Arrives
 
 
-
-2001.1.1 = { base_production = 5 }
+1405.1.1 = {	owner = XXX
+		controller = XXX
+		citysize = 0 
+		base_tax = 1 
+		base_production = 1
+		base_manpower = 1} # Final Death is complete
