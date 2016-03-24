@@ -28,7 +28,18 @@ discovered_by = roman_group
 950.1.1 = { base_tax = 2 base_production = 2 }
 1282.1.1 = { owner = ENG controller = ENG add_core = ENG add_core = WLS remove_core = GWY }
 
-#Black Death
-1349.4.1 = {	owner = XXX
- 		controller = XXX
-   		citysize = 0 }
+1347.1.1 = {} # Black Death Arrives
+		
+1370.1.1 = { 	base_manpower = 1 
+		base_tax = 1
+		base_production = 1} # End of 20 year Plague
+		
+1404.1.1 = {} # Final Death Arrives
+
+
+1405.1.1 = {	owner = XXX
+		controller = XXX
+		citysize = 0 
+		base_tax = 1 
+		base_production = 1
+		base_manpower = 1} # Final Death is complete
