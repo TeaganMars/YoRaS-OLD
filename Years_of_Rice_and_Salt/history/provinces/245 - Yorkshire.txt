@@ -38,10 +38,18 @@ discovered_by = roman_group
 1066.12.25 = { culture = english }
 1150.1.1 = { base_tax = 5 base_production = 5 }
 1250.1.1 = { base_tax = 6 base_production = 6 }
+1347.1.1 = {} # Black Death Arrives
+		
+1370.1.1 = { 	base_manpower = 1
+		base_tax = 2
+		base_production = 2} # End of 20 year Plague
+		
+1404.1.1 = {} # Final Death Arrives
 
-#Black Death
-1349.8.1 = {	owner = XXX
- 		controller = XXX
-   		citysize = 0 }
 
-
+1405.1.1 = {	owner = XXX
+		controller = XXX
+		citysize = 0 
+		base_tax = 1 
+		base_production = 1
+		base_manpower = 1} # Final Death is complete
