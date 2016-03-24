@@ -39,36 +39,29 @@ discovered_by = ottoman
 1165.1.1 = { owner = BYZ controller = BYZ add_core = BYZ }
 1180.9.24 = { owner = HUN controller = HUN remove_core = BYZ }
 1200.1.1 = { base_tax = 6 }
+
+1347.1.1 = {} # Black Death Arrives
+		
+1370.1.1 = { 	base_manpower = 1 
+		base_tax = 2
+		base_production = 1} # End of 20 year Plague
+
 1387.1.1 = { owner = BOS controller = BOS add_core = BOS }
 1390.1.1 = { owner = HUN controller = HUN remove_core = BOS }
 
-1420.1.1   = { owner = VEN controller = VEN add_core = VEN remove_core = HUN }
-1540.10.2  = { owner = TUR controller = TUR add_core = TUR } # A large part of Dalmatia is incorporated into the Ottoman empire
-1699.1.26  = { owner = VEN controller = VEN remove_core = TUR } # Peace of Karlowitz, Dalmatian hinterland given to Venice
+1404.1.1 = {} # Final Death Arrives
+
+
+1405.1.1 = {	owner = XXX
+		controller = XXX
+		citysize = 0 
+		base_tax = 1 
+		base_production = 1
+		base_manpower = 1} # Final Death is complete
+
+#1540.10.2  = { owner = TUR controller = TUR add_core = TUR } # A large part of Dalmatia is incorporated into the Ottoman empire
+#1699.1.26  = { owner = VEN controller = VEN remove_core = TUR } # Peace of Karlowitz, Dalmatian hinterland given to Venice
 #1720.1.1   = {   } # Intense economic and cultural growth
-1757.1.1   = {   } # The economic production increased in almost every aspect
-1797.10.17 = {	owner = HAB
-		controller = HAB
-		add_core = HAB
-	     } # Treaty of Campo Formio
-1805.12.26 = {	owner = FRA
-		controller = FRA
-		add_core = FRA
-		remove_core = HAB
-	     } # Treaty of Pressburg
-1813.9.20 = { controller = HAB } # Occupied by Austrian forces
-1814.4.6  = {	owner = HAB
-		add_core = HAB
-		remove_core = FRA
-	    } # Napoleon abdicates
+#1757.1.1   = {   } # The economic production increased in almost every aspect
 
-
-1900.1.1   = { citysize = 21925 capital = "Split" }
-1918.12.1  = { owner = YUG controller = YUG add_core = YUG remove_core = HAB }
-1941.4.6   = { owner = ITA controller = ITA }
-1943.9.8   = { owner = CRO controller = CRO }
-1945.5.8   = { owner = YUG controller = YUG }
-1991.6.25  = { owner = CRO controller = CRO remove_core = YUG }
-
-
-
+#1900.1.1   = { citysize = 21925 capital = "Split" }
