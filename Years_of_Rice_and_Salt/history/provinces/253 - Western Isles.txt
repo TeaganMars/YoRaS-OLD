@@ -26,12 +26,18 @@ discovered_by = PCT
 1263.1.1 = { controller = SCO }
 1266.7.2 = { owner = SCO add_core = SCO remove_core = NOR }
 
-1560.8.1  = { religion = reformed }
-1707.5.12 = {	owner = GBR
-		controller = GBR
-		add_core = GBR
-	    }
+1347.1.1 = {} # Black Death Arrives
+		
+1370.1.1 = { 	base_manpower = 1 
+		base_tax = 1
+		base_production = 1} # End of 20 year Plague
+		
+1404.1.1 = {} # Final Death Arrives
 
 
-
-
+1405.1.1 = {	owner = XXX
+		controller = XXX
+		citysize = 0 
+		base_tax = 1 
+		base_production = 1
+		base_manpower = 1} # Final Death is complete
