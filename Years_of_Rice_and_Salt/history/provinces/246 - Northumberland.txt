@@ -42,40 +42,19 @@ discovered_by = roman_group
 1066.12.25 = { culture = english }
 1080.1.1 = { capital = "Newcastle" }
 1150.1.1 = { base_manpower = 3 }
-1350.1.1 = { base_tax = 5 base_production = 5 }
 
-1453.1.1 = { unrest = 5 } # Start of the War of the Roses
-1461.6.1 = { revolt = { type = revolutionary_rebels size = 0 } unrest = 2 controller = REB } # Lancastrian Holdouts after Coronation of Edward IV
-1464.6.1 = { revolt = {} controller = ENG }
-1467.1.1 = { unrest = 5 } # Rivalry between Edward IV & Warwick
-1471.1.1 = { unrest = 8 } # Unpopularity of Warwick & War with Burgundy
-1471.5.4 = { unrest = 2 } # Murder of Henry VI & Restoration of Edward IV
-1483.6.26 = { unrest = 8 } # Revulsion at Supposed Murder of the Princes in the Tower
-1485.8.23 = { unrest = 0 } # Battle of Bosworth Field & the End of the War of the Roses
-1585.1.1 = { religion = protestant }
-1640.10.1 = { controller = SCO }
-1640.10.26 = { controller = ENG }
-1644.4.15 = { controller = SCO }
-1646.5.5 = { controller = ENG } # End of First English Civil War
-1707.5.12 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = ENG
-}
-
-1750.1.1 = { base_tax = 7 base_production = 6 base_manpower = 4 }
-1775.1.1 = { base_production = 7 base_manpower = 7 }
-1800.1.1 = { base_tax = 8 base_production = 8 base_manpower = 9 }
-1825.1.1 = { base_tax = 10 base_production = 10 base_manpower = 10 }
-1850.1.1   = { remove_core = NOL }
-1852.1.1 = { base_tax = 11 base_production = 12 base_manpower = 11 }
-1875.1.1 = { base_tax = 12 base_production = 13 base_manpower = 13 }
-1900.1.1 = { base_production = 15 base_manpower = 15 }
-1925.1.1 = { base_tax = 14 base_manpower = 18 }
-1950.1.1 = { base_tax = 15 base_production = 16 base_manpower = 20 }
-1975.1.1 = { base_tax = 17 base_production = 19 }
-2000.1.1 = { base_tax = 23 base_production = 22 }
+1347.1.1 = {} # Black Death Arrives
+		
+1370.1.1 = { 	base_manpower = 1
+		base_tax = 2
+		base_production = 2} # End of 20 year Plague
+		
+1404.1.1 = {} # Final Death Arrives
 
 
-
+1405.1.1 = {	owner = XXX
+		controller = XXX
+		citysize = 0 
+		base_tax = 1 
+		base_production = 1
+		base_manpower = 1} # Final Death is complete
