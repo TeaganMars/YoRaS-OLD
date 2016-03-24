@@ -35,38 +35,18 @@ discovered_by = roman_group
 1092.1.1 = { owner = ENG controller = ENG add_core = ENG culture = english }
 1136.1.1 = { owner = SCO controller = SCO }
 1157.1.1 = { owner = ENG controller = ENG remove_core = SCO }
-
-1453.1.1  = { unrest = 5 } # Start of the War of the Roses
-1461.6.1  = { unrest = 2 } # Coronation of Edward IV
-1467.1.1  = { unrest = 5 } # Rivalry between Edward IV & Warwick
-1471.1.1  = { unrest = 8 } # Unpopularity of Warwick & War with Burgundy
-1471.5.4  = { unrest = 2 } # Murder of Henry VI & Restoration of Edward IV
-1483.6.26 = { unrest = 8 } # Revulsion at Supposed Murder of the Princes in the Tower
-1485.8.23 = { unrest = 0 } # Battle of Bosworth Field & the End of the War of the Roses
-1575.1.1  = {   base_tax = 4 } # Estimated
-1585.1.1  = { religion = protestant }
-1645.6.28 = { controller = SCO }
-1646.5.5  = { controller = ENG } # End of First English Civil War
-1648.4.1  = { revolt = { type = revolutionary_rebels size = 3 } controller = REB } # Estimated
-1648.8.25 = { revolt = {} controller = ENG }
-1700.1.1  = { citysize = 4000   } # Marketplace Estimated
-1707.5.12 = {	owner = GBR
-		controller = GBR
-		add_core = GBR
-	    	remove_core = ENG
-	    }
-1750.1.1 = { base_tax = 5 base_manpower = 2 }
-1775.1.1 = { base_production = 4 base_manpower = 3 }
-
-1801.1.1 = { base_production = 5 base_manpower = 5 }
-1825.1.1 = { base_tax = 6 base_manpower = 7 }
-1851.1.1 = { base_tax = 7 base_production = 6 base_manpower = 8 }
-1875.1.1 = { base_tax = 8 base_manpower = 10 }
-1901.1.1 = { base_tax = 9 base_production = 7 }
-1925.1.1 = { base_tax = 10 base_production = 9 }
-1951.1.1 = { base_production = 10 base_manpower = 12 }
-1975.1.1 = { base_tax = 14 }
-2000.1.1 = { base_tax = 16 base_production = 14 }
+1347.1.1 = {} # Black Death Arrives
+		
+1370.1.1 = { 	base_manpower = 1
+		base_tax = 1
+		base_production = 1} # End of 20 year Plague
+		
+1404.1.1 = {} # Final Death Arrives
 
 
-
+1405.1.1 = {	owner = XXX
+		controller = XXX
+		citysize = 0 
+		base_tax = 1 
+		base_production = 1
+		base_manpower = 1} # Final Death is complete
