@@ -16,11 +16,20 @@ capital = "Torshavn"
 1100.1.1 = { discovered_by = western }
 1060.1.1 = { religion = catholic }
 
-1536.1.1 = {	religion = protestant
-		owner = DAN
-		controller = DAN
-		add_core = DAN
-	   }
+1347.1.1 = {} # Black Death Arrives
+		
+1370.1.1 = { 	base_manpower = 1 
+		base_tax = 1
+		base_production = 1} # End of 20 year Plague
+		
+1404.1.1 = {} # Final Death Arrives
 
+
+1405.1.1 = {	owner = XXX
+		controller = XXX
+		citysize = 0 
+		base_tax = 1 
+		base_production = 1
+		base_manpower = 1} # Final Death is complete
 
 
