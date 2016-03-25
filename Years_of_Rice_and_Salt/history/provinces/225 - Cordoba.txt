@@ -1,4 +1,4 @@
-#225 - Córdoba
+#225 - CÃ³rdoba
 
 owner = ROM
 controller = ROM
@@ -41,31 +41,18 @@ discovered_by = roman_group
 1091.1.1 = { owner = AMR controller = AMR add_core = AMR remove_core = SEV }
 1147.1.1 = { owner = AMH controller = AMH add_core = AMH remove_core = AMR }
 1200.1.1 = { base_tax = 4 base_production = 4 }
-1236.6.29 = { owner = CAS controller = CAS add_core = CAS remove_core = AMH remove_core = CRD capital = "C�rdoba" }
+1236.6.29 = { owner = CAS controller = CAS add_core = CAS remove_core = AMH remove_core = CRD capital = "Córdoba" }
 1280.1.1 = { religion = catholic }
 
-1516.1.23  = {	owner = SPA
-		controller = SPA
-		add_core = SPA
-	     } # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
-1600.1.1   = { citysize = 28000 } # Estimation
-1610.1.12  = { culture = castillian } # Decree for the expulsion of the morisques in Andaluc�a, unlike Valencia, this was performed uneventfully.
-1650.1.1   = { citysize = 18700 } # Epidemic
-1713.4.11  = { remove_core = CAS }
-1755.1.1 = { base_production = 5 }
-1785.1.1 = { base_production = 6 }
-1808.6.6   = { revolt = { type = pretender_rebels size = 0 } controller = REB }
-1811.1.1   = { revolt = {} controller = SPA }
-1812.10.1  = { revolt = { type = pretender_rebels size = 0 } controller = REB }
-1813.12.11 = { revolt = {} controller = SPA }
-
-1815.1.1 = { base_manpower = 3 }
-1845.1.1 = { base_tax = 5 }
-1875.1.1 = { base_production = 7 }
-1905.1.1 = { base_manpower = 4 }
-1935.1.1 = { base_tax = 6 }
-1965.1.1 = { base_manpower = 5 }
-2000.1.1 = { base_tax = 7 base_manpower = 6 }
-
-
+1347.1.1 = {} # Black Death Arrives
+1370.1.1 = {    base_manpower = 1 
+                base_tax = 1
+                base_production = 1} # Eddit each to be 1/3 of last base. End of 20 year Plague
+1404.1.1 = {} # Final Death Arrives
+1405.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1 
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty
 
