@@ -10,7 +10,7 @@ Anatolia is safe, but parts of ottomans in balkans dead.
 Western Europe empty to at least Morovian Gate  
 Sami:  
 >>>Some Sami surrvive, reference "If al-Alemand had conquered Skandistan, would the Sami people have survived?"  
-empty terrirory for now  
+empty terrirory for now, we can maybe add them in to a 1347 or 1370 start point, along with greenland survivors   
   
 >>Find eastern bounds
   
