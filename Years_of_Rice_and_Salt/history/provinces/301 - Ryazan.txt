@@ -25,18 +25,14 @@ capital = "Pereyaslavl-Ryazansky"
 1200.1.1 = { base_manpower = 5 }
 1300.1.1 = { base_tax = 6 base_production = 6 }
 
-1450.1.1 = { discovered_by = SIB }
-1521.8.1 = { owner = RUS controller = RUS add_core = RUS } # Ryazan annexed by Vasily III
-1598.1.7 = { unrest = 5 base_manpower = 6 } # "Time of troubles", peasantry brought into serfdom
-1613.3.3 = { unrest = 0 } # Order returned, Romanov dynasty
-1656.1.1 = { unrest = 4 } # Tatar revolt
-1657.1.1 = { unrest = 0 }
-1711.1.1 = { base_tax = 7 base_production = 7 } # Governmental reforms and the absolutism
-1767.1.1 = { base_tax = 8 base_production = 8 } # Legislative reform
-1778.1.1 = { capital = "Ryazan" } # Ryazan governorate formed, city renamed
-
-1850.1.1   = { remove_core = RYA }
-1922.12.30 = { owner = SOV controller = SOV add_core = SOV }
-1991.12.25 = { owner = RUS controller = RUS remove_core = SOV }
-2000.1.1   = { base_manpower = 7 }
-
+1347.1.1 = {} # Black Death Arrives
+1370.1.1 = {    base_manpower = 2 
+                base_tax = 2
+                base_production = 2} # Eddit each to be 1/3 of last base. End of 20 year Plague
+1404.1.1 = {} # Final Death Arrives
+1405.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1 
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty
