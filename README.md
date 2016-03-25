@@ -28,7 +28,7 @@ empty terrirory for now, we can maybe add them in to a 1347 or 1370 start point,
             		base_production = 1
             		base_manpower = 1} # Final Death is complete, this makes the provence empty
 
->check for nessesarcy minor change to Timurid Empire  
+>check for minor change to Timurid Empire  
   
 **MEDIUM PRIORITY**  
 Build Events  
