@@ -33,7 +33,7 @@ empty terrirory for now, we can maybe add them in to a 1347 or 1370 start point,
   
 **MEDIUM PRIORITY**  
 may have to check history file for Principality of Smolensk, SMO, as I reversed thier disapearance in 1387  
-^also the VLA
+^also the VLA  
 Genoa Problem, do we kill them in crimea or leave them in the 1405 start point  
 Build Events  
 Building 1590's, 1650's, 1670's, 1810's, 1830's, 1902, 1954 'Great War', 2021, and 2044 start points  
