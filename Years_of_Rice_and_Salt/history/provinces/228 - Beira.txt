@@ -40,20 +40,14 @@ discovered_by = roman_group
 1200.1.1 = { base_manpower = 3 }
 1300.1.1 = { base_tax = 5 base_production = 5 }
 
-1580.1.1 = { fort_16th = yes }
-1580.8.25 = { controller = SPA }
-1580.8.26 = { controller = POR }
-1640.1.1 = { unrest = 8 } # Revolt headed by John of Bragança
-1640.12.1 = { unrest = 0 }
-1646.1.1 = { fort_16th = no fort_17th = yes }
-1762.1.1 = { fort_17th = no fort_18th = yes }
-1807.11.30 = { controller = FRA } # Occupied by France
-1808.8.30 = { controller = POR }
-1810.7.25 = { controller = FRA } # Invaded after the battle of Côa
-1811.1.1 = { controller = POR } # The Napoleonic army retreats from Portugal
-
-1825.1.1 = { base_manpower = 4 }
-2000.1.1 = { base_tax = 6 base_manpower = 5 }
-
-
-
+1347.1.1 = {} # Black Death Arrives
+1370.1.1 = {    base_manpower = 1 
+                base_tax = 2
+                base_production = 2} # Eddit each to be 1/3 of last base. End of 20 year Plague
+1404.1.1 = {} # Final Death Arrives
+1405.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1 
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty
