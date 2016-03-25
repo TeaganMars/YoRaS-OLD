@@ -18,7 +18,7 @@ contact todd@tjgilbert.com if your interested in helping
 		base_production = 1
 		base_manpower = 1} # Final Death is complete
 
-HIGH PRIORITY
+HIGH PRIORITY 
 Building 1405 start point:
 	Add above code to each european prov
 	Minor change to Timurid Empire
