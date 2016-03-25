@@ -1,13 +1,13 @@
-#10 - JÃ¤mtland
+#10 - JÃƒÂ¤mtland
 
-culture = norwegian # They were actually Jämts - the unique blend of Swedish, Norwegian and local tendencies
+culture = norwegian # They were actually JÃ¤mts - the unique blend of Swedish, Norwegian and local tendencies
 religion = norse_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = unknown
 base_manpower = 1
-capital = "Frösön"
+capital = "FrÃ¶sÃ¶n"
 native_hostileness = 3
 native_size = 10
 native_ferocity = 2
@@ -19,21 +19,19 @@ native_ferocity = 2
 1178.1.1 = { owner = NOR controller = NOR add_core = NOR add_core = SWE remove_core = JMT religion = catholic }
 1200.1.1 = { citysize = 1000 is_city = yes }
 
-1527.6.1 = { religion = protestant }
-1531.11.5 = { unrest = 10 } # The Return of Christian II
-1532.7.15 = { unrest = 0 } # The Capture of Christian II
-1536.1.1 = { owner = DAN controller = DAN add_core = DAN } # 'Handfästningen'(Unknown date)
-1564.2.10 = { controller = SWE } # Nordic Seven-years War
-1570.11.18 = { controller = DAN } # The Peace at Roskilde in 1570
-1611.8.1 = { controller = SWE } # The War of Kalmar (Unknown date)
-1613.1.20 = { controller = DAN } # The Peace of Knäred
-1644.2.1 = { controller = SWE } # Torstenssons War-Captured by Herman Flemming (Unknown date)
-1644.8.1 = { controller = DAN } # Torstenssons War-Captured by Hannibal Sehested
-1645.8.13 = { owner = SWE controller = SWE } # The Peace of Brömsebro
-1657.11.25 = { controller = DAN } # Karl X Gustavs First Danish War-Captured by Bielke
-1658.2.26 = { controller = SWE } # The Peace of Roskilde
-1690.1.1 = { culture = swedish } # date estimated
-1786.10.23 = { capital = "Östersund" }
+1347.1.1 = {} # Black Death Arrives
+		
+1370.1.1 = { 	base_manpower = 1 
+		base_tax = 1
+		base_production = 1} # End of 20 year Plague
+		
+1404.1.1 = {} # Final Death Arrives
 
-1850.1.1 = { remove_core = DAN remove_core = NOR }
-2000.1.1 = { base_tax = 2 base_production = 2 }
+
+1405.1.1 = {	owner = XXX
+		controller = XXX
+		citysize = 0 
+		base_tax = 1 
+		base_production = 1
+		base_manpower = 1} # Final Death is complete
+
