@@ -4,6 +4,7 @@ contact todd@tjgilbert.com if your interested in helping
 
 **HIGH PRIORITY (updated 2016.3.25)**  
 Building the 1405 start point  
+>Determine bounds of 1405 plague
 >Add this code to each european provence:  
 
     1347.1.1 = {} # Black Death Arrives
