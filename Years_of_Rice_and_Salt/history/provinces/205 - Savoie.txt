@@ -23,7 +23,7 @@ discovered_by = ottoman
 340.1.1 = { religion = chalcedonism }
 395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 400.1.1 = { base_tax = 2 base_production = 2 }
-443.1.1 = { owner = BUR controller = BUR add_core = BUR remove_core = ROW capital = "Chambéry" culture = burgundione religion = germanic }
+443.1.1 = { owner = BUR controller = BUR add_core = BUR remove_core = ROW capital = "ChambÃ©ry" culture = burgundione religion = germanic }
 450.1.1 = { religion = arianism }
 486.6.1 = { culture = burgundian }
 500.1.1 = { religion = chalcedonism }
@@ -45,56 +45,14 @@ discovered_by = ottoman
 1200.1.1 = { base_tax = 7 base_production = 7 }
 1250.1.1 = { base_manpower = 5 }
 1300.1.1 = { base_tax = 8 base_production = 8 }
-1350.1.1 = { base_tax = 9 base_production = 9 }
-
-1499.1.1   = { owner = FRA controller = FRA add_core = FRA } 
-1529.1.1   = { owner = SAV controller = SAV } 
-1536.4.1   = { controller = FRA } 
-1538.6.17  = { owner = FRA } # Treaty of Nice
-1559.1.1   = { owner = SAV controller = SAV remove_core = FRA } 
-1680.1.1   = {   }
-1713.4.12  = {	owner = SIC
-		controller = SIC
-		add_core = SIC
-		remove_core = SAV
-	     } # Treaty of Utrecht(2) gave Sicily to the House of Savoy 
-1720.1.1   = {	owner = SPI
-		controller = SPI
-		add_core = SPI
-		remove_core = SIC
-	     } # Kingdom of Piedmont-Sardinia
-1752.1.1 = { base_tax = 10 }
-1779.1.1 = { base_manpower = 6 }
-1791.6.20  = { controller = FRA } # Occupied by French troops
-1792.11.27 = {	owner = FRA
-		add_core = FRA
-	     } # Savoie is annexed
-1806.7.12  = { hre = no } # The Holy Roman Empire is dissolved
-1807.1.1 = { base_production = 10 }
-1814.4.11  = {	owner = SPI
-		controller = SPI
-		remove_core = FRA
-	     } # Napoleon abdicates and Victor Emmanuel is able to return to Turin
-
-1834.1.1 = { base_manpower = 7 }
-1860.3.24  = {	owner = FRA
-		controller = FRA
-		add_core = FRA
-		remove_core = SPI
-	     } # Treaty of Turin
-1861.1.1 = { base_production = 11 }
-1870.9.4   = {  owner = FR2
-		controller = FR2
-		add_core = FR2
-		remove_core = FRA
-	     } # Republic proclaimed
-1888.1.1 = { base_manpower = 8 }
-1915.1.1 = { base_manpower = 9 }
-1940.6.14  = { owner = FRV controller = FRV add_core = FRV } # Vichy France
-1943.1.1 = { base_manpower = 10 }
-1944.8.25  = { owner = FR2 controller = FR2 remove_core = FRV } # France liberated by allied forces
-1970.1.1 = { base_manpower = 11 }
-2000.1.1 = { base_tax = 12 }
-
-
-
+1347.1.1 = {} # Black Death Arrives
+1370.1.1 = {    base_manpower = 1 
+                base_tax = 1
+                base_production = 1} # Eddit each to be 1/3 of last base. End of 20 year Plague
+1404.1.1 = {} # Final Death Arrives
+1405.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1 
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty
