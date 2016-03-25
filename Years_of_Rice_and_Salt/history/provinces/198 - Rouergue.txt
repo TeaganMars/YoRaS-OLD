@@ -39,29 +39,17 @@ discovered_by = ottoman
 1200.1.1 = { base_tax = 3 base_production = 3 }
 #1271.1.1 = { owner = FRA controller = FRA }
 #1313.1.1 = { owner = AMG controller = AMG add_core = AMG }
+
+1347.1.1 = {} # Black Death Arrives
 1360.5.9 = { owner = ENG controller = ENG } # Treaty of Bretigny
+1370.1.1 = {    base_manpower = 1 
+                base_tax = 1
+                base_production = 1} # Eddit each to be 1/3 of last base. End of 20 year Plague
 1377.1.1 = { owner = FRA controller = FRA }
-
-1588.12.1  = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
-1589.1.5 = { owner = NAV controller = NAV add_core = NAV remove_core = AUV }
-1589.8.2 = { owner = FRA controller = FRA } # To France proper, after Henri IV, King of France & Duke of Armagnac
-1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
-1650.1.14  = { unrest = 7 } # Mazarin arrests the Princes Condé, Conti & Longueville, the beginning of the Second Fronde
-1651.4.1 = { unrest = 4 } # An unstable peace is concluded
-1651.12.1  = { unrest = 7 } # Mazarin returns from exile, Condé sides with Spain, situation heats up again
-1652.2.15  = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Fronde rebels make a foothold in the Guyenne area, under Condé
-1652.10.21 = { revolt = {} controller = FRA unrest = 0 } # The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.
-
-1825.1.1 = { base_production = 4 }
-1850.1.1   = { capital = "Albi" }
-1870.9.4   = {  owner = FR2
-		controller = FR2
-		add_core = FR2
-		remove_core = FRA
-	     } # Republic proclaimed
-1940.6.14  = { owner = FRV controller = FRV add_core = FRV } # Vichy France
-1944.8.25  = { owner = FR2 controller = FR2 remove_core = FRV } # France liberated by allied forces
-2000.1.1 = { base_tax = 4 base_manpower = 3 }
-
-
-
+1404.1.1 = {} # Final Death Arrives
+1405.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1 
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty
