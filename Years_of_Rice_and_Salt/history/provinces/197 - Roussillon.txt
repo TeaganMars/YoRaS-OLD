@@ -40,41 +40,17 @@ discovered_by = ottoman
 1286.1.1 = { owner = ARA controller = ARA }
 1295.1.1 = { owner = MLL controller = MLL }
 1300.1.1 = { base_tax = 4 base_production = 4 }
+
+1347.1.1 = {} # Black Death Arrives
 1349.10.25 = { owner = ARA controller = ARA add_core = TOU add_core = FOI remove_core = MLL }
-
+1370.1.1 = {    base_manpower = 1 
+                base_tax = 1
+                base_production = 1} # Eddit each to be 1/3 of last base. End of 20 year Plague
 1399.1.1 = { add_core = TOU add_core = FOI }
-1412.6.29 = { revolt = { type = pretender_rebels size = 1 leader = "Jaume d'Urgell"} controller = REB } # Jaime de Urgell Uprising
-1413.1.1 = { revolt = {} controller = ARA }
-1444.1.1 = { add_core = TOU add_core = FOI }
-1462.1.1 = { owner = FRA controller = FRA } # Treaty of Bayonne: Aragon sells Roussillon to France
-1493.1.19 = { owner = ARA controller = ARA } # Treaty of Barcelona: Charles VIII restores Roussillon to Aragon
-1516.1.23 = {
-	owner = SPA
-	controller = SPA
-	 add_core = SPA
-} # Spain comes into existence, Carlos I rises to the throne
-1583.1.1 = { fort_15th = no fort_16th = yes }
-1648.1.1 = { fort_16th = no fort_17th = yes }
-1659.10.28 = { owner = FRA controller = FRA add_core = FRA } # Peace of the Pyrennees
-1674.8.10 = { controller = SPA } # Spain invades Roussillon again
-1678.9.19 = { controller = FRA remove_core = SPA } # Treaty of Nijmegen (FRA-SPA)
-1713.7.13 = { remove_core = ARA }
-1715.1.1 = { fort_17th = no fort_18th = yes }
-1785.1.1 = { base_production = 5 }
-1793.4.17 = { controller = SPA } # Occupied by the Spanish army
-1793.5.1 = { controller = FRA }
-
-1845.1.1 = { base_production = 6 }
-1870.9.4   = {  owner = FR2
-		controller = FR2
-		add_core = FR2
-		remove_core = FRA
-	     } # Republic proclaimed
-1900.1.1   = { citysize = 50000 culture = occitain }
-1905.1.1 = { base_manpower = 5 }
-1940.6.14  = { owner = FRV controller = FRV add_core = FRV } # Vichy France
-1944.8.25  = { owner = FR2 controller = FR2 remove_core = FRV } # France liberated by allied forces
-2000.1.1 = { base_tax = 6 }
-
-
-
+1404.1.1 = {} # Final Death Arrives
+1405.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1 
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty
