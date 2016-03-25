@@ -28,36 +28,17 @@ capital = "Nizhny Novgorod"
 1260.1.1 = { owner = GOL controller = GOL add_core = GOL remove_core = MGE }
 1264.1.1 = { owner = VLA controller = VLA add_core = VLA remove_core = GOL }
 1300.1.1 = { base_manpower = 3 }
-1389.1.1 = { owner = NZH controller = NZH add_core = NZH remove_core = VLA }
-1392.1.1 = { owner = MOS controller = MOS add_core = MOS }
 
-1450.1.1 = { discovered_by = SIB }
-1503.4.1 = {
-	owner = RUS
-	controller = RUS
-	add_core = RUS
-	remove_core = MOS
-	remove_core = NZH
-}
-1511.1.1 = { fort_15th = yes } #Huge Kremlin constructed
-1560.1.1 = { base_tax = 7 base_production = 7 } # Treasury reform
-1598.1.7 = { unrest = 1 } # "Time of troubles", Nizhny Novgorod only city that supported Moscow
-1611.9.1 = { unrest = 0 } # Nizhegorod guard of Minin and Pozharsky to support Moscow
-1670.1.1 = { unrest = 8 } # Stepan Razin
-1671.1.1 = { unrest = 0 } # Razin is captured
-1719.1.1 = { base_tax = 8 base_production = 8  } # Governmental reforms and the absolutism, Nizhegorod governorate
-1767.1.1 = { base_tax = 9 base_production = 9 } # Legislative reform
-1773.1.1 = { unrest = 5 } # Emelian Pugachev, Cossack insurrection
-1774.9.14 = { unrest = 0 } # Pugachev is captured
+1347.1.1 = {} # Black Death Arrives
+1370.1.1 = {    base_manpower = 1 
+                base_tax = 2
+                base_production = 2} # Eddit each to be 1/3 of last base. End of 20 year Plague
+1404.1.1 = {} # Final Death Arrives
+1405.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1 
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty
 
-1790.1.1 = { base_manpower = 4 }
-1837.1.1 = { base_manpower = 5 }
-1850.1.1   = { citysize = 60000 remove_core = NZH }
-1884.1.1 = { base_manpower = 6 }
-1922.12.30 = { owner = SOV controller = SOV add_core = SOV }
-1931.1.1 = { base_manpower = 7 }
-1991.12.25 = { owner = RUS controller = RUS remove_core = SOV }
-2000.1.1 = { base_manpower = 9 }
-
-
-
+#1450.1.1 = { discovered_by = SIB }
