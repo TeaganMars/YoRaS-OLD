@@ -26,7 +26,7 @@ discovered_by = ottoman
 552.1.1 = { owner = BYZ controller = BYZ add_core = BYZ }
 588.1.1 = { owner = GVI controller = GVI remove_core = BYZ }
 600.1.1 = { base_tax = 2 base_production = 2 }
-711.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = GVI capital = "Al‡cant" }
+711.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = GVI capital = "Al√†cant" }
 760.1.1 = { religion = sunni }
 800.1.1 = { base_manpower = 2 culture = andalucian }
 1000.1.1 = { base_tax = 3 base_production = 3 }
@@ -41,34 +41,14 @@ discovered_by = ottoman
 1280.1.1 = { religion = catholic }
 1298.1.1 = { owner = ARA controller = ARA add_core = ARA remove_core = CAS culture = catalan }
 
-1502.1.1   = { citysize = 6000 } # Famine
-1516.1.23  = {	controller = SPA
-		owner = SPA
-		add_core = SPA
-	     } # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
-1519.7.1   = { unrest = 2 } # Revolt of the Germanies, which is at first moderate and appeased by the King
-1521.9.11  = {  unrest = 0 } # The Agermanats are soundly defeated in Oriola.
-1609.9.22  = { unrest = 2 } # Decree for the expulsion of the morisques in Valencia. Morisque mutiny in the Alicante harbour.
-1609.11.1  = { unrest = 0 } # The morisque mutiny is finally controlled. (economic consequences should be added)
-1705.12.16 = { controller = HAB } # Alicante joins the Austrian side in the War of the Spanish Succession
-1707.5.8   = { controller = SPA } # Alicante falls to the Borbonic troops
-1713.7.13  = { remove_core = ARA }
-1750.1.1 = { base_manpower = 4 }
-1775.1.1 = { base_manpower = 6 }
-1801.1.1 = { base_production = 4 base_manpower = 7 }
-1808.6.6   = { revolt = { type = pretender_rebels size = 0 } controller = REB }
-1812.1.1   = { revolt = {} controller = SPA }
-1813.3.19  = { revolt = { type = pretender_rebels size = 0 } controller = REB }
-1813.12.11 = { revolt = {} controller = SPA }
-
-1825.1.1 = { base_production = 6 }
-1850.1.1 = { base_manpower = 9 }
-1875.1.1 = { base_tax = 5 }
-1901.1.1 = { base_tax = 6 base_production = 7 }
-1925.1.1 = { base_tax = 7 base_production = 8 }
-1950.1.1 = { base_tax = 8 base_production = 9 }
-1975.1.1 = { base_production = 11 }
-2000.1.1 = { base_tax = 12 }
-
-
-
+1347.1.1 = {} # Black Death Arrives
+1370.1.1 = {    base_manpower = 1 
+                base_tax = 1
+                base_production = 1} # Eddit each to be 1/3 of last base. End of 20 year Plague
+1404.1.1 = {} # Final Death Arrives
+1405.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1 
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty
