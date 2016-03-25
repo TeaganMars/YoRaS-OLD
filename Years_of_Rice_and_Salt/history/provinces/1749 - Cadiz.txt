@@ -46,28 +46,14 @@ discovered_by = roman_group
 1262.1.1 = { owner = CAS controller = CAS add_core = CAS remove_core = AMH remove_core = CRD capital = "Cadiz" }
 1320.1.1 = { religion = catholic }
 
-1516.1.23  = {	controller = SPA
-		owner = SPA
-		add_core = SPA
-	     } # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
-1520.1.1   = {   }
-1535.1.1  = {   citysize = 15000 } # Judge of Yndias
-1610.1.12 = { culture = castillian }
-1713.4.11  = { remove_core = CAS }
-1750.1.1 = { base_tax = 7 }
-1775.1.1 = { base_tax = 8 base_production = 5 }
-1800.1.1 = { base_tax = 10 }
-1808.6.6   = { revolt = { type = pretender_rebels size = 0.5 } controller = REB  }
-1813.12.11 = { revolt = {} controller = SPA }
-
-1825.1.1 = { base_tax = 12 base_manpower = 4 }
-1851.1.1 = { base_tax = 13 base_manpower = 5 }
-1875.1.1 = { base_production = 6 base_manpower = 6 }
-1901.1.1 = { base_tax = 14 base_production = 7 }
-1925.1.1 = { base_production = 8 base_manpower = 8 }
-1951.1.1 = { base_production = 9 base_manpower = 9 }
-1975.1.1 = { base_production = 10 base_manpower = 10 }
-2000.1.1 = { base_production = 14 base_manpower = 11 }
-
-
-
+1347.1.1 = {} # Black Death Arrives
+1370.1.1 = {    base_manpower = 1 
+                base_tax = 1
+                base_production = 1} # Eddit each to be 1/3 of last base. End of 20 year Plague
+1404.1.1 = {} # Final Death Arrives
+1405.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1 
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty
