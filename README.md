@@ -1,6 +1,6 @@
 # YoRaS
 Years of Rice and Salt mod for EU4
-contact todd@tjgilbert.com if your interested in helping
+contact todd@tjgilbert.com if your interested in helping::
 
 1347.1.1 = {} # Black Death Arrives
 		
@@ -19,8 +19,13 @@ contact todd@tjgilbert.com if your interested in helping
 		base_manpower = 1} # Final Death is complete
 
 HIGH PRIORITY 
+
 Building 1405 start point:
+
 	Add above code to each european prov
+
+		JDBBJHL
+
 	Minor change to Timurid Empire
 
 MEDIUM PRIORITY
