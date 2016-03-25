@@ -7,7 +7,7 @@ Building the 1405 start point
 >Determine bounds of 1405 plague:  
 >> All of Iberia emptied, all northern coast of med to thrace.  
 Anatolia is safe, but parts of ottomans in balkans dead.  
-Western Europe empty to at least Morovian Gate  
+Western europe gone, Eastern all the way to Moscovy. treat countires with christian cutures and the easter bounds.  
 Sami:  
 >>>Some Sami surrvive, reference "If al-Alemand had conquered Skandistan, would the Sami people have survived?"  
 empty terrirory for now, we can maybe add them in to a 1347 or 1370 start point, along with greenland survivors   
