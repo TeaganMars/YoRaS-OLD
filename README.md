@@ -4,7 +4,7 @@ contact todd@tjgilbert.com if your interested in helping
 
 **HIGH PRIORITY (updated 2016.3.25)**  
 Building the 1405 start point  
->Rolling back 1380's Lithuanian Conquests in Golden Horde  
+>Rolling back 1380's Lithuanian Conquests in Golden Horde
 >Determine bounds of 1405 plague:  
 >> All of Iberia emptied, all northern coast of med to thrace.  
 Anatolia is safe, but parts of ottomans in balkans dead.  
@@ -32,6 +32,7 @@ empty terrirory for now, we can maybe add them in to a 1347 or 1370 start point,
 >check for minor change to Timurid Empire  
   
 **MEDIUM PRIORITY**  
+may have to check history file for Principality of Smolensk, SMO, as I reversed thier disapearance in 1387  
 Build Events  
 Building 1590's, 1650's, 1670's, 1810's, 1830's, 1902, 1954 'Great War', 2021, and 2044 start points  
   
