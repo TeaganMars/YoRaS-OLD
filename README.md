@@ -36,7 +36,7 @@ may have to check history file for Principality of Smolensk, SMO, as I reversed 
 ^also the VLA  
 Genoa Problem, do we kill them in crimea or leave them in the 1405 start point  
 Build Events
-> Lots of new Zheng He events
+> Lots of new Zheng He events  
 Building 1590's, 1650's, 1670's, 1810's, 1830's, 1902, 1954 'Great War', 2021, and 2044 start points  
   
 **LOW PRIORITY**  
