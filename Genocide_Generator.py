@@ -26,7 +26,8 @@ def list_out_lines(file):
             if get_first_number(line) < 1347:
                 line_list.append(line)
     return line_list
-"""Takes the lines that match the parameter and folds them into a list"""
+"""Takes the lines that match the parameter and folds them into a list.
+In this case it was all lines that started with a letter or a year earlier than 1347 AD"""
 
 
 def end_of_history():
