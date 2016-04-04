@@ -22,16 +22,18 @@ discovered_by = HER
 1000.1.1 = { base_manpower = 2 add_core = SWE religion = catholic }
 1200.1.1 = { base_tax = 3 base_production = 3 discovered_by = muslim discovered_by = ottoman }
 
-1534.8.15 = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # 'Grevefejden'(Christofer of Oldenburg)
-1534.11.15 = { revolt = {} controller = DAN } # Liberated by Sweden
-1536.1.1 = { religion = protestant } # Unknown date
-1565.9.15 = { controller = SWE } # The Nordic Seven-year War
-1569.12.4 = { controller = DAN } # The Nordic Seven-year War
-1645.8.13 = { owner = SWE controller = SWE } # The Peace of Brömsebro
 
-1680.1.1 = { culture = swedish } # The population adepted to Swedish ways.
 
-1845.1.1 = { base_tax = 4 }
-1850.1.1   = { remove_core = DAN }
-1905.1.1 = { base_production = 4 }
-2000.1.1 = { base_tax = 5 base_production = 5 }
+
+1347.1.1 = {} # Black Death Arrives
+1370.1.1 = {    base_manpower = 1
+                base_tax = 1
+                base_production = 1}
+# Edit each to be 1/3 of last base. End of 20 year Plague
+1404.1.1 = {} # Final Death Arrives
+1405.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

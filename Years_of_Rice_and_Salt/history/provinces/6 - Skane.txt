@@ -27,16 +27,17 @@ discovered_by = HER
 1100.1.1 = { base_manpower = 5 }
 1200.1.1 = { base_tax = 6 base_production = 6 discovered_by = muslim discovered_by = ottoman }
 
-1525.1.1 = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # Prelude to 'Grevefejden'(Sören Norrby)
-1525.5.10 = { revolt = {} controller = DAN } # Sören Norrby is defeated
-1534.8.15 = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # 'Grevefejden'(Christofer of Oldenburg)
-1536.3.15 = { revolt = {} controller = DAN } # Liberated by Sweden
-1536.3.15 = { religion = protestant } # Unknown date
-1559.1.1 = { fort_15th = no fort_16th = yes }
-1658.2.26 = { owner = SWE controller = SWE } # The Peace of Roskilde
-1685.1.1 = { fort_16th = no fort_17th = yes } #(see Blekinge)
-1722.1.1 = { culture = swedish } # The backbone of danishness is finally broken
 
-1840.1.1   = { capital = "Malmö" }
-1850.1.1   = { remove_core = DAN }
-2000.1.1   = { base_tax = 7 }
+
+1347.1.1 = {} # Black Death Arrives
+1370.1.1 = {    base_manpower = 1
+                base_tax = 1
+                base_production = 1}
+# Edit each to be 1/3 of last base. End of 20 year Plague
+1404.1.1 = {} # Final Death Arrives
+1405.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

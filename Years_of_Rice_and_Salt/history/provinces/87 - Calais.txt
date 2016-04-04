@@ -38,39 +38,25 @@ discovered_by = ottoman
 1200.1.1 = { base_tax = 4 base_production = 4 }
 1224.1.1 = { fort_15th = yes }
 1300.1.1 = { base_manpower = 3 }
-1347.9.1 = { controller = ENG add_core = ENG add_core = BUR }
-1350.1.1 = { base_tax = 5 base_production = 5 }
-1360.5.9 = { owner = ENG remove_core = FRA } # Treaty of Bretigny
 
-1459.1.1 = { unrest = 7 } # War of the Roses in England
-1459.11.1 = { revolt = { type = pretender_rebels size = 2 } controller = REB } # Yorkist control over Calais
-1461.6.1 = { revolt = {} controller = ENG } # Edward VI crowned King of England
-1477.1.5 = { remove_core = BUR } # Charles the Bold dies
-1558.1.7 = { controller = FRA } # France captures the weakened Calais
-1559.4.3 = { owner = FRA add_core = FRA remove_core = ENG culture = cosmopolitan_french } # Peace of Cateau-Cambrésis, France annexes Calais from England
-1583.1.1 = { fort_15th = no fort_16th = yes }
-1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
-1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
-1596.1.1 = { controller = SPA } # The Spanish take hold of Calais
-1598.1.1 = { controller = FRA } # Treaty of Vervins, Calais back to France
-1648.1.1 = { fort_16th = no fort_17th = yes }
-1715.1.1 = { fort_17th = no fort_18th = yes }
 
-1767.1.1 = { base_manpower = 4 }
-1810.1.1 = { base_manpower = 5 }
-1853.1.1 = { base_production = 6 }
-1870.9.4   = {  owner = FR2
 		controller = FR2
 		add_core = FR2
 		remove_core = FRA
 	     } # Republic proclaimed
-1896.1.1 = { base_manpower = 6 }
-1939.1.1 = { base_tax = 6 }
-1940.5.26  = { controller = GER citysize = 60000 } # Siege of Calais
-1940.6.14  = { owner = GER } # France surrendered to Nazi Garmany
-1944.10.1  = { controller = FR2 citysize = 50000 }
-1945.5.8   = { owner = FR2 }
-2000.1.1 = { base_tax = 7 base_production = 7 }
 
 
 
+
+1347.1.1 = {} # Black Death Arrives
+1370.1.1 = {    base_manpower = 1
+                base_tax = 1
+                base_production = 1}
+# Edit each to be 1/3 of last base. End of 20 year Plague
+1404.1.1 = {} # Final Death Arrives
+1405.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

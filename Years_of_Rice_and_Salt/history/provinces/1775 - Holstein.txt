@@ -27,42 +27,28 @@ discovered_by = barbarian
 1201.1.1 = { owner = DAN controller = DAN add_core = DAN }
 1227.1.1 = { owner = SHL controller = SHL remove_core = DAN }
 
-1460.3.5 = { owner = DAN controller = DAN add_core = DAN }
-1529.1.1 = { religion = protestant }
-1544.1.1 = { owner = SHL controller = SHL }
-1550.1.1 = { base_tax = 5 base_production = 5 }
-1627.5.1 = { controller = HAB }
-1629.5.22 = { controller = SHL }
-1750.1.1 = { base_production = 6 }
-1773.1.1 = { owner = DAN controller = DAN }
-1775.1.1 = { base_manpower = 6 }
-1800.1.1 = { base_production = 7 base_manpower = 7 }
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
-1810.12.13 = {
 	owner = FRA
 	controller = FRA
 	add_core = FRA
 } # Annexed by France
-1814.4.11 = {
 	owner = DAN
 	controller = DAN
 	remove_core = FRA
 } # Napoleon abdicates unconditionally
 
-1825.1.1 = { base_tax = 6 }
-1851.1.1 = { base_manpower = 8 }
-1852.5.8   = { owner = SHL controller = SHL add_core = SHL } # London Protocol
-1864.10.30 = { owner = HAB controller = HAB add_core = HAB } # Treaty of Vienna
-1866.8.23  = { owner = PRU controller = PRU add_core = PRU remove_core = HAB } # Peace of Prague
-1871.1.18  = { owner = GER controller = GER add_core = GER remove_core = PRU remove_core = SHL } # German unification
-1875.1.1 = { base_tax = 7 base_production = 8 }
-1900.1.1 = { base_production = 9 }
-1925.1.1 = { base_production = 10 }
-1945.5.8   = { owner = WGE controller = WGE add_core = WGE }
-1950.1.1 = { base_tax = 9 }
-1975.1.1 = { base_production = 11 }
-1990.10.3  = { owner = GER controller = GER remove_core = WGE }
-2000.1.1 = { base_tax = 11 base_manpower = 9 }
 
 
 
+
+1347.1.1 = {} # Black Death Arrives
+1370.1.1 = {    base_manpower = 1
+                base_tax = 1
+                base_production = 1}
+# Edit each to be 1/3 of last base. End of 20 year Plague
+1404.1.1 = {} # Final Death Arrives
+1405.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty
